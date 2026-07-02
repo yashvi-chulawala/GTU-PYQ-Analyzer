@@ -1,0 +1,3065 @@
+[
+  {
+    "question_no": "Q1a",
+    "question": "Define load balancing. What is need of loan balancing in cloud computing?",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Load Balancing and Virtualization",
+    "topics": [
+      "Load Balancing and Virtualization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What are the challenges to data security in cloud?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Securing Data, Data Security",
+    "topics": [
+      "Securing Data, Data Security"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "How machine Imaging help to achieve the goal of cloud computing?",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Understanding Machine Imaging",
+    "topics": [
+      "Understanding Machine Imaging"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "What are Hypervisors? List it's importance.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Understanding Hyper visors",
+    "topics": [
+      "Understanding Hyper visors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What is Eucalyptus? Explain in brief.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Eucaluptus",
+    "topics": [
+      "Eucaluptus"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "How AWS Billing mechanism works?",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services",
+      "Emerging Markets and the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain SAAS with an example?",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "SaaS Integration of Products and Platforms",
+    "topics": [
+      "SaaS Integration of Products and Platforms"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What is SOAP and REST web services?",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Implement & Integrate Solutions",
+    "topics": [
+      "Implement & Integrate Solutions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Elaborate Securing Data.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Securing Data, Data Security",
+    "topics": [
+      "Securing Data, Data Security"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain Elastic Load Balancer.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Load Balancing and Virtualization",
+    "topics": [
+      "Load Balancing and Virtualization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is SOAP? Explain in brief.",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Implement & Integrate Solutions",
+    "topics": [
+      "Implement & Integrate Solutions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain Physical versus Virtual Clusters",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Clusters and Resource management",
+    "topics": [
+      "Virtual Clusters and Resource management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain Amazon S3? Explain Amazon S3 API? What are the operations we can execute through API?",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services",
+      "Emerging Markets and the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Give A Brief Introduction to Windows Azure Operating System.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Windows Azure",
+    "topics": [
+      "Windows Azure"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "How would you secure data for transport in the cloud?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Secure Execution Environments and Communications",
+    "topics": [
+      "Secure Execution Environments and Communications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Mention working mechanism of AWS Cloud Trail with its benefits.",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services",
+      "Emerging Markets and the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain the difference between cloud and traditional data centers.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Infrastructure Management",
+    "topics": [
+      "Cloud Infrastructure Management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What are the cons of cloud computing?",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "What is Amazon Glacier? How does it work? Differentiate Glacier and S3.",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services",
+      "Emerging Markets and the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Define cloud computing and state it's desirable features",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write a note on AWS API Security.",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services",
+      "Emerging Markets and the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "How AWS deals with Disaster recovery?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Disaster Recovery in Clouds",
+    "topics": [
+      "Disaster Recovery in Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Mention benefits of cloud computing technology.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write a note on AWS Ecosystem.",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services",
+      "Emerging Markets and the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What technology services does Amazon provide? What are the business advantages to Amazon and to subscribers of these services? What are the disadvantages of each? What kinds of businesses are likely to benefit from these services?",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services",
+      "Emerging Markets and the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define cloud computing and identify its core features?",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What is virtualization? What are its benefits?",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Virtualization of Computing, Storage and Resources",
+    "topics": [
+      "Virtualization of Computing, Storage and Resources"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "List the cloud characteristics and explain them briefly.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain community cloud model. How it is different from public cloud?",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What are the services provide by PaaS?",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Integration of Private and Public Cloud",
+    "topics": [
+      "Integration of Private and Public Cloud",
+      "Technologies and Tools for Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Compare the various cloud delivery models based on their characteristics.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "List and discuss various types of virtualization?",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Introduction to Virtualization Technologies",
+    "topics": [
+      "Introduction to Virtualization Technologies"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Write short note on Hypervisor.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Understanding Hyper visors",
+    "topics": [
+      "Understanding Hyper visors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Describe the need for virtualization.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Virtualization of Computing, Storage and Resources",
+    "topics": [
+      "Virtualization of Computing, Storage and Resources"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Detail out the steps involved in a Live VM Migration.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Machine Migration Services",
+    "topics": [
+      "Virtual Machine Migration Services",
+      "Virtual Machine Provisioning and Migration in Action"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "List the various characteristics of virtual cluster.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Clusters and Resource management",
+    "topics": [
+      "Virtual Clusters and Resource management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What is load balancer? Why is it used",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Load Balancing and Virtualization",
+    "topics": [
+      "Load Balancing and Virtualization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain the common strategies for migrating application to the cloud.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Porting Applications",
+    "topics": [
+      "Porting Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Write a short note on resource provisioning.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Resource Provisioning services",
+    "topics": [
+      "Resource Provisioning services"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What is elasticity rule? Explain three types of elasticity rules?",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Resource Provisioning and Platform Deployment",
+    "topics": [
+      "Resource Provisioning and Platform Deployment"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "What are the Infrastructure SLAs? Explain each in detail.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Resource Provisioning and Platform Deployment",
+    "topics": [
+      "Resource Provisioning and Platform Deployment"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write short note on identity broker.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control",
+      "Identity and Presence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Describe the identity management life cycle.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control",
+      "Identity and Presence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "List the Cloud Security Risks and briefly explain each of them.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Cloud Security Challenges and Risks",
+    "topics": [
+      "Cloud Security Challenges and Risks",
+      "General Issues Securing the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is the goal of encrypted cloud storage?",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Securing Data, Data Security",
+    "topics": [
+      "Securing Data, Data Security"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "List out the Emerging Cloud Management Standards.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Emerging Cloud Management Standards",
+    "topics": [
+      "Emerging Cloud Management Standards"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain the key characteristics and features of Google App engine.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Google App Engine",
+    "topics": [
+      "Google App Engine"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What are the security concerns of cloud computing?",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Cloud Security Challenges and Risks",
+    "topics": [
+      "Cloud Security Challenges and Risks",
+      "General Issues Securing the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Discuss the design considerations for storage network.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Autonomic Security Storage Area Networks",
+    "topics": [
+      "Autonomic Security Storage Area Networks"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain how to perform Disaster Recovery in Clouds?",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Disaster Recovery in Clouds",
+    "topics": [
+      "Disaster Recovery in Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define the term cloud computing?",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What do you understand by utility computing?",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain the cloud computing stack?",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds",
+      "Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Differentiate between scalability and elasticity?",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Resource Provisioning and Platform Deployment",
+    "topics": [
+      "Resource Provisioning and Platform Deployment"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What are the challenges and risks in implementing cloud?",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Challenges and Applications",
+    "topics": [
+      "Challenges and Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Briefly explain the features of IaaS?",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Introduction, Background & Related Work",
+    "topics": [
+      "Introduction, Background & Related Work"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "What are the features of cloud computing?",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Describe dynamic resource allocation in cloud?",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Provisioning in the Cloud Context",
+    "topics": [
+      "Provisioning in the Cloud Context"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Illustrate the use of virtual machine template.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Virtual Machine Migration Services",
+    "topics": [
+      "Virtual Machine Migration Services",
+      "Virtual Machines Provisioning and Manageability",
+      "VM Provisioning and Migration in Action"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "What are the various types of virtualizations?",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Introduction to Virtualization Technologies",
+    "topics": [
+      "Introduction to Virtualization Technologies"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain VM Life cycle with suitable diagram?",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Machine Migration Services",
+    "topics": [
+      "Virtual Machine Migration Services",
+      "Virtual Machine Provisioning and Migration in Action"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What are hypervisors and their significance in VM management?",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Understanding Hyper visors",
+    "topics": [
+      "Understanding Hyper visors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Describe the steps to migrate applications to cloud?",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Porting Applications",
+    "topics": [
+      "Porting Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is AWS autoscaling?",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Resource Provisioning and Platform Deployment",
+    "topics": [
+      "Resource Provisioning and Platform Deployment"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Compare hot and cold migration process.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Virtual Machine Migration Services",
+    "topics": [
+      "Virtual Machine Migration Services",
+      "Virtual Machines Provisioning and Manageability",
+      "VM Provisioning and Migration in Action"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Draw and explain the generic cloud reference architecture?",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds",
+      "Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is single and multitenancy model?",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Clusters and Resource management",
+    "topics": [
+      "Virtual Clusters and Resource management"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write a short note on Amazon SQS.",
+    "year": "S2024",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services",
+      "Emerging Markets and the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "How are VPN secure and dependable?",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Secure Execution Environments and Communications",
+    "topics": [
+      "Secure Execution Environments and Communications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Why are SLAs important?",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What are Digital Signatures?",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Write a brief overview on Google Cloud Management.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Google App Engine",
+    "topics": [
+      "Google App Engine"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Name few common threats and vulnerabilities in cloud?",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Cloud Security Challenges and Risks",
+    "topics": [
+      "Cloud Security Challenges and Risks"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Briefly explain the steps to implement identity management and access control mechanisms.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control",
+      "Identity and Presence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Write a brief overview of Amazon AWS array of services.",
+    "year": "S2024",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services",
+      "Emerging Markets and the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define Cloud computing and write its characteristics.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Discuss functions provided by PaaS.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Integration of Private and Public Cloud",
+    "topics": [
+      "Integration of Private and Public Cloud",
+      "Technologies and Tools for Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Discuss Cloud Computing Architecture.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds",
+      "Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "What is Load balancing? Why it is required?",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Load Balancing and Virtualization",
+    "topics": [
+      "Load Balancing and Virtualization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Write Challenges and Risks in implementing Cloud.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Challenges and Applications",
+    "topics": [
+      "Challenges and Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Discuss Cloud Deployment Models.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Compare IaaS, SaaS and Paas.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Introduction to Cloud Services IaaS, PaaS and SaaS",
+    "topics": [
+      "Introduction to Cloud Services IaaS, PaaS and SaaS"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Describe Virtual cluster.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Clusters and Resource management",
+    "topics": [
+      "Virtual Clusters and Resource management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "What is Hypervisor? Discuss Type1 and Type2 hypervisor.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Understanding Hyper visors",
+    "topics": [
+      "Understanding Hyper visors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Discuss Virtual Machine Migration.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Machine Migration Services",
+    "topics": [
+      "Virtual Machine Migration Services",
+      "Virtual Machine Provisioning and Migration in Action"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Describe Data Security in cloud.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Securing Data, Data Security",
+    "topics": [
+      "Securing Data, Data Security"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Write about Application porting in cloud.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Porting Applications",
+    "topics": [
+      "Porting Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Discuss Various types of Virtualizations.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Introduction to Virtualization Technologies",
+    "topics": [
+      "Introduction to Virtualization Technologies"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define the term: Multi tenant, Scalability, elasticity.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Clusters and Resource management",
+    "topics": [
+      "Virtual Clusters and Resource management"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Write Cloud security Challenges.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Cloud Security Challenges and Risks",
+    "topics": [
+      "Cloud Security Challenges and Risks",
+      "General Issues Securing the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Describe cloud resource management. Also discuss inter cloud resource management.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Inter Cloud Resource Management",
+    "topics": [
+      "Inter Cloud Resource Management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is SLA? Why it is important?",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Resource Provisioning and Platform Deployment",
+    "topics": [
+      "Resource Provisioning and Platform Deployment"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write about emerging cloud management standards.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Emerging Cloud Management Standards",
+    "topics": [
+      "Emerging Cloud Management Standards"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Discuss Disaster Recovery in cloud.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Disaster Recovery in Clouds",
+    "topics": [
+      "Disaster Recovery in Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is Eucalyptus? Discuss in brief.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Eucaluptus",
+    "topics": [
+      "Eucaluptus"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write features of cloud simulator.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "CloudSim",
+    "topics": [
+      "CloudSim"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Describe identity management and Access Control.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control",
+      "Identity and Presence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Write about AWS auto scaling.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Resource Provisioning and Platform Deployment",
+    "topics": [
+      "Resource Provisioning and Platform Deployment"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Discuss Digital Signature.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Write Services Provided by Azure Cloud.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Windows Azure",
+    "topics": [
+      "Windows Azure"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define following Terms: (1) Cloud Computing (2) Virtualization (3) Multi-Tenant",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Clusters and Resource management",
+    "topics": [
+      "Virtual Clusters and Resource management"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "List the cloud characteristics and explain them briefly.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain various Cloud Deployment Models. List out advantages & disadvantages of each one Model.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Define PaaS. Give few examples of PaaS.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Integration of Private and Public Cloud",
+    "topics": [
+      "Integration of Private and Public Cloud",
+      "Technologies and Tools for Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What is Virtualization? Describe the need for Virtualization.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Virtualization of Computing, Storage and Resources",
+    "topics": [
+      "Virtualization of Computing, Storage and Resources"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "With a block diagram, describe SaaS. Explain advantages & dis-advantages of SaaS.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "SaaS Integration of Products and Platforms",
+    "topics": [
+      "SaaS Integration of Products and Platforms"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "With a block diagram, describe IaaS. Explain advantages & dis-advantages of IaaS.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Introduction, Background & Related Work",
+    "topics": [
+      "Introduction, Background & Related Work"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What are Hypervisors? Give difference between Type-1 & Type-2 Hypervisors.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Understanding Hyper visors",
+    "topics": [
+      "Understanding Hyper visors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "What do you mean by Instruction Set Architecture Level & Hardware Abstraction Layer Level Virtualization?",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Introduction to Virtualization Technologies",
+    "topics": [
+      "Introduction to Virtualization Technologies"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "List and discuss various types of virtualization?",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Introduction to Virtualization Technologies",
+    "topics": [
+      "Introduction to Virtualization Technologies"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is the motivation behind Live VM Migration.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Machine Migration Services",
+    "topics": [
+      "Virtual Machine Migration Services",
+      "Virtual Machine Provisioning and Migration in Action"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain Physical & Virtual Clusters.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Clusters and Resource management",
+    "topics": [
+      "Virtual Clusters and Resource management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Write a short note on CPU Virtualization",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtualization of CPU, Memory, I/O Devices",
+    "topics": [
+      "Virtualization of CPU, Memory, I/O Devices"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Write a short note on The Open Commons Consortium.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Global Exchange of Cloud Resources",
+    "topics": [
+      "Global Exchange of Cloud Resources"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Describe the Identity Management lifecycle.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control",
+      "Identity and Presence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "List the Cloud Security Risks and briefly explain each of them.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Cloud Security Challenges and Risks",
+    "topics": [
+      "Cloud Security Challenges and Risks",
+      "General Issues Securing the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write a short note on Collaboration as a Service.",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Implement & Integrate Solutions",
+    "topics": [
+      "Implement & Integrate Solutions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain in brief about the load balancing in cloud computing.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Load Balancing and Virtualization",
+    "topics": [
+      "Load Balancing and Virtualization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "With block diagrams, explain the mechanisms for encrypting data in the Cloud.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Securing Data, Data Security",
+    "topics": [
+      "Securing Data, Data Security"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What do you mean by Identity and Access Management?",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control",
+      "Identity and Presence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain service level agreement (SLA) in cloud computing with example",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Resource Provisioning and Platform Deployment",
+    "topics": [
+      "Resource Provisioning and Platform Deployment"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Discuss Open Stack cloud middleware along with its architecture.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "OpenStack",
+    "topics": [
+      "OpenStack"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What is Google App Engine? Why it is used?",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Google App Engine",
+    "topics": [
+      "Google App Engine"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write a short note on disaster recovery in cloud computing.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Disaster Recovery in Clouds",
+    "topics": [
+      "Disaster Recovery in Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Define: Eucalyptus. Draw & Explain the architecture of Eucalyptus in brief.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Eucaluptus",
+    "topics": [
+      "Eucaluptus"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain Challenges and Applications of Cloud computing.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Challenges and Applications",
+    "topics": [
+      "Challenges and Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What are the advantage of Virtualization using in cloud computing?",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Introduction to Virtualization Technologies",
+    "topics": [
+      "Introduction to Virtualization Technologies"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain various layers of Cloud Computing.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds",
+      "Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Difference between public and private cloud.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What are the services provide by SaaS?",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "SaaS Integration of Products and Platforms",
+    "topics": [
+      "SaaS Integration of Products and Platforms"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "What are the benefits of “Platform As a service”(PaaS)? Explain with example.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Integration of Private and Public Cloud",
+    "topics": [
+      "Integration of Private and Public Cloud",
+      "Technologies and Tools for Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Describe Virtual Machine Migration Services.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Virtual Machine Migration Services",
+    "topics": [
+      "Virtual Machine Migration Services",
+      "Virtual Machines Provisioning and Manageability",
+      "VM Provisioning and Migration in Action"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Write a short note on Load Balancing.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Load Balancing and Virtualization",
+    "topics": [
+      "Load Balancing and Virtualization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain Hyper Visor.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "OpenStack",
+    "topics": [
+      "OpenStack"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Describe how Virtualization helps to manage Data Center.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtualization for Data Center Automation",
+    "topics": [
+      "Virtualization for Data Center Automation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain Virtual Clusters.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Clusters and Resource management",
+    "topics": [
+      "Virtual Clusters and Resource management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Define Porting Applications of virtualization.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Porting Applications",
+    "topics": [
+      "Porting Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Elaborate CPU virtualization with example.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtualization of CPU, Memory, I/O Devices",
+    "topics": [
+      "Virtualization of CPU, Memory, I/O Devices"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Explain Billing and Metering Services.",
+    "year": "W2021",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Outline the characteristics of server virtualization and application virtualization.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Introduction to Virtualization Technologies",
+    "topics": [
+      "Introduction to Virtualization Technologies"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain how to manage Inter Cloud Resource Management.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Inter Cloud Resource Management",
+    "topics": [
+      "Inter Cloud Resource Management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain Digital Signatures.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "List down the Emerging Cloud Management Standards.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Emerging Cloud Management Standards",
+    "topics": [
+      "Emerging Cloud Management Standards"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Enlist the services that are provided by Azure Cloud.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Windows Azure",
+    "topics": [
+      "Windows Azure"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What are the basic Issues of Securing the Cloud?",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Cloud Security Challenges and Risks",
+    "topics": [
+      "Cloud Security Challenges and Risks",
+      "General Issues Securing the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain Autonomic Security Storage Area Networks.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Autonomic Security Storage Area Networks",
+    "topics": [
+      "Autonomic Security Storage Area Networks"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Describe the Google AppEngine Architecture and core concepts.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Google App Engine",
+    "topics": [
+      "Google App Engine"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "List out various Challenges for Cloud Security.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Cloud Security Challenges and Risks",
+    "topics": [
+      "Cloud Security Challenges and Risks",
+      "General Issues Securing the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write a short note on Identity Management and Access Control.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control",
+      "Identity and Presence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain how to perform Disaster Recovery in Clouds?",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Disaster Recovery in Clouds",
+    "topics": [
+      "Disaster Recovery in Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain the following terms: 1) Hardware Virtualization 2) Multi-Tenant 3) Autonomic Computing",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Introduction to Virtualization Technologies",
+    "topics": [
+      "Introduction to Virtualization Technologies"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What do you mean by High Availability and Dynamic Resource Allocation features in cloud computing?",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Provisioning in the Cloud Context",
+    "topics": [
+      "Provisioning in the Cloud Context"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain Grid computing and Utility computing.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Justify the statement, “SaaS integration is hard”.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Evolution of SaaS",
+    "topics": [
+      "Evolution of SaaS",
+      "Challenges of SaaS Paradigm",
+      "SaaS Integration Services"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Describe PaaS Application framework in detail.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Integration of Private and Public Cloud",
+    "topics": [
+      "Integration of Private and Public Cloud",
+      "Technologies and Tools for Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain types of clouds based on deployment models with its relevant use case.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain IaaS technology in cloud computing with a real-world example.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Introduction, Background & Related Work",
+    "topics": [
+      "Introduction, Background & Related Work"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain in brief about application porting in cloud.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Porting Applications",
+    "topics": [
+      "Porting Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain about virtualization in context of data center automation.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtualization for Data Center Automation",
+    "topics": [
+      "Virtualization for Data Center Automation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Describe various types of hypervisor and mention pros and cons of each.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Understanding Hyper visors",
+    "topics": [
+      "Understanding Hyper visors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain in brief about the load balancing in cloud computing.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Load Balancing and Virtualization",
+    "topics": [
+      "Load Balancing and Virtualization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Draw and explain layered virtualization technology architecture.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Introduction to Virtualization Technologies",
+    "topics": [
+      "Introduction to Virtualization Technologies"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain the following virtual machine migration services in detail. i) Hot migration ii) Cold migration",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Virtual Machine Migration Services",
+    "topics": [
+      "Virtual Machine Migration Services",
+      "Virtual Machines Provisioning and Manageability",
+      "VM Provisioning and Migration in Action"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Enlist the features of cloud management products.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Cloud Management Products",
+    "topics": [
+      "Cloud Management Products"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Write a short note on emerging cloud management standards.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Emerging Cloud Management Standards",
+    "topics": [
+      "Emerging Cloud Management Standards"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Discuss about identity management and access control in cloud computing.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control",
+      "Identity and Presence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Enlist the design challenges of cloud infrastructure and resource management.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Design Challenges",
+    "topics": [
+      "Design Challenges"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain the architectural design of compute and storage clouds.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Architectural Design of Compute and Storage Clouds",
+    "topics": [
+      "Architectural Design of Compute and Storage Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "What is cloud resource management? Explain inter cloud resource management with its challenges.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Inter Cloud Resource Management",
+    "topics": [
+      "Inter Cloud Resource Management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain service level agreement (SLA) in cloud computing with example.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Resource Provisioning and Platform Deployment",
+    "topics": [
+      "Resource Provisioning and Platform Deployment"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write a short note on data security and application security.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Securing Data, Data Security",
+    "topics": [
+      "Securing Data, Data Security"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Discuss Eucalyptus cloud middleware along with its architecture.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Eucaluptus",
+    "topics": [
+      "Eucaluptus"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain in brief about the services provided by Microsoft Azure cloud.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Windows Azure",
+    "topics": [
+      "Windows Azure"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write a short note on disaster recovery in cloud computing.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Disaster Recovery in Clouds",
+    "topics": [
+      "Disaster Recovery in Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Discuss Open Stack cloud middleware along with its architecture.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "OpenStack",
+    "topics": [
+      "OpenStack"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Differentiate between Type-1 and Type-2 Hypervisors.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Understanding Hyper visors",
+    "topics": [
+      "Understanding Hyper visors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Differentiate between Single Tenant and Multi-Tenant Applications.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Clusters and Resource management",
+    "topics": [
+      "Virtual Clusters and Resource management"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain the various Cloud Deployment Models in detail.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "What is a Load Balancer? Explain why it is used?",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Load Balancing and Virtualization",
+    "topics": [
+      "Load Balancing and Virtualization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "List and explain various cloud characteristics in short.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write a short note on CPU Virtualization.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtualization of CPU, Memory, I/O Devices",
+    "topics": [
+      "Virtualization of CPU, Memory, I/O Devices"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain the phases involved in moving application to the cloud.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Porting Applications",
+    "topics": [
+      "Porting Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Write a short note on Network as a Service.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Implement & Integrate Solutions",
+    "topics": [
+      "Implement & Integrate Solutions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Compare XML and JSON.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Implement & Integrate Solutions",
+    "topics": [
+      "Implement & Integrate Solutions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain in detail: Collaboration as a Service.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Implement & Integrate Solutions",
+    "topics": [
+      "Implement & Integrate Solutions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Write a short note on Disaster Recovery as a Service.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Disaster Recovery in Clouds",
+    "topics": [
+      "Disaster Recovery in Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "List down the advantages of Inter Cloud or Cloud Brokering.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Inter Cloud Resource Management",
+    "topics": [
+      "Inter Cloud Resource Management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain Analytics as a Service.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Implement & Integrate Solutions",
+    "topics": [
+      "Implement & Integrate Solutions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Describe the Identity Management lifecycle.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control",
+      "Identity and Presence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Compare the models of encryption and key management in detail.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Securing Data, Data Security",
+    "topics": [
+      "Securing Data, Data Security"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "List the Cloud Security Risks and briefly explain them.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Cloud Security Challenges and Risks",
+    "topics": [
+      "Cloud Security Challenges and Risks",
+      "General Issues Securing the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write a short note on Identity Broker.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control",
+      "Identity and Presence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Compare the types of Identity Providers in detail.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control",
+      "Identity and Presence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Write a note on Vendor Lock-in with respect to Cloud Security Risk.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Cloud Security Challenges and Risks",
+    "topics": [
+      "Cloud Security Challenges and Risks",
+      "General Issues Securing the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Write a short note on KVM.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "OpenStack",
+    "topics": [
+      "OpenStack"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Describe the various features of OpenStack.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "OpenStack",
+    "topics": [
+      "OpenStack"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Describe the architecture of Hyper-V.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "OpenStack",
+    "topics": [
+      "OpenStack"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Write a short note on Xen.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "OpenStack",
+    "topics": [
+      "OpenStack"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What is Google App Engine? Why is it used?",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Google App Engine",
+    "topics": [
+      "Google App Engine"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Describe the key characteristics and features of Google App Engine.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Google App Engine",
+    "topics": [
+      "Google App Engine"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define Cloud computing and write advantage of it.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Describe Virtual machine and its role in Cloud computing.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Virtual Machine Migration Services",
+    "topics": [
+      "Virtual Machine Migration Services",
+      "Virtual Machines Provisioning and Manageability",
+      "VM Provisioning and Migration in Action"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Describe challenges and application of cloud computing.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Challenges and Applications",
+    "topics": [
+      "Challenges and Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Describe the use of Load Balancer in Cloud.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Load Balancing and Virtualization",
+    "topics": [
+      "Load Balancing and Virtualization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Describe application porting with example.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Porting Applications",
+    "topics": [
+      "Porting Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Describe various layers of Cloud computing.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds",
+      "Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Describe Virtual machine migration.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Virtual Machine Migration Services",
+    "topics": [
+      "Virtual Machine Migration Services",
+      "Virtual Machines Provisioning and Manageability",
+      "VM Provisioning and Migration in Action"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What is machine imaging?",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Understanding Machine Imaging",
+    "topics": [
+      "Understanding Machine Imaging"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Describe virtual cluster.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Clusters and Resource management",
+    "topics": [
+      "Virtual Clusters and Resource management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Describe Cloud Deployment models.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Discuss services provided by SaaS.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "SaaS Integration of Products and Platforms",
+    "topics": [
+      "SaaS Integration of Products and Platforms"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Discuss SLA in cloud computing.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Resource Provisioning and Platform Deployment",
+    "topics": [
+      "Resource Provisioning and Platform Deployment"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Describe various types of Hypervisor with their advantage and disadvantage.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Understanding Hyper visors",
+    "topics": [
+      "Understanding Hyper visors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Describe Digital signature.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Describe billing and metering services.",
+    "year": "W2024",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Compare Various cloud service providers.",
+    "year": "W2024",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Discuss disaster recovery in cloud in brief",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Disaster Recovery in Clouds",
+    "topics": [
+      "Disaster Recovery in Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write note on emerging cloud management standards.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Emerging Cloud Management Standards",
+    "topics": [
+      "Emerging Cloud Management Standards"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Describe Inter cloud resource management.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Inter Cloud Resource Management",
+    "topics": [
+      "Inter Cloud Resource Management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Discuss Xen in brief.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "OpenStack",
+    "topics": [
+      "OpenStack"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write features of Google app engine.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Google App Engine",
+    "topics": [
+      "Google App Engine"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Discuss identity management and access control in cloud computing.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control",
+      "Identity and Presence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Discuss Autonomic Security Storage Area Networks in brief.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Autonomic Security Storage Area Networks",
+    "topics": [
+      "Autonomic Security Storage Area Networks"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write challenges to data security in cloud.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Securing Data, Data Security",
+    "topics": [
+      "Securing Data, Data Security"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Discuss Eucalyptus architecture.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Eucaluptus",
+    "topics": [
+      "Eucaluptus"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "What is PaaS? and how does it differ from IaaS?",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "Introduction, Background & Related Work",
+    "topics": [
+      "Introduction, Background & Related Work"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Differentiate public vs. private cloud.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Layers and Types of Clouds",
+    "topics": [
+      "Layers and Types of Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "What is Virtualization? Give any one application of virtualization.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Introduction to Virtualization Technologies",
+    "topics": [
+      "Introduction to Virtualization Technologies"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "List three basic components of cloud services.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Cloud Computing",
+    "topics": [
+      "Cloud Computing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Justify Virtualization gives new dimensions to cloud computing?",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Introduction to Virtualization Technologies",
+    "topics": [
+      "Introduction to Virtualization Technologies"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Enlist the services that are provided by Azure Cloud.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Windows Azure",
+    "topics": [
+      "Windows Azure"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain: Emerging market Cloud, Designing solutions for cloud.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Global Exchange of Cloud Resources",
+    "topics": [
+      "Global Exchange of Cloud Resources"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "List out various Challenges for Cloud Security",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Cloud Security Challenges and Risks",
+    "topics": [
+      "Cloud Security Challenges and Risks",
+      "General Issues Securing the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "What is Eucalyptus? Explain in brief",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Eucaluptus",
+    "topics": [
+      "Eucaluptus"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain Hypervisors and its types – Type 1 and Type 2.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Understanding Hyper visors",
+    "topics": [
+      "Understanding Hyper visors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is Software as a Service (SaaS)? Give real world example.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Software as a Service (SaaS), Infrastructure as a Service (IaaS) and Platform as a Service (PaaS)",
+    "primary_topic": "SaaS Integration of Products and Platforms",
+    "topics": [
+      "SaaS Integration of Products and Platforms"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Write a note on AWS Ecosystem.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services",
+      "Emerging Markets and the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "What are the key benefits and risks of virtual machine migration?",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Machine Migration Services",
+    "topics": [
+      "Virtual Machine Migration Services",
+      "Virtual Machine Provisioning and Migration in Action"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is load balancing in cloud computing?",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Load Balancing and Virtualization",
+    "topics": [
+      "Load Balancing and Virtualization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain Autonomic Security Storage Area Networks",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Autonomic Security Storage Area Networks",
+    "topics": [
+      "Autonomic Security Storage Area Networks"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "What is Amazon Glacier? How does it work? Differentiate Glacier and S3.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Overview of Cloud services",
+    "topics": [
+      "Overview of Cloud services",
+      "Emerging Markets and the Cloud"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is CloudSim?",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "CloudSim",
+    "topics": [
+      "CloudSim"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Define Inter Cloud Resource Management.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Inter Cloud Resource Management",
+    "topics": [
+      "Inter Cloud Resource Management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain the key characteristics and features of Google App Engine.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Cloud Middleware",
+    "primary_topic": "Google App Engine",
+    "topics": [
+      "Google App Engine"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain Virtual Clusters.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Clusters and Resource management",
+    "topics": [
+      "Virtual Clusters and Resource management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain Architectural Design of Compute and Storage Clouds.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Cloud Infrastructure and Cloud Resource Management",
+    "primary_topic": "Architectural Design of Compute and Storage Clouds",
+    "topics": [
+      "Architectural Design of Compute and Storage Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain how to perform Disaster Recovery in Clouds?",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Disaster Recovery in Clouds",
+    "topics": [
+      "Disaster Recovery in Clouds"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Define Digital Signatures with use.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Security",
+    "primary_topic": "Identity Management and Access Control",
+    "topics": [
+      "Identity Management and Access Control"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "How does virtual machine migration impact cloud resource management?",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Abstraction and Virtualization",
+    "primary_topic": "Virtual Machine Migration Services",
+    "topics": [
+      "Virtual Machine Migration Services",
+      "Virtual Machine Provisioning and Migration in Action"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Evaluate the challenges and benefits of integrating private and public cloud infrastructure. Provide examples to support your argument.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Cloud Based Case-Studies",
+    "primary_topic": "Tools for Building Private Cloud",
+    "topics": [
+      "Tools for Building Private Cloud: IaaS using Eucalyptus",
+      "PaaS on IaaS - AppScale"
+    ],
+    "difficulty": "Hard"
+  }
+]
