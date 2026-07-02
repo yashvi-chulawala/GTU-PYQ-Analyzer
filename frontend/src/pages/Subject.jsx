@@ -55,7 +55,7 @@ const QUICK_ACTIONS = [
     icon: "📥",
     title: "Download PYQs",
     desc: "Previous year question papers",
-    accent: "hover:border-border hover:bg-ink/5",
+    accent: "hover:border-green-500/60 hover:bg-violet-500/5",
     iconBg: "bg-ink-faint/10",
   },
    {
@@ -63,7 +63,7 @@ const QUICK_ACTIONS = [
   icon: "📘",
   title: "View Syllabus",
   desc: "Official GTU syllabus",
-  accent: "hover:border-border hover:bg-ink/5",
+  accent: "hover:border-red-500/60 hover:bg-violet-500/5",
   iconBg: "bg-ink-faint/10",
 },
 ];
@@ -545,7 +545,7 @@ export default function Subject() {
 
   setSection(action.id);
 }}
-                className={`group flex flex-col gap-3 rounded-xl border p-4 text-left transition-all duration-200 ${isLastOdd ? "col-span-2 sm:col-span-1" : ""} ${
+                className={`group flex flex-col gap-3 rounded-xl border p-4 text-left transition-all duration-200${isLastOdd ? "col-span-2 sm:col-span-1" : ""} ${
                   isActive
                     ? "border-violet-500 bg-violet-500/10 shadow-sm shadow-violet-500/10"
                     : `border-border bg-panel ${action.accent}`

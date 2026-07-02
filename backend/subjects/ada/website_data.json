@@ -1,0 +1,1292 @@
+{
+    "1": {
+        "unit_name": "Introduction and Analysis of Algorithm",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q1a",
+                "question": "Define Algorithm, Time Complexity and Space Complexity"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q1b",
+                "question": "Explain: Worst Case, Best Case and Average Case Complexity with suitable example."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2c OR",
+                "question": "Solve following recurrence relation using iterative method T(n) = T(n - 1) + 1 with T(0) = 0 as initial condition. Also find big oh notation"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1a",
+                "question": "Define following terms: (i) Big O Notation, (ii) Big Theta Notation, (iii) Big Omega Notation."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2a",
+                "question": "Define Algorithms and characteristics of algorithms."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1a",
+                "question": "Find Omega (Ω) notation of function f(n)=2n2 + n * lg n + 6n"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1b",
+                "question": "Define Big-oh and Theta notations with graph"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1a",
+                "question": "Find Big-oh (O) notation of following functions f(n)=3n6 + 2 n * lg n + 6n, h(n)= 3n2+ 6n*lgn+ 2n2.5"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1b",
+                "question": "Define Omega and Theta notations with graph."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2a",
+                "question": "Prove that (n + 6)3 = Ө( n3)."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2b",
+                "question": "If P(n) = a0+ a1 n + a2 n2 + . . . . . . + amnm then prove that P(n) = Ω(nm). Here a0, a1, a2 …..am are constants and am>0."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3a",
+                "question": "Arrange the following growth rates from the lowest to highest asymptotic order: O(n log n), O(n2n), Ω(log n), O(n0.5), O(n!), Ω(2n), O(n0.5 log n)"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3a OR",
+                "question": "Prove that Log(√n ) = O(log n)."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3b OR",
+                "question": "Write any algorithm (need not to have meaningful) which has a time complexity of O(1) and also includes a loop statement. Also, confirm its time complexity of O(1) using tabular method."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q1a",
+                "question": "Define Algorithm and explain its characteristics."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q1b",
+                "question": "Explain asymptotic notations: Big-O, Big-Omega and Big-Theta with suitable examples."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1a",
+                "question": "Define algorithm. Discuss key characteristics of algorithms."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1b",
+                "question": "Explain why analysis of algorithms is important? Explain: Worst Case, Best Case and Average Case Complexity with suitable example."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1b",
+                "question": "State whether the statements are correct or incorrect with reasons. 1. O(f(n)) + O(f(n)) = O (2f(n)) 2. If 3n + 5 = O(n2) , then 3n + 5 = o(n2)"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1c",
+                "question": "Explain asymptotic analysis with all the notations and its mathematical inequalities."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2a",
+                "question": "What is the use of Loop Invariant? What should be shown to prove that an algorithm is correct?"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1a",
+                "question": "What is an algorithm? Explain various properties of an algorithm."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2b",
+                "question": "What is asymptotic notation? Find out big-oh notation of the f(n) = 3n2+5n+10"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1a",
+                "question": "Define the following terms: i) Function in mathematics ii) Linear inequalities"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1b",
+                "question": "Explain the need of amortized notation. Explain with suitable example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1a",
+                "question": "State the time complexity of following problems in descending order: Matrix multiplication, inserting element in binary search tree, inert node at beaning in linked list, linear search, selection sort, merge sort."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1b",
+                "question": "Summarize and explain the properties of algorithm"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2b",
+                "question": "Identify the constant c, n0 and upper bound for given recurrences: T(n) = 4n2 + 3n – 4 T(n) = 6n3– 8n2 + 9n + 2"
+            }
+        ]
+    },
+    "3": {
+        "unit_name": "Divide and Conquer",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q1c",
+                "question": "Sort the following list using quick sort algorithm:< 5, 3 ,8 ,1 ,4 ,6 ,2 ,7 > Also write Worst and Best case and Average case of quick sort algorithm."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2b",
+                "question": "Demonstrate Binary Search method to search Key = 14, form the array A=<2,4,7,8,10,13,14,60>"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2c",
+                "question": "Write the Master theorem. Solve following recurrence using it.\n(i)T(n)= T(n/2) + 1\n(ii) T(n)=2T(n/2) + n log n"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2b",
+                "question": "What is a recurrence? Solve recurrence equation for T (n) =T (n-1) + 1 using substitution method."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2c",
+                "question": "Discuss Binary search algorithm, also write and solve its recurrence relation."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2c OR",
+                "question": "Explain Merge Sort algorithm with suitable example."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2b",
+                "question": "Solve following recurrence using Master Theorem: T(n) = 3T(n/3) + n^3."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2c",
+                "question": "Illustrate the working of the quick sort on input instance: 25, 29, 30, 35, 42, 47, 50, 52, 60. Comment on the nature of input i.e. best case, average case or worst case."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2c OR",
+                "question": "What is recurrence? Explain recursion-tree method with suitable example."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3b OR",
+                "question": "Demonstrate Binary Search method to search Key = 14, form the array A=<2,4,7,8,9,10,12,14,18>"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4a",
+                "question": "Explain Tower of Hanoi Problem, Derive its recursion equation and computer it's time complexity."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1c",
+                "question": "Write binary search algorithm and analyze it for worst case time complexity. Represent its time complexity using Big-oh (O) notation."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2c",
+                "question": "Solve following recurrence relation using suitable method and express your answer using Big-oh (O) notation. T(n) = T(n/6) + T(5n/6) + Ө(n)"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2c OR",
+                "question": "Solve following recurrence relations using suitable method and express your answer using Big-oh (O) notation. 1. T(n) = 2 T(n/2) + n log n 2. T(n) = 4 T(n/4) + n"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3b",
+                "question": "Write the recurrence relation for the quick sort on input instance: 15, 19, 20, 25, 32, 37, 50, 62, 70. Comment on the nature of input i.e. best case, average case or worst case."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2b",
+                "question": "Demonstrate Binary Search method to search a given key in a sorted array."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2c",
+                "question": "Write the Master theorem and solve given recurrence relations using it."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2c OR",
+                "question": "Solve the given recurrence relation using iterative/substitution method."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2c",
+                "question": "Sort the following list using quick sort algorithm: <50, 40, 20, 60, 80, 100, 45, 70, 105, 30, 90, 75> Also discuss worst and best case of quick sort algorithm."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2c OR",
+                "question": "Apply merge sort algorithm on array A = {2,7,3,5,1,9,4,8}. What is time complexity of merge sort in worst case?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2c",
+                "question": "Write and explain the recurrence relation of Merge Sort."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2c OR",
+                "question": "Perform the analysis of a recurrence relation T(n)= 2T(n/2) + θ(n2) by drawing its recurrence tree."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3a",
+                "question": "Consider the array 2,4,6,7,8,9,10,12,14,15,17,19,20. Show (without actually sorting), how the quick sort performance will be affected with such input."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3a OR",
+                "question": "Consider an array of size 2048 elements sorted in non-decreasing order. Show how the Binary Search will perform on this size by analysis of its recurrence relation. Derive the running time."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1b",
+                "question": "Solve the following using Master's theorem: a. T(n) = 2T(n/4) + 1 b. T(n)=3T(n/4) + nlgn"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2c",
+                "question": "Illustrate the working of the quick sort on input instance: 25, 29, 30, 35, 42, 47, 50, 52, 60. Comment on the nature of input i.e. best case, average case or worst case. Also discuss worst and best case of quick sort algorithm."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3a",
+                "question": "Sort the List \"G,U,J,A,R,A,T,S,A,R,K,A,R\" in alphabetical order using merge sort."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5a",
+                "question": "Demonstrate Binary Search method to search Key = 14, form the array A = <2,4,7,8,10,13,14,60>."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2c",
+                "question": "Write the Master theorem. Solve following recurrence using it. (i)T(n)= 3T(n/2) + n2 (ii) T(n)=2T(n/2) + n log n"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2c OR",
+                "question": "Write binary search algorithm using recursion. Derive its recurrence relation. Calculate its complexity using master theorem."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3b",
+                "question": "Write an algorithm for Max-Min problem using divide and conquer approach. Calculate its complexity."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3b OR",
+                "question": "Write an algorithm for matrix multiplication using divide and conquer approach. Calculate its complexity."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2a",
+                "question": "Write the algorithm for binary search"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2c",
+                "question": "Illustrate and solve recurrence for best and worst case of quick sort"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2c OR",
+                "question": "Construct solution using Merge sort on the given data sequence: 88, 77, 22, 55, 11, 33, 66, 99, 44. Also state its recurrence and solve it."
+            }
+        ]
+    },
+    "2": {
+        "unit_name": "Analysis of Sorting Algorithms",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q2a",
+                "question": "Write an algorithm of Selection Sort Method."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1b",
+                "question": "Perform Bucket sort for following sequence: 30, 12, 22, 66, 48, 27, 35, 43, 47, 41."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1c",
+                "question": "Explain the bubble sort algorithm and derive its best case, worst case, and average case time complexity."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1c",
+                "question": "Write and analyze an insertion sort algorithm to sort n items into ascending order."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q1c",
+                "question": "Write and analyze insertion sort algorithm to sort n items into ascending order."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2a",
+                "question": "Write an algorithm of Selection Sort Method."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1c",
+                "question": "Write and analyze an insertion sort algorithm to arrange n items into ascending order."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2a",
+                "question": "Write an algorithm of Selection Sort Method."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2b",
+                "question": "Sort the following numbers using heap sort. 20, 10, 50, 40, 30"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1a",
+                "question": "Sort the best case running times of all these algorithms in a non-decreasing order. LCS, Quick-Sort, Merge-Sort, Counting-Sort, Heap-Sort, Selection-Sort, Insertion-Sort, Bucket-Sort, Strassen's Algorithm."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1c",
+                "question": "Write selection sort algorithm and compute running time of algorithm."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2c OR",
+                "question": "Give the properties of Heap Tree. Sort the following data using Heap Sort Method: 20, 50, 30, 75, 90, 60, 80, 25, 10, 40."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3a OR",
+                "question": "Apply counting sort for the following numbers to sort in ascending order. 3, 1, 2, 3, 3, 1"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1c",
+                "question": "Write an algorithm for insertion sort. Calculate the best, average and worst case complexity of it."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2a",
+                "question": "Sort the following elements using counting sort. 2, 5, 3, 0, 2, 3, 0, 3"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2b",
+                "question": "Sort the following elements using bucket sort. 10, 21, 29, 41, 52"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1c",
+                "question": "Apply bubble sort on the given data sequence: 77, 22, 55, 11, 33, 66, 44"
+            }
+        ]
+    },
+    "4": {
+        "unit_name": "Dynamic Programming",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q3a",
+                "question": "What is Principle of Optimality? Explain its use in Dynamic Programming Method"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3b",
+                "question": "Find out LCS of A={K,A,N,D,L,A,P} and B = {A,N,D,L}"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3c",
+                "question": "Discuss Assembly Line Scheduling problem using dynamic programming with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3a",
+                "question": "Explain principle of optimality with suitable example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3b",
+                "question": "Explain advantages and disadvantages of dynamic programming."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3c",
+                "question": "Given the denominations: d1=1, d2=4, d3=6. Calculate for making change of Rs. 8 using dynamic programming."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3c OR",
+                "question": "Consider weights w=(3,4,6,5) and profit v=(2,3,1,4) and Knapsack capacity W=8. Find the maximum profit using dynamic approach."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3a",
+                "question": "What is Principle of Optimality? Explain its use in Dynamic Programming Method"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3b",
+                "question": "Explain Binomial Coefficient algorithm using dynamic programming."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3c",
+                "question": "Obtain longest common subsequence using dynamic programming. Given A = \"acabaca\" and B = \"bacac\"."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4c OR",
+                "question": "Consider a Knapsack with the maximum weight capacity M is 7, for the objects with value [12,10,20,15] with weights [2,1,3,2] solve using dynamic programming the maximum value the knapsack can have."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4a",
+                "question": "What is Principle of Optimality in dynamic programming? Explain it with example."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4c",
+                "question": "Find the optimal way of multiplying following matrices using dynamic programming. Also indicate optimal number of multiplications required. A:2 x 3, B: 3 x 5, C:5 x 6, D: 6 x 2, E: 2 x 3"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4c OR",
+                "question": "Find the longest common subsequence for the following two sequences using dynamic programming. Show the complete process and indicate the time complexity. X = 10101010011 Y = 101001"
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3a",
+                "question": "What is Principle of Optimality? Explain its use in Dynamic Programming Method."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3b",
+                "question": "Explain Longest Common Subsequence problem with example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3c",
+                "question": "Solve the given 0/1 Knapsack Problem using Dynamic Programming."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3a",
+                "question": "What is Principle of Optimality? Explain its use in Dynamic Programming Method"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3b",
+                "question": "Explain Binomial Coefficient algorithm using dynamic programming."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3c",
+                "question": "Solve the following 0/1 Knapsack Problem using Dynamic Programming. There are five items whose weights and values are given in following arrays. Weight w [] = {1,2,5,6,7} Value v [] = {1, 6, 18, 22, 28} Show your equation and find out the optimal knapsack items for weight capacity of 11 units."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3c OR",
+                "question": "Obtain longest common subsequence using dynamic programming. Given A = \"acabaca\" and B = \"bacac\"."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2b",
+                "question": "Apply LCS on sequence <A,B,A,C,B,C> for pattern <A,B,C>"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4a",
+                "question": "Given is the S-table after running Chain Matrix Multiplication algorithm. Calculate the parenthesized output based on PRINT_OPTIMAL_PARENTHESIS algorithm. Assume the matrix are names from A1, A2, ….,An"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4a OR",
+                "question": "Consider a Knapsack with maximum weight capacity M is 7, for the three objects with value <3, 4, 5> with weights <2, 3, 4> solve using dynamic programming the maximum value the knapsack can have."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5a",
+                "question": "When can we say that a problem exhibits the property of Optimal Substructure?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5a OR",
+                "question": "Explain Over-lapping Sub-problem with respect to dynamic programming."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3c",
+                "question": "Using algorithm find an optimal parenthesization of a matrix chain product whose sequence of dimension is (5,10,3,12,5,50,6) (use dynamic programming)."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3c OR",
+                "question": "Solve following knapsack problem using dynamic programming algorithm with given capacity W=5, Weight and Value are as follows (2,12),(1,10),(3,20),(2,15)"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4b",
+                "question": "Given coins of denominations 2, 3 and 4 with amount to be pay is 5. Find optimal no. of coins and sequence of coins used to pay given amount using dynamic method."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4a OR",
+                "question": "Find out the NCR (5 3) Using Dynamic Method."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3c",
+                "question": "The matrices A(5X10), B(10X15), C(15X20), and D(20X25) are given. Solve the matrix chain multiplication problem using dynamic programming."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3c OR",
+                "question": "For the given set of items and knapsack capacity = 5 kg, find the optimal solution for the 0/1 knapsack problem using dynamic programming. Item Weight Value I1 2 3 I2 3 4 I3 4 5 I4 5 6"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4b",
+                "question": "Enlist the advantages and disadvantages of dynamic programming."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4b OR",
+                "question": "Define principal of optimality. Explain its use in Dynamic Programming Method."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3a",
+                "question": "Define principle of Optimality. Discuss with example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3b",
+                "question": "Differentiate: Dynamic programming vs divide and conquer"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3c",
+                "question": "Solve following instance of knapsack problem using dynamic programming: W = [1, 2, 5, 6, 10], V = [1, 6, 18, 22, 30] and Knapsack capacity M = 12"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3c OR",
+                "question": "Infer the Longest Common Subsequence for following strings: X = 10010100 Y = 10011"
+            }
+        ]
+    },
+    "5": {
+        "unit_name": "Greedy Algorithm",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q3a OR",
+                "question": "Give the characteristics of Greedy Algorithms"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3b OR",
+                "question": "Give difference between greedy approach and dynamic programming."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3c OR",
+                "question": "Consider Knapsack capacity W=15, w = (4, 5, 6, 3) and v=(10, 15, 12, 8) find the maximum profit using greedy method."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4a OR",
+                "question": "Explain Huffman code with Example."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4c OR",
+                "question": "Explain fractional knapsack problem with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3b OR",
+                "question": "Discuss advantages and disadvantages of greedy algorithm."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4a",
+                "question": "Find an optimal Huffman code for the following set of frequency. a : 40, b: 20, c: 15, d: 30, e: 10."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3a OR",
+                "question": "Explain the steps of greedy strategy for solving a problem"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4b",
+                "question": "Using greedy algorithm find an optimal schedule for following jobs with n=7 profits: (P1, P2, P3, P4, P5, P6, P7) = (3, 5, 18, 20, 6, 1, 38) and deadline (d1, d2, d3, d4, d5, d6, d7) = (1, 3, 3, 4, 1, 2, 1)"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4c",
+                "question": "Solve the following Knapsack Problem using greedy method. Number of items = 5, knapsack capacity W = 100, weight vector = {50, 40, 30, 20, 10} and profit vector = {1, 2, 3, 4, 5}."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4a OR",
+                "question": "What are the disadvantages of greedy method over dynamic programming method?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4b OR",
+                "question": "Find an optimal Huffman code for the following set of frequency. A : 50, b: 20, c: 15, d: 30"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3c",
+                "question": "Write greedy algorithm for activity selection problem. Give its time complexity. For following intervals, select the activities according to your algorithm. I1 (1-3), I2 (0-2), I3 (3-6), I4 (2-5), I5 (5-8), I6 (3-10), I7 (7-9)."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4b",
+                "question": "What is knapsack problem? Using greedy algorithm find an optimal solution for fractional knapsack instance n=7, M =17, profits p[ ] = {10,5,15,7,6,16,4} and weights w[ ] = {2,3,5,7,1,4,1}."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3a OR",
+                "question": "Give the characteristics of Greedy Algorithms."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3b OR",
+                "question": "Compare Greedy approach with Dynamic Programming."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3c OR",
+                "question": "Solve the given Knapsack problem using greedy method."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4a OR",
+                "question": "Explain Huffman code with example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4c OR",
+                "question": "Explain fractional knapsack problem with example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3a OR",
+                "question": "Compare Dynamic Programming Technique with Greedy Algorithms"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3b OR",
+                "question": "Give the characteristics of Greedy Algorithms."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4a",
+                "question": "Using greedy algorithm find an optimal schedule for following jobs with n=7 profits: (P1, P2, P3, P4, P5, P6, P7) = (3, 5, 18, 20, 6, 1, 38) and deadline (d1, d2, d3, d4, d5, d6, d7) = (1, 3, 3, 4, 1, 2, 1)"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4a OR",
+                "question": "Find an optimal Huffman code for the following set of frequency. A : 50, b: 20, c: 15, d: 30"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3b",
+                "question": "\"A greedy strategy will work for fractional Knapsack problem but not for 0/1\", is this true or false? Explain."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3b OR",
+                "question": "Explain the steps of greedy strategy for solving a problem."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2a",
+                "question": "Explain general characteristics of greedy algorithms."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3b",
+                "question": "Following are the details of various jobs to be scheduled on multiple processors such that no two processes execute at the same on the same processor. Show schedule of these jobs on minimum number of processors using greedy approach. Jobs J1 J2 J3 J4 J5 J6 J7 Start time 0 3 4 9 7 1 6 Finish time 2 7 7 11 10 5 8"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3b OR",
+                "question": "Find the Optimal Huffman code for each symbol in following text ABCCDEBABFFBACBEBDFAAAABCDEEDCCBFEBFCAE"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5b",
+                "question": "Solve the following knapsack problem using greedy method. Number of items = 5, knapsack capacity W = 100, weight vector = {50,40,30,20,10} and profit vector = {1,2,3,4,5}."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3a",
+                "question": "Explain the steps of greedy strategy for solving a problem."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3a OR",
+                "question": "Enlist the general characteristics of greedy algorithms."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4c OR",
+                "question": "\"A greedy strategy will work for fractional Knapsack problem but not for 0/1\", is this true or false? Explain with suitable example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3a OR",
+                "question": "Define the characteristics of greedy algorithms"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3b OR",
+                "question": "Explain activity selection problem."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4b OR",
+                "question": "Find prefix code for given data. A: 45, B: 30, C: 15, D: 12, E: 8"
+            }
+        ]
+    },
+    "6": {
+        "unit_name": "Graph Algorithms",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q4a",
+                "question": "Explain: Articulation Point, Graph, Tree"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4b",
+                "question": "Find Minimum Spanning Tree for the given graph using Prim's Algorithm."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4c",
+                "question": "Explain Breath First Traversal Method for Graph with algorithm with example."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4b OR",
+                "question": "Write the Kruskal's Algorithm to find out Minimum Spanning Tree. Apply the same and find MST for the graph given below"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3a OR",
+                "question": "Explain Weighted Graph, Undirected Graph, Directed Graph."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4b",
+                "question": "Explain depth first traversal using suitable example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4c",
+                "question": "Draw the minimum spanning tree correspond to following graph using Prim's algorithm and find the MST weight:"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4a OR",
+                "question": "Differentiate between Kruskal's algorithm and Prim's algorithm for finding MST."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4b OR",
+                "question": "Explain the need of topological Sort with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4c OR",
+                "question": "Draw the minimum spanning tree correspond to following graph using Kruskal's algorithm and find weight of MST:"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2a",
+                "question": "Explain: Articulation Point, Graph, Tree"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3c OR",
+                "question": "What is a minimum spanning tree? Draw the minimum spanning tree correspond to following graph using Prim's algorithm."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5c",
+                "question": "Find all pair of shortest path using Floyd's Algorithm for following graph."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5a OR",
+                "question": "Define BFS. How it is differ from DFS."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3c OR",
+                "question": "Write DFS traversal and draw DFS tree corresponds to following graph. Also, write time complexity of DFS algorithm."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4b OR",
+                "question": "Illustrate the working of Kruskal's algorithm using greedy technique. Take the suitable graph for illustration."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4a",
+                "question": "Explain: Articulation Point, Graph, Tree."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4b",
+                "question": "Find Minimum Spanning Tree for the given graph using Prim's Algorithm."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4c",
+                "question": "Explain Breadth First Traversal Method for Graph with algorithm and example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4b OR",
+                "question": "Write the Kruskal's Algorithm to find Minimum Spanning Tree and apply it to the given graph."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4b",
+                "question": "Find Minimum Spanning Tree for the given graph using Prim's Algo."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4c",
+                "question": "Explain in brief Breadth First Search and Depth First Search Traversal techniques of a Graph with Example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4b OR",
+                "question": "Find Minimum Spanning Tree for the given graph using Kruskal Algo."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5a",
+                "question": "Define Articulation point, Acyclic Directed Graph, Back Edge"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3c",
+                "question": "Apply Kruskal's algorithm on the given graph and step by step generate the MST. FIG:1 Graph G(V,E)"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3c OR",
+                "question": "Apply Prim's algorithm on the given graph in Q.3 (C) FIG:1 Graph G(V,E) and step by step generate the MST."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4c",
+                "question": "Apply the algorithm to find strongly connected components from the given graph."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4c OR",
+                "question": "Given is the DAG, apply the algorithm to perform topological sort and show the sorted graph."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4c",
+                "question": "Write an algorithm to find out the articulation points of an undirected graph. Find out articulation points for the following graph. Consider vertex 0 as the starting point."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4b OR",
+                "question": "Write the Kruskal's Algorithm to find out Minimum Spanning Tree. Apply the same and find MST for the graph given below."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5b OR",
+                "question": "Traverse the following graph using Breadth First Search Technique. Also draw BFS Tree for a given graph."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4a",
+                "question": "Explain DFS with suitable example."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4c",
+                "question": "Define minimum spanning tree. Explain Prim's algorithm with suitable example."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4a OR",
+                "question": "Explain BFS with suitable example."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5b",
+                "question": "Define the followings: i) Articulation point ii) Acyclic Directed Graph iii) Back Edge iv) Tree"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5b OR",
+                "question": "Explain in-order, pre-order and post-order traversals of the graph."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4a",
+                "question": "State and explain methods to represent the graph"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4b",
+                "question": "Differentiate: BFS vs DFS"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4c",
+                "question": "Outline algorithm for Prim's method and find MST for given graph using Prim's method. Figure 1"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4a OR",
+                "question": "Define Articulation point, Acyclic Directed Graph, Back Edge"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4c OR",
+                "question": "Outline algorithm for Kruskal's method and find MST for the graph given in Figure 1, using Kruskal's method"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5b",
+                "question": "Find topological sequence of vertices for the graph given in Figure 1. Consider A is starting vertex."
+            }
+        ]
+    },
+    "8": {
+        "unit_name": "Introduction to NP-Completeness",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q5a",
+                "question": "What is string-matching problem? Define valid shift and invalid shift."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5b",
+                "question": "Define P, NP, NP-Hard and NP-Complete Problem"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5a OR",
+                "question": "Explain \"P = NP ?\" problem."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5c OR",
+                "question": "What is Finite Automata? Explain use of finite automata for string matching with suitable example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5a",
+                "question": "Explain Spurious hits with an example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5b",
+                "question": "Write the pseudocode for Naïve String-Matching Algorithm."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5a OR",
+                "question": "Explain polynomial time reduction."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5c OR",
+                "question": "Define P, NP, NP complete and NP-Hard problems. Give examples of each."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5a",
+                "question": "Define NP-Complete and NP-Hard problems."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5b OR",
+                "question": "Explain the naive string matching algorithm."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5c OR",
+                "question": "Explain spurious hits in Rabin-Karp string matching algorithm with example. Working modulo q=13, how many spurious hits does the Rabin Karp matcher encounter in the text T = 2359023141526739921 when looking for the pattern P = 31415?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4a OR",
+                "question": "What is the Travelling Salesman Problem (TSP)? Why TSP is considered an NP-hard problem?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5a",
+                "question": "Define P and NP problems. Also give example of each type of problem."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5c",
+                "question": "Given a text and a pattern, write the naive string matching algorithm to find all occurrences of the pattern in the text. Use the text \"ABCABCABC\" and the pattern \"ABC\". Also, give time complexity of naive string matching algorithm."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5a OR",
+                "question": "What is a polynomial reduction? Explain its role in proving NP-completeness."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5b OR",
+                "question": "Give example of any NP complete problem. Explain how to prove that particular problem is NP complete."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5c OR",
+                "question": "Show that Hamiltonian cycle is a NP problem."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5a",
+                "question": "What is string-matching problem? Define valid shift and invalid shift."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5b",
+                "question": "Define P, NP, NP-Hard and NP-Complete Problem."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5a OR",
+                "question": "Explain \"P = NP?\" problem."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5c OR",
+                "question": "What is Finite Automata? Explain use of finite automata for string matching with suitable example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5b",
+                "question": "Show the comparisons that naïve string matcher makes for the pattern p=0001 in the text T=000010001010001"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5c",
+                "question": "Explain spurious hits in Rabin-Karp string matching algorithm with example. Working modulo q=13, how many spurious hits does the Rabin-Karp matcher encounter in the text T = 2359023141526739921 when looking for the pattern P = 31415?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5a OR",
+                "question": "Explain polynomial reduction."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5c OR",
+                "question": "Explain P, NP, NP complete and NP-Hard problems. Give examples of each"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5b",
+                "question": "Create an example of string P of length 7 such that, the prefix function of KMP string matcher returns π[5] = 3, π[3] = 1 and π[1] = 0"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5c",
+                "question": "Explain the 3SAT problem and show that it is NP Complete."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5b OR",
+                "question": "Show that if all the characters of pattern P of size m are different, the naïve string matching algorithm can perform better with modification. Write the modified algorithm that performs better than O(n.m)."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5c",
+                "question": "Define P, NP, NP-complete, NP-Hard problems. Give examples of each"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5a OR",
+                "question": "Explain in Brief: Polynomial reduction."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5c OR",
+                "question": "Explain spurious hits in Rabin-Karp string matching algorithm with example. Working modulo q=13, how many spurious hits does the Rabin-Karp matcher encounter in the text T = 2359023141526739921 when looking for the pattern P = 26739?"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5a",
+                "question": "Define string matching problem. Define valid shift and invalid shift."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5c",
+                "question": "Explain P, NP, NP complete and NP-Hard problems. Give examples of each."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5c OR",
+                "question": "Write short note on the followings: i) Approximation algorithms ii) Randomized algorithms"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5a",
+                "question": "Show naïve string matching algorithm with example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5a OR",
+                "question": "Explain polynomial time reduction"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5c OR",
+                "question": "What do you mean by spurious hits? For modulo q=13, how many spurious hits does the Rabin-Karp encounters for the text T = 4359023141526739921 when looking for the pattern P = 31415?"
+            }
+        ]
+    },
+    "7": {
+        "unit_name": "Backtracking and Branch and Bound",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q5c",
+                "question": "Explain Backtracking Method. What is N-Queens Problem? Give solution of 4- Queens Problem using Backtracking Method."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5b OR",
+                "question": "Explain Minimax principal."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5c",
+                "question": "What is state space tree. How do you solve the Eight queens problem using backtracking with the help of state space tree."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5b OR",
+                "question": "Differentiate between Backtracking and Branch-and-Bound algorithms."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5b",
+                "question": "Draw the state space tree Diagram for 4 Queens problem."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5b",
+                "question": "Explain the backtracking strategy to solve optimization problem. Explain how it can be applied to find the solution for 4-queen problem."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5c",
+                "question": "Explain Backtracking Method. What is N-Queens Problem? Give solution of 4-Queens Problem using Backtracking Method."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5b OR",
+                "question": "Explain Minimax principle."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4c OR",
+                "question": "Explain Backtracking Method. What is N-Queens Problem? Give solution of 4- Queens Problem using Backtracking Method"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5b OR",
+                "question": "Differentiate branch and bound and back tracking algorithm."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4b",
+                "question": "Explain states, constraints types of nodes and bounding function used by backtracking and branch and bound methods."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4b OR",
+                "question": "Explain the Minimax principle and show its working for simple tic-tac-toe game playing."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5c OR",
+                "question": "Explain with example, how the Hamiltonian Cycle problem can be used to solve the Travelling Salesman problem."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4a",
+                "question": "Solve the following Task Assignment problem for minimization using following cost matrix. (Cost matrix represents cost of Task T performed by Person P). T1 T2 T3 P1 10 20 25 P2 20 23 26 P3 12 16 25"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4c OR",
+                "question": "Explain Backtracking Method. What is N-Queens Problem? Give solution of 4-Queens Problem using Backtracking Method."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5a OR",
+                "question": "Explain Backtracking Method. Give solutions for 4-queens problem using backtracking method."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5c",
+                "question": "Explain backtracking method. What is 4 queen problem? Show its all possible solutions."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5b OR",
+                "question": "Compare and contrast: Backtracking vs. Branch and Bound"
+            }
+        ]
+    }
+}
