@@ -1,0 +1,1302 @@
+{
+    "3": {
+        "unit_name": "Introduction to SQL",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q1a",
+                "question": "What is Data Definition Language? List DDL statements and explain anyone with an example."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q5c",
+                "question": "Consider the following relations and write SQL queries for given statements. Assume suitable constraints.\njob(job-id, job-title, minimum-salary, maximum-salary)\nemployee(emp-no, emp-name, emp-salary,dept-no)\ndeposit(acc-no, cust-name, branch-name, amount, account-date)\nborrow(loan-no, cust-name, branch-name, amount)\ndepartment (dept-no, dept-name)\n(1) Give name of employees whose employee number is '001'\n(2) Give name of depositors whose branch name starts from 'S'.\n(3) Give employee name(s) whose salary is between Rs. 20000 to 30000 and department name is Finance.\n(4) Update the salary of employee by 10% of their salary who is working in the Finance department."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q5b OR",
+                "question": "Describe Grant and Revoke commands with suitable example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2c OR",
+                "question": "What is join? Explain various type of joins with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5a",
+                "question": "Describe GRANT and REVOKE commands."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5b",
+                "question": "Explain Transaction Control Commands."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5c",
+                "question": "Consider the following employee database, primary keys are underlined:\nemployee (employee-name, street, city)\nworks (employee-name, company-name, salary)\ncompany (company-name, city)\nmanages (employee-name, manager_name)\nGive an expression in SQL for each of the following queries:\n1. Find the names of all employees who work for First Bank Corporation.\n2. Give all employees of First Bank Corporation a 10 percent raise.\n3. Find the names and cities of residence of all employees who work for First Bank Corporation.\n4. Find the names, street addresses, and cities of residence of all employees who work for First Bank Corporation and earn more than $10,000.\n5. Find all employees in the database who live in the same cities as the companies for which they work.\n6. Find all employees in the database who do not work for First Bank Corporation."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5a OR",
+                "question": "Explain DDL,DML,DCL with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5b OR",
+                "question": "Discuss aggregate functions with example(s)."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3a",
+                "question": "Give syntax of command used to add a new column in a table."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3a OR",
+                "question": "Write an SQL command to modify the content of table."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5c",
+                "question": "Write SQL queries for the following (query 1,2 and 3 carry one mark/query 4 & 5 carry two marks)\nEmployee(eid, ename, salary, deptid)\nDepartment(deptid, dname)\n1. List name of all employee\n2. List all the departments with id > 5\n3. List sum of the salary all employees.\n4. Department wise count the number of employees\n5. Find the name of employee earning highest salary."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5a OR",
+                "question": "Explain the use of group by and having clause in SQL queries."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5c OR",
+                "question": "Consider Following 3 Tables and Write SQL Queries.\n1. Books ( BookID, BookTitle, Price, Author, Publisher )\n2. Students (StudID, StudName, DOB, Gender, Branch, Sem)\n3. Issue_Books ( StudID, BookID, Issue_Date)\nQuery1: List all Books whose price in range of 300 to 500 Rs.\nQuery2: Display all Publisher Name & Total count of Books of that publisher.\nQuery3: Display list of all books which are not issued to any students.\nQuery4. Display the name students who are issued books in current month.\nQuery5: Display all Books assigned to student with name \"mahesh\".\nQuery6: Display total no of books in library\nQuery7: Display the list of girl students who have taken book from library."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5b",
+                "question": "Consider a case where a bank transfers money from Account A to Account B. Analyze where COMMIT and ROLLBACK should be applied to maintain correctness if an error occurs during the transfer."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5b OR",
+                "question": "For the relation EMPLOYEE(EmpId, Name, Age, Salary), analyze which constraints are necessary to ensure:\ni) Every employee has a unique ID\nii) Age must be greater than 18\niii) Salary cannot be NULL."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5c OR",
+                "question": "Consider following relations.\nStudents(stdId, stdName, semester, deptId) Departments(deptId, deptName, totalFaculties)\nWrite SQL queries for:\n1) List the department names and the number of students enrolled in each department.\n2) List the names of students along with their department names, but only those in departments with more than 20 faculty members.\n3) Display all information of students in \"Semester 1\"."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1b",
+                "question": "Describe Data Definition Language and Data Manipulation Language."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1c",
+                "question": "What is integrity constraint? Explain primary key, reference key and check constraint with SQL syntax."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3c OR",
+                "question": "What is the difference between Join and Sub query? Explain any two built-in function for following category. 1) Numeric 2) String 3) Date."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4a",
+                "question": "What is the view? How does it different from the table?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5b OR",
+                "question": "When do we require to use group by clause? How aggregate functions are used with group by clause?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5c OR",
+                "question": "When Join is used in SQL? Explain Left outer, Right outer and Full outer join with SQL syntax."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5b",
+                "question": "Explain GRANT and REVOKE commands with suitable example."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5b OR",
+                "question": "Enlist types of joins. Explain each with SQL syntax."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5c OR",
+                "question": "TABLE Worker(WORKER_ID INT NOT NULL PRIMARY KEY, FIRST_NAME CHAR(25), LAST_NAME CHAR(25), SALARY INT(15), JOINING_DATE DATETIME, DEPARTMENT CHAR(25));\nTABLE Bonus(WORKER_REF_ID INT, BONUS_AMOUNT INT(10), BONUS_DATE DATETIME, FOREIGN KEY (WORKER_REF_ID), REFERENCES Worker(WORKER_ID));\nTABLE Title(WORKER_REF_ID INT, WORKER_TITLE CHAR(25), AFFECTED_FROM DATETIME, FOREIGN KEY (WORKER_REF_ID) REFERENCES Worker(WORKER_ID));\nConsider above 3 tables, assume appropriate data and solve following SQL queries:\n1. Write an SQL query to fetch \"FIRST_NAME\" from Worker table using the alias name as <WORKER_NAME>\n2. Write an SQL query to fetch \"FIRST_NAME\" from Worker table in uppercase.\n3. Write an SQL query to print all Worker details from the Worker table order by FIRST_NAME Ascending.\n4. Write an SQL query to print details of the Workers whose FIRST_NAME ends with 'h' and contains six alphabets.\n5. Write an SQL query to print details of the Workers who are also Managers.\n6. Write an SQL query to fetch departments along with the total salaries paid for each of them.\n7. Write an SQL query to fetch the names of workers who earn the highest salary."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5c",
+                "question": "Consider the following tables and answer the queries in SQL.\nBooks (isbn_no, title, publisher_id, year)\nAuthors (author_id, author_name, country, city)\nPublishers (publisher_id, publisher_name, city)\nWrittenBy (isbn_no, author_id)\n1) List all the books published after 1998.\n2) Update the city of author to \"Baroda\" whose author id is 10.\n3) List all the book titles written by author \"korth\".\n4) Add column \"price\" in the table Books.\n5) Display number of Publishers from the city \"Ahmedabad\".\n6) List all the books published by \"McGaw Hill\".\n7) Display all publishers in the ascending order of their name."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5c OR",
+                "question": "Consider the following tables and answer the queries in SQL.\nProducts(prod_id, prod_name, category, price)\nCustomers(cust_id, cust_name, country, city)\nOrders(order_id, cust_id, prod_id, order_date, quantity)\n1) List all the products having price less than 2000.\n2) Update price of a product to 3000 whose product id is 43.\n3) Display names of customer who have placed atleast one order.\n4) Display customer id and total number of orders placed by them.\n5) List all Customers in the descending order of their city.\n6) Display names of customers who have ordered \"Television\" (Product Name).\n7) Remove column \"category\" from the Products table."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5b",
+                "question": "Explain GRANT, REVOKE and SAVEPOINT commands with suitable example."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5b OR",
+                "question": "Categorize joins in the SQL. Explain each with suitable example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1c",
+                "question": "What is integrity constraint? Explain primary key, reference key and check constraint with SQL syntax."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2a",
+                "question": "What is Data Definition Language? List DDL statements and explain anyone with an example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5b OR",
+                "question": "Describe Grant and Revoke commands with suitable example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5c OR",
+                "question": "Write SQL queries for the following:\n1. Create table Employee, Department and Location with following schema and appropriate data types and constraints.\na) Employee (employee_id, name, email, hire_date, salary, department_id, location_id)\nb) Department (department_id, department_name)\nc) Location (location_id, street_address, postal_code, country)\n2. Add new column 'city' in the location table.\n3. Find all the details of employees whose name starts with or ends with 's'.\n4. Update the postal_code to '220212' where the country is 'India' and location_id is between 2 to 7.\n5. Delete all the records of Location table."
+            }
+        ]
+    },
+    "6": {
+        "unit_name": "Transaction Management",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q1b",
+                "question": "List and describe ACID property of transactions."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q2a",
+                "question": "Differentiate shared lock and exclusive lock in lock-based protocol."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q3a",
+                "question": "Describe various state of transaction."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q3c",
+                "question": "What is the use of two-phase locking protocol in concurrency control? Describe the two-phase locking protocol in detail."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q3a OR",
+                "question": "What is dirty write in the transaction? Explain with example."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q3c OR",
+                "question": "What is a deadlock in transaction? How to detect deadlock in system? Explain with example."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q4c",
+                "question": "What is the schedule in truncation? How to identify that the given schedule is conflict serializable? Explain with example."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q4a OR",
+                "question": "What is log-based recovery? List and explain various fields use in log records for log-based recovery."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q4b OR",
+                "question": "Discuss view serializability in transactions."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4a",
+                "question": "Explain log based recovery and mention all its types."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4b",
+                "question": "Explain Two phase commit protocol?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4c",
+                "question": "What is a transaction? Explain the ACID properties."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4b OR",
+                "question": "Explain deadlock detection."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4c OR",
+                "question": "Explain conflict serializability and view serializability."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4b",
+                "question": "Define transaction and its properties?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4c",
+                "question": "Write a note on view serializability."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4b OR",
+                "question": "Define various approach used for Log based recovery."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4c OR",
+                "question": "List and explain various types of Locks used for concurrency control."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3a OR",
+                "question": "Explain ACID Properties of transaction with appropriate example."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4a",
+                "question": "What is the use of system log? What are the typical kinds of records in a system log? What are transaction commit points, and why are they important?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4c OR",
+                "question": "Explain Conflict Serializability with precedence graph in Transaction Processing."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5a",
+                "question": "Draw a state diagram, and discuss the typical states that a transaction goes through during execution."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5b",
+                "question": "Explain Two phase locking protocol for guaranteeing Serializability."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5c",
+                "question": "Explain Deadlock handling in Transaction Processing."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4a",
+                "question": "What is a transaction? List its types."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4b OR",
+                "question": "What are ACID properties? Explain with simple example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5a",
+                "question": "Define deadlock in transaction management. List two methods to handle it."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5a OR",
+                "question": "What is timestamp protocol in concurrency control?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4b",
+                "question": "Explain below mentioned features of concurrency.\n1) Improved throughput 2) Reduced waiting time."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4b OR",
+                "question": "What is the atomicity and consistency property of transaction?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5a",
+                "question": "How does 'partial commit' state differ from 'commit' state of the transaction?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5c",
+                "question": "How does two phase locking protocol differ from timestamp based protocol? Explain timestamp-ordering protocol."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4b OR",
+                "question": "Explain ACID properties of transaction."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5a",
+                "question": "Explain the concept of deadlock in brief."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5a OR",
+                "question": "Differentiate between Conflict and View Serializability with respect to transaction (any three differences)."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4a",
+                "question": "List and explain ACID properties with respect to Database transaction."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4a OR",
+                "question": "List and explain different types of locks in transactions."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4c OR",
+                "question": "What do you mean by Serializable Schedule? Explain View Serializability with example."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4a",
+                "question": "Illustrate various storage strategies."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4b OR",
+                "question": "Explain ACID properties of transaction."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5a",
+                "question": "Explain working of two phase locking protocol."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5a OR",
+                "question": "Differentiate between conflict and view serializability with respect to transaction."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4a",
+                "question": "List and explain different types of locks in transactions."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4b",
+                "question": "Draw and explain transaction state diagram."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4a OR",
+                "question": "Discuss conflict serializability in transactions."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4b OR",
+                "question": "List and describe ACID property of transactions."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4c OR",
+                "question": "Explain the two-phase locking protocol in detail."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5a",
+                "question": "What is log-based recovery? List and explain various fields use in log records for log-based recovery."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5c",
+                "question": "What is a deadlock? How to detect deadlock? Explain with example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5a OR",
+                "question": "Define following terms.\n1. Cascading Rollback\n2. Candidate Key\n3. View"
+            }
+        ]
+    },
+    "5": {
+        "unit_name": "Relational Database Design",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q1c",
+                "question": "Consider the relation R = {A, B, C, D, E, F, G, H, I, J} and the set of functional dependencies F={{A, B} → C, A → {D, E}, B → F, F →{G, H}, D →{I, J}}. What is the key for R? Decompose R into 2NF, then 3NF relations."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3b",
+                "question": "Explain 3NF with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3c",
+                "question": "What is functional dependency? Explain its types in detail."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3a OR",
+                "question": "What are anomalies in database design? How can we solve it?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3b OR",
+                "question": "Explain BCNF with example."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2c",
+                "question": "List the Armstrong axioms used to compute closure of the set of functional dependency."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2c OR",
+                "question": "What is decomposition? Explain dependency preserving decomposition with the help of example."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3c",
+                "question": "What is the need to normalize data? Explain 1NF, 2NF & 3NF in detail."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3b OR",
+                "question": "Consider a relation R(A,B,C,D,E) with following dependencies:\nAB→C, CD→E, DE→B.\nIs ABD a candidate key of this relation?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3c OR",
+                "question": "Explain Inference Rules for Functional Dependency."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3a",
+                "question": "What is functional dependency? Explain armstrong's axioms."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3b",
+                "question": "Explain trivial functional dependencies with suitable example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3c",
+                "question": "For the mentioned the relation Employees (empId, empName, carName, parkingSlot) with functional dependencies F : {empId→ carName, empId→ empName, carName→ parkingSlot}. Does the above table appear in 3NF? If not, normalize it in 3NF."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3a OR",
+                "question": "What is the closure of a set of attributes? Illustrate with an example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3b OR",
+                "question": "Consider the relation R(A, B, C, D) with functional dependencies:\nA → B\nB → C\nC → D\nFind the candidate keys of R and state whether R is in BCNF. Justify your answer."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3c OR",
+                "question": "Consider a relation R(A, B, C, D, E) with the following three functional dependencies.\nAB → C ; BC → D ; C → E\nFind out the number of superkeys in the relation R."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3b",
+                "question": "Differentiate lossy decomposition and lossless decomposition."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3c",
+                "question": "What is redundancy? Explain insert, update and delete anomalies in database with example."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3b",
+                "question": "Explain transitive and trivial functional dependencies."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3c",
+                "question": "Suppose a relational schema R (A B C D E) and set of functional dependencies F: {A→B, B→E, C→D}. Check out that relation is in 3NF or not? If not decompose it in 3NF."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3a OR",
+                "question": "What is the significance of normalization?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3b OR",
+                "question": "Explain Armstrong's axioms."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3c OR",
+                "question": "Suppose a relational schema R (A B C D E F G H I) and set of functional dependencies F: {AB→C, AD→GH, BD→EF, A→I, H→J}. Check out that relation is in 3NF or not? If not decompose it in 3NF."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3a",
+                "question": "What is functional dependency? Explain armstrong's axioms."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3c",
+                "question": "What is normalization? Explain 2NF, 3NF and BCNF with suitable examples."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3a OR",
+                "question": "Let R = (A, B, C, D, E, F) be a relation schema with the following dependencies:\nC → F\nE → A\nEC → D\nA → B\nWhat is the Candidate key of the relation R?"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3c OR",
+                "question": "Consider the relation Employees(empId, empName, carName, parkingSlot) with dependencies F ={empId→ carName, empId→ empName, carName→ parkingSlot}. Does the above table appear in 3NF? If not, normalize it in 3NF."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3b",
+                "question": "Explain trivial functional dependencies with suitable example."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3c",
+                "question": "Consider a relation R(A, B, C, D, E) with the following three functional dependencies.\nAB → C ; BC → D ; C → E;\nFind out the number of superkeys in the relation R."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3a OR",
+                "question": "Explain insertion and deleting anomalies with respect to normalization."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3b OR",
+                "question": "Explain Armstrong's axioms in detail."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3c OR",
+                "question": "Given a relation R(P, Q, R, S, T) and Functional Dependency set FD = { PQ → R, S → T }, determine whether the given R is in 2NF? If not convert it into 2NF."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3c",
+                "question": "What is Normalization? Explain 1NF, 2NF and 3NF with suitable example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3a OR",
+                "question": "What is Functional Dependency? Explain armstrong's axioms."
+            }
+        ]
+    },
+    "2": {
+        "unit_name": "Relational Model",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q2b",
+                "question": "Describe the Cartesian Product operation in relational algebra."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q2c OR",
+                "question": "Consider the relational database given below. Give an expression in the relational algebra to express each of the following queries:\nEmployee (person-name, street, city), \nWorks (person-name, company-name, salary),\nCompany (company-name, city), \nManages (person-name, manager-name)\n(1) Find name of all employees.\n(2) Find city of employee whose name is 'jashu'.\n(3) Find name and city of all employees who are having salary>50000.\n(4) Find total salary of all employees who are working for company 'HCL'."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q3b OR",
+                "question": "What are the importance of Primary key and Unique key in database? Explain with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2a",
+                "question": "Explain candidate key, primary key and foreign key."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1c",
+                "question": "Write relational algebra expression for following (query 1,2 and 3 carry one mark/query 4 & 5 carry two marks)\nEmployee(eid, ename, salary, deptid)\nDepartment(deptid, dname)\n1) List name of all employee\n2) List all the departments with id > 5\n3) List sum of the salary all employees.\n4) Department wise count the number of employees\n5) Find the name of employee earning highest salary."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2b",
+                "question": "Define referential integrity constraint with example."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4a",
+                "question": "What is relational model? Explain schema diagram using example."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2c",
+                "question": "Explain Following Constraints supported by RDBMS:\n1. Primary Key\n2. Foreign Key / Referential Integrity Constraints\n3. Entity Integrity\n4. Domain Constraint"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2c OR",
+                "question": "Explain Relational Algebra Operations in detail."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2a",
+                "question": "Define Superkey, Candidate Key and Primary Key in Relational Model."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2b",
+                "question": "Write relational algebra expressions for:\ni) Select students with marks > 60\nii) Project student names only"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3a",
+                "question": "Write Relational Algebra syntax for the following queries.\nEmployee(eno,ename,salary,designation)\nCustomer(cno,cname,address,city)\n1) Find out name of employees who are 'Manager'.\n2) Display name of customers.\n3) Retrieve Employee records whose salary is less than 20,000."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3a OR",
+                "question": "Write Relational Algebra syntax for the given queries using the following database.\nEmployee(eno,ename,salary,designation)\nCustomer(cno,cname,address,city)\n1) Find out name of employees who are also customers.\n2) Find out name of person who are employees but not customers.\n3) Display all names who are either employees or customers."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3a",
+                "question": "Define the terms.\ni) Primary Key\nii) Unique Key\niii) Foreign Key"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4c",
+                "question": "Which type of queries would be solved by Division operator? Explain with examples."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1a",
+                "question": "Define Superkey, Candidate Key and Primary Key."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2a",
+                "question": "Differentiate terms relation and relation schema with suitable example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2b",
+                "question": "List various integrity constraints in relational model. Explain referential integrity constraint with suitable example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3b",
+                "question": "Consider following relations and write queries in the form of relational algebra.\nStudents(std_id, std_name, semester, dept_id)\nDepartments(dept_id, dept_name, no_of_faculties)\n1) List names of students studying in \"Computer\" department.\n2) Display all information of the student whose name is \"Pratik\"."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3b OR",
+                "question": "Consider following relations and write queries in the form of relational algebra.\nAccounts(acc_no, acc_name, balance, bank_id)\nBank(bank_id, bank_name, city)\n1) List all Account Numbers in \"HDFC\" bank.\n2) List all bank names in \"Ahmedabad\" city."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3a",
+                "question": "Explain the terms.\ni) Super Key\nii) Foreign Key\niii) Unique Key"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4c",
+                "question": "Which kind of queries are solved using division operator? Explain in detail."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2b",
+                "question": "Describe (1) Union and (2) Cartesian Product operations in relational algebra."
+            }
+        ]
+    },
+    "4": {
+        "unit_name": "Entity-Relationship Model",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q2c",
+                "question": "Draw E-R diagram for student management system with the necessary assumption."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q3b",
+                "question": "List and explain mapping cardinalities of E-R diagram with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2b",
+                "question": "Explain Mapping Cardinalities."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2c",
+                "question": "Explain Entity Relationship model with example."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2a",
+                "question": "List various symbol used for ER diagram."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4a OR",
+                "question": "With the help of example explain Generalization."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2b",
+                "question": "Explain Specialization, Generalization and Categorization in EER Modeling."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3a",
+                "question": "Explain Recursive Relationship in ER Modeling with example."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3b",
+                "question": "Explain Cardinality Ratio and Participation constraint of ER Model."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2c",
+                "question": "Briefly explain generalization and specialization in E-R diagram with suitable example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2c OR",
+                "question": "Draw an E-R diagram of following scenario. Make necessary assumptions and clearly note down the assumptions. We would like to make our College's manually operated Library to fully computerized."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2a",
+                "question": "Differentiate single-valued and multi-valued attributes with example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2b",
+                "question": "What is weak entity? How the weak entity can be converted to the strong entity? Show the symbol for representing weak entity."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2c",
+                "question": "Why do we require E-R model? Explain the term 'Generalization', 'Specialization' and 'Aggregation'."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2c OR",
+                "question": "What is the similarity between relational model and E-R model? How the entity, attributes, primary key and relationship are shown in the relational model."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2a",
+                "question": "Differentiate generalization and specialization."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2b",
+                "question": "What are the types of attributes used in ER diagram?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2c",
+                "question": "Draw an E-R diagram of following scenario. Make necessary assumptions and clearly note down the assumptions.\nWe would like to make college's semester fee collection system fully computerized. Fees may include your term fees, library fees, gymkhana fees etc."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2c OR",
+                "question": "Explain the concept of total participation, partial participation, strong entity set and weak entity set using ER diagram."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2c",
+                "question": "Briefly explain generalization and specialization in E-R diagram with suitable example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2c OR",
+                "question": "Differentiate Weak Entity and Strong Entity with suitable example. Also draw a sample E-R diagram which depicts weak entity."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2a",
+                "question": "Explain generalization and specialization with neat diagram."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2b",
+                "question": "Explain following attributes. a. Single Valued b. Multivalued c. Derived attribute d. Composite attribute."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2c",
+                "question": "Draw an E-R diagram of following scenario. Make necessary assumptions and clearly note down the assumptions.\nMunicipal Corporation/any Bus reservation system should be digitize."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2c OR",
+                "question": "Explain the concepts of strong entity and weak entity using real world example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3a",
+                "question": "List and explain mapping cardinalities of E-R diagram with example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3b",
+                "question": "Briefly explain Generalization and Specialization in E-R diagram."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3c OR",
+                "question": "Draw E-R diagram for a University Management System with the necessary assumption."
+            }
+        ]
+    },
+    "9": {
+        "unit_name": "Indexing and Hashing",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q4a",
+                "question": "Differentiate closed hashing and open hashing in DBMS."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q4b",
+                "question": "What is the role of an index in the database management system? Explain dense index with example."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3b",
+                "question": "Define indexing. How will it be useful for searching data?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3b OR",
+                "question": "Explain sparse indexing with the help of diagram."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4a OR",
+                "question": "Explain the use of Btrees."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4c",
+                "question": "Explain static hashing with an example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4a OR",
+                "question": "Differentiate between primary index and secondary index."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3b OR",
+                "question": "What is the limitation of index-sequential file? Explain with example how B+tree overcomes it."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4c",
+                "question": "What is index in the database? Explain sparse indices and Dense indices with proper example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4a OR",
+                "question": "Differentiate dynamic hashing and static hashing."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4a",
+                "question": "List the type of storages in DBMS. Explain in brief: indexed based accessing."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4a OR",
+                "question": "Write short note on: Hashing technique."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5b",
+                "question": "Differentiate Sparse and Dense index in DBMS with example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5b OR",
+                "question": "Differentiate open and closed hashing in DBMS."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4a OR",
+                "question": "Differentiate dynamic hashing and static hashing."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3b OR",
+                "question": "Differentiate Sparse and Dense index in DBMS with example."
+            }
+        ]
+    },
+    "7": {
+        "unit_name": "Query Processing & Optimization",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q4c OR",
+                "question": "Explain various steps involved in query processing with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3a",
+                "question": "Explain query optimization process."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3c OR",
+                "question": "Enlist and explain the basic steps in Query Processing."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3c",
+                "question": "How can we measure cost of Join query? Explain using example."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3c OR",
+                "question": "Draw and explain the query processing steps."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4c",
+                "question": "Explain Query Optimization with example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4c OR",
+                "question": "Explain the steps of query processing with neat diagram."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4c OR",
+                "question": "What is Query processing? Explain why 'Parsing and translation' and 'Optimization' steps are required for query processing."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4c OR",
+                "question": "With neat diagram steps involved in query processing."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4c",
+                "question": "Discuss various steps of query processing with diagram."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4c OR",
+                "question": "Describe query processing with neat diagram."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4c",
+                "question": "Discuss various steps of query processing with diagram."
+            }
+        ]
+    },
+    "8": {
+        "unit_name": "Database Security",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q5a",
+                "question": "Explain SQL injection in brief."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q5a OR",
+                "question": "Describe two rules of mandatory access control."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4a OR",
+                "question": "Write short note on data encryption."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5a OR",
+                "question": "Define encryption and decryption."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5c OR",
+                "question": "What is role? How can we authorize a user using grant and revoke command? Give example."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4b",
+                "question": "Explain SQL Injection in brief."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4b",
+                "question": "Explain authentication methods used in DBMS with example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5b",
+                "question": "Enlist and explain user authorization to modify the database schema."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4b",
+                "question": "Explain authorization and authentication with respect to database security."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4b",
+                "question": "Write a short note on Intrusion Detection in DBMS."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4b OR",
+                "question": "Write a short note on SQL injection."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4b",
+                "question": "Explain authorization and authentication with respect to database security."
+            }
+        ]
+    },
+    "10": {
+        "unit_name": "PL/SQL Concepts",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q5b",
+                "question": "What is the use of a cursor in PL/SQL? Explain with example."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q5c OR",
+                "question": "Write a PL/SQL program that fetches records of all students and insert record as students having CPI > 4 in ELIGIBLE table and students having CPI <= 4 in NOT_ELIGIBLE table from student_master table."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5c OR",
+                "question": "Explain stored procedures and stored functions."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5a",
+                "question": "How can we print output in PL/SQL block? Give example."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5b",
+                "question": "Explain cursor and its types."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5b OR",
+                "question": "List various types of Trigers."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4b OR",
+                "question": "Explain Cursor in PL/SQL with example."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5b OR",
+                "question": "Explain Triggers in PL/SQL with example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5c",
+                "question": "The given relation CUSTOMER (CId,Name, Age, Address,Salary). Write a PL/SQL procedure that increases the salary of employees by 5% whose age is greater than 50."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5a OR",
+                "question": "Why does the trigger require in database? Write SQL syntax for creating database trigger."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5c",
+                "question": "Write a PL/SQL function which takes 3 integer numbers as a parameters and return an average of same."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5a",
+                "question": "What is a trigger? List various types of triggers and explain any one with example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5a OR",
+                "question": "What is a cursor? Differentiate implicit and explicit cursor with example."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5c",
+                "question": "Assume table CUSTOMER (Cust_Id, Customer_name, Age, Address, Salary). Write a PL/SQL function which gives total number of customers having salary more than one lac per month."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5c OR",
+                "question": "Write a PL/SQL trigger where employee of \"GTU Private Ltd.\" company cannot update database on 23-Dec-2024 due to maintenance."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5b",
+                "question": "Write a PL/SQL function which takes 3 integer numbers as parameters and return an average of same."
+            }
+        ]
+    },
+    "1": {
+        "unit_name": "Introductory concepts of DBMS",
+        "questions": [
+            {
+                "year": "S2023",
+                "question_no": "Q1a",
+                "question": "Explain the different types of database users."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1b",
+                "question": "What are the responsibilities of a DBA?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1c",
+                "question": "Explain database system 3 tier architecture with clear diagram in detail."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1a",
+                "question": "Define Logical Data Independence and Physical Data Independence."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1b",
+                "question": "Draw and explain 3 layers of abstraction of DBMS."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1a",
+                "question": "Explain Logical & Physical data independence supported by DBMS."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1b",
+                "question": "Explain different types of users of DBMS."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1c",
+                "question": "Compare database approach with traditional file systems to store application data."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2a",
+                "question": "Explain Three Layer Schema Architecture of DBMS."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q1a",
+                "question": "Define Database Management System. Explain its purpose."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q1b",
+                "question": "Differentiate between Database Users and Database Administrator (DBA)."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q1c",
+                "question": "Explain Database Architecture with a neat diagram."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1a",
+                "question": "Explain three levels of data abstraction."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1a",
+                "question": "Define following terms.\ni) Data Abstraction\nii) Instance\niii) Logical Data independence"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1b",
+                "question": "List the type of database users. Explain their characteristics in brief, how they interact with DBMS?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1c",
+                "question": "State the advantages of Database management systems over file processing system."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1b",
+                "question": "Enlist advantages of Database Management Systems over traditional File System."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1c",
+                "question": "Explain DBMS architecture with a neat sketch."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1a",
+                "question": "Define following terms.\ni) Database Management System\nii) Instance\niii) Logical Data independence"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1b",
+                "question": "List and explain categories of database users. Describe roles and responsibilities of database administrator."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1c",
+                "question": "Compare the advantages of using a Database Management System (DBMS) over a file processing system."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1a",
+                "question": "Define following terms.\n1. Schema\n2. Instance\n3. Physical Data Independence"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1b",
+                "question": "Explain three level architecture of DBMS."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2c",
+                "question": "Explain the advantages of Database Management Systems over file processing system."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2c OR",
+                "question": "List the type of Database Users. Explain their characteristics in brief. How they interact with DBMS?"
+            }
+        ]
+    }
+}

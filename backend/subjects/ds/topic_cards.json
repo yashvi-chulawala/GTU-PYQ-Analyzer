@@ -1,0 +1,2250 @@
+{
+    "1": {
+        "unit_name": "Introduction to Data Structures",
+        "Most Important": [
+            {
+                "topic": "Basic Terminology",
+                "frequency": 13,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1a",
+                        "question": "What is time complexity? Explain with example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1b",
+                        "question": "Explain malloc and free functions in 'C'. Also discuss advantages of dynamic over static memory allocation."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1b",
+                        "question": "Define time complexity? Explain worst case and best case complexity with examples."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "What is DS? Explain data structure and its types."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a",
+                        "question": "List all asymptotic notations and explain any one of it."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a",
+                        "question": "Explain malloc and free functions in 'C'."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a OR",
+                        "question": "What is time complexity? Explain with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1a",
+                        "question": "Define data structure. Enlist and explain types of data structure."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1b",
+                        "question": "Differentiate static and dynamic memory allocation."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1a",
+                        "question": "Explain data structure. Enlist and explain the importance of data structure."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1b",
+                        "question": "Define time and space complexity. Derive time complexity of merge sort."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1a",
+                        "question": "What is the best-case, average-case, and worst-case time complexity analysis?"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2b",
+                        "question": "Write the importance of asymptotic analysis. Is O(n log2n^2) faster than O(n^2)? Justify your answer with an example."
+                    }
+                ]
+            },
+            {
+                "topic": "Classification of Data Structure",
+                "frequency": 11,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1c",
+                        "question": "Explain following:\n(i) priority queue (ii) primitive data structures (iii) non-primitive data structures (iv) linear data structures (v) nonlinear data structures (vi) applications of stack (vii) sparse matrix"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1a",
+                        "question": "Differentiate primitive and non-primitive data structures"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1b",
+                        "question": "Define time complexity? Explain worst case and best case complexity with examples."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "What is DS? Explain data structure and its types."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a",
+                        "question": "List all asymptotic notations and explain any one of it."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1a",
+                        "question": "Define data structure. Enlist and explain types of data structure."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2b",
+                        "question": "Differentiate primitive and non-primitive data structures."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1a",
+                        "question": "Explain data structure. Enlist and explain the importance of data structure."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1a",
+                        "question": "What is the best-case, average-case, and worst-case time complexity analysis?"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2b",
+                        "question": "Write the importance of asymptotic analysis. Is O(n log2n^2) faster than O(n^2)? Justify your answer with an example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "Differentiate between Linear and Non-Linear Data Structures."
+                    }
+                ]
+            },
+            {
+                "topic": "Primitive and Non Primitive Data Structure",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1c",
+                        "question": "Explain following:\n(i) priority queue (ii) primitive data structures (iii) non-primitive data structures (iv) linear data structures (v) nonlinear data structures (vi) applications of stack (vii) sparse matrix"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1a",
+                        "question": "Differentiate primitive and non-primitive data structures"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "Explain following: (i) Recursion (ii) Nonprimitive data structures (iii) Hashing (iv) Non-linear data structures (v) sparse matrix (vi) Priority queue (vii) Collision"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2b",
+                        "question": "Differentiate primitive and non-primitive data structures."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1b",
+                        "question": "Explain storage representation of Primitive and Non Primitive Data Structures."
+                    }
+                ]
+            },
+            {
+                "topic": "Linear and Non-Linear Data Structures",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1c",
+                        "question": "Explain following:\n(i) priority queue (ii) primitive data structures (iii) non-primitive data structures (iv) linear data structures (v) nonlinear data structures (vi) applications of stack (vii) sparse matrix"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "What is DS? Explain data structure and its types."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "Explain following: (i) Recursion (ii) Nonprimitive data structures (iii) Hashing (iv) Non-linear data structures (v) sparse matrix (vi) Priority queue (vii) Collision"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1a",
+                        "question": "Define data structure. Enlist and explain types of data structure."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1a",
+                        "question": "Explain data structure. Enlist and explain the importance of data structure."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "Differentiate between Linear and Non-Linear Data Structures."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Storage representation of Primitive and Non Primitive Data Structures",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1b",
+                        "question": "Explain malloc and free functions in 'C'. Also discuss advantages of dynamic over static memory allocation."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1b",
+                        "question": "Differentiate static and dynamic memory allocation."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1b",
+                        "question": "Explain storage representation of Primitive and Non Primitive Data Structures."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Priority Queue",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1c",
+                        "question": "Explain following:\n(i) priority queue (ii) primitive data structures (iii) non-primitive data structures (iv) linear data structures (v) nonlinear data structures (vi) applications of stack (vii) sparse matrix"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "Explain following: (i) Recursion (ii) Nonprimitive data structures (iii) Hashing (iv) Non-linear data structures (v) sparse matrix (vi) Priority queue (vii) Collision"
+                    }
+                ]
+            },
+            {
+                "topic": "Sparse Matrix and its Representation",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1c",
+                        "question": "Explain following:\n(i) priority queue (ii) primitive data structures (iii) non-primitive data structures (iv) linear data structures (v) nonlinear data structures (vi) applications of stack (vii) sparse matrix"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "Explain following: (i) Recursion (ii) Nonprimitive data structures (iii) Hashing (iv) Non-linear data structures (v) sparse matrix (vi) Priority queue (vii) Collision"
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Applications of Stacks",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1c",
+                        "question": "Explain following:\n(i) priority queue (ii) primitive data structures (iii) non-primitive data structures (iv) linear data structures (v) nonlinear data structures (vi) applications of stack (vii) sparse matrix"
+                    }
+                ]
+            },
+            {
+                "topic": "Recursion",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "Explain following: (i) Recursion (ii) Nonprimitive data structures (iii) Hashing (iv) Non-linear data structures (v) sparse matrix (vi) Priority queue (vii) Collision"
+                    }
+                ]
+            },
+            {
+                "topic": "Hashing Functions",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "Explain following: (i) Recursion (ii) Nonprimitive data structures (iii) Hashing (iv) Non-linear data structures (v) sparse matrix (vi) Priority queue (vii) Collision"
+                    }
+                ]
+            },
+            {
+                "topic": "Collision-Resolution Techniques",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "Explain following: (i) Recursion (ii) Nonprimitive data structures (iii) Hashing (iv) Non-linear data structures (v) sparse matrix (vi) Priority queue (vii) Collision"
+                    }
+                ]
+            },
+            {
+                "topic": "Merge Sort",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1b",
+                        "question": "Define time and space complexity. Derive time complexity of merge sort."
+                    }
+                ]
+            }
+        ]
+    },
+    "2": {
+        "unit_name": "Linear Data Structure",
+        "Most Important": [
+            {
+                "topic": "Polish Expression",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2a",
+                        "question": "Write an algorithm for infix to postfix conversion."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "Convert following infix expression into postfix expression using stack.\n(A-B)/C*D^(E/F)^(G+H)"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b OR",
+                        "question": "Convert the following infix expressions to their prefix.\n(A^B*C-D+E/F/(G+H))"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1c",
+                        "question": "Convert the following infix expression into postfix expression using stack.\n(A-B)/C*D^(E/F)^(G+H)"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1c",
+                        "question": "1) Evaluate the postfix expression in tabular forms: 2 5 3 - * 8 / 4 +\n2) Evaluate the prefix expression in tabular forms: / 7 * 1 + 4 – 6 3"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c",
+                        "question": "Convert the following infix expression into a postfix expression using stack.\n(a+b)^((c*d)/(e-f))"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c OR",
+                        "question": "Write an algorithm to convert infix expression into postfix expression."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1c",
+                        "question": "Convert the following expression to postfix using stack. Show each step clearly\n((A-B)+D/((E+F)*G))"
+                    }
+                ]
+            },
+            {
+                "topic": "Reverse Polish Expression And Their Compilation",
+                "frequency": 11,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2a",
+                        "question": "Write an algorithm for infix to postfix conversion."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2b",
+                        "question": "Write an algorithm to evaluate postfix expression. Explain working of the algorithm using appropriate example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "Convert following infix expression into postfix expression using stack.\n(A-B)/C*D^(E/F)^(G+H)"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b OR",
+                        "question": "Convert the following infix expressions to their prefix.\n(A^B*C-D+E/F/(G+H))"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1c",
+                        "question": "Convert the following infix expression into postfix expression using stack.\n(A-B)/C*D^(E/F)^(G+H)"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c",
+                        "question": "Do as directed:\ni) Evaluate the postfix expression in tabular forms: 8 2 / 6 7 * +\nii) Explain Tower Of Hanoi with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c OR",
+                        "question": "Do as directed:\ni) Evaluate the prefix expression in tabular forms: * / - 8 2 3 4\nii) Explain Sparse matrix with example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1c",
+                        "question": "1) Evaluate the postfix expression in tabular forms: 2 5 3 - * 8 / 4 +\n2) Evaluate the prefix expression in tabular forms: / 7 * 1 + 4 – 6 3"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c",
+                        "question": "Convert the following infix expression into a postfix expression using stack.\n(a+b)^((c*d)/(e-f))"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c OR",
+                        "question": "Write an algorithm to convert infix expression into postfix expression."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1c",
+                        "question": "Convert the following expression to postfix using stack. Show each step clearly\n((A-B)+D/((E+F)*G))"
+                    }
+                ]
+            },
+            {
+                "topic": "Operations On Stacks",
+                "frequency": 16,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2a",
+                        "question": "Write an algorithm for infix to postfix conversion."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2b",
+                        "question": "Write an algorithm to evaluate postfix expression. Explain working of the algorithm using appropriate example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2c",
+                        "question": "Write a 'C' program to reverse a string using stack."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "Convert following infix expression into postfix expression using stack.\n(A-B)/C*D^(E/F)^(G+H)"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "What is stack? Explain operations on stack in detail."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b OR",
+                        "question": "Convert the following infix expressions to their prefix.\n(A^B*C-D+E/F/(G+H))"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1c",
+                        "question": "Convert the following infix expression into postfix expression using stack.\n(A-B)/C*D^(E/F)^(G+H)"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c",
+                        "question": "Define stack. Write algorithms for PUSH, POP and PEEP operations of stack."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c",
+                        "question": "Do as directed:\ni) Evaluate the postfix expression in tabular forms: 8 2 / 6 7 * +\nii) Explain Tower Of Hanoi with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c OR",
+                        "question": "Do as directed:\ni) Evaluate the prefix expression in tabular forms: * / - 8 2 3 4\nii) Explain Sparse matrix with example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1c",
+                        "question": "1) Evaluate the postfix expression in tabular forms: 2 5 3 - * 8 / 4 +\n2) Evaluate the prefix expression in tabular forms: / 7 * 1 + 4 – 6 3"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c",
+                        "question": "Write an algorithm for the following stack operations.\n1) PUSH 2) POP 3) DISPLAY"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c",
+                        "question": "Convert the following infix expression into a postfix expression using stack.\n(a+b)^((c*d)/(e-f))"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c OR",
+                        "question": "Write an algorithm to convert infix expression into postfix expression."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1c",
+                        "question": "Convert the following expression to postfix using stack. Show each step clearly\n((A-B)+D/((E+F)*G))"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c",
+                        "question": "Write an algorithm for the following stack operations. 1) PUSH 2) POP 3) DISPLAY"
+                    }
+                ]
+            },
+            {
+                "topic": "Applications of Stacks",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2b",
+                        "question": "Write an algorithm to evaluate postfix expression. Explain working of the algorithm using appropriate example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2c",
+                        "question": "Write a 'C' program to reverse a string using stack."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "What is stack? Explain operations on stack in detail."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3a OR",
+                        "question": "Enlist and explain any 3 applications of stack in computer science."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a",
+                        "question": "Illustrate how stack is used in the recursion."
+                    }
+                ]
+            },
+            {
+                "topic": "Circular Queue",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2c OR",
+                        "question": "Write algorithm to (i) insert, and (ii) delete elements in circular queue."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b OR",
+                        "question": "Write algorithm to delete from circular queue and mention the advantage of circular queue over simple queue?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c",
+                        "question": "What is problem with simple queue? Explain its solution with example and algorithms."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c",
+                        "question": "Write a C program for the following operations on a circular queue.\n1. Insert 2. Delete 3. Display"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a",
+                        "question": "Explain Circular queue in detail."
+                    }
+                ]
+            },
+            {
+                "topic": "Operations On Queue",
+                "frequency": 11,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2c OR",
+                        "question": "Write algorithm to (i) insert, and (ii) delete elements in circular queue."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b",
+                        "question": "Write algorithm to insert into simple queue and mention the limitation of simple queue?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b OR",
+                        "question": "Write algorithm to delete from circular queue and mention the advantage of circular queue over simple queue?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a",
+                        "question": "What is priority queue? Is simple queue is anyhow priority queue? Explain your answer."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1c",
+                        "question": "Write algorithms to insert, and delete elements in queue"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c",
+                        "question": "What is problem with simple queue? Explain its solution with example and algorithms."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c OR",
+                        "question": "Define queue. Write algorithms for INSERT, DELETE and DISPLAY operations of queue."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Write an algorithm for the following queue operations.\n1) INSERT 2) DELETE 3) DISPLAY"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c",
+                        "question": "Write a C program for the following operations on a circular queue.\n1. Insert 2. Delete 3. Display"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c OR",
+                        "question": "What is queue? Explain operations on queue in detail."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a",
+                        "question": "Explain Circular queue in detail."
+                    }
+                ]
+            },
+            {
+                "topic": "Singly Linked List",
+                "frequency": 11,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3a",
+                        "question": "Write user defined 'C' function to insert node at a specific location in singly linked list."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c",
+                        "question": "Write a 'C' program to implement queue using linked list."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c OR",
+                        "question": "Write a 'C' program to implement stack using linked list."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a OR",
+                        "question": "What is linked list? States the advantages of linked list over array. Also list various types of the linked list."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b",
+                        "question": "List and explain linked list applications."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c OR",
+                        "question": "Write and explain algorithm for insertion in Singly Linked List"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2a",
+                        "question": "Compare array and linked list."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c OR",
+                        "question": "Write an algorithm to insert an item as below:\n1) At the start of the linked list\n2) At the end of the linked list"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c OR",
+                        "question": "Write an algorithm to sort existing singly linked list in ascending order according to the information field."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2a",
+                        "question": "Differentiate Array and Linked lists."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b",
+                        "question": "Write Algorithm to insert new node after given location in singly linked list."
+                    }
+                ]
+            },
+            {
+                "topic": "Doubly Linked list",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3b OR",
+                        "question": "Write user defined 'C' function to delete node from a specific location in doubly linked list."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a OR",
+                        "question": "What is linked list? States the advantages of linked list over array. Also list various types of the linked list."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c",
+                        "question": "What is doubly linked list? Write Algorithm for insertion and deletion in doubly linked list."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b",
+                        "question": "Design an algorithm to insert an element in doubly linked list."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b OR",
+                        "question": "Design an algorithm to delete an element in doubly linked list."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a OR",
+                        "question": "Write an algorithm to delete an item from the doubly linked list."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c OR",
+                        "question": "What is doubly linked list? Write Algorithm for insertion and deletion in doubly linked list."
+                    }
+                ]
+            },
+            {
+                "topic": "Representation of arrays",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2a",
+                        "question": "What is Sparse matrix? Write efficient vector representation of following Sparse matrix.\n1 0 0\n0 2 0\n0 0 3"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2a",
+                        "question": "Compare array and linked list."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1b",
+                        "question": "Explain row-major order and column-major order representation of 2-D array."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2a",
+                        "question": "Differentiate Array and Linked lists."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2b",
+                        "question": "Explain the memory representation of a one-dimensional and two-dimensional array with examples."
+                    }
+                ]
+            },
+            {
+                "topic": "Representation Of Queue",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b",
+                        "question": "Write algorithm to insert into simple queue and mention the limitation of simple queue?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a",
+                        "question": "What is priority queue? Is simple queue is anyhow priority queue? Explain your answer."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1c",
+                        "question": "Write algorithms to insert, and delete elements in queue"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c",
+                        "question": "What is problem with simple queue? Explain its solution with example and algorithms."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c OR",
+                        "question": "Define queue. Write algorithms for INSERT, DELETE and DISPLAY operations of queue."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Write an algorithm for the following queue operations.\n1) INSERT 2) DELETE 3) DISPLAY"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b",
+                        "question": "Explain Dequeue and Priority queue in detail."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c OR",
+                        "question": "What is queue? Explain operations on queue in detail."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a",
+                        "question": "Explain Circular queue in detail."
+                    }
+                ]
+            },
+            {
+                "topic": "Recursion",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b",
+                        "question": "Write C program to find the Fibonacci sequence of n terms using recursion."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b OR",
+                        "question": "Write recursive solution for tower of Hanoi. How many moves require for transferring three discs?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1b",
+                        "question": "Explain Tower of Hanoi with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c",
+                        "question": "Do as directed:\ni) Evaluate the postfix expression in tabular forms: 8 2 / 6 7 * +\nii) Explain Tower Of Hanoi with example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2a",
+                        "question": "Explain Tower of Hanoi with suitable example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a",
+                        "question": "Illustrate how stack is used in the recursion."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a OR",
+                        "question": "Write a recursive solution for Tower of Hanoi problem."
+                    }
+                ]
+            },
+            {
+                "topic": "Applications of linked list",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a OR",
+                        "question": "What is linked list? States the advantages of linked list over array. Also list various types of the linked list."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b",
+                        "question": "List and explain linked list applications."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2a",
+                        "question": "Compare array and linked list."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3a",
+                        "question": "Enlist and explain any 3 applications of linked list."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c OR",
+                        "question": "Write an algorithm to sort existing singly linked list in ascending order according to the information field."
+                    }
+                ]
+            },
+            {
+                "topic": "Tower of Hanoi",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b OR",
+                        "question": "Write recursive solution for tower of Hanoi. How many moves require for transferring three discs?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1b",
+                        "question": "Explain Tower of Hanoi with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c",
+                        "question": "Do as directed:\ni) Evaluate the postfix expression in tabular forms: 8 2 / 6 7 * +\nii) Explain Tower Of Hanoi with example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2a",
+                        "question": "Explain Tower of Hanoi with suitable example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a OR",
+                        "question": "Write a recursive solution for Tower of Hanoi problem."
+                    }
+                ]
+            },
+            {
+                "topic": "Stack-Definitions & Concepts",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "What is stack? Explain operations on stack in detail."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c",
+                        "question": "Define stack. Write algorithms for PUSH, POP and PEEP operations of stack."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c",
+                        "question": "Write an algorithm for the following stack operations.\n1) PUSH 2) POP 3) DISPLAY"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a",
+                        "question": "Illustrate how stack is used in the recursion."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c",
+                        "question": "Write an algorithm for the following stack operations. 1) PUSH 2) POP 3) DISPLAY"
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Circular linked list",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3b",
+                        "question": "Write user defined 'C' function to delete node from end in circular linked list."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3a OR",
+                        "question": "Write user defined 'C' function to insert node at the end in circular linked list."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a OR",
+                        "question": "What is linked list? States the advantages of linked list over array. Also list various types of the linked list."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Sparse Matrix and its Representation",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2a",
+                        "question": "What is Sparse matrix? Write efficient vector representation of following Sparse matrix.\n1 0 0\n0 2 0\n0 0 3"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c OR",
+                        "question": "Do as directed:\ni) Evaluate the prefix expression in tabular forms: * / - 8 2 3 4\nii) Explain Sparse matrix with example."
+                    }
+                ]
+            },
+            {
+                "topic": "Priority Queue",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a",
+                        "question": "What is priority queue? Is simple queue is anyhow priority queue? Explain your answer."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b",
+                        "question": "Explain Dequeue and Priority queue in detail."
+                    }
+                ]
+            },
+            {
+                "topic": "Applications of arrays",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1b",
+                        "question": "Explain row-major order and column-major order representation of 2-D array."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2b",
+                        "question": "Explain the memory representation of a one-dimensional and two-dimensional array with examples."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Linked implementation of Queue",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c",
+                        "question": "Write a 'C' program to implement queue using linked list."
+                    }
+                ]
+            },
+            {
+                "topic": "Linked implementation of Stack",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c OR",
+                        "question": "Write a 'C' program to implement stack using linked list."
+                    }
+                ]
+            },
+            {
+                "topic": "Double Ended Queue",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b",
+                        "question": "Explain Dequeue and Priority queue in detail."
+                    }
+                ]
+            }
+        ]
+    },
+    "3": {
+        "unit_name": "Non Linear Data Structure",
+        "Most Important": [
+            {
+                "topic": "Binary tree traversal",
+                "frequency": 11,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4a",
+                        "question": "Construct a binary tree from the traversals given below:\nInorder: D, B, A, E, G, C, H, F, I\nPreorder: A, B, D, C, E, G, F, H, I"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c",
+                        "question": "Create Binary Search Tree for following Data and write pre-order traversal, in-order traversal and post-order traversal of the constructed tree.\n10 15 28 09 39 31 30 14 07 08"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c OR",
+                        "question": "Create AVL tree for following Data and write pre-order traversal of the constructed tree.\n10 15 28 09 39 31 30 14 07 08"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2a",
+                        "question": "Construct Binary Tree where the preorder traversal is 1,2,4,5,3,6,8,9,7 & postorder is 4,5,2,8,9,6,7,3,1."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c OR",
+                        "question": "Explain tree traversal in detail with example."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b",
+                        "question": "Define the following: 1. Sibling 2. Forest 3. Complete Binary Tree 4. Complete Graph"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b",
+                        "question": "Construct a binary tree from the traversals given below:\nIn-order: D, B, A, E, G, C, H, F, I\nPre-order: A, B, D, C, E, G, F, H, I"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b OR",
+                        "question": "Construct a binary tree from the traversals given below:\nPre-order: 1, 2, 4, 8, 9, 5, 3, 6, 7\nPost-order: 8, 9, 4, 5, 2, 6, 7, 3, 1"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c",
+                        "question": "Construct a binary tree from the traversals given below:\nInorder: D, B, E, H, A, I, F, C, G\nPreorder: A, B, D, E, H, C, F, I, G"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1c",
+                        "question": "Construct a Binary Search Tree for the following data.\n21, 51, 12, 45, 17, 71, 19, 47, 78.\nWrite Pre-order, In-order, and Post-order traversal of constructed BST."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a OR",
+                        "question": "Construct a binary tree from the traversals given below:\nInorder: D, B, A, E, G, C, H, F, I\nPreorder: A, B, D, C, E, G, F, H, I"
+                    }
+                ]
+            },
+            {
+                "topic": "Representation of binary tree",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4a",
+                        "question": "Construct a binary tree from the traversals given below:\nInorder: D, B, A, E, G, C, H, F, I\nPreorder: A, B, D, C, E, G, F, H, I"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2a",
+                        "question": "Construct Binary Tree where the preorder traversal is 1,2,4,5,3,6,8,9,7 & postorder is 4,5,2,8,9,6,7,3,1."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b",
+                        "question": "Construct a binary tree from the traversals given below:\nIn-order: D, B, A, E, G, C, H, F, I\nPre-order: A, B, D, C, E, G, F, H, I"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b OR",
+                        "question": "Construct a binary tree from the traversals given below:\nPre-order: 1, 2, 4, 8, 9, 5, 3, 6, 7\nPost-order: 8, 9, 4, 5, 2, 6, 7, 3, 1"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c",
+                        "question": "Construct a binary tree from the traversals given below:\nInorder: D, B, E, H, A, I, F, C, G\nPreorder: A, B, D, E, H, C, F, I, G"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2a",
+                        "question": "Define following terms:\n1. Full Binary Tree 2. Complete Binary Tree 3. Skewed Binary Tree"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a OR",
+                        "question": "Construct a binary tree from the traversals given below:\nInorder: D, B, A, E, G, C, H, F, I\nPreorder: A, B, D, C, E, G, F, H, I"
+                    }
+                ]
+            },
+            {
+                "topic": "Binary search trees",
+                "frequency": 16,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4b",
+                        "question": "Write a short on AVL tree."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4c",
+                        "question": "Explain the concept of B-tree with suitable example and list its applications."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4a OR",
+                        "question": "Construct a binary search tree from the following numbers.\n38, 13, 51, 10, 12, 40, 84, 25, 89, 37, 66, 95"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4c OR",
+                        "question": "Explain B+ tree with example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c",
+                        "question": "Create Binary Search Tree for following Data and write pre-order traversal, in-order traversal and post-order traversal of the constructed tree.\n10 15 28 09 39 31 30 14 07 08"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c OR",
+                        "question": "Create AVL tree for following Data and write pre-order traversal of the constructed tree.\n10 15 28 09 39 31 30 14 07 08"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2b",
+                        "question": "Construct an AVL Tree by inserting numbers from 1 to 8."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a",
+                        "question": "Explain 2-3 Tree in brief."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a",
+                        "question": "Explain binary search tree with suitable example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a OR",
+                        "question": "Explain AVL tree with suitable example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a",
+                        "question": "Write an algorithm to add a node into a binary search tree."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b",
+                        "question": "Explain AVL tree in detail with suitable example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b OR",
+                        "question": "Explain 2-3 tree in brief."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1c",
+                        "question": "Construct a Binary Search Tree for the following data.\n21, 51, 12, 45, 17, 71, 19, 47, 78.\nWrite Pre-order, In-order, and Post-order traversal of constructed BST."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c",
+                        "question": "Write an algorithm to delete a node from a binary search tree."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a",
+                        "question": "Define the following: 1. Binary Search Tree 2. Complete Binary Tree 3. Complete Graph"
+                    }
+                ]
+            },
+            {
+                "topic": "Definitions and Concepts",
+                "frequency": 15,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4b",
+                        "question": "Write a short on AVL tree."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "Define following terms\n1) Balance factor\n2) Hash function\n3) Cyclic graph"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2b",
+                        "question": "Construct an AVL Tree by inserting numbers from 1 to 8."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c OR",
+                        "question": "Explain tree traversal in detail with example."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a",
+                        "question": "Explain 2-3 Tree in brief."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b",
+                        "question": "Define the following: 1. Sibling 2. Forest 3. Complete Binary Tree 4. Complete Graph"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a",
+                        "question": "Explain binary search tree with suitable example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a OR",
+                        "question": "Explain AVL tree with suitable example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b",
+                        "question": "Explain AVL tree in detail with suitable example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a OR",
+                        "question": "Define the terms below:\n1) Complete Binary Tree 2) Forest 3) Abstract data type"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b OR",
+                        "question": "Explain 2-3 tree in brief."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2a",
+                        "question": "Define following terms:\n1. Full Binary Tree 2. Complete Binary Tree 3. Skewed Binary Tree"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b",
+                        "question": "Describe Threaded Binary Tree with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a",
+                        "question": "Define the following: 1. Binary Search Tree 2. Complete Binary Tree 3. Complete Graph"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b OR",
+                        "question": "Explain Conversion of General Trees To Binary Trees with example."
+                    }
+                ]
+            },
+            {
+                "topic": "Breadth First Search",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4b OR",
+                        "question": "Explain BFS and DFS."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c",
+                        "question": "Explain DFS and BFS with appropriate example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c",
+                        "question": "Differentiate DFS and BFS in detail."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b OR",
+                        "question": "Differentiate: BFS and DFS."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b",
+                        "question": "Differentiate: BFS and DFS."
+                    }
+                ]
+            },
+            {
+                "topic": "Depth First Search",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4b OR",
+                        "question": "Explain BFS and DFS."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c",
+                        "question": "Explain DFS and BFS with appropriate example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c",
+                        "question": "Differentiate DFS and BFS in detail."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b OR",
+                        "question": "Differentiate: BFS and DFS."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b OR",
+                        "question": "Explain the DFS traversal of the graph with an example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b",
+                        "question": "Differentiate: BFS and DFS."
+                    }
+                ]
+            },
+            {
+                "topic": "Elementary Graph operations",
+                "frequency": 20,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4b OR",
+                        "question": "Explain BFS and DFS."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5a",
+                        "question": "Explain Prim's algorithm."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Find the minimum spanning tree of following graph using Kruskal's method."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Find the minimum spanning tree of the following graph using prim's method."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c",
+                        "question": "Explain DFS and BFS with appropriate example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c OR",
+                        "question": "Explain Dijkstra's shortest path algorithm with appropriate example"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c OR",
+                        "question": "Explain Prim's & Kruskal's algorithm with suitable example"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c",
+                        "question": "Differentiate DFS and BFS in detail."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c OR",
+                        "question": "Explain prim's and krushkal's algorithm with suitable example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Construct the minimum spanning tree using prim's algorithm for the following graph."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b OR",
+                        "question": "Differentiate: BFS and DFS."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c OR",
+                        "question": "Construct the minimum spanning tree using krushkal's algorithm for the following graph."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c OR",
+                        "question": "Explain Dijakstra's shortest path using suitable example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b OR",
+                        "question": "Explain the DFS traversal of the graph with an example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c",
+                        "question": "Find the minimum spanning tree of the following graph using Kruskal's algorithm."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c OR",
+                        "question": "Find the shortest path from A to F using Dijkstra's Algorithm."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b OR",
+                        "question": "What is a graph? Explain various representations of graphs."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b",
+                        "question": "Differentiate: BFS and DFS."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Explain Kruskal's algorithm with suitable example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "Explain Prim's algorithm with suitable example."
+                    }
+                ]
+            },
+            {
+                "topic": "Spanning Trees",
+                "frequency": 10,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5a",
+                        "question": "Explain Prim's algorithm."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Find the minimum spanning tree of following graph using Kruskal's method."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Find the minimum spanning tree of the following graph using prim's method."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c OR",
+                        "question": "Explain Prim's & Kruskal's algorithm with suitable example"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c OR",
+                        "question": "Explain prim's and krushkal's algorithm with suitable example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Construct the minimum spanning tree using prim's algorithm for the following graph."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c OR",
+                        "question": "Construct the minimum spanning tree using krushkal's algorithm for the following graph."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c",
+                        "question": "Find the minimum spanning tree of the following graph using Kruskal's algorithm."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Explain Kruskal's algorithm with suitable example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "Explain Prim's algorithm with suitable example."
+                    }
+                ]
+            },
+            {
+                "topic": "Minimal spanning tree",
+                "frequency": 10,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5a",
+                        "question": "Explain Prim's algorithm."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Find the minimum spanning tree of following graph using Kruskal's method."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Find the minimum spanning tree of the following graph using prim's method."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c OR",
+                        "question": "Explain Prim's & Kruskal's algorithm with suitable example"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c OR",
+                        "question": "Explain prim's and krushkal's algorithm with suitable example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Construct the minimum spanning tree using prim's algorithm for the following graph."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c OR",
+                        "question": "Construct the minimum spanning tree using krushkal's algorithm for the following graph."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c",
+                        "question": "Find the minimum spanning tree of the following graph using Kruskal's algorithm."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Explain Kruskal's algorithm with suitable example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "Explain Prim's algorithm with suitable example."
+                    }
+                ]
+            },
+            {
+                "topic": "Graph-Matrix Representation Of Graphs",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "Define following terms\n1) Balance factor\n2) Hash function\n3) Cyclic graph"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b",
+                        "question": "Define the following: 1. Sibling 2. Forest 3. Complete Binary Tree 4. Complete Graph"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a",
+                        "question": "Define the terms below:\n1) Threaded Tree 2) Acyclic graph 3) Sparse matrix"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b OR",
+                        "question": "Explain the DFS traversal of the graph with an example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b OR",
+                        "question": "What is a graph? Explain various representations of graphs."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a",
+                        "question": "Define the following: 1. Binary Search Tree 2. Complete Binary Tree 3. Complete Graph"
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Shortest path",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c OR",
+                        "question": "Explain Dijkstra's shortest path algorithm with appropriate example"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c OR",
+                        "question": "Explain Dijakstra's shortest path using suitable example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c OR",
+                        "question": "Find the shortest path from A to F using Dijkstra's Algorithm."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Applications Of Trees",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4c",
+                        "question": "Explain the concept of B-tree with suitable example and list its applications."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4c OR",
+                        "question": "Explain B+ tree with example."
+                    }
+                ]
+            },
+            {
+                "topic": "Threaded binary tree",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a",
+                        "question": "Define the terms below:\n1) Threaded Tree 2) Acyclic graph 3) Sparse matrix"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b",
+                        "question": "Describe Threaded Binary Tree with example."
+                    }
+                ]
+            },
+            {
+                "topic": "Conversion of General Trees To Binary Trees",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a OR",
+                        "question": "Define the terms below:\n1) Complete Binary Tree 2) Forest 3) Abstract data type"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b OR",
+                        "question": "Explain Conversion of General Trees To Binary Trees with example."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Hashing Functions",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "Define following terms\n1) Balance factor\n2) Hash function\n3) Cyclic graph"
+                    }
+                ]
+            },
+            {
+                "topic": "Sparse Matrix and its Representation",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a",
+                        "question": "Define the terms below:\n1) Threaded Tree 2) Acyclic graph 3) Sparse matrix"
+                    }
+                ]
+            },
+            {
+                "topic": "Basic Terminology",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a OR",
+                        "question": "Define the terms below:\n1) Complete Binary Tree 2) Forest 3) Abstract data type"
+                    }
+                ]
+            }
+        ]
+    },
+    "5": {
+        "unit_name": "Sorting & Searching",
+        "Most Important": [
+            {
+                "topic": "Binary Search",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5b OR",
+                        "question": "Compare sequential and binary search methods."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2b",
+                        "question": "What is the worst case complexity of binary search? Write an algorithm for binary search."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a OR",
+                        "question": "Explain binary search technique."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b OR",
+                        "question": "Explain Binary Search with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a OR",
+                        "question": "Differentiate sequential search and binary search."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a",
+                        "question": "Compare linear search and binary search in terms of their time complexity."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a OR",
+                        "question": "Search the number 50 from the given data using binary search technique. Illustrate the searching process. 10, 14, 20, 39, 41, 45, 49, 50, 60"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a",
+                        "question": "Compare linear search and binary search in terms of their time complexity."
+                    }
+                ]
+            },
+            {
+                "topic": "Quick Sort",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5c OR",
+                        "question": "Apply quick sort for the following data:\n9, 7, 5, 11, 12, 2, 14, 3, 10, 6"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b OR",
+                        "question": "Sort following data using quick sort.\n10 15 28 09 39 31 30 14 07 08"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b OR",
+                        "question": "Explain fastest sorting technique with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c OR",
+                        "question": "Do as directed below:\ni) Sort following elements using quick sort. 10 15 28 09 40 35 29 12 06 07\nii) State time and space complexity of quick sort."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b OR",
+                        "question": "Sort the following data using quick sort.\n50, 30, 80, 40, 35, 70, 60, 20, 75"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a OR",
+                        "question": "Does a pivot selection method affect the time complexity of quick sort? Justify your answer."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Selection Sort",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5b",
+                        "question": "Write a 'C' program for selection sort."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a OR",
+                        "question": "Write c program for selection sort."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b OR",
+                        "question": "Write a C program for a selection sort."
+                    }
+                ]
+            },
+            {
+                "topic": "Sequential Search",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5b OR",
+                        "question": "Compare sequential and binary search methods."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a OR",
+                        "question": "Differentiate sequential search and binary search."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a",
+                        "question": "Compare linear search and binary search in terms of their time complexity."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a",
+                        "question": "Compare linear search and binary search in terms of their time complexity."
+                    }
+                ]
+            },
+            {
+                "topic": "Bubble Sort",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a",
+                        "question": "Write c program for bubble sort."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b",
+                        "question": "Write a C program for bubble sort."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b",
+                        "question": "Explain bubble sort with suitable example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b",
+                        "question": "Write a C program for a bubble sort."
+                    }
+                ]
+            },
+            {
+                "topic": "Merge Sort",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b",
+                        "question": "Sort following data using merge sort.\n10 15 28 09 39 31 30 14 07 08"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b",
+                        "question": "Sort the following data using merge sort.\n50, 20, 70, 05, 30, 80, 55, 25"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c OR",
+                        "question": "Write an algorithm for merge sort."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Insertion Sort",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b OR",
+                        "question": "Sort the following array elements using insertion sort algorithm.\n8, -2, 5, 3, 9, 4, 6"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b",
+                        "question": "Write an algorithm to sort an array using insertion sort method."
+                    }
+                ]
+            }
+        ],
+        "Less Important": []
+    },
+    "4": {
+        "unit_name": "Hashing and File Structures",
+        "Most Important": [
+            {
+                "topic": "Hashing Functions",
+                "frequency": 11,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5c",
+                        "question": "List out different hash methods and explain any three."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c",
+                        "question": "Define hash collision? Explain collision various resolution techniques."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a OR",
+                        "question": "Define following terms\n1) Hash table\n2) Graph\n3) Complete binary tree"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b",
+                        "question": "Explain any three hashing techniques with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a",
+                        "question": "State the reason why hash function is used. Give one example of hash function."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2b",
+                        "question": "Define hash function. Explain it with suitable example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c",
+                        "question": "Build a chained hash table of 10 memory locations. Insert the keys 121, 3, 4, 31, 61, 24, 7, 87, 8, 9 in hash table using chaining. Use h(k) = k mod m (m=10)."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a OR",
+                        "question": "What is hashing? Write the properties of a good hash function."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c",
+                        "question": "What is hash collision? Explain collision resolution techniques."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c",
+                        "question": "Describe various collision resolution techniques in hashing."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b OR",
+                        "question": "What is hashing? Explain any two hash functions in detail."
+                    }
+                ]
+            },
+            {
+                "topic": "The symbol table",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5c",
+                        "question": "List out different hash methods and explain any three."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b",
+                        "question": "Explain any three hashing techniques with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a",
+                        "question": "State the reason why hash function is used. Give one example of hash function."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2b",
+                        "question": "Define hash function. Explain it with suitable example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c",
+                        "question": "Build a chained hash table of 10 memory locations. Insert the keys 121, 3, 4, 31, 61, 24, 7, 87, 8, 9 in hash table using chaining. Use h(k) = k mod m (m=10)."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a OR",
+                        "question": "What is hashing? Write the properties of a good hash function."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b OR",
+                        "question": "What is hashing? Explain any two hash functions in detail."
+                    }
+                ]
+            },
+            {
+                "topic": "File Structure",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5a OR",
+                        "question": "Define terms with respect to file: fields, records, database"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c OR",
+                        "question": "What is file? Explain various types of file organization."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a OR",
+                        "question": "What is file? Explain types of files."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b OR",
+                        "question": "Define file organization. Briefly summarize different file organizations."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a",
+                        "question": "Define file. Explain its types."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a OR",
+                        "question": "Define file organization. Explain different file organizations."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a",
+                        "question": "Define the following terms:\n1. Field 2. Record 3. File"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c OR",
+                        "question": "List various file organizations and explain one in detail."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a OR",
+                        "question": "Explain Sequential file organizations and list its advantages and disadvantages."
+                    }
+                ]
+            },
+            {
+                "topic": "Collision-Resolution Techniques",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c",
+                        "question": "Define hash collision? Explain collision various resolution techniques."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c OR",
+                        "question": "What is collision? Explain collision resolution techniques with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c",
+                        "question": "Enlist and explain collision resolution techniques in hashing."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c",
+                        "question": "Build a chained hash table of 10 memory locations. Insert the keys 121, 3, 4, 31, 61, 24, 7, 87, 8, 9 in hash table using chaining. Use h(k) = k mod m (m=10)."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c",
+                        "question": "What is hash collision? Explain collision resolution techniques."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c",
+                        "question": "Describe various collision resolution techniques in hashing."
+                    }
+                ]
+            },
+            {
+                "topic": "File organizations",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c OR",
+                        "question": "What is file? Explain various types of file organization."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a OR",
+                        "question": "What is file? Explain types of files."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b OR",
+                        "question": "Define file organization. Briefly summarize different file organizations."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a",
+                        "question": "Define file. Explain its types."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a OR",
+                        "question": "Define file organization. Explain different file organizations."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c OR",
+                        "question": "List various file organizations and explain one in detail."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a OR",
+                        "question": "Explain Sequential file organizations and list its advantages and disadvantages."
+                    }
+                ]
+            }
+        ],
+        "Important": [],
+        "Moderate": [
+            {
+                "topic": "Fixed and variable length record",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5a OR",
+                        "question": "Define terms with respect to file: fields, records, database"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a",
+                        "question": "Define the following terms:\n1. Field 2. Record 3. File"
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Graph-Matrix Representation Of Graphs",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a OR",
+                        "question": "Define following terms\n1) Hash table\n2) Graph\n3) Complete binary tree"
+                    }
+                ]
+            },
+            {
+                "topic": "Definitions and Concepts",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a OR",
+                        "question": "Define following terms\n1) Hash table\n2) Graph\n3) Complete binary tree"
+                    }
+                ]
+            }
+        ]
+    }
+}

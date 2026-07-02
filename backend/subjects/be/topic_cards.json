@@ -1,0 +1,1698 @@
+{
+    "1": {
+        "unit_name": "Semiconductor Diodes",
+        "Most Important": [
+            {
+                "topic": "PN Junction Diode",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1a",
+                        "question": "What is a diode? Write its types and applications."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1c",
+                        "question": "Describe forward and reverse bias operation of a P-N junction diode."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1a",
+                        "question": "Define between insulator, conductor and semiconductor."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1b",
+                        "question": "Discuss forward and reverse bias operation of a P-N junction diode with depletion region."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1b",
+                        "question": "Explain the forward and reverse bias of PN junction."
+                    }
+                ]
+            },
+            {
+                "topic": "Diode Characteristics and Parameters",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1b",
+                        "question": "Explain the diode V-I characteristics of ideal and practical PN junction semiconductor diode."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1b",
+                        "question": "Draw and explain V-I characteristic of P-N junction diode."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1b",
+                        "question": "Draw and explain the V/I characteristics of a practical diode."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c",
+                        "question": "Write a short note: V-I characteristic of P-N junction diode."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1a",
+                        "question": "Sketch the characteristics of ideal diode and approximate characteristics of practical diodes. Briefly explain it."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1a",
+                        "question": "Draw the V-I characteristics for ideal diode and real diode."
+                    }
+                ]
+            },
+            {
+                "topic": "Zener Diodes",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Comparison between P-N junction Diode and Zener Diode."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a",
+                        "question": "State the difference between Avalanche breakdown and Zener breakdown."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "Describe the characteristics of Zener diode."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1b",
+                        "question": "Differentiate Avalanche breakdown and Zener breakdown."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1b",
+                        "question": "What is Zener breakdown? What is avalanche breakdown? Compare both the type of breakdown."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3a OR",
+                        "question": "State the difference between Avalanche breakdown and Zener breakdown."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2b",
+                        "question": "Explain the characteristics of Zener diode."
+                    }
+                ]
+            }
+        ],
+        "Important": [],
+        "Moderate": [
+            {
+                "topic": "Diode Approximations",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c",
+                        "question": "Discuss diode approximations."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c OR",
+                        "question": "Describe diode approximations in detail."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Diode Specifications",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1a",
+                        "question": "What is a diode? Write its types and applications."
+                    }
+                ]
+            },
+            {
+                "topic": "Diode Testing",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2b",
+                        "question": "Discuss different types of diodes. Describe process of testing diode with multi meter."
+                    }
+                ]
+            }
+        ]
+    },
+    "2": {
+        "unit_name": "Diode Applications",
+        "Most Important": [
+            {
+                "topic": "Series and Shunt Clipping Circuits",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1c",
+                        "question": "Enumerate the different types of clipping circuits with their different names and input-output waveforms."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1c",
+                        "question": "Illustrate the need of clipper circuit and explain Positive clipper and negative clipper with necessary diagram and waveforms."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1a",
+                        "question": "Explain series positive clipper with diagram."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2a",
+                        "question": "Define: clipper, Clamper, PIV of a Diode."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c",
+                        "question": "Explain biased positive and negative clipper circuits in detail."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2a",
+                        "question": "Draw the circuits for clipping the voltage waveforms."
+                    }
+                ]
+            },
+            {
+                "topic": "Half-wave and Full-wave Rectifiers",
+                "frequency": 11,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1b",
+                        "question": "Compare Half wave rectifier and Full wave bridge rectifier for following parameters. (i) Average DC Voltage (ii) Ripple Factor (iii) PIV (iv) Rectifier Efficiency"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1c",
+                        "question": "Draw and Explain bridge rectifier. Explain advantage and disadvantage of bridge rectifier over full wave rectifier."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c OR",
+                        "question": "State the applications of Rectifier, and Comparison of Halfwave, Full-wave center-tap and Full-wave Bridge rectifier."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2b",
+                        "question": "Compare different rectifier circuits."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c OR",
+                        "question": "Explain full wave center-tape rectifier in detail with waveforms and derivation of average output voltage."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c",
+                        "question": "Describe operation of full-wave rectifier with necessary figures."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c OR",
+                        "question": "A transformer having a secondary voltage of 100 V(rms) is used in a full-wave bridge rectifier. The diode has a resistance of 10 Ω and the load resistance is 90 Ω. Calculate (i) Im, (ii) Idc, (iii) Idc through each diode, (iv) Pdc, (v) γ, (vi) % regulation, and (vii) PIV of each diode."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "Explain full wave bridge rectifier with neat diagram."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c",
+                        "question": "Draw circuit diagram of Center-taped full wave rectifier and explain its operation with necessary waveforms and derivation of Vdc."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1b",
+                        "question": "Draw two-diode full-wave rectifier circuit and explain its operation."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1c",
+                        "question": "Discuss the operation of full bridge rectifier circuits with voltage and current waveforms."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Zener Diode Voltage Regulators",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "Explain zener diode as a Voltage regulator."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2b",
+                        "question": "Explain zener diode as a Voltage regulator."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b OR",
+                        "question": "Discuss Zener diode as voltage regulator."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b OR",
+                        "question": "Explain how Zener diode maintains constant voltage across load with circuit."
+                    }
+                ]
+            },
+            {
+                "topic": "Clamping Circuits",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a OR",
+                        "question": "Explain Negative Clamping circuit with diagram."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a",
+                        "question": "Draw circuit diagram of positive clamper and explain the operation."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2a",
+                        "question": "Describe Negative clamper circuit with necessary waveforms."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1c",
+                        "question": "Explain positive and negative voltage clamper circuit with waveforms."
+                    }
+                ]
+            },
+            {
+                "topic": "DC Voltage Multipliers",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2a",
+                        "question": "Explain Voltage Doubler circuit."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a",
+                        "question": "Draw voltage multiplier circuit."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3a",
+                        "question": "Draw circuit for Voltage doubler and explain its operation."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "RC and LC Power Supply Filters",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a",
+                        "question": "Describe RC filter with its limitations."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2b",
+                        "question": "Describe RC filter with its limitations."
+                    }
+                ]
+            }
+        ],
+        "Less Important": []
+    },
+    "3": {
+        "unit_name": "Bipolar Junction Transistors",
+        "Most Important": [
+            {
+                "topic": "BJT Operation",
+                "frequency": 16,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2a",
+                        "question": "Why are junction transistors called bipolar devices?"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2b",
+                        "question": "The metal lead of the p-side of a p-n diode is soldered to the metal lead of the p-side of another p-n junction diode. Will the structure form an n-p-n transistor? If not, why?"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c",
+                        "question": "Sketch the circuit of the common collector mode of BJT and its output characteristics. Derive the expression for the collector current and gain."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4c",
+                        "question": "Compare the different characteristics of the following semiconductor devices: bipolar junction transistor, field-effect transistor."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2b",
+                        "question": "Draw the symbol of NPN & PNP transistor, write its different operating regions and also explain why it is called as “Bipolar Transistor”."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c",
+                        "question": "Explain in detail different models used for AC analysis of BJT circuits."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2b",
+                        "question": "Draw the symbol of NPN & PNP transistor. Also state the advantage of transistor."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1a",
+                        "question": "Draw and explain constructional details and symbols for BJT."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a OR",
+                        "question": "For a BJT, αdc is 0.98 and base current is 50 μA, then find βdc, IC & IE."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a",
+                        "question": "Draw the symbol of NPN & PNP transistor, write its different operating regions and explain why it is called “Bipolar Transistor”."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a OR",
+                        "question": "For a bipolar junction transistor, αdc is 0.98 and base current is 50 μA, then find βdc, IC & IE."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a",
+                        "question": "Derive relation between α & β for BJT."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b",
+                        "question": "Compare different BJT configurations."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a OR",
+                        "question": "Briefly explain regions of operation for BJT."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2a",
+                        "question": "What are three modes of transistor operation, explain it."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c",
+                        "question": "Write short note on bipolar junction transistor (BJT)."
+                    }
+                ]
+            },
+            {
+                "topic": "BJT Voltages and Currents",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5b",
+                        "question": "What is an Early effect, and how can it account for the CB input characteristics?"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5b OR",
+                        "question": "The value of alpha increases with the increasing reverse-bias voltage of the collector junction. Why?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a",
+                        "question": "Derive the relation between current gain α and β"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a OR",
+                        "question": "Discuss about leakage current in transistor."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2a",
+                        "question": "Derive the relation between current gain α and β for CE configuration."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1c",
+                        "question": "Draw Common Base configuration and discuss its input and output characteristics with ICBO, ri, ro, and current gain α."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a OR",
+                        "question": "Derive the relation between current gain α and β."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1c",
+                        "question": "Draw CB configuration and discuss its input and output characteristics with ICBO, ri, ro, and current gain α."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c OR",
+                        "question": "Draw CE configuration and discuss its input and output characteristics with ICEO, ri, ro, and current gain β."
+                    }
+                ]
+            },
+            {
+                "topic": "CC Characteristics",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "Discuss Common Collector(CC) configuration of transistor and explain its input and output characteristics."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Compare CE, CB, and CC configuration with respect to different transistor characteristics."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a OR",
+                        "question": "Draw Hybrid equivalent model of transistor for CB, CE, CC configurations."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b OR",
+                        "question": "Compare CB, CE, CC configurations."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b OR",
+                        "question": "Give the differences between CB, CE, and CC configurations in BJTs."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Compare CB and CC configuration with respect to different transistor characteristics."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c",
+                        "question": "Compare CB, CE and CC configuration."
+                    }
+                ]
+            },
+            {
+                "topic": "CB Characteristics",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c OR",
+                        "question": "Discuss Common Base(CB) configuration of transistor and explain its input and output characteristics."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Compare CE, CB, and CC configuration with respect to different transistor characteristics."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1c",
+                        "question": "Draw Common Base configuration and discuss its input and output characteristics with ICBO, ri, ro, and current gain α."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b OR",
+                        "question": "Compare CB, CE, CC configurations."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Compare CB and CC configuration with respect to different transistor characteristics."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1c",
+                        "question": "Draw CB configuration and discuss its input and output characteristics with ICBO, ri, ro, and current gain α."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c",
+                        "question": "Compare CB, CE and CC configuration."
+                    }
+                ]
+            },
+            {
+                "topic": "CE Characteristics",
+                "frequency": 10,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2a",
+                        "question": "Derive the relation between current gain α and β for CE configuration."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c",
+                        "question": "Draw and explain input and output characteristic of transistor in CE configuration."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Compare CE, CB, and CC configuration with respect to different transistor characteristics."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b OR",
+                        "question": "Compare CB, CE, CC configurations."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c",
+                        "question": "Describe CE configuration with input and output characteristics in detail."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Draw and explain input and output characteristic of transistor in common emitter configuration."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Compare CB and CC configuration with respect to different transistor characteristics."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c OR",
+                        "question": "Draw CE configuration and discuss its input and output characteristics with ICEO, ri, ro, and current gain β."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c",
+                        "question": "Compare CB, CE and CC configuration."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c OR",
+                        "question": "Explain the operation of transistor as amplifier in Common Emitter(CE) configuration."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "BJT Switching",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b",
+                        "question": "Explain transistor as a switch."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c",
+                        "question": "Explain application of Transistor as a switch."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b",
+                        "question": "Show application of transistor as a switch."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c",
+                        "question": "Explain application of transistor as a switch."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [],
+        "Less Important": []
+    },
+    "4": {
+        "unit_name": "BJT Biasing",
+        "Most Important": [
+            {
+                "topic": "Comparison of Basic Bias Circuits",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c OR",
+                        "question": "Draw the fixed-biased circuit by considering an n-p-n transistor in the CE mode. Derive the expressions for stability factors. What are the functions of the coupling capacitors?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b",
+                        "question": "Describe the factors affecting the Stability of Q point."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c",
+                        "question": "Explain thermal stability of BJT with stability factors S, S’, S’’."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c",
+                        "question": "Draw circuit for Emitter feedback bias and explain in detail with its advantages and disadvantages."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a OR",
+                        "question": "What is a stability factor?"
+                    }
+                ]
+            },
+            {
+                "topic": "Bias Circuit Design",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5a",
+                        "question": "What is the thermal runaway in transistors, and how can it be avoided?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2a",
+                        "question": "Describe the need of biasing the transistor."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b OR",
+                        "question": "Write a short note on Thermal runaway."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b OR",
+                        "question": "What do you understand by transistor biasing and why it is required?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c OR",
+                        "question": "Why biasing is important in transistor? Explain voltage divider bias with diagram."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2b",
+                        "question": "What do you understand by transistor biasing and why it is required."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c",
+                        "question": "Discuss the load line analysis of transistor."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Voltage-Divider Bias",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c OR",
+                        "question": "Describe the operation of voltage divider bias circuit using an NPN transistor and write its voltage and current equation."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c OR",
+                        "question": "Why biasing is important in transistor? Explain voltage divider bias with diagram."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c OR",
+                        "question": "Explain the operation of voltage divider bias circuit using an npn transistor and write its voltage and current equation."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b OR",
+                        "question": "Explain the voltage divider biasing."
+                    }
+                ]
+            },
+            {
+                "topic": "DC Load Line and Bias Point",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a",
+                        "question": "Explain about DC load line of transistor."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b OR",
+                        "question": "Explain the selection of a Q point for a transistor bias circuit and discuss the limitations on the output voltage swing."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c OR",
+                        "question": "Discuss load line, Q point, DC & AC load lines for BJT."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b",
+                        "question": "Discuss the importance of operating points in transistor."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Base Bias",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c OR",
+                        "question": "Draw the fixed-biased circuit by considering an n-p-n transistor in the CE mode. Derive the expressions for stability factors. What are the functions of the coupling capacitors?"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c OR",
+                        "question": "What is self-bias? Draw the circuit showing self-bias of an n-p-n transistor in the CE mode. Explain physically how the self-bias improves stability."
+                    }
+                ]
+            }
+        ],
+        "Less Important": []
+    },
+    "8": {
+        "unit_name": "Special Purpose Diodes",
+        "Most Important": [
+            {
+                "topic": "Digital Logic Gates",
+                "frequency": 21,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5c",
+                        "question": "What do you mean by the logic gate and its types? Explain the universal logic gates."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a",
+                        "question": "Draw symbol, truth table and Boolean equation for EX-OR and EX-NOR gate."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a OR",
+                        "question": "Design AND, OR and NOT gate using NAND Gate."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b OR",
+                        "question": "Explain why NAND and NOR gate are called universal gate."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c",
+                        "question": "Draw symbol and explain all logic gates in details."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c OR",
+                        "question": "Give comparison between different types of digital logic families."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b",
+                        "question": "Draw and explain circuit of AND gate using diodes."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b",
+                        "question": "Explain OR gate using diodes."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2a",
+                        "question": "Design and explain basic NAND gate using DTL logic."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b OR",
+                        "question": "Explain why NAND and NOR gate are called universal gate?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "Among TTL and CMOS digital logic family which one is better and why?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c OR",
+                        "question": "Draw symbol and explain truth table of all basic logic gates."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1a",
+                        "question": "Draw symbol and truth table for AND, NOR, EX-OR logic gates."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a OR",
+                        "question": "Construct AND & OR gates with diodes."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a",
+                        "question": "What is logic gates and state the rule used for OR and AND gate."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b",
+                        "question": "Why NAND and NOR gates are called universal gate and draw truth table of NAND gate."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a OR",
+                        "question": "Draw the logic circuit for the Boolean expression Y = ABC + D."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a",
+                        "question": "Prepare the truth table for three basic logic gates."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a OR",
+                        "question": "Draw the circuit diagram of OR gate with diodes."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b OR",
+                        "question": "Show the implementation of OR gate logic with use of NAND gate."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c OR",
+                        "question": "Discuss the applications of EX-OR and EX-NOR gate with truth tables."
+                    }
+                ]
+            },
+            {
+                "topic": "Logic Families",
+                "frequency": 11,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5c OR",
+                        "question": "Explain the logic families and their types. Describe the characteristics of the same."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b",
+                        "question": "Compare different logic families."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b OR",
+                        "question": "Explain Transistor Transistor Logic (TTL)."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b",
+                        "question": "Classification of Logic families in details."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c OR",
+                        "question": "Give comparison between different types of digital logic families."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b OR",
+                        "question": "Compare different logic families."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2a",
+                        "question": "Design and explain basic NAND gate using DTL logic."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "Among TTL and CMOS digital logic family which one is better and why?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c",
+                        "question": "State different logic families and compare them in terms of fan in, fan out, propagation delay, noise margin, power dissipation."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b OR",
+                        "question": "Explain Transistor Transistor Logic (TTL)."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c",
+                        "question": "Discuss the resistor transistor logic (RTL) circuits for basic gates."
+                    }
+                ]
+            },
+            {
+                "topic": "Photo Diode",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c",
+                        "question": "Explain the construction, working principle and application of phototransistor."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b OR",
+                        "question": "Compare PIN diode and Photo Diode."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c OR",
+                        "question": "Discuss operation and applications of PIN Photo diode and Solar cell."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b",
+                        "question": "Explain PIN photo diode."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c",
+                        "question": "Describe working principle and applications of PIN Photo diode and Solar cell."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a",
+                        "question": "What is photo-diode and how it works?"
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Seven Segment Display",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3b",
+                        "question": "Explain the sixteen segment display and its applications with the necessary circuit diagram."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b",
+                        "question": "Discuss seven segment display with its types."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b OR",
+                        "question": "Discuss seven segment displays with its types."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a OR",
+                        "question": "Draw the circuits of seven segment LED display."
+                    }
+                ]
+            },
+            {
+                "topic": "Varactor Diode",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a OR",
+                        "question": "Explain the varactor diode."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c OR",
+                        "question": "Explain the construction and applications of a varactor diode."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a OR",
+                        "question": "What is varactor diode? How capacitance of a diode varies with reverse voltage?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b",
+                        "question": "What is varactor diode, and explain how it works?"
+                    }
+                ]
+            },
+            {
+                "topic": "Tunnel Diode",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c OR",
+                        "question": "Describe the construction, the symbol, V-I characteristics and application of Tunnel diode."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a",
+                        "question": "Explain V-I characteristics of tunnel diode."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a OR",
+                        "question": "What is tunnel diode, and explain how it works?"
+                    }
+                ]
+            },
+            {
+                "topic": "LED",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a OR",
+                        "question": "Advantage, disadvantage and application of LED."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b OR",
+                        "question": "Describe LED with its applications."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b",
+                        "question": "Describe LED with its applications."
+                    }
+                ]
+            },
+            {
+                "topic": "PIN Diode",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b OR",
+                        "question": "Compare PIN diode and Photo Diode."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c OR",
+                        "question": "Discuss operation and applications of PIN Photo diode and Solar cell."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b",
+                        "question": "Explain PIN photo diode."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c",
+                        "question": "Describe working principle and applications of PIN Photo diode and Solar cell."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Solar Cell",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3b OR",
+                        "question": "Explain the construction of the solar cell with its operational principle."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c",
+                        "question": "Discuss the construction and working of a solar cell. Highlight its applications."
+                    }
+                ]
+            },
+            {
+                "topic": "Schottky Diode",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b",
+                        "question": "Explain Schottky diode in details."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c OR",
+                        "question": "Discuss the construction and operation of Schottky diode."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Special Purpose Diodes",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a",
+                        "question": "Write a short note on the optocoupler device?"
+                    }
+                ]
+            }
+        ]
+    },
+    "5": {
+        "unit_name": "AC Analysis of BJT Circuits",
+        "Most Important": [
+            {
+                "topic": "CC Circuit Analysis",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b OR",
+                        "question": "Explain the working of Emitter follower."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a",
+                        "question": "List out the salient feature of emitter follower."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c OR",
+                        "question": "Draw Emitter follower circuit and discuss its input and output characteristics."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a OR",
+                        "question": "Explain the working of Emitter follower."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b",
+                        "question": "Discuss the operation of common collector circuits analysis."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Transistor Models and Parameters",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c",
+                        "question": "Draw the approximate hybrid model for any transistor configuration at low frequencies. Show that only hie and hoe are essential in the model. Is the approximation justified?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c OR",
+                        "question": "Draw h parameter equivalent model for CE amplifier and derive the equation for input impedance, output impedance, Voltage gain and current gain for CE amplifier."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c OR",
+                        "question": "Using common source circuit have RG = 5.6 MΩ, RD = 1 MΩ, RD = RS = 2.7 kΩ, rd = 100 kΩ and gm = 3000 μS calculate input impedance, output impedance and voltage gain."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a",
+                        "question": "Write key factors to achieve faithful amplifications."
+                    }
+                ]
+            },
+            {
+                "topic": "CE Circuit Analysis",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c OR",
+                        "question": "Draw h parameter equivalent model for CE amplifier and derive the equation for input impedance, output impedance, Voltage gain and current gain for CE amplifier."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c",
+                        "question": "In CE amplifier has hie = 2.1 kΩ, hfe = 75 and hoe = 1 μS, voltage divider resistance R1 = 68 kΩ and R2 = 56 kΩ, RC = 3.9 kΩ, RE = 4.7 kΩ and RL = 82 kΩ. Calculate input impedance, output impedance and voltage gain."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c OR",
+                        "question": "Draw single stage CE amplifier and analyze and explain how it works."
+                    }
+                ]
+            },
+            {
+                "topic": "Coupling and Bypass Capacitors",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a",
+                        "question": "Define the use of Coupling capacitor."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b",
+                        "question": "Briefly explain the effect of coupling capacitor and bypass capacitor on small signal transistor amplifier."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a",
+                        "question": "What are the roles of coupling capacitor and bypass capacitor in amplifier circuits?"
+                    }
+                ]
+            },
+            {
+                "topic": "CB Circuit Analysis",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a OR",
+                        "question": "Explain the properties and application of common base amplifier."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c",
+                        "question": "Analyze and explain CB amplifier and find its input impedance, output impedance and voltage gain."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c OR",
+                        "question": "Consider a CB amplifier utilizing a BJT biased at IC = 1 mA with RC = 5 kΩ, RL = 5 kΩ. Determine Rin, Avo, Av, and Ro."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [],
+        "Less Important": [
+            {
+                "topic": "AC Load Lines",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5a OR",
+                        "question": "What is the ac load line in the transistor? Write its significance."
+                    }
+                ]
+            },
+            {
+                "topic": "Comparison of CE, CB and CC Circuits",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c",
+                        "question": "Show parametric comparisons between CE, CB and CC."
+                    }
+                ]
+            }
+        ]
+    },
+    "6": {
+        "unit_name": "Field Effect Transistors",
+        "Most Important": [
+            {
+                "topic": "MOSFETs",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a",
+                        "question": "What is MOSFET device? Draw its construction diagram."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b",
+                        "question": "Write short notes on the following: (i) Advantages of JFET (ii) Difference between MOSFET and JFET"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "Explain the construction and principle of operation of Enhancement type P-channel MOSFET."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c OR",
+                        "question": "Discuss MOSFET in details."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c",
+                        "question": "Describe MOSFET operation and draw the structures for DD-DMOSFET & E-MOSFET."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "Describe the construction and operation of Enhancement type N-channel MOSFET."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c",
+                        "question": "Write a short note: E-Type MOSFET."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b OR",
+                        "question": "What are the advantages of N-Channel MOSFET over P-Channel MOSFET?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c OR",
+                        "question": "Write short note on MOSFET."
+                    }
+                ]
+            },
+            {
+                "topic": "Junction Field Effect Transistors",
+                "frequency": 18,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b",
+                        "question": "Write short notes on the following: (i) Advantages of JFET (ii) Difference between MOSFET and JFET"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a OR",
+                        "question": "How will you determine the drain characteristics of JFET? What do they indicate?"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b OR",
+                        "question": "Explain the common drain configuration for a JFET."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4c OR",
+                        "question": "Explain the JFET parameters and establish the relationship between them."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a",
+                        "question": "Discuss about transconductance curve of JFET."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a OR",
+                        "question": "Write applications of JFET."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c OR",
+                        "question": "Explain the construction, working and drain characteristics of N-Channel JFET."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b OR",
+                        "question": "State advantage, disadvantage and application of FET."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c OR",
+                        "question": "Explain Drain characteristics and Transfer characteristics of JFET in detail with all related terms as Transconductance, drain resistance and amplification factor."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a",
+                        "question": "Define saturation current, pinch-off voltage and transconductance in JFET."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Describe operation of N-Channel JFET with drain characteristics and transfer characteristics."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b",
+                        "question": "Explain (i) Unipolar device (ii) Transconductance."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c OR",
+                        "question": "Explain the Depletion region and drain characteristics of n channel JFET."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b OR",
+                        "question": "What are the advantages of N-Channel MOSFET over P-Channel MOSFET?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c OR",
+                        "question": "Explain Drain characteristics and Transfer characteristics of JFET in detail with all related terms as Transconductance gm, drain resistance rd, and amplification factor μ."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a",
+                        "question": "Define saturation current, pinch off voltage and transconductance in JFET."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a OR",
+                        "question": "Define performance parameter of JFET a.c. drain resistance, transconductance and amplification factor."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b OR",
+                        "question": "In n-channel JFET with VGS(off) = -6 V and IDSS = 3 mA. Solve ID value for VGS = -1, -3, and -5 V."
+                    }
+                ]
+            },
+            {
+                "topic": "JFET Characteristics",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a OR",
+                        "question": "How will you determine the drain characteristics of JFET? What do they indicate?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a",
+                        "question": "Discuss about transconductance curve of JFET."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c OR",
+                        "question": "Explain the construction, working and drain characteristics of N-Channel JFET."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c OR",
+                        "question": "Explain Drain characteristics and Transfer characteristics of JFET in detail with all related terms as Transconductance, drain resistance and amplification factor."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Describe operation of N-Channel JFET with drain characteristics and transfer characteristics."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c OR",
+                        "question": "Explain the Depletion region and drain characteristics of n channel JFET."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c OR",
+                        "question": "Explain Drain characteristics and Transfer characteristics of JFET in detail with all related terms as Transconductance gm, drain resistance rd, and amplification factor μ."
+                    }
+                ]
+            },
+            {
+                "topic": "JFET Data Sheets and Parameters",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a",
+                        "question": "Discuss about transconductance curve of JFET."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c OR",
+                        "question": "Explain Drain characteristics and Transfer characteristics of JFET in detail with all related terms as Transconductance, drain resistance and amplification factor."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a",
+                        "question": "Define saturation current, pinch-off voltage and transconductance in JFET."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b",
+                        "question": "Explain (i) Unipolar device (ii) Transconductance."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c OR",
+                        "question": "Explain Drain characteristics and Transfer characteristics of JFET in detail with all related terms as Transconductance gm, drain resistance rd, and amplification factor μ."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a",
+                        "question": "Define saturation current, pinch off voltage and transconductance in JFET."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a OR",
+                        "question": "Define performance parameter of JFET a.c. drain resistance, transconductance and amplification factor."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b OR",
+                        "question": "In n-channel JFET with VGS(off) = -6 V and IDSS = 3 mA. Solve ID value for VGS = -1, -3, and -5 V."
+                    }
+                ]
+            },
+            {
+                "topic": "Field Effect Transistors",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b",
+                        "question": "Give Comparison of BJT and FET."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a",
+                        "question": "Compare BJT & FET."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b",
+                        "question": "Give the comparison of FET and BJT."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a",
+                        "question": "Compare FET with BJT."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b",
+                        "question": "Do comparison between BJT and FET and write it."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b OR",
+                        "question": "What are the differences between FET and BJT?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b",
+                        "question": "Explain the working principle of a field effect transistor (FET)."
+                    }
+                ]
+            },
+            {
+                "topic": "FET Amplification and Switching",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a OR",
+                        "question": "Discuss FET as an amplifier."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a OR",
+                        "question": "Explain FET as an Amplifier."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b",
+                        "question": "Explain FET as a switch."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b OR",
+                        "question": "Explain FET as an amplifier."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c",
+                        "question": "Write and explain application of FET as amplifier and as a switch."
+                    }
+                ]
+            }
+        ],
+        "Important": [],
+        "Moderate": [],
+        "Less Important": []
+    },
+    "7": {
+        "unit_name": "FET Biasing",
+        "Most Important": [],
+        "Important": [],
+        "Moderate": [
+            {
+                "topic": "Self Bias",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a OR",
+                        "question": "What is Self Bias in JFET? Draw the circuit."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b",
+                        "question": "Draw and explain the self-bias circuit of FET."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "DC Load Line and Bias Point",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b OR",
+                        "question": "Draw DC load line and indicate the Q-point for a given JFET circuit."
+                    }
+                ]
+            }
+        ]
+    }
+}

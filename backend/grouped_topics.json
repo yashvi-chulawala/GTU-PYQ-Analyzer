@@ -1,0 +1,286 @@
+{
+    "Role & Function Of Kernel": {
+        "unit_no": "8",
+        "unit_name": "Unix/Linux Operating System",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q1a",
+                "question": "Explain the role of kernel in an operating system."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Goals & Structures of O.S, Basic functions": {
+        "unit_no": "1",
+        "unit_name": "Introduction",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q1b",
+                "question": "Discuss the goals and functions of Operating Systems."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Batch, multiprogramming. Multitasking, time sharing, parallel, distributed & real-time O.S.": {
+        "unit_no": "1",
+        "unit_name": "Introduction",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q1c",
+                "question": "Explain various types of Operating Systems with suitable examples."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Threads": {
+        "unit_no": "2",
+        "unit_name": "Process and Threads Management",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q2a",
+                "question": "Compare: user-level threads and kernel-level threads."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Scheduling algorithms: Priority": {
+        "unit_no": "2",
+        "unit_name": "Process and Threads Management",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q2b",
+                "question": "Explain how aging prevents starvation in priority scheduling."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Scheduling algorithms: FCFS, SJF": {
+        "unit_no": "2",
+        "unit_name": "Process and Threads Management",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q2c",
+                "question": "Consider the following processes:\nProcess Arrival Time Burst Time\nPl 0 8\nP2 1 4\nP3 2 9\nP4 3 5\nMethods to be performed are FCFS and SRTF.\nDo the following:\n+ Draw Gantt chart\n- Find Average Waiting Time\n+ Find Average Turnaround Time"
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Process Concept, Process states": {
+        "unit_no": "2",
+        "unit_name": "Process and Threads Management",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q2c",
+                "question": "What is PCB?Explain the complete life cycle of a process in an operating systm with suitable diagram."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Semaphores": {
+        "unit_no": "3",
+        "unit_name": "Concurrency and Synchronization",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q3a",
+                "question": "Define Semaphore and explain binary semaphore."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Peterson\u2019s Solution, Critical Section": {
+        "unit_no": "4",
+        "unit_name": "Inter Process Communication",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q3b",
+                "question": "How Peterson\u2019s Solution solve critical section problem?"
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Deadlock Avoidance": {
+        "unit_no": "5",
+        "unit_name": "Deadlock",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q3c",
+                "question": "A system has four processes (PO, P1, P2,) and (P3) and three resource types (A, B and C).The total number of instances of resources (A, B,) and (C) are 12, 8, and 10 respectively.\n\nThe current Allocation and Maximum matrices are given below:\n\nProcess Allocation (A B C) Max (A B C)\nPO 233 765\nPl 422 654\nP2 314 846\nP3 121 533\n\nAvailable Resources:(2, 0, 0)\n\nAnswer the following:\n\na) Calculate the Need Matrix for all processes.\n\nb) Determine whether the current system is in a safe state using Banker\u2019s\nAlgorithm. If the system is safe, write one safe sequence.\n\nc) If process (P2) requests resources ((2, 0, 1)), determine whether the\nrequest can be granted immediately. Show all necessary steps and\njustification."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Principles of Deadlock": {
+        "unit_no": "5",
+        "unit_name": "Deadlock",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q3a",
+                "question": "Define Deadlock and list its necessary conditions."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Race Conditions": {
+        "unit_no": "4",
+        "unit_name": "Inter Process Communication",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q3b",
+                "question": "The following two functions P1 and P2 that share a variable B with initial\nvalue of 4 execute concurrently.\n\nP1() P2()\n\n{ {\nC=B-1; D= 2*B;\nB=2*C; B=D-1;\n} }\n\nProvide the number of distinct values that B can possibly take after the\nexecutions of two functions."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Classical IPC Problems: Dining Philosopher Problem": {
+        "unit_no": "4",
+        "unit_name": "Inter Process Communication",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q3c",
+                "question": "Explain Dinning Philosopher problem and provide possible deadlock\nsituations."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Fragmentation": {
+        "unit_no": "6",
+        "unit_name": "Memory Management",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q4a",
+                "question": "Differentiate: Internal Fragmentation and External Fragmentation."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Thrashing": {
+        "unit_no": "6",
+        "unit_name": "Memory Management",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q4b",
+                "question": "What is thrashing? Explain its effect on CPU Utilization. What should be\nthe solution of it?"
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Page Replacement Policies (FIFO, LRU, Optimal)": {
+        "unit_no": "6",
+        "unit_name": "Memory Management",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q4c",
+                "question": "A system uses virtual memory with 3 page frames:\n3,2,1,0,3,2,4,3,2,1,0,4\n\nprovide details on page faults for FIFO,LRU and OPTIMAL algorithms."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Paging and Fragmentation": {
+        "unit_no": "6",
+        "unit_name": "Memory Management",
+        "frequency": 2,
+        "questions": [
+            {
+                "question_no": "Q4a",
+                "question": "What is paging? How it is different from Segmentation?"
+            },
+            {
+                "question_no": "Q4c",
+                "question": "A logical address space of 8 MB is mapped to a physical memory of 256\nKB using paging. The page size is 4 KB.\n\na) Calculate the number of bits required for logical address, physical\naddress, page number, and page offset.\n\nb) How many pages are there in the logical address space?\n\nc) How many frames are there in the physical memory?\n\nd) If the page table entry size is 4 bytes, what is the size of the page table?"
+            }
+        ],
+        "importance": "Moderate"
+    },
+    "Virtual Memory: Concepts": {
+        "unit_no": "6",
+        "unit_name": "Memory Management",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q4b",
+                "question": "What is Translation Lookaside Buffer? Provide its advantages and\ndisadvantages."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "RAID": {
+        "unit_no": "7",
+        "unit_name": "I/O Management and Disk Scheduling",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q5a",
+                "question": "What is RAID? STate its advantages."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "VMware ESXi, Microsoft Hyper-V and Xen Variants": {
+        "unit_no": "9",
+        "unit_name": "Virtualization Concepts",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q5b",
+                "question": "Explain VMware ESXi and Microsoft Hyper-V."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Disk Scheduling (FCFS, SCAN, C-SCAN, SSTF)": {
+        "unit_no": "7",
+        "unit_name": "I/O Management and Disk Scheduling",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q5c",
+                "question": "Consider a disk with tracks numbered from 0 to 199.\n\nThe request queue is: 23, 89, 132, 42, 187, 65, 14, 170\nInitial head position = 100\n\nHead movement direction = towards lower track numbers.\n\nSolve using FCFS, SSTF, SCAN, and C-SCAN disk scheduling algorithms."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Virtual machines": {
+        "unit_no": "9",
+        "unit_name": "Virtualization Concepts",
+        "frequency": 1,
+        "questions": [
+            {
+                "question_no": "Q5a",
+                "question": "Differentiate: Virtual Machine and Physical Machine."
+            }
+        ],
+        "importance": "Less Important"
+    },
+    "Elementary Linux command & Shell Programming": {
+        "unit_no": "8",
+        "unit_name": "Unix/Linux Operating System",
+        "frequency": 2,
+        "questions": [
+            {
+                "question_no": "Q5b",
+                "question": "Explain following Linux commands:\n1. grep\n\n2. Is\n\n3. touch\n\n4. sort"
+            },
+            {
+                "question_no": "Q5c",
+                "question": "Write a shell script to create a file containing student details such as Full\nName, Enrollment Number, Branch, and Semester. The script should also:\n\n- Display the total number of lines in the file\n\n- Display the total number of characters in the file\n\n\u00a2 Search and display the full student record based on a\ngiven string input."
+            }
+        ],
+        "importance": "Moderate"
+    }
+}

@@ -1,0 +1,1277 @@
+{
+    "1": {
+        "unit_name": "Basic Probability",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q1a",
+                "question": "An MBA applies for a job in two firms X and Y. The probability of his being selected in firm X is 0.7 and being rejected in Y is 0.5. The probability of at least one of his applications being rejected is 0.6. What is the probability that he will selected in one the firms?"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q1b",
+                "question": "A study showed that 65% of managers had some business education and 50% had some engineering education. Furthermore 20% the managers had some business education but no engineering education. What is the probability that a manager had some business education, given that he has some engineering education?"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q1c",
+                "question": "A manufacturing firm produces steel pipes in three plants with daily production volume of 500, 1000, 2000 units respectively. According to past experience it is know that the fractions of defective output produced the three plants are respectively 0.05, 0.08, and 0.10. If a pipe is selected from a day's total production and found to be defective. What is the probability that it came from the first plant? Also find out from which plant the defective pipe comes."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q3a",
+                "question": "A fair die is thrown 300 times. Find the lower bound for the probability of getting 30 to 60 sixes."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q1a",
+                "question": "Define and give the example of: (i) Random variable, (ii) Independent Events."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q1b",
+                "question": "Two fair six-sided dice are tossed independently. Let M be the maximum of the two tosses. What is the probability mass function (pmf) of M?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q1c",
+                "question": "Seventy percent of the light aircraft that disappear while in flight in a certain country are subsequently discovered. Of the aircraft that are discovered, 60% have an emergency locator, whereas 90% of the aircraft not discovered do not have such a locator. Suppose a light aircraft has disappeared.\n(i) If it has an emergency locator, what is the probability that it will not be discovered?\n(ii) If it does not have an emergency locator, what is the probability that it will be discovered?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5a",
+                "question": "The probability distribution of a random variable X is given below.\nFind (i) E(X), (ii) V(X)\nX: -2, -1, 0, 1, 2\nP(x=X): 0.2, 0.1, 0.3, 0.3, 0.1"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1a",
+                "question": "A study showed that 65% of managers had some business education and 50% had some engineering education. Furthermore 20% of managers had some business education but no engineering education. What is probability that a manager has some business education, given that he has some engineering education?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1b",
+                "question": "Two computer A and B are to be marketed. A salesman who is assigned the job of finding customers for them has 60% and 40% chances respectively of succeeding in case of Computer A and B. The Computers can be sold independently. Given he was able to sell at least one computer, what is the probability that computer A has been sold?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1c",
+                "question": "In a post office, three clerks are assigned to process incoming mails. The first clerk B1 processes 40%, the second clerk B2 processes 35% and the third clerk B3 processes 25% of the total mails. The first clerk has an error rate of 0.04, the second has an error rate of 0.06 and the third has an error rate of 0.03. A mail selected at random from a day's output is found to have an error. The Post Master wishes to know the probability that the mail was processed by the first, second or third clerk respectively."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1a",
+                "question": "Define and give the example of Random variable."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1b",
+                "question": "What is the probability that a leap year selected at random will have 53 Sundays?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1c",
+                "question": "In a bolt factory, three machines A, B and C produce 25%, 35% and 40% of total output respectively. It was found that 5%, 4% and 2% are defective bolts in the production by machines A, B, C respectively. A bolt is chosen at random from the total output and is found to be defective. Find the probability that it is manufactured from (i) Machine A (ii) Machine B (iii) Machine C."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2a",
+                "question": "A bag contains 3 red and 4 white balls. Two draws are made without replacement. What is the probability that both balls are red."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2b",
+                "question": "The probability that a student A solves a mathematics problem is 2/5 and the probability that a student B solves it is 2/3. What is the probability that (i) the problem is not solved (ii) both A and B can solve the problem, working independently of each other?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2c",
+                "question": "Verify that the following function F(x) is a distribution function.\nF(x) = {0; x < 0, 1 - e^{-x/4}; x >= 0}\nAlso, find the probabilities P(X ≤ 4), P(X ≥ 8), P(4 ≤ X ≤ 8)."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2c OR",
+                "question": "The probability mass function of a random variable X is zero except at the points X = 0, 1, 2. At these points, it has the values\nP(X = 0) = 3c^3, P(X = 1) = 4c - 10c^2, P(X = 2) = 5c - 1.\nFind (i) c (ii) P(X < 1) (iii) P(1 < X ≤ 2) (iv) P(0 < X ≤ 2)."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3a",
+                "question": "Find the constant k such that the function\nf(x) = {kx^2; 0 < x < 3, 0; otherwise}\nis a probability density function."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3b",
+                "question": "A random variable X has the following distribution:\nX: 1, 2, 3, 4, 5, 6\nP(X = x): 1/36, 3/36, 5/36, 7/36, 9/36, 11/36\nFind (i) mean (ii) variance."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1a",
+                "question": "Define independent events and provide an example"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1b",
+                "question": "A coin is tossed three times. What is the probability of getting exactly two heads?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2c",
+                "question": "A factory has three machines A, B, and C producing 20%, 30%, and 50% of the total items, respectively. The probabilities of producing a defective item are 1%, 2%, and 3% for A, B, and C, respectively. If an item is defective, what is the probability that it was produced by machine B?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5a",
+                "question": "State Chebyshev's inequality."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5b",
+                "question": "Two cards are chosen randomly from deck. What is probability that (a) both are ace? (b) both are black? (c) none is ace (d) none is black"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5a OR",
+                "question": "If A and B are independent events with P(A)=0.5, P(B)=0.4 then find P(A∪B)"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1a",
+                "question": "Define a term random variable and explain different types of random variable."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1b",
+                "question": "A card is drawn at random from a pack of 52 cards. What is the probability that the card is a spade or a king?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1c",
+                "question": "State Baye's theorem. There are three bags; first containing 1 white, 2 red and 3 green balls; second 2 white, 3 red and 1 green balls and third 3 white, 1 red and 2 green balls. Two balls are drawn from a bag chosen at random. These are found to be 1 white and 1 red. Find the probability that the balls so drawn came from the second bag."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5a OR",
+                "question": "A random variable x has the following probability distribution:\nx_i: 0, 1, 2, 3\np_i: 1/6, 3/8, 3/8, 1/8\nFind the standard deviation of x for the given distribution."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1a",
+                "question": "Define random variable and continuous random variable. If X be a continuous random variable with a probability density function f(x) = kx(1-x), 0 ≤ x ≤ 1 find k."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1b",
+                "question": "Define Mutually exclusive events and independent events. If A and B are independent events, where P(A)=1/4, P(B)=2/3. Find P(A ∪ B)."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1c",
+                "question": "State Baye's theorem. An urn I contains 3 white and 4 red balls and an urn II contains 5 white and 6 red balls. One ball is drawn at random from one of the urns and is found to be white. Find the probability that it was drawn from urn I."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4c OR",
+                "question": "State Chebyshev's inequality. A fair dice is tossed 120 times. Use Chebyshev's inequality to find a lower bound for the probability of getting 80 to 120 sixes."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1a",
+                "question": "Define and give examples of Random Experiment and Sample space."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1b",
+                "question": "For a certain model car, the probability of the air conditioner failing before the warranty expires is 0.36, the probability of alternator failing is 0.26, and the probability of both failing is 0.11. Find the probability of the air conditioner or the alternator failing before the warranty expires."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1c",
+                "question": "A microchip company has three machines that produce the chips. Machine-I produces 45% of the chips, but 5% of its chips are defective. Machine-II produces 35% of the chips and 10% of its chips are defective. Machine-III produces the rest of the chips and 2% of its chips are defective. Find the probability of:\nA randomly selected chip is found to be\n(i) a defective chip that has come from Machine-I,\n(ii) a non-defective chip that has come from Machine-II,\n(iii) a defective chip that has come from Machine-III."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1a",
+                "question": "Define and give the example of Mutually exclusive events."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1b",
+                "question": "One card is drawn at random from a pack of 52 cards. Find the probability of getting a king or a red card."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1c",
+                "question": "Data on the readership of a certain magazine show that the proportion of male readers under 35 is 0.40 and that over 35 is 0.20. If the proportion of readers under 35 is 0.70, find the probability of subscribers that are female over 35 years. Also, calculate the probability that a randomly selected male subscriber is under 35 years of age."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2a",
+                "question": "Three students A, B, C are in a running race. If P(A) = P(B) = 2P(C), then find the probability that B or C wins."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2b",
+                "question": "Let X be a continuous random variable with pdf f(x) = kx(1 - x), 0 ≤ x ≤ 1. Find k and determine P(0 ≤ X ≤ 0.5)."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2c",
+                "question": "The contents of urns I, II and III are as follows:\n1 white, 2 red, and 3 black balls\n2 white, 3 red and 1 black ball, and\n3 white, 1 red and 2 black balls.\nOne urn is chosen at random and two balls are drawn. They happen to be white and red. Find the probability that they came from (i) Urn I (ii) Urn II (iii) Urn III."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2c OR",
+                "question": "A random variable X has the following probability distribution:\nX: -2, -1, 0, 1, 2, 3\nP(X = x): 0.1, k, 0.2, 2k, 0.3, 3k\n(i) Find the value of k\n(ii) Find P(x ≥ 2)\n(iii) P(-2 < x < 2)"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3a",
+                "question": "Let the continuous random variable X have the probability density function f(x) = {1/x^4; 1 < x < ∞, 0; otherwise}. Find distribution function F(x)."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3b",
+                "question": "A random variable X has the following distribution:\nX: -3, -2, -1, 0, 1, 2\nP(X = x): 0.05, 0.1, 0.2, 0.3, 0.2, 0.15\nFind (i) E(X) (ii) Var(X)."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1a",
+                "question": "A can hit a target 4 times in 5 shots, B, 3 times in 4 shots; and C, 2 times in 3 shots. They fire a volley (it means one shot each). Find the probability that target will be hit."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1b",
+                "question": "Three companies A, B and C supply 30%, 50% and 20% of the notebooks to a school. Past experience shows that 8%, 5% and 10% of the notebooks produced by these companies are defective. If a notebook was found to be defective, what is the probability that the notebook was supplied by A?"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1c",
+                "question": "A random variable X has the following probability function\nX=x: -2, -1, 0, 1, 2, 3\nP(X=x): 0.1, K, 0.2, 2K, 0.3, 3K\n(i) Find K (ii) Find P(X<2) (iii) Determine the distribution function F(x) of X."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2a",
+                "question": "Four balls are drawn simultaneously from a bag containing 6 white, 5 black and 7 red balls. Find E(X), where X denotes number of white drawn."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3a OR",
+                "question": "State Chebyshev's inequality. A fair dice is tossed 120 times. Use Chebyshev's inequality to find a lower bound for the probability of getting 80 to 120 sixes."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4a",
+                "question": "A speaks truth in 75% cases and B in 80% cases. Find the probability that they are likely to contradict each other in stating the same fact."
+            }
+        ]
+    },
+    "2": {
+        "unit_name": "Special Probability Distributions",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q2a",
+                "question": "The probability that an item produced by a machine will be defective is 1/10. If 12 such items are produced, find the probability that (i) Exactly one will be defective, (ii) at least two will be defective (iii) None of the item is defective."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q2b",
+                "question": "A car hire firm has two cars, which it hires out day by day. The number of demands for a car on each day is distributed as a Poisson distribution with mean μ = 1.5. Calculate the proportion of days on which neither car is used and proportion of days on which some demand is refused. (e^{-1.5} = 0.2231)"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q2c",
+                "question": "The average daily sales of 500 branch offices was Rs. 150 thousand and the standard deviation Rs. 15 thousand. Assuming the distribution to be normal indicate how many branches have sales between\na) Rs. 120 thousand and Rs. 145 thousand\nb) Rs. 140 thousand and Rs. 165 thousand.\nP(0<z<2)=0.4772, P(0<z<0.33)=0.1293, P(0<z<1)=0.2486"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q2c OR",
+                "question": "Accidents occur with a Poisson distribution at an average 2 per week. Then\na) Obtain the probability of more than 3 accidents during a week.\nb) What is the probability that at least two weeks will elapse between accidents."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2a",
+                "question": "State the probability function of Exponential and Gamma distribution."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3a",
+                "question": "State the properties of the Normal Distribution"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3b",
+                "question": "If a random variable has a Poisson distribution such that P(X=1)=P(X=2), find (i) the mean of the distribution, (ii) P(X=5), (iii) P(X>1), and (iv) P(1<X<4)."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3c",
+                "question": "Define Binomial Distribution.\nA particular telephone number is used to receive both voice calls and fax messages. Suppose that 25% of the incoming calls involve fax messages, and consider a sample of 10 incoming calls. What is the probability that (i) At most 3 (ii) Exactly 3 (iii) At least 3 (iv) More than 3, of the calls involve a fax message?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3a OR",
+                "question": "The mean and variance of a binomial distribution are 4 and 2. Find P(X ≥ 2)."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3b OR",
+                "question": "A car hire firm has two cars, which it hires out day by day. The number of demands for a car on each day is distributed as a Poisson distribution with mean of 1.5. Calculate the proportion of days on which (i) neither car is used, (ii) some demand is refused, (iii) only one car is used."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3c OR",
+                "question": "Define Standard normal variate.\nThe lifetime of a certain kind of batteries has a mean life of 400 hours and the standard deviation as 45 hours. Assuming the distribution of lifetime to be normal.\nFind The percentage of batteries with lifetime (i) at least 490 hours, (ii) between 385 and 490 hours. Also, find the minimum life of the best 5% of batteries.\n[Use: P(0< z < 2) = 0.4772, P(0 < z < 0.33) = 0.1293 and P(0< z < 1.65) = 0.45]"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2a",
+                "question": "The incidence of occupational disease in an industry is such that the workers 20% chance of suffering from it. What is the probability that out of six workers 4 or more will contract disease?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2b",
+                "question": "On an average one in 400 times items is defective. If the items are packed in boxes of 100, what is the probability, that any given box of items will contain\na) No defective\nb) Less than two defectives\nc) One or more defectives\nd) More than three defectives."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2c",
+                "question": "The average daily sales of 500 branch offices was Rs. 150 thousand and the standard deviation Rs. 15 thousand. Assuming the distribution to be normal, indicate how many branches have sales between:\n1. Rs. 120 thousand and Rs. 145 thousand.\n2. Rs. 140 thousand and Rs. 165 thousand.\n[P(0 < z < 3.3) = 0.4772, P(0 < z < 2) = 0.1293, P(0 < z < 0.67) = 0.2486, P(0 < z < 1) = 0.3413]"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2c OR",
+                "question": "In a Normal distribution 31% of the items are under 45 and 8% are above the 64. Find mean and standard deviation of the distribution."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4c OR",
+                "question": "If a random variable has a Poisson distribution such that P(X = 1) = P(X = 2), find (i) the mean of the distribution (ii) P(X = 4) (iii) P(X ≥ 1) (iv) P(1 < X < 4)."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5c",
+                "question": "The lifetime of a certain kind of batteries has a mean life of 400 hours and the standard deviation as 45 hours. Assuming the distribution of lifetime to be normal, find (i) the percentage of batteries with a lifetime of at least 470 hours (ii) the proportion of batteries with a lifetime between 385 and 415 hours, and (iii) the minimum life of the best 5% of batteries. (P(0 < z < 0.33) = 0.1293)"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5a OR",
+                "question": "The mean and variance of a binomial variate are 8 and 6. Find P(X ≥ 2)."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2a",
+                "question": "Does there exists a binomial distribution for which variance is greater than mean?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2b",
+                "question": "A biased coin returns head 10% of times. Find the probability of getting exactly 2 heads in 10 trials using binomial distribution."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2c OR",
+                "question": "A factory produces light-bulbs. The probability of a bulb being defective is 0.02. If 200 bulbs are tested, use the Poisson approximation to find the probability that at least three bulbs are defective."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5c",
+                "question": "Weight of 1000 experimental animals is normally distributed with mean 235 grams and standard deviation 35. How many animals weigh (a) below 172 grams (b) above 312 grams (c) between 172 to 312 grams.\n[P(Z=1.8)=0.4641, P(Z=2.2)=0.4841]"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2b",
+                "question": "A book contains 100 misprints distributed randomly throughout its 100 pages. What is the probability that a page observed at random contains at least 2 misprints."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2c",
+                "question": "A die is thrown six times. If getting an odd number is a success, find the probability of (i) 5 success (ii) at least five success and (iii) at most five success."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2c OR",
+                "question": "If a random variable x is Gamma distribution with parameter λ = 3, compute the value of (i) P(x≤1) and (ii) P(1≤x≤2)."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5c",
+                "question": "State properties of the normal distribution. Suppose the marks of 800 students are normally distributed with mean 66 and standard deviation 5. Find number of students getting marks (i) between 65 and 70 (ii) greater than or equal to 72 (Given that P(0≤z≤0.20)=0.0793, that P(0≤z≤0.80)=0.2881 and that P(0≤z≤1.2)=0.3849)"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5b OR",
+                "question": "With usual notations, find the value of p for a binomial random variable x when n=6 and 9P(x=4)=P(x=2)."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2b",
+                "question": "A manufacturer knows from experience that the resistance of resistors he produces is normal with a mean μ = 100 ohms and standard deviation σ = 2 ohms. What percentage of resistors will have resistance between 98 ohms and 102 ohms? P(0 < z < 1) = 0.3413."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2c",
+                "question": "In a certain factory turning out razor blades, there is a small chance of 0.002 for any blade to be defective. The blades are supplied in packets of 10, use Poisson distribution to calculate the approximate number of packets containing no defective, one defective and two defective blades respectively in a consignment of 10,000 packets. (e^{-0.02} = 0.9802)"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2c OR",
+                "question": "Define exponential distribution. The average time it takes to serve a customer at a petrol pump is 6 minutes. The service time follows exponential distribution. Calculate the probability that (i) A customer will take less than 2 minutes to complete the service. (ii) A customer will take between 4 and 5 minutes to get the service. (iii) A customer will take more than 10 minutes for his service."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4b",
+                "question": "In sampling a large number of parts manufactured by a machine, the mean number of defectives in a sample of 20 is 2. Out of 1000 such samples, how many would be expected to contain exactly two defective parts?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5c",
+                "question": "Define Gamma distribution. Given a Gamma random variable X with r = 3 and λ = 2. Compute E(X), Var(X) and P(X ≤ 1.5 years)."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2a",
+                "question": "Define Exponential Distribution and Gamma distribution."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3a",
+                "question": "An insurance company has discovered that only 0.1% of the population is involved in a certain type of accident every year. If its 1000 policy-holders are selected at random from the population, what is the probability that not more than 2 of its clients are involved in such accident next year?"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3b",
+                "question": "Suppose that the current measurements in a strip of wire are assumed to follow a normal distribution with a mean of 10 milliamperes and variance of 4 (milliamperes)^2. What is the probability that a measurement (i) exceeds 13 milliamperes, (ii) is at most 10 milliamperes, (iii) between 10 and 13 milliamperes? [Use: P(Z ≤ 1.5) = 0.9332]."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3c",
+                "question": "Each sample of water has a 10% chance of containing a particular organic pollutant. Assume that the samples are independent with regard to the presence of the pollutant. Find the probability that in next 10 samples, (i) exactly 2, (ii) at least 4, (iii) between 2 and 7, samples contain the pollutant."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3a OR",
+                "question": "Form the binomial distribution for the experiment of tossing a coin three times and counting the number of heads appear."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3b OR",
+                "question": "In a normal distribution 31% of items are under 45 and 8% are over 64. Find the mean and standard deviation of the distribution.\n[Use: P(0 < Z < 1.405) = 0.42, and P(0 < Z < 0.495) = 0.19]."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3c OR",
+                "question": "For the case of the thin copper wire, suppose that the number of flaws follows a Poisson distribution with mean of 2.3 flaws per millimeter. Determine the probability of (i) exactly 2 flaws in 1 millimeter of wire, (ii) at least 1 flaw in 2 millimeters of wire, (iii) between 2 and 5 flaws in 1 millimeter of wire."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4c OR",
+                "question": "If X is a Poisson variate such that P(X = 0) = P(X = 1), find P(X = 0) and using recurrence formula, find the probabilities at x = 1, 2, 3, 4 and 5."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5c",
+                "question": "Distribution of height of 1000 students is normal with mean 165 cms and standard deviation 15 cms. How many soldiers are of height (i) less than 138 cms. (ii) more than 198 cms. (iii) between 138 and 198 cms. (P(z = 1.8) = 0.4641, P(z = 2.2) = 0.4841)"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5a OR",
+                "question": "In a throw of a dice the appearance of a number 4 is taken as a success. If the dice is thrown 5 times, find mean, variance and standard deviation."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5b OR",
+                "question": "If a random variable has a Poisson distribution such that P(X = 1) = P(X = 2), find (i) the mean of distribution, (ii) P(X = 4) (iii) P(X ≥ 1) (iv) P(1 < X < 4)."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4b",
+                "question": "The incidence of occupational disease in an industry is such that the workmen have a 20% chance of suffering from it. What is the probability that out of 6 workmen 4 or more will suffer from disease?"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4c",
+                "question": "The following mistakes per page were observed in a book.\nNo. of Mistake per page: 0, 1, 2, 3, 4, Total\nNo of Pages: 211, 90, 14, 5, 0, 320\nFit a Poisson distribution for the given data."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4a OR",
+                "question": "Suppose on an average 1 house in 1000 in a certain district has a fire during a year. If there are 2000 houses in that district, what is the probability that exactly 5 houses will have a fire during the year?"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4b OR",
+                "question": "In a normal distribution 31% of the items are under 45 and 8% are over 64. Find the parameters of the distribution."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4c OR",
+                "question": "In a sample of 10 pens. If 10% of pens produced by a company are defective. Find out the probability that\n(i) No pen must be defective.\n(ii) One must be defective.\n(iii) At least two must be defective."
+            }
+        ]
+    },
+    "3": {
+        "unit_name": "Basic Statistics",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q3b",
+                "question": "Find the quartile deviation and its coefficients. Also find inter quartile range and coefficient of variations.\nMarks: < 35, 35-37, 38-40, 41-43, > 43\nStudents: 8, 16, 13, 8, 5"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q3c",
+                "question": "The following data relate to the profits of 1,000 companies:\nProfits Rs. in thousands: 100-120, 120-140, 140-160, 160-180, 180-200, 200-220, 220-240\nNo. of companies: 17, 53, 199, 194, 327, 208, 02\nCalculate the coefficient of skewness."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q3a OR",
+                "question": "Following is the table showing number of visitors in 180 days to a zoo. Obtain average number of visitors per day.\nMarks: 1-10, 11-20, 21-30, 31-40, 41-50, 51-60\nStudents: 22, 28, 35, 45, 30, 20"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q3b OR",
+                "question": "Define moments about the assumed mean A. Obtain first four moments about arbitrary origin from the following table:\nScorers: 50-60, 60-70, 70-80, 80-90, 90-100\nPlayers: 8, 11, 18, 09, 04"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q3c OR",
+                "question": "Find the mean, median and mode from the following table.\nclass: 50-53, 53-56, 56-59, 59-62, 62-65, 65-68, 68-71, 71-74, 74-77\nfrequency: 3, 8, 14, 30, 36, 28, 16, 10, 3"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q4b",
+                "question": "Psychological tests of intelligence and of engineering ability were applied to 10 students as per the following data. Find the coefficient of correlation.\nIntelligence ration: 105, 104, 102, 101, 100, 99, 98, 96, 93, 92\nEngineering ability: 101, 103, 100, 98, 95, 96, 104, 92, 97, 94"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q4c",
+                "question": "The following table gives the aptitude test scores and productivity indices of 10 workers selected at random\nAptitude scores: 60, 62, 65, 70, 72, 48, 53, 73, 65, 82\nProductivity index: 68, 60, 62, 80, 85, 40, 52, 62, 60, 81\nEstimate (i) the productivity index of a worker whose test score is 0.92 (ii) the test score of a worker whose productivity index is 0.75."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q4b OR",
+                "question": "An examination of eight applicants for a critical post was given by a firm. From the marks obtained by the applicants in the Accountancy and Statistics papers, compute rank coefficient correlations.\nMarks in accountancy: 15, 20, 28, 12, 40, 60, 20, 80\nMarks in statistics: 40, 30, 50, 30, 20, 10, 30, 60"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q4c OR",
+                "question": "In partially destroyed laboratory record of an analysis of correlation data, the following results are eligible.\nVariance of x, σ_x^2 = 9\nTwo line of regressions: 8x-10y+66=0, 40x-18y=214.\nFrom the above obtain mean values of x and y, the standard deviation of y and correlation coefficient."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5b",
+                "question": "The following are the lines of regression 9y = x + 288 and 4y = x + 38. Estimate y when x = 99 and x when y = 30. Also, find the means of x and y."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5c",
+                "question": "Ten competitors in a test are ranked by three judges in the following order:\nRank by First Judge: 6, 10, 2, 9, 8, 1, 5, 3, 4, 7\nRank by Second Judge: 5, 4, 10, 1, 9, 3, 8, 7, 2, 6\nRank by Third Judge: 4, 8, 2, 10, 7, 5, 9, 1, 3, 6\nUse the method of rank correlation to gauge which pairs of judges has nearest common approach."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5a OR",
+                "question": "For a group of 10 items, Σx = 452, Σx^2 = 24270, and mode = 43.7. Find Karl Pearson's coefficient of Skewness."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5b OR",
+                "question": "Find the correlation coefficient for the following data:\nX: -3, -2, -1, 0, 1, 2, 3\nY: 9, 4, 1, 0.5, 1, 4, 9"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5c OR",
+                "question": "Calculate the regression coefficients and find the two lines of regression for the following data:\nx: 57, 58, 59, 59, 60, 61, 62, 64\ny: 67, 68, 65, 68, 72, 72, 69, 71\nFind the value of y when x=65."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3a",
+                "question": "The mean monthly salary paid to all employees in a company is Rs. 1600. The mean monthly salaries paid to technical and non-technical employees are Rs. 1800 and Rs. 1200 respectively. Determine the percentage of technical and non-technical employees of the company."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3b",
+                "question": "Calculate average deviation from mean from the following data:\nSales: 10-20, 20-30, 30-40, 40-50, 50-60\nNo. of days: 3, 6, 11, 3, 2"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3c",
+                "question": "The median and mode of the following wage distribution are Rs. 33.5 and Rs. 34 respectively. However, three frequencies are missing. Determine their values.\nWages: 0-10, 10-20, 20-30, 30-40, 40-50, 50-60, 60-70, Total\nf: 4, 16, f0, f1, f2, 6, 4, 230"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3a OR",
+                "question": "The following data relate to the sales of 100 companies:\nSales: Below 60, 60-62, 62-64, 64-66, 66-68, 68-70, 70-72\nNo. of Companies: 12, 18, 25, 30, 10, 3, 2\nCalculate the value of modal sales."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3b OR",
+                "question": "The following data relate to the profits of 1000 companies.\nProfits: 100-120, 120-140, 140-160, 160-180, 180-200, 200-220, 220-240\nNo. of Companies: 17, 53, 199, 194, 327, 208, 2\nCalculate the coefficient of skewness and comment on its value."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3c OR",
+                "question": "The profits earned by 100 companies during 1998-99 are given below. Calculate Q1, median, D4 and P80.\nProfits: 20-30, 30-40, 40-50, 50-60, 60-70, 70-80, 80-90, 90-100\nNo. of Companies: 4, 8, 18, 30, 15, 10, 8, 7"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4a",
+                "question": "Find correlation of coefficient between the sales and expenses from the data given below:\nFirm: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10\nSales: 50, 50, 55, 60, 65, 65, 65, 60, 60, 50\nExpense: 11, 13, 14, 16, 16, 15, 15, 14, 13, 13"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4b",
+                "question": "Two housewives, Geeta and Rita, asked to express their preferences for different kinds of detergents, gave the following replies.\nDetergent: A, B, C, D, E, F, G, H, I, J\nGeeta: 4, 2, 1, 3, 7, 8, 6, 5, 9, 10\nRita: 4, 1, 2, 3, 8, 7, 5, 6, 9, 10\nTo what extent the preferences of these two ladies go together?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4c",
+                "question": "Obtain both the regression equations from the data given below.\nX: 1, 2, 3, 4, 5, 6, 7, 8, 9\nY: 9, 8, 10, 12, 11, 13, 14, 16, 15\nAlso calculate the coefficient of correlation."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4a OR",
+                "question": "Find the coefficient of correlation by Karl Pearson's method between X and Y and interpret the values.\nX: 57, 42, 40, 33, 42, 45, 42, 44, 40, 56, 44, 43\nY: 10, 60, 30, 41, 29, 27, 27, 19, 18, 19, 31, 29"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4b OR",
+                "question": "An examination of eight applicants for a clerical post was taken by a firm. From the marks obtained by the applicants in the accountancy and statistics papers, compute the rank coefficient of correlation.\nApplicant: A, B, C, D, E, F, G, H\nMarks in accountancy: 15, 20, 28, 12, 40, 60, 20, 80\nMarks in Statistics: 40, 30, 50, 30, 20, 10, 30, 60"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4c OR",
+                "question": "In a partially destroyed laboratory record of an analysis of correlation data the following results are eligible.\nVariance of X = 9, 8x - 10y + 66 = 0, 40x - 18y = 214.\nFind on the basis of the above information:\n1. The mean values of X and Y.\n2. Coefficient of correlation between X and Y\n3. Standard deviation of Y."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3c",
+                "question": "Compute Karl Pearson's coefficient of correlation between X and Y for the following data:\nx: 10, 14, 18, 22, 26, 30\ny: 18, 12, 24, 6, 30, 36"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3a OR",
+                "question": "Find coefficient of correlation between x and y if the regression lines are: x + 6y = 6 and 3x + 2y = 10."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3b OR",
+                "question": "Calculate the first four moments from the following data:\nx: 0, 1, 2, 3, 4, 5, 6, 7, 8\ny: 5, 10, 15, 20, 25, 20, 15, 10, 5"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3c OR",
+                "question": "The following data give the experience of machine operators and their performance rating as given by the number of good parts turned out per 100 piece.\nOperator: 1, 2, 3, 4, 5, 6\nPerformance rating (x): 23, 43, 53, 63, 73, 83\nExperience (y): 5, 6, 7, 8, 9, 10\nCalculate the regression line of performance rating on experience and also estimate the probable performance if an operator has 11 years of experience."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3a",
+                "question": "Find the mean and median of 2, 3, 5, 7"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3b",
+                "question": "Calculate the rank correlation:\nx: 1, 2, 3, 4, 5\ny: 2, 1, 5, 4, 3"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3c",
+                "question": "Find the correlation coefficient.\nx: 1, 2, 3, 4, 5, 6, 7\ny: 6, 8, 11, 9, 12, 10, 14"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3a OR",
+                "question": "Find mode\nx: 0-10, 10-20, 20-30, 30-40\ny: 10, 20, 40, 30"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3b OR",
+                "question": "Calculate first four central moments of observations 3, 5, 7, 13"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3c OR",
+                "question": "Find regression line of Y on X\nx: 2, 4, 6, 8, 10\ny: 5, 12, 19, 26, 33"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2a",
+                "question": "Two judges in a beauty contest rank the 12 contestants as follows:\nx: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12\ny: 12, 9, 6, 10, 3, 5, 4, 7, 6, 2, 11, 1\nCalculate rank correlation coefficient."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3a",
+                "question": "Calculate the coefficient of variance for the following data:\nClass Interval: 0-10, 10-20, 20-30, 30-40, 40-50\nFrequency: 5, 7, 2, 3, 3"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3b",
+                "question": "Calculate the median for the following data:\nClass Interval: 0-30, 30-60, 60-90, 90-120, 120-150, 150-180\nFrequency: 8, 13, 22, 27, 18, 7"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3c",
+                "question": "Compute the correlation coefficients between X and Y using following data:\nX: 2, 4, 5, 6, 8, 11\nY: 18, 12, 10, 8, 7, 5"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3a OR",
+                "question": "Obtain correlation coefficient between x and y if two regression lines are 4x-5y+33=0 and 20x-9y-107=0."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3b OR",
+                "question": "Calculate the mode for the following data:\nClass Interval: 0-10, 10-20, 20-30, 30-40, 40-50\nFrequency: 10, 14, 19, 7, 13"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3c OR",
+                "question": "Obtain the regression line of y on x for the following data:\nx: 100, 98, 78, 85, 110, 93, 80\ny: 85, 90, 70, 72, 95, 81, 74"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2a",
+                "question": "Compute Spearman's rank correlation coefficient for the following data:\nPerson: A, B, C, D, E, F, G, H, I, J\nRank in statistics: 9, 10, 6, 5, 7, 2, 4, 8, 1, 3\nRank in income: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3a",
+                "question": "Obtain the correlation coefficient between x and y, when the lines of regression are: 2x-9y+6 = 0, x-2y+1 = 0."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3b",
+                "question": "Calculate the mode from the following data:\nAge: 0-6, 6-12, 12-18, 18-24, 24-30, 30-36, 36-42\nFrequency: 6, 11, 25, 35, 18, 12, 6"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3c",
+                "question": "The following table gives recorded data showing the test scores made by salesmen on an intelligence test and their weekly sales:\nSalesmen: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10\nTest scores: 40, 70, 50, 60, 80, 50, 90, 40, 60, 60\nSales: 2.5, 6.0, 4.5, 5.0, 4.5, 2.0, 5.5, 3.0, 4.5, 3.0\nCalculate the regression line of sales on test scores and estimate the most probable weekly sales volume if a salesman makes a score of 70."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3a OR",
+                "question": "In a distribution, the mean=65, median =70, coefficient of skewness =-0.6. Calculate the mode and coefficient of variation."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3b OR",
+                "question": "Calculate the median for the following data:\nClass (Marks group): 5-10, 10-15, 15-20, 20-25, 25-30, 30-35, 35-40, 40-45\nFrequency: 5, 6, 15, 10, 5, 4, 2, 2"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3c OR",
+                "question": "Following are the values of import of raw material and export of finished product in suitable units.\nExport: 10, 11, 14, 14, 20, 22, 16, 12, 15, 13\nImport: 12, 14, 15, 16, 21, 26, 21, 15, 16, 14\nCompute the coefficient of correlation between the import values and export values."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5a OR",
+                "question": "Define Skewness. The first four central moments of a distribution are 0, 2.5, 0.7 and 18.75. Compute Skewness and Kurtosis."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4a",
+                "question": "For the following data, which of the series A and B shows greater variation?\nSeries A: Mean = 160, Standard Deviation = 10\nSeries B: Mean = 60, Standard Deviation = 5"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4b",
+                "question": "In a partially, destroyed record on analysis of correlation data, only the following are legible: Variance of x, σ_x^2 = 9, regression equation 8x - 10y + 66 = 0, 40x - 18y = 214.\nFind (i) mean values of x and y, (ii) the standard deviation of y."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4c",
+                "question": "Ten competitors in a contest are ranked by three judges in the following order:\n1st Judge: 1, 6, 5, 10, 3, 2, 4, 9, 7, 8\n2nd Judge: 3, 5, 8, 4, 7, 10, 2, 1, 6, 9\n3rd Judge: 6, 4, 9, 8, 1, 2, 3, 10, 5, 7\nUse the correlation coefficient to determine which pair of judges has the nearest approach."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4a OR",
+                "question": "Calculate Pearson's coefficient of skewness for the following data:\nx: 12, 17, 22, 27, 32\nf: 28, 42, 54, 108, 129"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4b OR",
+                "question": "The number of messages sent per hour over a computer network has the following probability distribution:\nX = No. of messages: 10, 11, 12, 13, 14, 15\nP(x): 0.08, 0.15, 0.30, 0.20, 0.20, 0.07\nDetermine the mean and standard deviation of the number of messages sent per hour."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4c OR",
+                "question": "Calculate the coefficient of correlation between x and y for the following data:\nx: 65, 66, 67, 67, 68, 69, 70, 72\ny: 67, 68, 65, 68, 72, 72, 69, 71"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3c",
+                "question": "Compute Karl Pearson's coefficient of correlation between X and Y for the following data:\nx: 2, 4, 5, 6, 8, 11\ny: 18, 12, 10, 8, 7, 5"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3a OR",
+                "question": "If the two lines of regression are 2x - 5y + 30 = 0 and 10x - 4y - 104 = 0 which of these are lines of regression of x on y and y on x?"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3b OR",
+                "question": "Calculate the first four moments from the following data:\nx: 5, 10, 15, 20, 25\nf: 6, 10, 14, 6, 4"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3c OR",
+                "question": "Obtain the line of regression of monthly sales (y) on advertisement expenditure (x) and estimate the monthly sales when the company will spend Rs. 50000 on advertisement, if the data on y and x are as follows:\ny (in lac): 74, 76, 60, 68, 79, 70, 71, 94\nx (in thousand): 43, 44, 36, 38, 47, 40, 41, 54"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3a",
+                "question": "Find the mean and median for the given data\nC.I.: 0-10, 10-20, 20-30, 30-40, 40-50, 50-60, 60-70, 70-80, 80-90, 90-100\nf: 4, 6, 5, 10, 20, 22, 24, 6, 2, 1"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3b",
+                "question": "The first four moments of a distribution about the value 5 of the variate are 2, 20, 40, and 50. Find mean and variance."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3c",
+                "question": "Calculate the correlation coefficient between x and y using the following data\nx: 1, 2, 3, 4, 5, 6, 7, 8, 9\ny: 9, 8, 10, 12, 11, 13, 14, 16, 15"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3b OR",
+                "question": "Calculate the rank correlation coefficient for given data\nX: 85, 74, 85, 50, 65, 78, 74, 60, 74, 90\nY: 78, 91, 78, 58, 60, 72, 80, 55, 68, 70"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3c OR",
+                "question": "The equation of two regression lines obtains in a correlation analysis of 60 observations are 5x = 6y + 24 and 1000y = 786x - 3608.\nWhat is the correlation coefficient? Show that the ratio of coefficient of variability of x to that of y is 5/24. What is the ratio of variance of x and y."
+            }
+        ]
+    },
+    "4": {
+        "unit_name": "Applied Statistics",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q4a",
+                "question": "Airscrew escape systems powered by a solid propellant. The burning rate of this propellant is an important product characteristics. Specifications require that the mean burning rate must be μ = 50 centimeters per second and standard deviation of burning rate σ = 2 centimeters per second. The experimenter choose α = 0.05 level of significance and selects random sample of n = 25 and obtain a sample average of x̄ = 51.3 centimeters per second. What conclusions should be drawn? (z_{0.025} = ±1.96)"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q4a OR",
+                "question": "You are working as a purchase manager for a company. The following information has been supplied to you by two manufactures of electric bulbs.\nCompany A: Mean life in hours = 1300, Standard deviation = 82, Sample size = 100\nCompany B: Mean life in hours = 1248, Standard deviation = 93, Sample size = 100\nWhich brand of bulbs are you going to purchase if you desire to take a risk at 5%? (Z_{0.05} = ±1.96)"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q5a",
+                "question": "500 units from a factory are inspected and 12 are found to be defective, 800 units from another factory are inspected and 12 are found to be defective. Can it be concluded at 5% level of significance that production at second factory is better that in first factory. (Z_{0.05} = ±1.96)"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q5b",
+                "question": "Two salesmen A and B are working in a certain district. From a sample survey conducted by the head office, the following results were obtained. Whether is there any significant difference in the average sales between two salesmen's?\nA: Number of sales = 20, Average sales in Rs. = 170, Standard deviation in Rs. = 20\nB: Number of sales = 18, Average sales in Rs. = 205, Standard deviation in Rs. = 25\nThe critical value of t at 5% level of significance and 36 degree of freedom is more than 36."
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q5a OR",
+                "question": "A random sample of size 15 from a bivariate normal population gave correlation coefficient r=0.5. Is this indicate the correlation in the population? Choose α = 0.05 as level of significance, t_{(α/2,13)} = 2.160"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q5c OR",
+                "question": "The number of defects in printed circuit board is hypothesized to follow Poisson distribution. A random sample of n=60 printed board has been collected and the following number of defects observed.\nNumber of defects: 0, 1, 2, 3\nObserved frequency: 32, 15, 09, 04\nUse chi-square distribution to test the claim that the number defects follows the Poisson distribution. χ^2_{(0.05,1)} = 3.84"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2b",
+                "question": "A dice is thrown 264 times with the following results. Show that the dice is biased. [Use χ^2_{0.05} = 11.07 for 5 degree of freedom].\nNo. appeared on dice: 1, 2, 3, 4, 5, 6\nFrequency: 40, 32, 28, 58, 54, 52"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4a",
+                "question": "Explain the term related to testing of hypothesis: (i) Type I Error, (ii) Type II Error, (iii) Level of Significance."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4b",
+                "question": "A coin was tossed 960 times and returned heads 183 times. Test the hypothesis that the coin is unbiased. Use 5% level of significance. [use Z_{0.05} = 1.96]."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4c",
+                "question": "Two types of batteries are tested for their length of life and the following data are obtained:\nType A: No. of samples = 9, Mean Life in hours = 600, Variance = 121\nType B: No. of samples = 8, Mean Life in hours = 640, Variance = 144\nIs there a significant difference in the two means? [Use t_{0.05,15} = 2.132]"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4a OR",
+                "question": "Ten objects are chosen at random from a large population and their weights are found to be in grams: 61, 63, 64, 65, 68, 69, 69, 70, 71, 71. Discuss the suggestion that the mean is 65 g. [Use t_{0.05} = 2.262 at v = 9]."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4b OR",
+                "question": "The means of simple samples of sizes 1000 and 2000 are 67.5 cm and 68 cm respectively. Can the samples be regarded as drawn from the same population of standard deviation 2 cm. [use Z_{0.05} = 1.96]"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4c OR",
+                "question": "Two random samples are drawn from two populations and the following results were obtained:\nSample I: 21, 24, 25, 26, 27\nSample II: 22, 27, 28, 30, 31, 36\nFind the variances of the two samples and test whether the two populations have the same variances. [Use F_{0.05}(5,4) = 6.26.]"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5a",
+                "question": "The mean lifetime of a sample of 100 light tubes produced by a company is found to be 1580 hours with standard deviation of 90 hours. Test the hypothesis that mean lifetime of the tube produced by the company is 1600 hours. (The critical value of z at 5% level of significance is ±1.96)."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5b",
+                "question": "Two salesman A and B are working in a certain district. From a sample survey conducted by the Head office, the following results were obtained. State whether there is any significant difference in the average sales between the two salesmen?\nA: No. of sales = 20, Average sales = 170, Standard deviation = 20\nB: No. of sales = 18, Average sales = 205, Standard deviation = 25\nThe table value of t at 5% level of significance and 36 df is 1.9"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5a OR",
+                "question": "The Prices of shares of a company on the different days in a month were found to be: 66, 65, 69, 70, 69, 71, 70, 63, 64, and 68.\nTest whether the mean price of the shares in the month is 65. (The table value of t for 9 degrees of freedom at 5% level of significance is 1.833.)"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5b OR",
+                "question": "In random sample of 100 persons taken from village A, 60 are found to be consuming tea. In another sample of 200 persons taken from village B, 100 persons are found to be consuming tea. Do the data reveal significant difference between the two villages as far as the habit of consuming tea is concerned? (The critical value of z at 5% level of significance is ±1.96)."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4a",
+                "question": "Explain the term related to testing of hypothesis: (i) Null hypothesis (ii) Alternate hypothesis and (iii) Level of Significance"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4b",
+                "question": "A dice is tossed 960 times and it falls with 5 upwards 184 times. Is the dice unbiased at a level of significance of 0.01? (|Z_{0.01}| = 2.58)"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4c",
+                "question": "A set of five similar coins is tossed 320 times and result is obtained as follows\nNo of heads: 0, 1, 2, 3, 4, 5\nFrequency: 6, 27, 72, 112, 71, 32\nTest the hypothesis that the data follow a binomial distribution. (Critical value χ^2_{0.05} = 11.07)"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4a OR",
+                "question": "The heights of 10 males of a given locality are found to be 175, 168, 155, 170, 152, 170, 175, 160, 160 and 165 cm. Based on this sample, find the 95% confidence limits for the heights of males in that locality. [t_{0.05}(v = 9) = 2.262]"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4b OR",
+                "question": "Random samples drawn from two countries gave the following data relating to the heights of adult males:\nCountry A: Standard deviation (in inches) = 2.58, Number in samples = 1000\nCountry B: Standard deviation (in inches) = 2.50, Number in samples = 1200\nIs the difference between the standard deviation significant? (|Z_{0.05}| = 1.96)"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4a",
+                "question": "Explain the terms one-tailed and two-tailed test"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4b",
+                "question": "In a sample of 500 bulbs 20 are found defective. The company claims that only 2% bulbs are defective. Test the reality of claim at 5% level of significance."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4c",
+                "question": "Test whether the following samples could have been drawn from population with same SD.\nSample A: Size = 100, SD = 10\nSample B: Size = 200, SD = 11"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4a OR",
+                "question": "Explain the terms null and alternate hypothesis"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4b OR",
+                "question": "A coin returned 531 heads in 1000 tosses. Is it biased? [Use α = 0.05]"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4c OR",
+                "question": "Use chi-square test to determine whether smoking and hypertension are independent at 5% level of significance [χ^2(α = 0.05, df = 1) = 3.84]\nSmoking, No Smoking\nHypertension: 30, 20\nNo Hypertension: 10, 40"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4a",
+                "question": "Explain the term related to testing of hypothesis: (i) Null hypothesis (ii) Alternate hypothesis and (iii) Errors while accepting or rejecting a hypothesis."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4b",
+                "question": "The mean of 35 sample of the thermal conductivity of a certain kind of cement brick is 0.343 with standard deviation of 0.010. Test the hypothesis that the population mean is 0.340 at 5% level of significance."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4c",
+                "question": "Fit a binomial distribution for the following data showing the survey of 800 families with 4 children and test the goodness of fit.\nNo. of boys: 0, 1, 2, 3, 4\nNo. of girls: 4, 3, 2, 1, 0\nNo. of families: 32, 178, 290, 238, 64"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4a OR",
+                "question": "A random sample of size 15 from bivariate normal distribution gave a correlation coefficient r=0.5. Is this indicate the existence of correlation in the population?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4b OR",
+                "question": "A tire company is suspicious to claim that the average lifetime of certain tires is at least 28000 km. To check the claim, the company takes the sample of 40 tires and gets a mean life time of 27463 km with standard deviation of 1348 km. Test the hypothesis at 1% level of significance."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4c OR",
+                "question": "Fit a Poisson distribution for the following data and test the goodness of fit.\nx: 0, 1, 2, 3, 4\nf: 112, 73, 30, 4, 1"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4a",
+                "question": "Explain the term related to testing of hypothesis (i) Null hypothesis (ii) Level of significance (iii) Two tailed test."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4c",
+                "question": "The following table showing the number of plants having certain characters.\nFlat leaves, Curled leaves, Total\nWhite flowers: 267, 27, 294\nRed flowers: 757, 155, 912\nTotal: 1024, 182, 1206\nUse the χ^2 test to access the correctness of the hypothesis that the flower colour is independent of flatness of leaf at 5% level of significance. χ^2_{(0.05,1)} = 3.84."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4a OR",
+                "question": "The mean life of a sample of 25 fluorescent light bulbs is found as 1550 hours with a standard deviation of 120 hours. The company manufacturing the bulbs claims that the average life of their bulbs is 1600 hours. Is the claim acceptance at 5% level of significance? The value of t at 5% level of significance and 24 degree of freedom is 1.711."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4b OR",
+                "question": "The mean life time of sample of 100 fluorescent light bulbs produced by a company is computed to be 1570 hours with a standard deviation of 120 hours. The company claims that the average life of the bulbs produced by it is 1600 hours. Using the level of significance of 0.05, is the claim acceptable? (Z_{0.05} = ±1.96)."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5b OR",
+                "question": "Two random samples gave the following data:\nSample I: Size = 8, Mean = 9.6, Variance = 1.2\nSample II: Size = 11, Mean = 16.5, Variance = 2.5\nCan we conclude that the two samples have been drawn from the same normal population? F_{0.05}(10,7)=3.64."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2b",
+                "question": "The following table gives the number of aircraft accidents that occurred during the various days of the week. Find whether the accidents are uniformly distributed over the week. (Use χ^2 at 5% level of significance for 6 degree of freedom is 12.59).\nDays: Sun., Mon., Tue., Wed., Thu., Fri., Sat.\nNo. of Accidents: 14, 16, 8, 12, 11, 9, 14"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5a",
+                "question": "Define Statistical Hypothesis and types of errors occurring while testing of hypothesis."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5b",
+                "question": "To test whether a particular training improved the performance, a similar training was given to 8 participants, their scores both before and after the training are given below:\nScore (Before): 44, 40, 61, 52, 32, 44, 70, 41\nScore (After): 53, 38, 69, 57, 46, 39, 73, 48\nTest at 5% level of significance if the training was effective in terms of performance on the test. [Use t_{7,0.05} = 2.37]."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5c",
+                "question": "A manufacturer of sprinkler systems used for fire protection in office buildings claims that the true average system-activation temperature is 130°F. A sample of size n = 9 systems, when tested, yields a sample average activation temperature of 131.08°F. If the distribution of activation times is normal with standard deviation 1.5°F, does the data contradict the manufacturer's claim at 1% level of significance. [Use Z_{0.01} = 2.58.]"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5a OR",
+                "question": "A random sample of size 20 from a normal population has mean 40 and standard deviation of 4. Test the hypothesis that the population mean is 45. [Use t_{0.05,19} = 2.09.]"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5b OR",
+                "question": "Analysis of a random sample consisting of size m = 20 specimens of cold-rolled steel to determine yield strengths resulted in a sample average strength of x̄ = 29.8 ksi. A second random sample of size n = 25 two-sided galvanized steel specimens gave a sample average strength of ȳ = 34.7 ksi. Assuming that the two yield-strength distributions are normal with σ1 = 4.0 and σ2 = 5.0, does the data indicate that the corresponding true average yield strengths μ1 and μ2 are different? Use 5% level of significance. [Use Z_{0.05} = 1.96.]"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5c OR",
+                "question": "Oxide layers on semiconductor wafers are etched in a mixture of gases to achieve the proper thickness. The variability in the thickness of these oxide layers is a critical characteristic of the wafer, and low variability is desirable for subsequent processing steps. Two different mixtures of gases are being studied to determine whether one is superior in reducing the variability of the oxide thickness. Twenty wafers are etched in each gas. The sample standard deviations of oxide thickness are s1 = 1.96 angstroms and s2 = 2.13 angstroms, respectively. Is there any evidence to indicate that either gas is preferable? [Use F_{0.05,(19,19)} = 2.16.]"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4a",
+                "question": "Explain the term related to testing of hypothesis: (i) One Tailed Test (ii) Two Tailed Test (iii) Critical Region."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4b",
+                "question": "A coin was tossed 960 times and returned heads 183 times. Test the hypothesis that the coin is unbiased. Use a 0.05 level of significance? (|Z_{0.05}| = 1.96)"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4c",
+                "question": "In a city A, 20% of a random sample of 900 school boys has a certain slight physical defect. In another city B, 18.5% of a random sample of 1600 school boys has the same defect. Is a difference between the proportions significant at 0.05 level of significance? (|Z_{0.05}| = 1.96)"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4a OR",
+                "question": "The mean breaking strength of a rope is 160 kgs. If 6 bricks (selected from different piles) have a mean breaking strength of 154.3 kgs with a standard deviation of 6.4 kgs. Test the null hypothesis μ = 160 kgs. against the alternative hypothesis μ < 160 kgs. at 1% level of significance. [t_{0.01}(v = 5) = 3.365]"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4b OR",
+                "question": "Examine whether the two samples for which the data are given in the following table could have been drawn from populations with the same SD.\nSample I: Size = 100, SD = 5\nSample II: Size = 200, SD = 7\n(|Z_{0.05}| = 1.96)"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2b",
+                "question": "It is known that the mean diameters of rivets produced by two firms A and B are practically the same, but the standard deviation may differ. For 22 rivets produced by firm A, the standard deviation is 2.9mm, while for 16 rivets manufactured by firm B, the standard deviation is 3.8mm. Compute the statistic you would use to test whether the products of firm A have the same variability as those of firm B. Using the value F_{0.05}(15,21) = 2.20"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5a",
+                "question": "A sample of 100 students is taken from a large population. The mean height of the students in this sample is 160 cm. Can it be reasonably regard that, in the population, the mean height is 165 cm and the SD is 10 cm? (use 5% level of significance)"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5b",
+                "question": "Below are given the gain in weights (in lbs) of pigs fed on two diets A and B.\nDiet A: 25, 32, 30, 34, 24, 14, 32, 24, 30, 31, 35, 25\nDiet B: 44, 34, 22, 10, 47, 31, 40, 30, 32, 35, 18, 21, 35, 29, 22\nTest if the two diets differ significantly as regards their effect on increase in weight. (using t_{0.05} at 25 d. f. = 2.07)"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5c",
+                "question": "From the following table, test the hypothesis that the flower colour is independent of flatness of leaf\nFlat leaves, Curled leaves, Total\nWhite flowers: 99, 36, 135\nRed flowers: 20, 5, 25\nTotal: 119, 41, 160\nIf the value of χ^2 for 1 d. f at 5% level of significance is 3.841."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5a OR",
+                "question": "Two large population, there are 30% and 25% respectively of blue eyed people. Is this difference likely to be hidden in the sample of 1200 and 900 respectively from the two populations? (Test at 5% level of significance)."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5b OR",
+                "question": "A certain stimulus administered to each of the 12 patients resulted in the following increase of blood pressure:\n5, 2, 8, -1, 3, 0, -2, 1, 5, 0, 4 and 6\nCan it be concluded that the stimulus will, in general be accompanied by an increase in blood pressure? (Given that for 5% level of significance t for 11 d. f is 1.796)"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5c OR",
+                "question": "12 dice were thrown 4096 times and a throw of 6 was considered as a success; the observed frequencies were given below:\nNo. of successes: 0, 1, 2, 3, 4, 5, 6, 7 & above\nFrequencies: 447, 1145, 1181, 796, 380, 115, 24, 8\nFind the value of chi-square on the basis of the hypothesis that the dice were unbiased and hence show that the data are consistent with the hypothesis so far as the χ^2-test is concerned. The value of χ^2 for 7 degrees of freedom at 5% level of significance is 14.067."
+            }
+        ]
+    },
+    "5": {
+        "unit_name": "Curve Fitting",
+        "questions": [
+            {
+                "year": "S2021",
+                "question_no": "Q5c",
+                "question": "A simply supported beam carries a concentrated load P(lb) at its mid-point. Corresponding to various values of P the maximum deflection y (in) is measured. The corresponding table is given below. Find the law of the y = a + bP.\nP: 100, 120, 140, 160, 180, 200\ny: 0.45, 0.55, 0.60, 0.70, 0.80, 0.85"
+            },
+            {
+                "year": "S2021",
+                "question_no": "Q5b OR",
+                "question": "By the method of least square fit a curve of the form y = ax^b to the following data.\nx: 2, 3, 4, 5\ny: 27.8, 62.1, 110, 161"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2c",
+                "question": "Fit a straight line to the following data. Also, estimate the value of y at x=72.\nx: 65, 66, 67, 67, 68, 69, 71, 73\ny: 67, 68, 64, 68, 72, 70, 69, 70"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2c OR",
+                "question": "Fit the second degree parabola using the least square method to the following data:\nx: 1, 2, 3, 4, 5\ny: 5, 12, 26, 60, 97\nAlso, estimate y at x=6."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5c",
+                "question": "Fit a curve y = ab^x to the following data.\nx: 2, 3, 4, 5, 6, 8\ny: 8.3, 15.4, 33.1, 65.2, 126.4, 146"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5c OR",
+                "question": "Fit a second degree parabola to the following data:\nx: 1, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0\ny: 1.1, 1.3, 1.6, 2.0, 2.7, 3.4, 4.1"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5a",
+                "question": "Fit a straight line y = ax + b to the following data:\nx: 1, 2, 3, 4, 6, 8\ny: 2.4, 3, 3.6, 4, 5, 6"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5b",
+                "question": "Fit a curve y = ab^x to the following data:\nx: 1, 2, 3, 4, 5, 6, 7, 8\ny: 1, 1.2, 1.8, 2.5, 3.6, 4.7, 6.6, 9.1"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5b OR",
+                "question": "Out of 800 families with 5 children each, how many would you expect to have (i) 3 boys? (ii) 5 girls?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5c OR",
+                "question": "Fit a second-degree parabolic curve to the following data:\nx: 1, 2, 3, 4, 5, 6, 7, 8, 9\ny: 2, 6, 7, 8, 10, 11, 11, 10, 9"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1c",
+                "question": "Find the best fitting parabola:\nx: 1, 2, 3, 4, 5\ny: 2, 5, 10, 17, 26"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5b OR",
+                "question": "Find the best fitting line to the points (1,1), (2,4), (3,9), (4,16)"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5c OR",
+                "question": "Fit the curve y = ab^x\nx: 1, 2, 3, 4\ny: 35, 70, 140, 280"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5a",
+                "question": "In y = a + bx if Σx = 50, Σy = 80, Σxy = 1030, Σx^2 = 750 and n = 10, then find a and b."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5b",
+                "question": "Fit a curve y = ae^{bx} for the following data:\nx: 1, 2, 3, 4\ny: 7, 11, 17, 27"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5c OR",
+                "question": "Fit a parabola y = ax^2 + bx + c for the following data:\nx: -1, 0, 1, 2\ny: -2, 1, 2, 4"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5a",
+                "question": "Fit the line y = a + bx for the following data:\nx: 0, 5, 10, 15, 20, 25\ny: 12, 15, 17, 22, 24, 30"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5b",
+                "question": "Fit the curve y = ax^b to the following data.\nx: 61, 26, 7, 2.6\ny: 350, 400, 500, 600"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5c OR",
+                "question": "Fit a parabola y = a + bx + cx^2 for the following data:\nx: 1, 2, 3, 4, 5\ny: 5, 12, 26, 60, 97\nAlso, estimate y at x=6."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2c",
+                "question": "Fit a second-degree parabola for the following data:\nx: 0, 1, 2, 3, 4\ny: 3, 6, 11, 18, 27\nEstimate the value of y when x = 5."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2c OR",
+                "question": "Fit a relation of the form y = ab^x for the following data by the method of least squares:\nx: 2, 3, 4, 5, 6\ny: 8.3, 15.4, 33.1, 65.2, 126.4\nEstimate the value of y when x = 1."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5a",
+                "question": "Using least squares approximation method, fit a straight line y = ax + b to the following data:\nx: 1, 2, 3, 4, 5\ny: 14, 27, 40, 55, 68"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5b",
+                "question": "Using least squares approximation method, fit a curve y = ae^{bx} to the following data:\nx: 1, 5, 7, 9, 12\ny: 10, 15, 12, 15, 21"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5c OR",
+                "question": "Using least squares approximation method, fit a second-degree parabolic curve to the following data:\nX: 1, 2, 3, 4, 5\nY: 5, 12, 26, 60, 97\nAlso, estimate y at x = 6."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2c",
+                "question": "Fit a curve of the form y = ab^x to the following data\nx: 1, 2, 3, 4, 5, 6, 7\ny: 87, 97, 113, 129, 202, 195, 193"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2c OR",
+                "question": "Fit the second degree parabola using the least square method to the following data\nx: 1, 2, 3, 4\ny: 1.7, 1.8, 2.3, 3.2"
+            }
+        ]
+    }
+}

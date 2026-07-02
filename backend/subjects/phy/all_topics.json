@@ -1,0 +1,3249 @@
+[
+  {
+    "question_no": "Q1a",
+    "question": "What is physical significance of the negative effective mass?",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Find the probability of an electron occupying an energy level 0.02 eV above the Fermi level at 200 K and 400 K in a material.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Derive an expression for electrical and thermal conductivity in a material and hence verify Wiedemann-Franz law.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Show that for an intrinsic semiconductor the Fermi level lies at the middle of the energy gap.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "P-type, N-type materials"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "The intrinsic carrier density of given semiconductor is 1.5 × 10^16 m^–3. If the mobility of the electrons and holes are 0.13 and 0.05 m^2 V^–1 s^–1 respectively, calculate the conductivity.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "P-type, N-type materials"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Obtain an expression for concentration of holes in valance band in intrinsic semiconductor.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "P-type, N-type materials"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Derive the formula for concentration of electrons in conduction band in n-type semiconductor.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "P-type, N-type materials"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Write the difference between spontaneous emission and stimulated emission.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of Laser",
+    "topics": [
+      "Properties of Laser",
+      "Einstein's theory of matter radiation: A and B coefficients"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain Ohmic junction with necessary diagram.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "What do you mean by joint density of state? Derive mathematical expression for optical joint density of states.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Write short note on exciton.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "If the light having wavelength of 4000 A falls on semiconductor having bandgap of 2.1 eV. Assuming mass of electron in conduction band and valance band is same as rest mass of electron, calculate the optical joint density of states for given semiconductor.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "For bulk semiconductor show that the ratio of Einstein's co-efficient is directly proportional to cube of frequency.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Einstein's theory of matter radiation: A and B coefficients",
+    "topics": [
+      "Einstein's theory of matter radiation: A and B coefficients",
+      "Properties of Laser"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Write the drawbacks of two probe method.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "An n-type Ge sample has donor density of 10^21 m^-3. It is arranged in a Hall effect experiment having Bz = 0.5 Wb/m^2 and Jx = 500 A/m^2. Find Hall voltage if the width of sample is 3 mm.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "What is Hall effect? Obtain expressions for Hall Voltage and Hall mobility.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain Hot point probe measurement.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "A 20.0 mm wide and 1.0 mm thick silver strip is placed in 1.5 Wb/m^2 magnetic field in such a way that magnetic field remains perpendicular to strip. A current of 200 A is set-up in the strip. Calculate the Hall voltage of the strip. (given: n = 8.4 x 10^28 m^-3)",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain Current-Voltage characteristic of Solar cell.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Define: (1) Critical Temperature (2) Critical Magnetic field (3) Critical Current density.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "For specimen of V3Ga, the critical fields are 1.4 x 10^5 A/m and 4.2 x 10^5 A/m at 14 K and 13 K respectively. Calculate the value of transition temperature.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Type I & Type II superconductors",
+    "topics": [
+      "Type I & Type II superconductors",
+      "Introduction – Properties (Superconductors)"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Write and explain characteristics of superconductors.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Meissner effect"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "The critical temperature for Hg with isotopic mass 199.5 is 4.185 K. Calculate its critical temperature when its isotopic mass changes to 203.4.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write the difference between Type-I and Type-II superconductor.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Type I & Type II superconductors",
+    "topics": [
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain BCS theory.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Meissner effect",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define: Recombination and carrier generation",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "P-type, N-type materials"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Differentiate: Spontaneous and Stimulated emission.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of Laser",
+    "topics": [
+      "Properties of Laser",
+      "Einstein's theory of matter radiation: A and B coefficients"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain Energy Band Diagrams in solids with the necessary diagram.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Introduction of Group IV elements"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "State assumption of classical free electron gas theory.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Differentiate: Direct and Indirect bandgap in semiconductors",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain: Working of the p-n junction diode and state its applications.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Write a short note on DOS (Density of State)",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "State: Fermi function",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Differentiate: Intrinsic and Extrinsic Semiconductor.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "P-type, N-type materials",
+    "topics": [
+      "P-type, N-type materials",
+      "Introduction of Group IV elements"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain the working of solar cells with the necessary diagram.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Define: Ohmic junction",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain: Exciton",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Write a brief note on Kronig-Penney Model.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define: Superconductivity and Transition temperature Tc",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Write down applications associated with SQUID.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Applications (Superconductors)",
+    "topics": [
+      "Applications (Superconductors)",
+      "Introduction – Properties (Superconductors)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain the Meissner effect and prove that superconductors are perfect diamagnetic.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Meissner effect",
+    "topics": [
+      "Meissner effect",
+      "Introduction – Properties (Superconductors)"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Define: Absorption of Light",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of Laser",
+    "topics": [
+      "Properties of Laser",
+      "Einstein's theory of matter radiation: A and B coefficients"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain: Hot Point probe measurements.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Write a brief note on the density of electrons in the conduction band.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What do you mean by drift and diffusion current?",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Differentiate: Type I and Type II superconductors.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Type I & Type II superconductors",
+    "topics": [
+      "Type I & Type II superconductors",
+      "Introduction – Properties (Superconductors)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain: Four Point Probe technique (for Bulk sample)",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "State: Formula for Fermi's Golden Rules.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Calculate the critical current which can flow through a long thin superconducting wire of diameter 10^-3 m. Given Hc = 7.9 X 10^3 amp/m",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Write a brief note on Visible Spectroscopy and state its applications.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define following terms. i. Critical Temperature ii. Persistent Current iii. Isotope effect",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain hot point probe method with necessary diagrams.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain in detail how Kronig and Penney model explains the origin of band gap in semiconductors.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Properties"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Compare n-Type and p-Type Semiconductors.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "P-type, N-type materials",
+    "topics": [
+      "P-type, N-type materials",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Distinguish between Type-I and Type-II Superconductivity.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Type I & Type II superconductors",
+    "topics": [
+      "Type I & Type II superconductors",
+      "Introduction – Properties (Superconductors)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Determine the necessary formula for density of hole in Valence Band for Intrinsic Semiconductors.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "P-type, N-type materials"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "What are Einstein's coefficients? Give relation between them and discuss the result.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Einstein's theory of matter radiation: A and B coefficients",
+    "topics": [
+      "Einstein's theory of matter radiation: A and B coefficients",
+      "Properties of Laser"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Define: i. Energy Gap ii. Fermi Function iii. Density of states",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Estimate the position of Fermi Level at 300 K for a material with EC = 0.8 eV and EV = 0.5 eV (me* = 0.14m0 and mh* = 0.28m0, m0 is rest mass of an electron).",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Illustrate Four probe method for thin sheet and bulk sample in detail.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What are the postulates for free electron theory?",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "In an intrinsic semiconductor, energy gap is 1.3 eV. Evaluate the ratio between its conductivity at temperature 700 K and 400 K.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Show that Junction capacitance is inversely proportional to square root of Reverse biasing Voltage.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What do you mean by Photo Voltaic Effect? Write its three applications in the field of engineering.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Using Fermi function, evaluate the temperature at which there is 20 % probability that an electron in solid will have energy 0.3 eV above EF of 3 eV.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain at least seven properties of Superconductors in detail with necessary diagram and equations.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Meissner effect",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Define: i. Population Inversion ii. Meta stable state iii. Active Medium",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Amplification of light by population inversion",
+    "topics": [
+      "Amplification of light by population inversion",
+      "Properties of Laser"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain how the materials are classified into conductors, semiconductors and insulators with the help of energy band diagrams.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Introduction of Group IV elements"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Briefly outline the mechanism of superconductivity using BCS theory and explain penetration depth.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Meissner effect"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Compare Direct Band Gap semiconductors and Indirect Band Gap semiconductors",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What are Excitons? explain the types of Exciton.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "(i) Estimate the concentration of holes and electrons in n-type silicon at 300 K. If the conductivity is 8 X 10^4 Ʊ/m. also find these value for p-type Si. ni = 2.5 X 10^16 m^-3, electron and hole mobility is 1600X10^-4 m^2/V.Sec and 700X10^-4 m^2/V.Sec respectively. (ii) Evaluate the Electron and Hole concentration at room temperature, for a intrinsic semiconductor, if its conductivity at room temperature is 8×10^-4 Ʊ/m. The mobility of Electron and Hole are 0.24 m^2/V.Sec and 0.08 m^2/V.Sec respectively.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "P-type, N-type materials"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "List difference between drift and diffusion current",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain in detail the Fermi's Golden Rule.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "(i) In a solid consider an energy level lying 0.2 eV above Fermi level. Estimate the probability of this level not being occupied by an electron at room temperature. (ii) A rectangular semiconductor specimen of thickness 1 mm is placed in the magnetic field of flux density 0.5 Wb/m^2. Current of 1.5 mA is flowing through the specimen in one direction. Evaluate Hall coefficient of the material if generated hall voltage is 7.5 mV.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Transition temperature of mercury of mass number 202 is 4.20 K. Find the transition temperature of isotope of mercury of mass number 204.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Define: (i) Interference of light, (ii) Diffraction of light, (iii) Fresnel diffraction. Also state Huygens' principle.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Huygens' Principle",
+    "topics": [
+      "Huygens' Principle",
+      "Superposition of Waves",
+      "Fresnel and Fraunhofer diffraction"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c(i)",
+    "question": "Define nanomaterials and explain ball milling technique of synthesis of nanomaterials with suitable diagram.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction (Nanomaterials)",
+    "topics": [
+      "Introduction (Nanomaterials)",
+      "Synthesis of nano materials – Top down and Bottom up approach",
+      "Ball milling"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c(ii)",
+    "question": "Write any four differences between n-type and p-type semiconductors.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "P-type, N-type materials",
+    "topics": [
+      "P-type, N-type materials",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "What is de-Broglie wave? Write the equation of de-Broglie wavelength and mention the names of each quantity involved in the equation.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Wave-particle duality-de Broglie matter waves",
+    "topics": [
+      "Wave-particle duality-de Broglie matter waves"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Find the force required to increase the length of a wire of 10^-6 m^2 area of cross-section by 50 % whose Young's modulus is 2×10^11 N/m^2.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Properties of Matter",
+    "primary_topic": "Stress – Strain – Hooke's law",
+    "topics": [
+      "Stress – Strain – Hooke's law",
+      "Elastic Behaviour of Material",
+      "Young's modulus by cantilever depression"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain torsional pendulum in brief with suitable diagram and derive the equation of twisting couple per unit twist of a wire.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Properties of Matter",
+    "primary_topic": "Torsional Pendulum",
+    "topics": [
+      "Torsional Pendulum",
+      "Application- Determination of Rigidity Modulus"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain: (i) Elastic hysteresis, (ii) Elastic after-effect, and (iii) Elastic fatigue.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Properties of Matter",
+    "primary_topic": "Elastic Behaviour of Material",
+    "topics": [
+      "Elastic Behaviour of Material"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Define: (i) Transverse waves, (ii) Ultrasonic waves, and (iii) Damped oscillations.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Wave motion, transverse and longitudinal vibration",
+    "topics": [
+      "Wave motion, transverse and longitudinal vibration",
+      "Damped and undamped vibration",
+      "Ultrasonic waves - Properties"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "The volume of a room is 1500 m^3. The wall area of the room is 250 m^2, the floor and the ceiling area is 150 m^2 each. The average sound absorption coefficient for the wall, floor and the ceiling are 0.25, 0.06 and 0.80, respectively. Calculate the average absorption coefficient and the reverberation time.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Sabine's formula and usage",
+    "topics": [
+      "Sabine's formula and usage",
+      "Sound absorption and reverberation",
+      "Acoustic of building"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Derive the differential equation of simple harmonic motion, also write its general solution and obtain the equation of velocity and acceleration of simple harmonic oscillator.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Simple Harmonic motion",
+    "topics": [
+      "Simple Harmonic motion",
+      "Free, forced, Resonance"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Define: (i) Reverberation, (ii) Echo, and (iii) Echelon effect.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Sound absorption and reverberation",
+    "topics": [
+      "Sound absorption and reverberation",
+      "Acoustic of building"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "A particle of mass 0.50 kg executes a simple harmonic motion. If it crosses the centre of oscillation with a speed of 10 m/s, find the amplitude of the motion. (force constant k = 50 N/m)",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Simple Harmonic motion",
+    "topics": [
+      "Simple Harmonic motion",
+      "Free, forced, Resonance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain the construction and working of piezoelectric method of ultrasonic wave production with suitable diagram.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Ultrasonic waves - Generation – Piezoelectric method",
+    "topics": [
+      "Ultrasonic waves - Generation – Piezoelectric method",
+      "Ultrasonic waves - Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "In a Young's double slit experiment, the two slits which are 0.5 mm apart are illuminated by the yellow light of wavelength 589.0 nm. Calculate the distance between two consecutive bright bands in the interference pattern observed on a screen 2 m away from the slits.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Young's double slit experiment",
+    "topics": [
+      "Young's double slit experiment",
+      "Superposition of Waves"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Write Schrodinger's time independent wave equation and explain its each term. Also write Heisenberg's uncertainty principle in terms of position and momentum.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Schrodinger's wave equation",
+    "topics": [
+      "Schrodinger's wave equation",
+      "Heisenberg's Uncertainty Principle",
+      "Concept of the wave function and its physical significance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain the formation of Newton's rings with suitable diagram and derive the equation of radius of bright and dark rings produced by the interference of reflected light.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Newton's rings",
+    "topics": [
+      "Newton's rings",
+      "Superposition of Waves"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Calculate de-Broglie wavelength associated with (i) A man of 50 kg mass walking with the speed of 2 m/s, and (ii) An electron moving with the speed of 3×10^5 m/s. Based on your answers obtained in above two cases, explain why the wave nature of the man can't be observed. (h = 6.63×10^-34 J·s, electron mass = 9.11×10^-31 kg)",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Wave-particle duality-de Broglie matter waves",
+    "topics": [
+      "Wave-particle duality-de Broglie matter waves"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Define constructive and destructive interference with their condition in terms of path difference.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Superposition of Waves",
+    "topics": [
+      "Superposition of Waves",
+      "Explanation of constructive and destructive interference"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Write a short-note on scanning tunneling microscope.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Particle in a one-dimensional rigid box – tunneling",
+    "topics": [
+      "Particle in a one-dimensional rigid box – tunneling",
+      "Scanning Tunnelling Microscope"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "In He-Ne gas laser, Ne atoms emit laser photons of wavelength 632.8 nm while electrons make transitions from E3 state to E2 state. Find the energy difference between these two states. (h = 6.63×10^-34 J·s and c = 3×10^8 m/s)",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Gas lasers (He-Ne)",
+    "topics": [
+      "Gas lasers (He-Ne)",
+      "Properties of laser beams"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write the properties of laser and explain in brief.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of laser beams",
+    "topics": [
+      "Properties of laser beams",
+      "Properties of Laser"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Write the full form of laser and explain (i) Absorption, (ii) Spontaneous emission, and (iii) Stimulated emission with suitable diagrams.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of Laser",
+    "topics": [
+      "Properties of Laser",
+      "Einstein's theory of matter radiation: A and B coefficients"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "A ruby laser emits light of wavelength 694.3 nm. Calculate the frequency and the energy of the laser photons emitted. (h = 6.63×10^-34 J·s and c = 3×10^8 m/s)",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Solid-state lasers (Ruby laser)",
+    "topics": [
+      "Solid-state lasers (Ruby laser)",
+      "Properties of laser beams"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What is population inversion (draw suitable diagram)? Explain why it is necessary for the production of laser?",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Amplification of light by population inversion",
+    "topics": [
+      "Amplification of light by population inversion"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Obtain the relation between Einstein's coefficients.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Einstein's theory of matter radiation: A and B coefficients",
+    "topics": [
+      "Einstein's theory of matter radiation: A and B coefficients"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Discuss stress-strain diagram in detail.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Properties of Matter",
+    "primary_topic": "Stress – Strain – Hooke's law",
+    "topics": [
+      "Stress – Strain – Hooke's law",
+      "Elastic Behaviour of Material"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain the terms: (i) Young's Modulus (ii) Bulk Modulus (iii) Shear Modulus (iv) Poisson's Ratio.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Properties of Matter",
+    "primary_topic": "Elastic Behaviour of Material",
+    "topics": [
+      "Elastic Behaviour of Material",
+      "Stress – Strain – Hooke's law"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "What is cantilever? Obtain the expression for depression of cantilever loaded at free end.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Properties of Matter",
+    "primary_topic": "Young's modulus by cantilever depression",
+    "topics": [
+      "Young's modulus by cantilever depression",
+      "Non-uniform bending"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain Sabine's formula and its usage.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Sabine's formula and usage",
+    "topics": [
+      "Sabine's formula and usage",
+      "Sound absorption and reverberation"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "An ultrasonic source of sound of 0.09 MHz sends down a pulse towards the seabed which returns after 0.55 s. The velocity of sound in water is 1800 m/s. Calculate (i) the depth of the sea and (ii) wavelength of pulse.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Ultrasonic waves - Properties",
+    "topics": [
+      "Ultrasonic waves - Properties",
+      "Application of Ultrasonics in industries – NDT"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Discuss ultrasonic flaw detector method for NDT with advantages and disadvantages.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Application of Ultrasonics in industries – NDT",
+    "topics": [
+      "Application of Ultrasonics in industries – NDT",
+      "Ultrasonic waves - Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Describe production of ultrasonic waves by magnetostriction method. Give its advantages and limitations.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Ultrasonic waves - Generation – Piezoelectric method",
+    "topics": [
+      "Ultrasonic waves - Generation – Piezoelectric method",
+      "Ultrasonic waves - Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What is interference? Explain constructive and destructive interference.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Explanation of constructive and destructive interference",
+    "topics": [
+      "Explanation of constructive and destructive interference",
+      "Superposition of Waves"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Differentiate between Fresnel and Fraunhofer diffraction.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Fresnel and Fraunhofer diffraction",
+    "topics": [
+      "Fresnel and Fraunhofer diffraction"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Discuss the construction and working of Michelson Interferometer.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Michelson Interferometer",
+    "topics": [
+      "Michelson Interferometer"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is Anti-reflecting coatings?",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Anti-reflection coating",
+    "topics": [
+      "Anti-reflection coating",
+      "Applications in thin film interference"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "State Huygens' Principle and explain how it explains wave propagation.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Huygens' Principle",
+    "topics": [
+      "Huygens' Principle",
+      "Superposition of Waves"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Describe the working and applications of Young's double-slit experiment",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Young's double slit experiment",
+    "topics": [
+      "Young's double slit experiment",
+      "Superposition of Waves",
+      "Explanation of constructive and destructive interference"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Explain black-body radiation?",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Black body Radiation-Planck's law",
+    "topics": [
+      "Black body Radiation-Planck's law",
+      "Energy distribution function"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Describe the concept of energy distribution function.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Energy distribution function",
+    "topics": [
+      "Energy distribution function",
+      "Black body Radiation-Planck's law"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Derive Schrödinger's time-independent wave equation.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Schrodinger's wave equation",
+    "topics": [
+      "Schrodinger's wave equation",
+      "Concept of the wave function and its physical significance"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "State and explain Heisenberg's uncertainty principle.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Heisenberg's Uncertainty Principle",
+    "topics": [
+      "Heisenberg's Uncertainty Principle",
+      "Concept of the wave function and its physical significance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "State de Broglie's hypothesis and derive the expression for matter waves.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Wave-particle duality-de Broglie matter waves",
+    "topics": [
+      "Wave-particle duality-de Broglie matter waves"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain Scanning Tunneling Microscope (STM) in detail.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Particle in a one-dimensional rigid box – tunneling",
+    "topics": [
+      "Particle in a one-dimensional rigid box – tunneling",
+      "Scanning Tunnelling Microscope"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is a laser? Explain spontaneous and stimulated emission.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of Laser",
+    "topics": [
+      "Properties of Laser",
+      "Einstein's theory of matter radiation: A and B coefficients"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Discuss applications of lasers in science, engineering, and medicine.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Applications of lasers in science, engineering, and medicine",
+    "topics": [
+      "Applications of lasers in science, engineering, and medicine"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain the working of a PN junction diode and its I-V characteristics.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain the following: (i) Population inversion (ii) Metastable (iii) Active medium",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Amplification of light by population inversion",
+    "topics": [
+      "Amplification of light by population inversion",
+      "Properties of Laser"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain various properties of LASER.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of laser beams",
+    "topics": [
+      "Properties of laser beams",
+      "Properties of Laser"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What is superconductivity? explain any six properties of superconductor.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Meissner effect",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define absorption, spontaneous emission and stimulated emission for bulk semiconductors.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of Laser",
+    "topics": [
+      "Properties of Laser",
+      "Einstein's theory of matter radiation: A and B coefficients"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Write a short note on P-N junction diode.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Give assumptions of classical free electron theory and discuss its limitations.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Find the temperature at which there is 1% probability that a state with energy 2eV is occupied. Given that Fermi energy is 1.5 eV.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What is drift and diffusion current in p-n junction diode?",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain the Kronig-Penny model of solids and show that how it explains the origin of band gap in solids.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Properties"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain intrinsic and extrinsic (N & P type) semiconductors with the help of energy band diagram.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "P-type, N-type materials",
+    "topics": [
+      "P-type, N-type materials",
+      "Concept of bands and band gap",
+      "Introduction of Group IV elements"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "In an N-type semiconductor, the Fermi level lies 0.3 eV below the conduction band at room temperature. If the temperature is increased to 330K, Find the position of Fermi level.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "P-type, N-type materials"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Write an expression for Fermi Dirac distribution function f(E). Show that at all temperatures (T > 0K) probability of occupancy of Fermi level is 50%.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Discuss the effect of temperature on the Fermi level in extrinsic (N & P type) semiconductors.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "P-type, N-type materials"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Find the concentration of holes and electrons in N-type silicon if the conductivity is 0.1 Ω^-1 cm^-1, mobility of electrons is 1300 cm^2/V-s and total carrier concentration is 1.5x10^10 carriers/cm^3.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "P-type, N-type materials"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Establish the relation between Einstein's coefficients.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Einstein's theory of matter radiation: A and B coefficients",
+    "topics": [
+      "Einstein's theory of matter radiation: A and B coefficients"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain Meissener's effect in detail and show that for superconductor, χm = –1.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Meissner effect",
+    "topics": [
+      "Meissner effect",
+      "Introduction – Properties (Superconductors)"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Write a short note on effective mass of electron.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What is mass action law? Explain Schottky junction.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain Drude model and discuss how it is used for Hall measurements and magnetoresistance.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Properties"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is an exciton? What is DLTS? Define Hall mobility.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What is Fermi level and Fermi energy? What is Photovoltaic Cell?",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain four point probe method with diagram for the measurement of resistivity of bulk sample.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain Fermi Golden rule for transition probability.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What is Josephson junction? Write a short note on SQUID.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Applications (Superconductors)",
+    "topics": [
+      "Applications (Superconductors)",
+      "Introduction – Properties (Superconductors)"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain how to measure band gap of the semiconductor using UV-Vis spectroscopy.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Calculate the critical current for a superconducting wire of lead having a diameter of 1mm at 4.2 K. Critical temperature for lead is 7.18 K and Hc(0) = 6.5 x 10^4 A/m.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write a short note on Hot-point probe measurement technique.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What is superconductivity? Explain any six properties of superconductor.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Meissner effect",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "What are the postulates for free electron theory?",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Compare Direct Band Gap semiconductors and Indirect Band Gap semiconductors",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain in detail how Kronig and Penney model explains the origin of band gap in semiconductors.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Properties"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Show that Probability of occupancy of Fermi energy level is 0.5 at T > 0 K.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What is effective mass of electron? Derive necessary expression for it.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "(i) Consider an energy level lying 0.01 eV above Fermi level. What is the probability of this level not being occupied by an electron at 300 K. (ii) At What temperature we can expect a 20% probability the electrons in a metal can have which is lying 1% above its Fermi energy? Fermi energy of the given metal is 5.5 eV.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Make use of necessary assumption for intrinsic semiconductors and derive the formula for density of hole in valence band.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "P-type, N-type materials"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Compare Intrinsic and Extrinsic Semiconductors.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "P-type, N-type materials",
+    "topics": [
+      "P-type, N-type materials",
+      "Introduction of Group IV elements"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "For a given intrinsic semiconductor with Eg = 2.0 eV, calculate the position of Fermi Level at 300 K. (me* = 0.16m0 and mh* = 0.32m0, m0 is rest mass of an Electron).",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain the Einstein's theory about interaction between matter and radiation in detail along with absorption and emission with necessary equation.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Einstein's theory of matter radiation: A and B coefficients",
+    "topics": [
+      "Einstein's theory of matter radiation: A and B coefficients",
+      "Properties of Laser"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is Luminescence? Discuss its types.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of Laser",
+    "topics": [
+      "Properties of Laser"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Define: (i) Forbidden Gap (ii) Fermi Function, (iii) Density of states (iv) Drift Current",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "(i) Find the concentration of holes and electron in (1) n-Type and (2) p-Type semiconductor having conductivity 5×10^4 Ʊ/m at 300 K. Mobility of electrons and holes is 1500 X 10^-4 m^2/vSec and 500 X 10^-4 m^2/vSec respectively and ni = 9.5 X 10^16 m^-3. (ii) A Light Emitting Diode has a band gap of 1.96 eV. Calculate the wavelength of the emitted radiation",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "P-type, N-type materials",
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is hot point probe method? Explain",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What are Excitons? Discuss the types of Exciton.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Illustrate Four probe method for thin sheet and bulk sample in detail.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What do you mean by Photo Voltaic Effect? How it is differ from Photo Electric effect?",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain Optical Gain and Loss in Solar Cell.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "(i) The critical field for a superconducting sample is 10^6 Am^-1 at 9.58 K and 2 X 10^6 Am^-1 at 0 K. Determine the Tc value. (ii) Calculate the critical current through a long thin superconducting wire of diameter 0.5 mm. The critical field is 9.2 kA/m.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Define following terms. Magnetic Levitation, Persistent Current, Isotope effect",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Meissner effect"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Compare Type-I and Type-II Superconductivity.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Type I & Type II superconductors",
+    "topics": [
+      "Type I & Type II superconductors",
+      "Introduction – Properties (Superconductors)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain UV-Vis spectroscopy method for band gap measurement of semiconductors.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Show that superconductors are perfect diamagnet.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Meissner effect",
+    "topics": [
+      "Meissner effect",
+      "Introduction – Properties (Superconductors)"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Identify three important factors that defines a superconducting state in detail.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "(i) Explain how the materials are classified into conductors, semiconductors and insulators with the help of energy band diagrams. (ii) What are the applications of Hall effect measurements?",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Mention any three postulates of classical free electron theory proposed by Lorents and Drude.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "(i) State any two points of differences between intrinsic and extrinsic semiconductors. (ii) State any two points of differences between n-type and p-type semiconductors.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "P-type, N-type materials",
+    "topics": [
+      "P-type, N-type materials",
+      "Introduction of Group IV elements"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "What is superconductivity? Discuss any three properties of superconductors in detail.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Meissner effect",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Obtain Fermi factor f(E) for energy 0.01 eV above Fermi energy (Ef) at 500 K.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "State and discuss Wiedemann-Franz law.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Define density of states and derive its expression.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "What is E-k diagram? Discuss direct and indirect band gap semiconductors based on E-k diagram.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "(i) Write fermi distribution function and mention physical significance of it. (ii) Mention any two applications of solar cell.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers",
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Derive formula of drift and diffusion current densities.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "(i) Draw characteristic curve for p-n junction diode. (ii) Discuss forward bias characteristics with proper circuit diagram. (iii) Discuss reverse bias characteristics with proper circuit diagram.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "A potential barrier of 0.6 V exists across of p-n junction. The intensity of the electric field in this region is 2.4 × 10^6 V/m. Find the width of depletion region.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "(i) Mention any two applications of LED. (ii) Calculate the value of band gap for a LED for the emission of blue light of wavelength 452 nm. (h = 6.63 × 10^–34 J s, c = 3 × 10^8 m/s)",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics",
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Derive formula of fermi energy level for n-type semiconductor.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "P-type, N-type materials"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "(i) What is called optoelectronic device? (ii) Name the types of metal-semiconductor junction. (iii) What is called exciton?",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics",
+      "Concept of carriers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Discuss Frenkel and Wannier-Mott exciton in brief.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Concept of bands and band gap"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "What is photovoltaic effect? Explain construction and working of solar cell in detail.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "(i) What is Hall effect? (ii) The Hall coefficient of a semiconducting material is 2.4 × 10^–4 m^3/C. Calculate the mobility and carrier concentration of the carrier if resistivity is 6 × 10^–3 Ω m.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of carriers",
+    "topics": [
+      "Concept of carriers",
+      "Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Discuss Fermi's golden rule for transition probability.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Discuss in detail UV-VIS method for band gap measurement of semiconductor.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Concept of bands and band gap",
+    "topics": [
+      "Concept of bands and band gap",
+      "Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Calculate the critical current through a long thin superconducting wire of radius 10^–3 m. The critical magnetic field is 6.2 × 10^3 A/m.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "State any four points of differences between spontaneous and stimulated emission.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of Laser",
+    "topics": [
+      "Properties of Laser",
+      "Einstein's theory of matter radiation: A and B coefficients"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Discuss in detail experimental procedure for DLTS.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Properties",
+    "topics": [
+      "Properties",
+      "Concept of carriers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "The critical temperature of a superconductor is 7.5 K. Calculate the critical field at 5 K. At 0 K the critical field is 0.24 T.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write a short note on London penetration depth.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Meissner effect"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "(i) Discuss BCS theory of superconductivity in brief. (ii) Draw constructive diagram of SQUID and mention its application.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Meissner effect",
+      "Applications (Superconductors)"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define: (1) Stress (2) Strain and (3) Young's modulus.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Properties of Matter",
+    "primary_topic": "Stress – Strain – Hooke's law",
+    "topics": [
+      "Stress – Strain – Hooke's law",
+      "Elastic Behaviour of Material"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "The critical temperature for a metal with isotopic mass 199.5 is 4.185 K. Calculate the isotopic mass if the critical temperature falls to 4.133 K.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "What is Cantilever? Obtain the expression for depression at free end of thin beam clamped horizontally at one end and loaded at other end.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Properties of Matter",
+    "primary_topic": "Young's modulus by cantilever depression",
+    "topics": [
+      "Young's modulus by cantilever depression",
+      "Non-uniform bending"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Define: (1) Reverberation (2) Nano-materials (3) Absorption co-efficient",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Sound absorption and reverberation",
+    "topics": [
+      "Sound absorption and reverberation",
+      "Sabine's formula and usage",
+      "Introduction (Nanomaterials)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "The volume of a hall is 475 m^3. The area of wall is 200 m^2, area of floor and ceiling each is 100 m^2. If the absorption co-efficient of wall, ceiling and floor are 0.025, 0.02 and 0.55, respectively. Calculate the reverberation time for the hall.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Sabine's formula and usage",
+    "topics": [
+      "Sabine's formula and usage",
+      "Sound absorption and reverberation",
+      "Acoustic of building"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Describe production of ultrasonic waves by Piezo-electric method. Give its advantages and limitations.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Ultrasonic waves - Generation – Piezoelectric method",
+    "topics": [
+      "Ultrasonic waves - Generation – Piezoelectric method",
+      "Ultrasonic waves - Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "What is simple harmonic motion? Obtain equation for kinetic energy and potential energy of simple harmonic oscillator. Show that at any time the sum of kinetic energy and potential energy remains constant.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Simple Harmonic motion",
+    "topics": [
+      "Simple Harmonic motion",
+      "Damped and undamped vibration"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "An ultrasonic source of 0.09 MHz sends down a Pulse towards the seabed which returns after 0.55 sec. The velocity of sound in water is 1800 m/s. Calculate the depth of the sea and wavelength of pulse.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Ultrasonic waves - Properties",
+    "topics": [
+      "Ultrasonic waves - Properties",
+      "Application of Ultrasonics in industries – NDT"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Differentiate: Spontaneous and Stimulated emission.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of Laser",
+    "topics": [
+      "Properties of Laser",
+      "Einstein's theory of matter radiation: A and B coefficients"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "What are Einstein's coefficients? Give relation between them and discuss the result.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Einstein's theory of matter radiation: A and B coefficients",
+    "topics": [
+      "Einstein's theory of matter radiation: A and B coefficients",
+      "Properties of Laser"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Define: (1) Meta stable state (2) Population inversion (3) Pumping",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Amplification of light by population inversion",
+    "topics": [
+      "Amplification of light by population inversion",
+      "Properties of Laser"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Write a short note on Scanning Tunneling Microscope (STM).",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Particle in a one-dimensional rigid box – tunneling",
+    "topics": [
+      "Particle in a one-dimensional rigid box – tunneling",
+      "Scanning Tunnelling Microscope"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "What is full form of LASER? Write the characteristics and applications of LASER.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of laser beams",
+    "topics": [
+      "Properties of laser beams",
+      "Applications of lasers in science, engineering, and medicine"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "State any three differences between interference and diffraction.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Superposition of Waves",
+    "topics": [
+      "Superposition of Waves",
+      "Fresnel and Fraunhofer diffraction",
+      "Explanation of constructive and destructive interference"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Calculate the minimum number of lines in a grating which will just resolve the lines of wavelength 5890 Å and 5896 Å in the second order.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Rayleigh criterion for limit of resolution - resolving power of grating",
+    "topics": [
+      "Rayleigh criterion for limit of resolution - resolving power of grating",
+      "Fresnel and Fraunhofer diffraction"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Derive the time independent Schrödinger's wave equation.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Schrodinger's wave equation",
+    "topics": [
+      "Schrodinger's wave equation",
+      "Concept of the wave function and its physical significance"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "An unknown weight is attached to the lower end of wire of length 4 m, radius 0.7 mm, extends it by 0.8 mm. If Y = 2×10^11 N/m^2. Find the unknown weight.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Properties of Matter",
+    "primary_topic": "Stress – Strain – Hooke's law",
+    "topics": [
+      "Stress – Strain – Hooke's law",
+      "Elastic Behaviour of Material"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write a short note on black body radiation.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Black body Radiation-Planck's law",
+    "topics": [
+      "Black body Radiation-Planck's law",
+      "Energy distribution function"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain Heisenberg's uncertainty principle and derive it.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Heisenberg's Uncertainty Principle",
+    "topics": [
+      "Heisenberg's Uncertainty Principle",
+      "Concept of the wave function and its physical significance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Define: (1) Critical Temperature (2) Critical Magnetic field (3) Critical Current density.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write the applications of nano materials.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Applications (Nanomaterials)",
+    "topics": [
+      "Applications (Nanomaterials)",
+      "Introduction (Nanomaterials)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Describe the principle, construction and working of Michelson interferometer.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Michelson Interferometer",
+    "topics": [
+      "Michelson Interferometer"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "State and explain principle of superposition of waves.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Superposition of Waves",
+    "topics": [
+      "Superposition of Waves"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What is interference? Differentiate Constructive and destructive interference.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Explanation of constructive and destructive interference",
+    "topics": [
+      "Explanation of constructive and destructive interference",
+      "Superposition of Waves"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain working of the p-n junction diode and state its applications.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction to P-N Junction Diode and I-V characteristics",
+    "topics": [
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Enlist any six applications of Laser.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Applications of lasers in science, engineering, and medicine",
+    "topics": [
+      "Applications of lasers in science, engineering, and medicine"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Summarize any four factors affecting the acoustics of a building and discuss their remedies.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Acoustic of building",
+    "topics": [
+      "Acoustic of building",
+      "Sound absorption and reverberation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Derive relation between elevation in rectangular beam, its length, breadth, thickness and Young's modulus in case of uniform bending.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Properties of Matter",
+    "primary_topic": "Uniform bending",
+    "topics": [
+      "Uniform bending",
+      "Young's modulus by cantilever depression",
+      "Elastic Behaviour of Material"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "A screen is separated from double slit source by 2 m. The distance between the two slits is 0.040 mm. The 3rd order bright fringe on the screen is measured to be 6.0 cm from the central line. Determine the wavelength of light.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Young's double slit experiment",
+    "topics": [
+      "Young's double slit experiment",
+      "Superposition of Waves"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain elastic hysteresis and elastic fatigue in brief.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Properties of Matter",
+    "primary_topic": "Elastic Behaviour of Material",
+    "topics": [
+      "Elastic Behaviour of Material",
+      "Stress – Strain – Hooke's law"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain various applications of ultrasonic waves in industry including NDT in detail.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Application of Ultrasonics in industries – NDT",
+    "topics": [
+      "Application of Ultrasonics in industries – NDT",
+      "Ultrasonic waves - Properties"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "What is simple harmonic motion? Obtain equation for kinetic energy and potential energy of simple harmonic oscillator. Show that at any time the sum of kinetic energy and potential energy remains constant.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Simple Harmonic motion",
+    "topics": [
+      "Simple Harmonic motion",
+      "Damped and undamped vibration"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Find the lowest energy of an electron confined to move in a cubical box of length 0.14 nm.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Particle in a one-dimensional rigid box – tunneling",
+    "topics": [
+      "Particle in a one-dimensional rigid box – tunneling"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Discuss wave particle duality using de Broglie hypothesis and derive the relation between wavelength and velocity of microscopic particle.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Wave-particle duality-de Broglie matter waves",
+    "topics": [
+      "Wave-particle duality-de Broglie matter waves"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain Newton's rings experiment and derive equation for the bright and dark fringes.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Newton's rings",
+    "topics": [
+      "Newton's rings",
+      "Superposition of Waves",
+      "Explanation of constructive and destructive interference"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Calculate the resultant sound level when a 75 dB is added to 85 dB sound?",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Waves, Motion and Acoustics",
+    "primary_topic": "Sound absorption and reverberation",
+    "topics": [
+      "Sound absorption and reverberation",
+      "Acoustic of building"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Introduce Michelson interferometer and its working briefly.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Michelson Interferometer",
+    "topics": [
+      "Michelson Interferometer"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Based on dimensions, enlist the types of nanomaterial and discuss the PVD method with schematic diagram for synthesis of thin film.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction (Nanomaterials)",
+    "topics": [
+      "Introduction (Nanomaterials)",
+      "PVD method",
+      "Synthesis of nano materials – Top down and Bottom up approach"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "A superconductor with isotopic mass of 198 has critical temperature 198 K. What will be critical temperature of second isotope with mass 202.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Introduction – Properties (Superconductors)",
+    "topics": [
+      "Introduction – Properties (Superconductors)",
+      "Type I & Type II superconductors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Apprise using necessary energy level diagram that why 4 level laser and not 3 level laser is required for continuous operation.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Different types of lasers",
+    "topics": [
+      "Different types of lasers",
+      "Amplification of light by population inversion"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Derive the equation for energy levels of a particle enclosed in one dimensional potential box.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Particle in a one-dimensional rigid box – tunneling",
+    "topics": [
+      "Particle in a one-dimensional rigid box – tunneling",
+      "Schrodinger's wave equation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Calculate the twisting couple on a solid shaft of 1.5 m length and 0.12 m diameter when it is twisted through an angle of 0.0104 rad. The coefficient of rigidity of the material is 9.3 × 10^10 N/m^2.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Properties of Matter",
+    "primary_topic": "Torsional Pendulum",
+    "topics": [
+      "Torsional Pendulum",
+      "Application- Determination of Rigidity Modulus"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What is black body radiation? Deduce Wien's law and Rayleigh-Jeans law from Planck's black body radiation law.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Quantum Physics",
+    "primary_topic": "Black body Radiation-Planck's law",
+    "topics": [
+      "Black body Radiation-Planck's law",
+      "Energy distribution function"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Define following terms: (1) Active medium (2) Pumping (3) optical resonator (4) population inversion (5) metastable state (6) stimulated emission and (7) coherence.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Properties of Laser",
+    "topics": [
+      "Properties of Laser",
+      "Amplification of light by population inversion"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Using necessary circuit diagram analyze the working of Zener diode as a voltage regulator.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Zener diode and its characteristics",
+    "topics": [
+      "Zener diode and its characteristics",
+      "Introduction to P-N Junction Diode and I-V characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Describe critical magnetic field and Meissner effect for superconductors with suitable diagrams.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "Meissner effect",
+    "topics": [
+      "Meissner effect",
+      "Introduction – Properties (Superconductors)"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain construction and working of Ruby laser using schematic diagram and energy level diagram.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Lasers",
+    "primary_topic": "Solid-state lasers (Ruby laser)",
+    "topics": [
+      "Solid-state lasers (Ruby laser)",
+      "Different types of lasers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Discuss Huygen's principle in brief.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Huygens' Principle",
+    "topics": [
+      "Huygens' Principle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What are extrinsic and intrinsic semiconductors? How are p-type and n-type semiconductors made?",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "New Engineering Materials",
+    "primary_topic": "P-type, N-type materials",
+    "topics": [
+      "P-type, N-type materials",
+      "Introduction of Group IV elements"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Derive the formula for the intensity of light in Young's double slit experiment and discuss the case for maximum and minimum intensity.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Optics",
+    "primary_topic": "Young's double slit experiment",
+    "topics": [
+      "Young's double slit experiment",
+      "Superposition of Waves",
+      "Explanation of constructive and destructive interference"
+    ],
+    "difficulty": "Hard"
+  }
+]

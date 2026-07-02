@@ -1,0 +1,311 @@
+Enrolment No./Seat No
+
+GUJARAT TECHNOLOGICAL UNIVERSITY
+BE - SEMESTER-IV (NEW) EXAMINATION — SUMMER 2024
+Subject Code:3140702 Date:15-07-2024
+Subject Name: Operating System
+Time:10:30 AM TO 01:00 PM
+
+Instructions:
+
+Total Marks:70
+
+Q.1
+
+Q.2
+
+Q.3
+
+1.
+2.
+3.
+4.
+(a)
+
+(b)
+(c)
+
+(a)
+
+(b)
+(c)
+
+(c)
+
+Attempt all questions.
+
+Make suitable assumptions wherever necessary.
+
+Figures to the right indicate full marks.
+
+Simple and non-programmable scientific calculators are allowed.
+
+Define concurrency in OS and briefly explain its associated
+challenges.
+
+Explain “5 State” process state transition diagram with an illustration.
+Discuss the variety of task types that the operating system performs.
+
+Define the following terms:
+i) Critical Section
+ii) Race Condition
+iii) Mutual Exclusion
+Differentiate Multiprocessing and Multithreading.
+
+MARKS
+
+03
+
+04
+07
+
+03
+
+04
+
+Process
+
+Arrival Time
+
+Processing Time
+
+A
+
+0
+
+3
+
+B
+
+1
+
+6
+
+i
+
+4
+
+4
+
+D
+
+6
+
+2
+
+07
+
+Calculate the average waiting and turnaround time for the processes
+listed in the table using the following scheduling algorithms: the
+CPU burst time length in milliseconds.
+
+i) First Come First Serve
+
+ii) Non-preemptive Shortest Job First
+
+iii) Shortest Remaining Time Next
+
+iv) Round Robin with Quantum value two
+
+OR
+
+Process
+
+Burst Time
+
+Priority
+
+Pl
+
+10
+
+3
+
+P2
+
+1
+
+1
+
+P3
+
+2
+
+3
+
+P4
+
+1
+
+4
+
+PS
+
+5
+
+2
+
+07
+
+Calculate the average waiting and turnaround time for the processes
+listed in the table using the following scheduling algorithms: the
+CPU burst time length in milliseconds. Consider | as the highest
+
+priority.
+
+i) Preemptive Shortest Job First
+
+ii) Non - preemptive Priority Scheduling
+
+iii) Preemptive - Priority Scheduling
+
+iv) Round Robin with Quantum value one
+
+(a) Define and explain Message Passing.
+(b) Provide a brief description of the following:
+
+03
+04
+Q.3
+
+Q.4
+
+Q.4
+
+Q.5
+
+Q.5
+
+(c)
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+(b)
+(c)
+
+(a)
+
+(b)
+(c)
+
+(a)
+(b)
+
+(c)
+
+(a)
+(b)
+
+i) Starvation
+ii) Aging
+What is a scheduler? Illustrate queuing with an appropriate diagram.
+OR
+Differentiate the following:
+i) Semaphore
+ii) Monitor
+Provide a brief description of the following:
+i) Deadlock Prevention
+ii) Deadlock Avoidance
+
+Describe Peterson's Algorithm for Process Synchronization.
+
+Compare Multiprogramming with Fixed Partition and
+
+Multiprogramming with Variable Partition.
+
+Define Authentication. How can operating system security be ensured
+
+using authentication?
+
+1. What is Stripping in RAID? Give an appropriate example.
+
+2. Suppose that a disk drive has 200 cylinders. The drive currently
+serves at cylinder 50. The queue of pending requests in FIFO order
+is 82, 170, 43, 140, 24, 16, 190. Starting from the current head
+position, what is the total distance (in cylinders) the disk arm
+moves to satisfy all the pending requests for each of the following
+disk scheduling algorithms?
+
+i) FCFS
+ii) SCAN
+iii) C-SCAN
+OR
+
+What is TLB(Translation Lookaside Buffer), and what is the purpose
+
+of it?
+
+Discuss the Access Control List in brief.
+
+1. What is Mirroring in RAID? Give an appropriate example.
+
+2. Suppose that a disk drive has 200 cylinders. The drive currently
+serves at cylinder 100; the previous request was at cylinder 81. The
+queue of pending requests in FIFO order is
+55,58,39,18,90,160,150,38,184. Starting from the current head
+position, what is the total distance (in cylinders) the disk arm
+moves to satisfy all the pending requests for each of the following
+disk scheduling algorithms?
+
+i) SSTF
+ii) LOOK
+iii) C-LOOK
+
+Enlist the advantages and disadvantages of Virtual Machines.
+
+Write a shell script to display all executable files, directories, and zero-
+
+sized files from the current directory.
+
+Consider the reference string: 4, 7, 6, 1, 7, 6, 1, 2, 7, 2. The number of
+
+frames in the memory is 3. Find out the number of page faults
+
+respective to:
+i) Optimal Page Replacement Algorithm
+ii) FIFO Page Replacement Algorithm
+iii) LRU Page Replacement Algorithm
+OR
+Describe virtualization with an appropriate diagram.
+Advantages of LINUX/UNIX operating system over Windows.
+
+07
+
+03
+
+04
+
+07
+
+03
+
+04
+
+07
+
+03
+
+04
+07
+
+03
+04
+
+03
+04
+(c)
+
+Given memory partition of 100K, 500K, 200K, 300K, and 600K in
+order. How would each of the First-fit, Best-fit and Worst-fit
+algorithms place the processes of 212K, 417K, 112K and 426K in
+order? Which algorithm makes the most efficient use of memory?
+Show the diagram of memory status in each case.
+
+RRR KE
+
+07

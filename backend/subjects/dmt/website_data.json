@@ -1,0 +1,1287 @@
+{
+    "1": {
+        "unit_name": "Introduction to Data Mining",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q1a",
+                "question": "What are the types of data?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q1b",
+                "question": "Compare descriptive and predictive data mining"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q1c",
+                "question": "Draw and explain the data mining architecture."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1c",
+                "question": "With the help of a suitable diagram, describe the steps involved in data mining when viewed as a process of knowledge discovery."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3a",
+                "question": "Describe any three primitives for specifying a data mining task."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1a",
+                "question": "Define data mining. Describe three challenges to data mining regarding data mining methodology and user interaction issues."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1b",
+                "question": "Explain the steps in knowledge discovery."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1c",
+                "question": "Explain the various data mining issues."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1a",
+                "question": "What is the difference between discrimination and classification?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1b",
+                "question": "Describe the steps involved in data mining when viewed as a process of knowledge discovery."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1c",
+                "question": "Draw and explain the data mining architecture."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q1a",
+                "question": "Define Schema. Explain the following schemas with suitable example. 1) Star 2) Snowflakes 3) Constellations"
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q1b",
+                "question": "A data warehouse is a subject-oriented, integrated, time-variant, and nonvolatile collection of data - Justify."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q1c",
+                "question": "Describe the steps involved in data mining when viewed as a process of knowledge discovery."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2b",
+                "question": "Differentiate OLAP and OLTP."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2c",
+                "question": "Explain the major issues in data mining"
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5a OR",
+                "question": "Explain data mining application for fraud detection."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1a",
+                "question": "Justify the importance of data mining."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1b",
+                "question": "Differentiate OLTP and data warehouse."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1c",
+                "question": "Briefly discussed steps of KDD process."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2b",
+                "question": "What do you mean by correlation analysis? Justify its importance."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1a",
+                "question": "Compare descriptive and predictive data mining."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1b",
+                "question": "Explain the data mining functionalities."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1c",
+                "question": "Explain major requirements and challenges in data mining."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1a",
+                "question": "Define Data Warehouse. State it's features."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1b",
+                "question": "Differentiate between OLAP and OLTP."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1c",
+                "question": "Explain in detail different steps of KDD process."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4a OR",
+                "question": "Define Data Cube. Explain any two operations on it."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5c",
+                "question": "Explain the major issues in data mining."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1a",
+                "question": "Define each of the following data mining functionalities: characterization, discrimination, regression."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1b",
+                "question": "How is a data warehouse different from database?"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1c",
+                "question": "Explain KDD process."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1a",
+                "question": "What is data mining? List out the data mining functionality."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1b",
+                "question": "Briefly explain the issues in data mining."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2c",
+                "question": "Explain KDD process."
+            }
+        ]
+    },
+    "2": {
+        "unit_name": "Data Pre-processing",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q2a",
+                "question": "What is dimensionality reduction?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2b",
+                "question": "What are the types of concept hierarchies?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2c",
+                "question": "What is Data Cleaning? Describe various methods of Data Cleaning."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2c OR",
+                "question": "Discuss issues to be considered during data integration."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1b",
+                "question": "In real-world data, tuples with missing values for some attributes are a common occurrence. List and describe various methods for handling this problem."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3c",
+                "question": "What is noise? Describe the possible reasons for noisy data. Explain the different techniques to remove the noise from data."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3c OR",
+                "question": "Explain in detail - min-max normalization method. Use this method to normalize the following group of data by setting min = 0 and max = 1.\n200, 400, 600, 1000"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2a",
+                "question": "What are the smoothing techniques available to remove noise?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2b",
+                "question": "Discuss normalization in detail."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2c",
+                "question": "In real-world data, tuples with missing values for some attributes are a common occurrence. Describe various methods for handling this problem."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2c OR",
+                "question": "Discuss data discretization and concept hierarchy generation."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2a",
+                "question": "Discuss issues to consider during data integration."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2b",
+                "question": "Describe various methods for handling the missing values in the dataset."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2c",
+                "question": "Use the methods below to normalize the following group of data: 200, 300, 400, 600, 1000\n(a) min-max normalization by setting min = 0 and max = 1\n(b) Calculate z-score normalization\n(c) z-score normalization using the mean absolute deviation instead of standard deviation\n(d) normalization by decimal scaling"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2c OR",
+                "question": "For the following data (in increasing order) for the attribute age: 13, 15, 16, 16, 19, 20, 20, 21, 22, 22, 25, 25, 25, 25, 30, 33, 33, 35, 35, 35, 35, 36, 40, 45, 46, 52, 70.\n(a) Use smoothing by bin means to smooth these data, using a bin depth of 3. Illustrate your steps. Comment on the effect of this technique for the given data.\n(b) How might you determine outliers in the data?\n(c) What other methods are there for data smoothing?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5b OR",
+                "question": "Explain the concept hierarchy."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2a",
+                "question": "What is Concept Hierarchy? List and explain types of Concept Hierarchy."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2c OR",
+                "question": "Explain the need for data smoothing during pre-processing and discuss data smoothing by Binning."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2a",
+                "question": "Explain data reduction and dimensionality reduction?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2c",
+                "question": "List common task involved in the data pre-processing. Explain briefly any four tasks of data pre-processing with suitable example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3b",
+                "question": "Attribute income have minimum value of 12000 INR and maximum value of 98000 INR. Normalize income value of 73600 INR, (i) Using min-max normalization in the range of [0,1] (ii) Using z-score normalization. Take mean value of income as 54000 and standard deviation is 16000."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5b OR",
+                "question": "Discuss any four data mining features available in the WEKA."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2a",
+                "question": "What do you mean by concept hierarchy?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2b",
+                "question": "Explain the smoothing techniques."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2c",
+                "question": "What is Data Cleaning? Describe various methods of Data Cleaning."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2c OR",
+                "question": "Explain about the different Data Reduction techniques."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2a",
+                "question": "Why to preprocess the data in data Mining?"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2b",
+                "question": "Explain Binning method with the help of example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3a",
+                "question": "Define the following terms in Data Transformation: i. Smoothing ii. Normalization iii. Discretization"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2a",
+                "question": "How to handle missing values? Explain."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2b",
+                "question": "How to handle noisy data?"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3a OR",
+                "question": "Explain WEKA tool."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2b",
+                "question": "Discuss dimensionality reduction techniques."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2c OR",
+                "question": "Explain data pre-processing functionalities."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4a",
+                "question": "What is missing values and noise? How to handle them?"
+            }
+        ]
+    },
+    "3": {
+        "unit_name": "Mining Frequent Patterns, Associations and Correlations",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q3a",
+                "question": "What is meant by association rule?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3b",
+                "question": "How is association rules mined from large databases?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3c",
+                "question": "Explain the various criteria for the classification of frequent pattern mining."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3a OR",
+                "question": "List two interesting measures for association rules."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3b OR",
+                "question": "What is meant by multidimensional association rules?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3c OR",
+                "question": "Write short notes on Maximal Frequent Item Set & Closed Frequent Item Set."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1a",
+                "question": "What is market basket analysis? Precisely explain the meaning of the following association rule: computer -> antivirus_software [support = 60%, confidence = 60%]"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2a",
+                "question": "Give a short example to show that items in a strong association rule are not always interesting."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2b",
+                "question": "Briefly describe how partitioning technique may improve the efficiency of Apriori algorithm."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2c",
+                "question": "Discuss how frequent itemsets can be generated using FP-Growth algorithm with the help of the following transactions. Let minimum support threshold is 2.\nTransaction ID | Item IDs\nT1 | I1, I2, I5\nT2 | I2, I4\nT3 | I2, I3\nT4 | I1, I2, I4\nT5 | I1, I3\nT6 | I2, I3\nT7 | I1, I3\nT8 | I1, I2, I3, I5\nT9 | I1, I2, I3"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2c OR",
+                "question": "A database has the following six transactions.\nTransaction ID | Items\nT1 | HotDogs, Buns, Ketchup\nT2 | Chips, Coke\nT3 | Coke, Chips, HotDogs\nT4 | Ketchup, Chips\nT5 | Buns, HotDogs\nT6 | HotDogs, Chips, Coke\nFind all frequent itemsets and also generate the strong association rules using Apriori algorithm. Let minimum support threshold is 33.34% and minimum confidence threshold is 60%."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3a",
+                "question": "How are association rules mined from large databases?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3b",
+                "question": "Give the difference between Boolean association rule and quantitative association rule."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3c",
+                "question": "What are the limitations of the apriori approach for mining? Briefly describe the techniques to improve the efficiency of apriori algorithm."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3a OR",
+                "question": "Describe two interesting measures for association rules."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3b OR",
+                "question": "How Meta rules are useful in constraint based association mining."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3c OR",
+                "question": "Write an algorithm for finding frequent item-sets using candidate generation."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3a",
+                "question": "What is meant by association rule?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3c",
+                "question": "Explain about the Apriori algorithm for finding frequent item sets with an example."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3a OR",
+                "question": "What is meant by Maximal Frequent Item Set?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3c OR",
+                "question": "Which patterns are interesting? Explain based on Pattern Evaluation Methods."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3b",
+                "question": "Explain measures for finding rule interestingness (support, confidence) with example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3c",
+                "question": "Compare association and classification. Briefly explain associative classification with suitable example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3b OR",
+                "question": "Write a note on incremental Association Rule Mining."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3c OR",
+                "question": "Explain Hash-based technique to improve efficiency of Apriori algorithm."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4c",
+                "question": "Write and discuss the algorithm which is used to generate frequent itemsets using an iterative level-wise approach based on candidate generation."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2c OR",
+                "question": "Define the following: concept description, support, confidence, strong association rules, data generalization, and unsupervised learning."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3c",
+                "question": "Using Apriori algorithm, find all frequent itemsets for following transaction data. (Take min_sup=60% and min_conf=80%)\nID | Items\n1 | {M,O,N,K,E,Y}\n2 | {D,O,N,K,E,Y}\n3 | {M,A,K,E}\n4 | {M,U,C,K,Y}\n5 | {C,O,O,K,I,E}"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3a",
+                "question": "What are the techniques to improve the efficiency of Apriori algorithm?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3b",
+                "question": "What is an Itemset? What is a Frequent Itemset?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3c",
+                "question": "For the given data\nTransaction ID | Items\nT1 | Hot Dogs, Buns, Ketchup\nT2 | Hot Dogs, Buns\nT3 | Hot Dogs, Coke, Chips\nT4 | Chips, Coke\nT5 | Chips, Ketchup\nT6 | Hot Dogs, Coke, Chips\nFind the frequent itemsets and generate association rules on this. Assume that minimum support threshold (s = 33.33%) and minimum confident threshold (c = 60%)."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3a OR",
+                "question": "Describe the different classifications of Association rule mining."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3b OR",
+                "question": "What is meant by Reduced Minimum Support?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3c OR",
+                "question": "Explain the steps of the \"Apriori Algorithm\" for mining frequent itemsets with suitable example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2c",
+                "question": "Explain following terms related to Association Rule Mining: Itemset, Support Count, support, and Association rule.\nTransaction ID | Items\n1 | Bread, Milk\n2 | Bread, Chocolate, Pepsi, Eggs\n3 | Milk, Chocolate, Pepsi, Coke\n4 | Bread, Milk, Chocolate, Pepsi\n5 | Bread, Milk, Chocolate, Coke\nFor given example find support & confidence for\n{Milk, Chocolate} => Pepsi.\n{Milk, Pepsi} -> {Chocolate}\n{Chocolate, Pepsi} -> {Milk}"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2c OR",
+                "question": "Solve the following problem using Apriori algorithm. Find the frequent itemsets and generate association rules on this. Assume that minimum support threshold (s = 33.33%), minimum confident threshold (c = 60%), minimum support count=2.\nTransaction ID | Items\nT1 | Hot Dogs, Buns, Ketchup\nT2 | Hot Dogs, Buns\nT3 | Hot Dogs, Coke, Chips\nT4 | Chips, Coke\nT5 | Chips, Ketchup\nT6 | Hot Dogs, Coke, Chips"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2c",
+                "question": "Consider a database, D, consisting of 9 transactions. Suppose min. support count required is 2. Let minimum confidence required is 70%. Find out the frequent itemset using Apriori algorithm.\nTID | List of Items\nT100 | I1, I2, I5\nT100 | I2, I4\nT100 | I2, I3\nT100 | I1, I2, I4\nT100 | I1, I3\nT100 | I2, I3\nT100 | I1, I3\nT100 | I1, I2, I3, I5\nT100 | I1, I2, I3"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2c OR",
+                "question": "A database has five transactions. Let min sup=60% and min conf =80%.\nTid | Item brought\nT100 | {M, O, N, K, E, Y}\nT200 | {D, O, N, K, E, Y}\nT300 | {M, A, K, E}\nT400 | {M, U, C, K, Y}\nT500 | {C, O, O, K, I, E}\nFind all frequent item sets using Apriori and FP-growth, respectively. Compare the efficiency of the two mining processes."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3a",
+                "question": "Explain market basket analysis."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1c",
+                "question": "Explain frequent item-set mining algorithm with suitable example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3b",
+                "question": "Discuss support, confidence, frequent item-set and strong association rules."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4a OR",
+                "question": "What is closed item-set and maximal frequent item-set?"
+            }
+        ]
+    },
+    "4": {
+        "unit_name": "Classification and Prediction",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q4a",
+                "question": "What is an outlier?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4b",
+                "question": "What is Bayesian theorem?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4c",
+                "question": "Demonstrate how Bayesian classification helps in predicting class membership probabilities."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4a OR",
+                "question": "Differentiate classification and prediction."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4b OR",
+                "question": "What is the difference between \"supervised\" and unsupervised\" learning scheme."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4c OR",
+                "question": "Explain the issues regarding the classification and prediction."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3b",
+                "question": "The following table shows the midterm and final exam grades obtained by students in a database course.\nx (Midterm exam) | y (Final exam)\n72 | 84\n50 | 63\n81 | 77\n74 | 78\n94 | 90\n86 | 75\n59 | 49\n83 | 79\n65 | 77\n33 | 52\n88 | 74\n81 | 90\nUse the method of least squares to find an equation for the prediction of a student's final exam grade based on the student's midterm grade in the course. Predict the final exam grade of a student who received 86 grade in the midterm exam."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3a OR",
+                "question": "Discuss outlier analysis as a data mining functionality with the help of an example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3b OR",
+                "question": "Explain how classification rules are extracted from a decision tree with the help of an example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4a",
+                "question": "Differentiate classification and clustering."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4c",
+                "question": "Apply ID3 classification algorithm on the following data and construct a decision tree. Show all the stepwise calculations clearly.\nage | income | student | credit_rating | Class: buys_computer\nyouth | high | no | fair | no\nyouth | high | no | excellent | no\nmiddle_aged | high | no | fair | yes\nsenior | medium | no | fair | yes\nsenior | low | yes | fair | yes\nsenior | low | yes | excellent | no\nmiddle_aged | low | yes | excellent | yes\nyouth | medium | no | fair | no\nyouth | low | yes | fair | yes\nsenior | medium | yes | fair | yes\nyouth | medium | yes | excellent | yes\nmiddle_aged | medium | no | excellent | yes\nmiddle_aged | high | yes | fair | yes\nsenior | medium | no | excellent | no"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4a OR",
+                "question": "Discuss cross-validation method for evaluating the accuracy of a classifier."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4c OR",
+                "question": "Predict class label of the tuple X = (age = youth, income = medium, student = yes, credit_rating = fair) with the help of Naive Bayesian classification method and the following data. Show all the stepwise calculations clearly.\nage | income | student | credit_rating | Class: buys_computer\nyouth | high | no | fair | no\nyouth | high | no | excellent | no\nmiddle_aged | high | no | fair | yes\nsenior | medium | no | fair | yes\nsenior | low | yes | fair | yes\nsenior | low | yes | excellent | no\nmiddle_aged | low | yes | excellent | yes\nyouth | medium | no | fair | no\nyouth | low | yes | fair | yes\nsenior | medium | yes | fair | yes\nyouth | medium | yes | excellent | yes\nmiddle_aged | medium | no | excellent | yes\nmiddle_aged | high | yes | fair | yes\nsenior | medium | no | excellent | no"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4a",
+                "question": "What are the difference between supervised learning and unsupervised learning?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4b",
+                "question": "Write down short note on backpropagation."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4c",
+                "question": "What is information gain? Explain the steps required to generate a decision tree from a training data set."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4a OR",
+                "question": "Differentiate between linear regression and nonlinear regression."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4b OR",
+                "question": "Explain various methods of evaluating accuracy of classifier."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4a",
+                "question": "What is the difference between \"supervised\" and unsupervised\" learning?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4b",
+                "question": "What are the attribute selection measures? Explain any one in details."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4c",
+                "question": "Discuss about Decision tree induction algorithm with an example."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4a OR",
+                "question": "What do you meant by Bayesian Classification?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4b OR",
+                "question": "Describe the issues regarding classification and prediction."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4c OR",
+                "question": "Discuss about Neural Network-Based Algorithms."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5b",
+                "question": "Discuss about Outlier Detection."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5c",
+                "question": "Discuss about k-nearest neighbor classification algorithm with an example?"
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3a",
+                "question": "Briefly explain Linear and Non-linear regression."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3a OR",
+                "question": "Discuss following terms. 1) Supervised learning 2) Correlation analysis"
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4b",
+                "question": "Draw the topology of a multilayer, feed-forward Neural Network."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4b OR",
+                "question": "What is classification? Explain classification as a two step process with diagram."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3a",
+                "question": "How the classification is differs from the prediction? Explain phases of classification."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3a OR",
+                "question": "What is the use of proximity measures? Explain any one proximity measures with equation."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3b OR",
+                "question": "Explain Bayesian learning and inference with suitable example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3c OR",
+                "question": "List the accuracy parameters used for the performance evaluation of classification and discuss any five parameters with appropriate example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4a",
+                "question": "Differentiate supervised and unsupervised learning."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4b",
+                "question": "Explain logistic regression with appropriate example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4c",
+                "question": "Explain working of decision tree algorithm with suitable example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4b OR",
+                "question": "What do you mean by perceptron? Discuss single-layer and multi layer perceptron."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5b",
+                "question": "What is outlier? Why outlier mining is important?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4a",
+                "question": "What are Bayesian Classifiers?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4b",
+                "question": "What are the hierarchical methods used in classification?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4c",
+                "question": "Describe in detail about Rule based Classification."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4a OR",
+                "question": "What is attribute selection measure?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4b OR",
+                "question": "What is the difference between supervised and unsupervised learning scheme."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4c OR",
+                "question": "Describe the issues regarding classification and prediction. Write an algorithm for decision tree."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3b",
+                "question": "Differentiate between Classification and Prediction."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3c",
+                "question": "Explain Decision Tree Classification algorithm with the help of example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3a OR",
+                "question": "Differentiate between supervised learning and unsupervised learning."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3b OR",
+                "question": "What is Regression? Explain Linear Regression in short."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3c OR",
+                "question": "Explain Naive Bayes Classifier with example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4a",
+                "question": "What do you mean by Tree Pruning? Explain with example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4b",
+                "question": "Explain the following as attribute selection measure: (i) Information Gain (ii) Gain Ratio"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5b",
+                "question": "Draw and explain the topology of a multilayer, feed-forward Neural Network."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3b",
+                "question": "Explain Linear regression."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3c",
+                "question": "Explain decision tree algorithm."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3b OR",
+                "question": "Explain logistic regression."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3c OR",
+                "question": "Explain CART Classification Method."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4a",
+                "question": "Compare classification and Clustering."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4b",
+                "question": "Which metrics used for evaluating classifier performance?"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4a OR",
+                "question": "Compare classification and prediction."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4b OR",
+                "question": "Explain outlier detection."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4c OR",
+                "question": "Explain Backpropagation algorithm."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2a",
+                "question": "Explain k-fold cross validation."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3c",
+                "question": "Explain decision tree algorithm with suitable example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3a OR",
+                "question": "Explain classification Vs. Prediction."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3b OR",
+                "question": "Explain proximity measures used in distance based classifiers."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3c OR",
+                "question": "Explain ANN."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4b",
+                "question": "Differentiate linear and logistic regression."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4b OR",
+                "question": "Define accuracy, precision, recall and G-mean."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5a",
+                "question": "Briefly explain outlier analysis."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5b",
+                "question": "Differentiate clustering and classification."
+            }
+        ]
+    },
+    "7": {
+        "unit_name": "Advanced Data Mining Techniques",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q5a",
+                "question": "What is temporal mining?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5b",
+                "question": "Explain web usage mining."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5a OR",
+                "question": "What is multimedia mining?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5b OR",
+                "question": "Explain web content mining."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5a",
+                "question": "Discuss web structure mining."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5b",
+                "question": "Discuss multimedia mining."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5c OR",
+                "question": "What is web mining? Explain web usage mining in detail."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4c OR",
+                "question": "Write a short on: web content mining."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5a",
+                "question": "Explain temporal mining."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5a OR",
+                "question": "List out the applications of distributed and parallel data mining."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3b",
+                "question": "Write a short note on: Web content mining."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3b OR",
+                "question": "Write a short note on: Web usage mining."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4a OR",
+                "question": "Explain web mining using example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4c OR",
+                "question": "Discuss the main features of Hadoop Distributed File System."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5a",
+                "question": "Explain Hadoop storage - HDFS."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5c",
+                "question": "Explain mapreduce. Explain any example using mapreduce."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5b OR",
+                "question": "Discuss the Applications of Distributed and parallel Data Mining."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5c OR",
+                "question": "What is web log? Explain web structure mining and web usage mining in detail."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5a OR",
+                "question": "Briefly explain the spatial data mining and temporal mining."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5c OR",
+                "question": "How data mining is useful for web mining. Discuss any four web mining applications."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5c",
+                "question": "Write a short note: Web content mining."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5c OR",
+                "question": "Write a short note: Web usage mining."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5a OR",
+                "question": "Give difference between text mining and web mining."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5b OR",
+                "question": "Why Hadoop is important?"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5c OR",
+                "question": "What is web log? Explain web structure mining and web usage mining in detail."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5a",
+                "question": "Write applications of clustering graph and network data."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5b",
+                "question": "What is Web log structure? And discuss issues regarding web logs."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5a OR",
+                "question": "Write similarity measures for clustering graph and network data."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5b OR",
+                "question": "Explain Web Structure mining."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5c OR",
+                "question": "Write Applications of Distributed and parallel Data Mining."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3a",
+                "question": "What is spatial data mining? Explain with its application."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4c OR",
+                "question": "Discuss spatial Data Mining, Temporal Mining, and Multimedia Mining with their application."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5b OR",
+                "question": "Discuss application of web mining."
+            }
+        ]
+    },
+    "5": {
+        "unit_name": "Cluster Analysis",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q5c",
+                "question": "Discuss the K-means clustering algorithm using examples."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5c OR",
+                "question": "What do you meant by Clustering? Explain the requirements used in Clustering?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4b",
+                "question": "Discuss data matrix and dissimilarity matrix with respect to clustering."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4b OR",
+                "question": "How k-means clustering method differs from k-medoids clustering method? Discuss major drawbacks of k-means clustering method."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5c",
+                "question": "Suppose that the data mining task is to cluster the following eight points (with (x, y) representing location) into three clusters: A1(2, 10), A2(2, 5), A3(8, 4), B1(5, 8), B2(7, 5), B3(6, 4), C1(1, 2), C2(4, 9). The distance function is Euclidean distance. Suppose initially we assign A1, B1, and C1 as the center of each cluster, respectively. With the help of k-means algorithm calculate, (i) The three cluster centers after the first round execution (ii) The final three clusters"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5a OR",
+                "question": "Discuss agglomerative hierarchical clustering method in brief."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5b OR",
+                "question": "Explain the any four typical requirements of clustering in data mining."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5b",
+                "question": "Differentiate between partitioning and hierarchical methods for clustering."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5c",
+                "question": "Explain following clustering algorithm in details: 1) CLARA 2) BIRCH"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5b OR",
+                "question": "Illustrate strength and weakness of k-mean in comparison with k-medoid algorithm."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5c OR",
+                "question": "Explain the typical requirements of clustering in data mining."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5a",
+                "question": "What are the requirements of clustering?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5a OR",
+                "question": "State the categories of clustering methods?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5c OR",
+                "question": "Explain in detail about partitioned Clustering method."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4a",
+                "question": "Define \"clustering\"? Mention any two applications of clustering."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5b",
+                "question": "How K-Mean clustering method differs from K-Medoid clustering method?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4a OR",
+                "question": "Differentiate agglomerative and divisive methods of clustering."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4c OR",
+                "question": "Explain K-means clustering algorithm and prove that outlier adversely affect the performance of algorithm."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5a",
+                "question": "Give strength and weakness of k-means in comparison of k-medoids algorithm."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5c",
+                "question": "Write about different clustering approaches with their strength and weakness."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5a",
+                "question": "List the requirements of clustering in data mining."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5b",
+                "question": "Differentiate Agglomerative and Divisive Hierarchical Clustering?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5a OR",
+                "question": "What is meant by hierarchical clustering?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5b OR",
+                "question": "Illustrate strength and weakness of k-mean in comparison with k-medoid algorithm."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4c",
+                "question": "What do you mean by learning-by-observation? Explain k-Means clustering algorithm in detail."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4b OR",
+                "question": "Differentiate between Partition method and Hierarchical method of Clustering."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4c OR",
+                "question": "What are the requirements of Clustering in Data Mining?"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5a",
+                "question": "How K-Mean clustering method differs from K-Medoid clustering method?"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5c",
+                "question": "Explain PAM clustering Algorithm."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4c",
+                "question": "Explain hierarchical and agglomerative method of clustering."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5c",
+                "question": "Explain K-means algorithm."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5a OR",
+                "question": "How to evaluate clustering algorithm?"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5c OR",
+                "question": "Explain PAM algorithm."
+            }
+        ]
+    },
+    "6": {
+        "unit_name": "Hyperparameters and Explainable AI",
+        "questions": [
+            {
+                "year": "W2024",
+                "question_no": "Q4c",
+                "question": "Explain Principal Component Analysis."
+            }
+        ]
+    }
+}

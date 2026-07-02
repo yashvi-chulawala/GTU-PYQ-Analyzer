@@ -1,0 +1,96 @@
+Seat No.: Enrolment No.
+
+GUJARAT TECHNOLOGICAL UNIVERSITY
+
+BE - SEMESTER-IV(NEW) EXAMINATION — WINTER 2022
+
+Subject Code:3140702 Date:13-12-2022
+Subject Name:Operating System
+
+Time:10:30 AM TO 01:00 PM Total Marks:70
+Instructions:
+
+1. Attempt all questions.
+
+2. Make suitable assumptions wherever necessary.
+
+3. Figures to the right indicate full marks.
+
+4. Simple and non-programmable scientific calculators are allowed.
+
+Q.1 (a) Differentiate multiprocessing and multiprogramming operating system.
+(b) Write the functions of operating system.
+(c) What is process? Explain process control block with all parameters.
+
+Q.2 (a) Differentiate user level and kernel level thread.
+(b) What is scheduling? Explain the types of schedulers.
+(c) List out various criteria for good process scheduling algorithms.
+Illustrate non-preemptive priority scheduling algorithm.
+
+(c) Differentiate process and thread. Explain process state diagram.
+
+Q.3 (a) Define following terms:
+(i)Critical section (ii) Mutual exclusion (iii) Bounded waiting
+(b) Define deadlock. Describe deadlock prevention in detail.
+(c) Illustrate Readers and Writers IPC problem with solution.
+OR
+Q.3 (a) Explain Resource allocation graph.
+(b) What is deadlock? List the conditions that lead to deadlock.
+(c) Explain the Banker’s algorithm for deadlock avoidance with an
+example.
+
+Q.4 (a) Explain segmentation.
+(b) What is external fragmentation? Explain the solution to external
+fragmentation.
+(c) Explain paging hardware with TLB.
+OR
+Q.4 (a) Explain address binding.
+(b) Explain following allocation algorithm 1) First Fit 2) Best Fit.
+(c) What is page fault? Explain steps to handle page fault with diagram.
+
+.5 (a) Discuss the major goals of I/O software.
+Yor g
+(b) What is virtualization? Explain the benefits of virtualization.
+
+(c) Draw the block diagram for DMA. Write steps for DMA data transfer.
+OR
+Q.5 (a) Differentiate block and character devices.
+(b) Explain following Unix command: grep, sort, chmod, mkdir.
+(c) Write short note on RAID levels.
+
+RRR KE
+
+MARKS
+03
+
+07
+
+03
+04
+07
+07
+03
+
+04
+07
+
+03
+
+04
+07
+
+03
+04
+07
+03
+
+04
+07
+
+03
+
+07
+
+03
+04
+07

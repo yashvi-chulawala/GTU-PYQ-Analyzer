@@ -1,0 +1,1272 @@
+{
+    "1": {
+        "unit_name": "Introduction to Computer Networks",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q1a",
+                "question": "What is the difference between a host and an end system? List several different types of end systems."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q1b",
+                "question": "Explain IP Address, Physical Address and Port Number in Brief."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q1c",
+                "question": "Draw the layered architecture of OSI reference model and write at least two services provided by each layer of the model."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2b",
+                "question": "Explain functionality of Repeater, HUB, Bridge, Switch, Router and Gateway."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3b",
+                "question": "List and briefly describe three types of switching fabrics used in Routers. Which, if any, can send multiple packets across the fabric in parallel?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5c OR",
+                "question": "Explain IPv4 datagram format and importance of each field"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1a",
+                "question": "What is computer network? Describe the various types of network."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1b",
+                "question": "Illustrate various delays which are occurring in data packet transmission."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1c",
+                "question": "Explain different network topologies in detail."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3b OR",
+                "question": "Explain the wave length division multiplexing in detail."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5c",
+                "question": "Explain in detail ISO/OSI network model with near sketch."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5b OR",
+                "question": "State the difference between bit rate and baud rate."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1a",
+                "question": "Define delay, loss, and throughput in the context of packet-switching networks."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1c",
+                "question": "Explain the functions of TCP/IP Protocol stack."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4a",
+                "question": "What is the use of class D and Class E in IPv4 addressing?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4b",
+                "question": "Differentiate classful and classless addressing in IPv4."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4a OR",
+                "question": "Define Unicast, multicast and broadcast."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1a",
+                "question": "What is packet switching network? How does it differ from packet switching?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1b",
+                "question": "What is topology in compute network? Differentiate star topology from mesh topology."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1c",
+                "question": "Why OSI reference model is known as the layer architecture? What are the functions of layers of OSI reference model?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4a",
+                "question": "How many maximum number of hosts can be connected in a single class B and C network?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4b",
+                "question": "Differentiate multicasting and broadcasting."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4a OR",
+                "question": "How physical addresses are different from logical addresses?"
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q1a",
+                "question": "What is client-server architecture? List its applications on the Internet."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q1c",
+                "question": "Explain the OSI model in detail and compare it with the TCP/IP model."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2a",
+                "question": "Define network topology. Explain star topology in detail."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3b",
+                "question": "Differentiate network edge and network core."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3b OR",
+                "question": "Differentiate nodal processing delay, queuing delay, transmission delay and propagation delay."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4a",
+                "question": "What is fragmentation in IP? Explain briefly."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5c",
+                "question": "Write a short note on IP addressing and forwarding."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5a OR",
+                "question": "In Datagram Networks, packets sent from one end system to another may follow different paths through the network and may arrive out of order. True or False? Justify your answer."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1a",
+                "question": "What is topology? Explain star topology in brief."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1b",
+                "question": "Explain various delay which are occur in data packet transmission."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1c",
+                "question": "Explain functionality of Repeater, Hub, Bridge, Switch, Router and Gateway."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2c",
+                "question": "Draw the layered architecture of OSI reference model and write at least two services provided by each layer of the model."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3a",
+                "question": "Explain Physical Address, IP address, Port Address in brief."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3b",
+                "question": "Compare IPv4 and IPv6."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4a",
+                "question": "Explain packet fragmentation with example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5c OR",
+                "question": "Draw and explain Ethernet Frame Structure."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1a",
+                "question": "Which of the OSI layers handles each of the following: i) Dividing the message into segments. ii) Determining which route through the subnet to use. iii) Dividing the transmitted bit stream into frames."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1b",
+                "question": "Besides bandwidth and latency, what other parameter(s) is/are needed to give a good characterization of the quality of service offered by network used for (i) Online financial transaction traffic? (ii) Video streaming traffic?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1c",
+                "question": "Discuss the circuit switching versus packet switching approaches for moving data through a network of links and switches."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2c",
+                "question": "Discuss the five layer internet protocol stack along with the functionalities of each layer in detail."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3a OR",
+                "question": "Define the term unicasting, multicasting, and broadcasting."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4b",
+                "question": "What is the relevance of Type of Service (ToS) and Time to Live (TTL) field in IPV4 packet?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5b",
+                "question": "Explain the following static channel allocations mechanisms: i) TDMA ii) FDMA"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5b OR",
+                "question": "State the difference between bit rate and baud rate."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1a",
+                "question": "What is protocol? How it is different than standard?"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1b",
+                "question": "Explain different networking devices."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1c",
+                "question": "Draw and explain different layers of OSI Model."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2a",
+                "question": "Find transmission delay for transmission of 1500 bytes (12000 bits) using a transmission rate of 100Mbps."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3c",
+                "question": "What is IP address? Explain different classes of IP address."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3a OR",
+                "question": "What is the functionality of Router, Bridge and Gateway?"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4a",
+                "question": "What is store and forward packet switching?"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5b",
+                "question": "Compare IPV4 and IPV6."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5c OR",
+                "question": "Write note on: 802.3 Ethernet."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1a",
+                "question": "Define the Following Terms: 1 Local area network 2.Throughput 3.Repeater"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1b",
+                "question": "Explain various types of delay occur in transmission."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1c",
+                "question": "List down different types of topology and explain any three topologies with advantages and disadvantages."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2b",
+                "question": "Differentiate Circuit Switching and Packet Switching"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4a",
+                "question": "Enlist IP address range and subnet mask value for class A, B and C. How many hosts can be connected for the 188.21.0.0 network?"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4c OR",
+                "question": "Draw and Explain IPv4 Datagram header fields."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5a",
+                "question": "Describe the distinctions between multicasting and multiple unicasting within network communication."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1a",
+                "question": "Discuss throughput in Computer Network."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1b",
+                "question": "Enlist types of delay and define them all."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1c",
+                "question": "Write functions of: Repeater, Hub, Gateway, Bridge, Switch and Router"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2a",
+                "question": "Compare IPV4 and IPV6."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3a OR",
+                "question": "Define the term: Unicast, Multicast and Broadcast."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4a",
+                "question": "Define: bit rate and baud rate."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4b",
+                "question": "Discuss NAT(Network address Translation) as solution to IP address depletion problem."
+            }
+        ]
+    },
+    "3": {
+        "unit_name": "Transport and Application Layer",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q2a",
+                "question": "Explain the role of Domain Name Server (DNS) in Internet?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2c",
+                "question": "How end-to-end congestion control is provided by TCP."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3a OR",
+                "question": "Give difference between connection oriented and connection less services."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3b OR",
+                "question": "Why do HTTP, FTP, SMTP, and POP3 run on top of TCP rather than on UDP? Name one application that uses UDP and why?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3c OR",
+                "question": "Explain RDT 2.0."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4a",
+                "question": "Give difference between flow control verses Congestion Control."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4b",
+                "question": "What is HTTP? Differentiate its persistent and non-persistent types with request-response behavior of HTTP."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5a",
+                "question": "Explain in brief socket, multiplexing and demultiplexing."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5b",
+                "question": "How DHCP protocol works?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5c",
+                "question": "Explain TCP segment structure and justify the importance of its field values."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2a",
+                "question": "What is web? Explain its architecture."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2b",
+                "question": "What is URL? What are its identifiers? Explain them."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2c",
+                "question": "List and Explain the methods of HTTP."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2c OR",
+                "question": "What is HTTP? Explain Nonpersistent and Persistent connections of HTTP."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3b",
+                "question": "What is socket? Explain its importance at transport layer protocols."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3c",
+                "question": "Explain User Datagram Protocol (UDP) in detail and discuss how it differs from Transmission Control Protocol (TCP)."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3c OR",
+                "question": "Describe flow control and error control in TCP."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4a",
+                "question": "What is piggybacking? Explain the advantage of it."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1b",
+                "question": "Differentiate persistent HTTP and non-persistent HTTP."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2a",
+                "question": "Explain SMTP Protocol."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2b",
+                "question": "Define following socket function call 1) Connect  2) Bind 3) Listen 4) Send"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2c",
+                "question": "Explain the purpose of DNS and its role in translating domain names into IP addresses."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2c OR",
+                "question": "How does recursive queries in DNS work? Explain message format of DNS."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3a",
+                "question": "What is multiplexing and demultiplexinng in transport layer?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3b",
+                "question": "What are the functions of transport layer in OSI reference model? How segmentation and reassemble is performed in transport layer?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3c",
+                "question": "Differentiate Congestion Control, Flow control and Error Control."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3b OR",
+                "question": "Explain leaky bucket protocol for congestion control."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3c OR",
+                "question": "Explain the various fields of TCP header What are the advantages and disadvantages of TCP."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5b",
+                "question": "What is flow control? How does stop-n-wait protocol perform flow control?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2a",
+                "question": "Explain IMAP Protocol for email communication."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2b",
+                "question": "What is congestion control? How does it differ from flow control?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2c",
+                "question": "Describe HTTP request and response message format in brief."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2c OR",
+                "question": "What is DNS? How does DNS work? Explain the hierarchy of DNS servers."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3a",
+                "question": "What is port address in transport layer? How does it help in Process-to-process delivery at transport layer?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3b",
+                "question": "How does congestion impact network performance, and what metrics are used to detect congestion?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3c",
+                "question": "Explain the following system calls: socket(), bind(), listen(), accept(), connect(), send(), recv() ?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3a OR",
+                "question": "What is connection-less service? How does packet delivery connection-less services does differ from connection-oriented services?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3b OR",
+                "question": "Describe the process of establishing a TCP connection using the three-way handshake."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3c OR",
+                "question": "Explain the various fields of UDP header. What are the advantages and disadvantages of UDP over TCP?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5b",
+                "question": "What is flow control? How stop-n-wait protocol does work for flow control?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5a OR",
+                "question": "What is piggybacking in flow control?"
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q1b",
+                "question": "Illustrate the working of the SMTP protocol with a simple example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2b",
+                "question": "How TCP estimates RTT (Round Trip Time)?"
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2c",
+                "question": "Explain the formats of HTTP request and HTTP response messages."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q2c OR",
+                "question": "Explain various services provided by DNS."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4c",
+                "question": "Explain how TCP handles flow control and congestion control."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4c OR",
+                "question": "Explain the concept of multiplexing and demultiplexing by TCP in detail."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5b",
+                "question": "Discuss the applications of UDP."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5b OR",
+                "question": "Discuss three-way handshaking process in TCP."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2a",
+                "question": "Write short note on Domain Name System (DNS)."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2b",
+                "question": "What is HTTP? Differentiate its persistent and non-persistent types with request-response behavior of HTTP."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2c OR",
+                "question": "Explain DHCP and Email in detail."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3a OR",
+                "question": "Discuss the principles of Reliable Data Transfer."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3b OR",
+                "question": "Give difference between connection oriented and connectionless services."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3c OR",
+                "question": "What do you mean by congestion and overflow? Explain the slow-start component of the TCP congestion-control algorithm."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4a OR",
+                "question": "Give differences between TCP and UDP."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4b OR",
+                "question": "What is socket? Explain its importance at transport layer protocols."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4c OR",
+                "question": "Discuss transport layer multiplexing and demultiplexing concepts."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2a",
+                "question": "Justify the statement, \"HTTP server is stateless\"."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2b",
+                "question": "State the port number for the following application layer protocols. i) FTP ii) HTTP iii) SMTP iv) POP3"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2c OR",
+                "question": "Explain User Datagram Protocol (UDP) in detail and discuss how it differs from Transmission Control Protocol (TCP)."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3a",
+                "question": "For the below mentioned internet applications protocol, mention the underlying transport protocol (TCP or UDP). i) Telnet ii) FTP iii) HTTP"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3b OR",
+                "question": "What is the significance of the following flags in TCP segment? i) URG ii) SYN iii) FIN iv) PSH"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3c OR",
+                "question": "Explain TCP Congestion mechanism in detail."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4a",
+                "question": "Explain the UDP checksum mechanism for error detection with example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2b",
+                "question": "Differentiate between connection oriented and connection less service."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2c OR",
+                "question": "Explain HTTP and DNS in detail."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3a",
+                "question": "Explain the term piggybacking and congestion."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4b",
+                "question": "What are the services provided to transport layer by the network layer?"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5c",
+                "question": "Explain the hierarchical DNS system."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5a OR",
+                "question": "Explain flow and error control in TCP."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5b OR",
+                "question": "Compare TCP and UDP."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2a",
+                "question": "Write a short note on DNS and its resolution techniques."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2c",
+                "question": "Define HTTP and compare its persistent and non-persistent types with request-response behavior."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2c OR",
+                "question": "Explain SMTP protocol in details."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3a",
+                "question": "List down various services provided at transport layer"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3b",
+                "question": "Provide the Port number and Transport layer Protocol associated with the following Application Layer Services: 1. Telnet  2. SMTP  3. HTTP  4.DNS"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3c",
+                "question": "Explain TCP Congestion control in detail"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3a OR",
+                "question": "How the encapsulation is done in the transport layer?"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3b OR",
+                "question": "Explain flow control and Error Control."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3c OR",
+                "question": "Write short note on User datagram protocol."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4a OR",
+                "question": "Differentiate connection oriented and connection less services."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4b OR",
+                "question": "Explain the following system calls. (i) socket () (ii) bind ()"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5c OR",
+                "question": "Explain importance of TCP segment structure and its fields."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3a",
+                "question": "Why HTTP server is stateless?"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3b",
+                "question": "Discuss Multiplexing and De multiplexing at Transport layer."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3c",
+                "question": "Compare TCP and UDP."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3b OR",
+                "question": "Explain the following TCP socket system calls: socket(), bind(), listen(), accept()."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3c OR",
+                "question": "Describe TCP segment structure."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4c",
+                "question": "Describe roles and responsibilities of DNS."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4b OR",
+                "question": "Write note on E-mail."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5b",
+                "question": "Compare Persistent and non Persistent HTTP."
+            }
+        ]
+    },
+    "2": {
+        "unit_name": "Data Link and Network Layer",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q2c OR",
+                "question": "Consider the 7-bit generator, G=10011, and suppose that D has the value1010101010. What is the value of R?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3a",
+                "question": "Discuss parity check for error detection in data transfer."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3c",
+                "question": "Describe Go Back N and Selective Repeat protocol."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4c",
+                "question": "Explain distance vector routing algorithm."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4a OR",
+                "question": "Explain CSMA/CD Protocol."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4b OR",
+                "question": "Why are different inter-AS and intra-AS protocols used in the Internet?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4c OR",
+                "question": "Explain Link-State routing algorithm."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5b OR",
+                "question": "What do you mean by random access protocols? Explain slotted ALOHA in brief."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3a",
+                "question": "Define error detection and correction."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3a OR",
+                "question": "What is the use of two dimensional parity in error detection?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4b",
+                "question": "Write a short note on broadcast and multicast routing."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4c",
+                "question": "Explain distance vector routing algorithm."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4a OR",
+                "question": "Discuss the MAC sub layer Design issues?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4b OR",
+                "question": "Explain datagram networks and virtual circuit networks."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4c OR",
+                "question": "Explain the shortest path routing algorithm."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5a",
+                "question": "What is the minimum hamming distance?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5b",
+                "question": "What is medium access control sub layer?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5a OR",
+                "question": "What is count-to-infinity problem?"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5c OR",
+                "question": "Describe and discuss the data link layer design issues."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3a OR",
+                "question": "Enlist advantages of virtual circuit over datagram."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4c",
+                "question": "Explain link state routing protocol."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4b OR",
+                "question": "Find the subnet mask value to create the following number of subnet in class A? a) 2  b) 5  c) 16  4) 63"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4c OR",
+                "question": "Explain distance vector routing protocol."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5a",
+                "question": "Explain bit stuffing method with example."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5c",
+                "question": "Explain Go-back N protocol? What is the limitation of it? How selective repeat protocol does overcome the limitation of Go back N protocol?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5a OR",
+                "question": "Define following types of assumptions in MAC sub layer. a) Single channel 2) N Stations 3) Collision"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5b OR",
+                "question": "How does two dimension parity check works for detecting error in data link layer?"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5c OR",
+                "question": "How does pure ALOHA and slotted ALOHA protocol work?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4c",
+                "question": "How routing table is built in link state routing protocol? Explain the steps in detail with figure and example."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4b OR",
+                "question": "What is subnetting? What is the subnet masks values for creating 4 and 8 subnets in class c network?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4c OR",
+                "question": "How the vector of distance for each router is built in distance vector routing protocol? What is count-to-infinity problem in it?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5a",
+                "question": "Differentiate fix size and variable size framing."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5c",
+                "question": "Explain selective repeat protocol with the concept of sliding window."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5b OR",
+                "question": "A bit stream 10011101 is transmitted using standard CRC Method. The divisor is 1001. Show the CRC codeword is generated at sender side."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5c OR",
+                "question": "What is collision? How collision can be avoided using bit-map protocol? Explain with example."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3a",
+                "question": "Describe Hierarchical Routing."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3c",
+                "question": "Explain Parity Checks and CRC with simple examples."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3a OR",
+                "question": "Describe the internal hardware structure of a router."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q3c OR",
+                "question": "Explain CSMA/CD protocol."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4b",
+                "question": "What is Slotted ALOHA? How it differs from Pure ALOHA?"
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4a OR",
+                "question": "What is hop count? Explain its role in routing."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q4b OR",
+                "question": "What is VLAN? Explain its advantages and working."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5a",
+                "question": "RIP is Intra-AS Routing protocol in the Internet. True or False? Justify your answer."
+            },
+            {
+                "year": "S2026",
+                "question_no": "Q5c OR",
+                "question": "Write a short note on Broadcast and Multicast routing."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3c",
+                "question": "Explain Distance Vector Routing Algorithm."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4b",
+                "question": "Write a short note on broadcast and multicast routing."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4c",
+                "question": "What is IP address? Explain sub netting with example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5a",
+                "question": "Discuss CSMA/CD Protocol."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5b",
+                "question": "Explain CRC code generation with example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5c",
+                "question": "Describe Go Back N and Selective Repeat protocol."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5a OR",
+                "question": "Discuss parity check for error detection in data transfer."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5b OR",
+                "question": "What do you mean by random access protocols? Explain slotted ALOHA in brief."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3b",
+                "question": "Discuss the count-to-infinity problem in distance vector routing algorithm with example."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3c",
+                "question": "Explain the class-full sub-netting with example."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4c",
+                "question": "Explain Link State Routing algorithm in detail."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4a OR",
+                "question": "What are the three most important network-layer functions in a virtual-circuit network?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4b OR",
+                "question": "Explain Route Summarization or Route Aggregation in network layer."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4c OR",
+                "question": "Demonstrate the various error detection techniques at data link layer with example."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5a",
+                "question": "What is the purpose of Address Resolution Protocol (ARP) and Network Address Translation (NAT)?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5c",
+                "question": "Explain p-persistent CSMA protocol in detail."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5a OR",
+                "question": "Data link protocols almost always put CRC in a trailer rather than in a header. Why?"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5c OR",
+                "question": "Discuss the working of slotted aloha along with its efficiency in terms of channel utilization."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2c",
+                "question": "Explain different types of CSMA with suitable example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3b",
+                "question": "Compare Datagram and virtual circuit."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3b OR",
+                "question": "What is subnet? What are the benefits of creating subnets?"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3c OR",
+                "question": "Generate CRC code for message 1101010101. Given generator polynomial is x4+x2+1."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4c",
+                "question": "Explain distance vector routing with suitable example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4a OR",
+                "question": "Explain the problem of Count-to-infinity with example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4b OR",
+                "question": "Discuss optimality principle with example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4c OR",
+                "question": "Explain Link state routing with suitable example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5a",
+                "question": "Explain LRC with suitable example."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4b",
+                "question": "Compare virtual circuit networks and datagram networks"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4c",
+                "question": "Describe Go Back N and Selective Repeat protocol."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5b",
+                "question": "A CRC 100110001 is received by the receiver. The divisor value is 1101. Show that error is detected at the receiver side."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5c",
+                "question": "Define the term random access protocols? Explain slotted ALOHA in brief."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5a OR",
+                "question": "An ISP is providing 150.80.0.0/16 block to 2600 customers. What will be the assigned IP address 1002th customers if it provided in the sequence by that ISP."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5b OR",
+                "question": "Explain bit stuffing with an example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2b",
+                "question": "Compare virtual circuit and datagram."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2c",
+                "question": "Describe Distance Vector Routing Algorithm."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2c OR",
+                "question": "Describe Link state Routing Algorithm."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4a OR",
+                "question": "What is count to infinity problem?"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4c OR",
+                "question": "Describe Go back n and selective repeat protocol."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5a",
+                "question": "Discuss taking turn protocol."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5c",
+                "question": "Describe CSMA protocol with Collision Detection."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5a OR",
+                "question": "Discuss slotted Aloha."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5b OR",
+                "question": "Write functionalities of ARP."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5c OR",
+                "question": "Describe CRC for error detection."
+            }
+        ]
+    },
+    "5": {
+        "unit_name": "Network Security and Emerging Trends",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q5a OR",
+                "question": "Describe how a botnet can be created, and how it can be used for a DDoS attack."
+            }
+        ]
+    }
+}

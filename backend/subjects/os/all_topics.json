@@ -1,0 +1,2502 @@
+[
+{
+"question_no": "Q1a",
+"question": "List any four functions of operating system?",
+"year": "S2022",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Basic functions",
+"topics": ["Basic functions"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Explain the essential properties of i) Batch system ii) Time sharing iii) Real time iv) Distribute",
+"year": "S2022",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Batch Operating System",
+"topics": ["Batch Operating System", "Time sharing", "Real-time Operating System", "Distributed Operating System"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "Explain process states and process control block in details.",
+"year": "S2022",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process states",
+"topics": ["Process states", "Process control"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "What are the various criteria for a good process scheduling algorithm?",
+"year": "S2022",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Types of scheduling",
+"topics": ["Types of scheduling"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "What is thread? Explain classical thread model.",
+"year": "S2022",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Threads",
+"topics": ["Threads"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "How semaphores can be used to deal with n-process critical section problem? Explain.",
+"year": "S2022",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Critical Section",
+"topics": ["Critical Section", "Semaphores"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c OR",
+"question": "What is monitor? Explain solution for producer-consumer problem using monitor.",
+"year": "S2022",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Monitors",
+"topics": ["Monitors", "Producer Consumer Problem"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a",
+"question": "Define preemption and nonpreemption.",
+"year": "S2022",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Preemptive scheduling",
+"topics": ["Preemptive scheduling", "Non-preemptive scheduling"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b",
+"question": "Explain the terms related to IPC: i) Race condition ii) Critical section iii) Mutual exclusion iv) Semaphores",
+"year": "S2022",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Race Conditions",
+"topics": ["Race Conditions", "Critical Section", "Mutual Exclusion", "Semaphores"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "How does deadlock avoidance differ from deadlock prevention? Write about deadlock avoidance algorithm in detail.",
+"year": "S2022",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Avoidance",
+"topics": ["Deadlock Avoidance", "Deadlock Prevention"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a OR",
+"question": "Give the Difference between Thread and Process.",
+"year": "S2022",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Threads",
+"topics": ["Threads", "Process Concept"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "Explain the Priority scheduling algorithm.",
+"year": "S2022",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Priority Scheduling",
+"topics": ["Priority Scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "How to characterize the structure of deadlock? Explain the two solutions of recovery from deadlock.",
+"year": "S2022",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Principles of Deadlock",
+"topics": ["Principles of Deadlock"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a",
+"question": "List out the seven RAID levels.",
+"year": "S2022",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "RAID",
+"topics": ["RAID"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b",
+"question": "Write short note on: Relocation problem for multiprogramming with fixed partitions.",
+"year": "S2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Fixed Partitioning",
+"topics": ["Fixed Partitioning"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "What is paging? Discuss basic paging technique in details.",
+"year": "S2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Paging",
+"topics": ["Paging"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a OR",
+"question": "What is the difference between logical I/O and device I/O?",
+"year": "S2022",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "I/O Devices",
+"topics": ["I/O Devices"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b OR",
+"question": "Write the first, best fit memory allocation techniques.",
+"year": "S2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Allocation",
+"topics": ["Memory Allocation", "First Fit", "Best Fit"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "Define Virtual Memory. Explain the process of converting virtual addresses to physical addresses with a neat diagram.",
+"year": "S2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Virtual Memory Concepts",
+"topics": ["Virtual Memory Concepts"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a",
+"question": "Explain access control list.",
+"year": "S2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b",
+"question": "Differentiate between Windows and Linux file system.",
+"year": "S2022",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Linux Case Study",
+"topics": ["Linux Case Study", "Windows Operating System Case Study"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Write about Least Recently Used page replacement algorithm all its variants with an example.",
+"year": "S2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "LRU Page Replacement",
+"topics": ["LRU Page Replacement"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a OR",
+"question": "Explain domain protection mechanism.",
+"year": "S2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b OR",
+"question": "Write a short note: Unix kernel.",
+"year": "S2022",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Role and Function of Kernel",
+"topics": ["Role and Function of Kernel"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Describe in detail about variety of techniques used to improve the efficiency and performance of secondary storage.",
+"year": "S2022",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "Disk Cache",
+"topics": ["Disk Cache"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1a",
+"question": "Explain any three main functions of an Operating System.",
+"year": "S2023",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Basic functions",
+"topics": ["Basic functions"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Describe the features of a distributed operating system.",
+"year": "S2023",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Distributed Operating System",
+"topics": ["Distributed Operating System"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "What is a process? Explain about various fields of process control block.",
+"year": "S2023",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process Concept",
+"topics": ["Process Concept", "Process control"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "Define multi-threading? Explain its benefits.",
+"year": "S2023",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Threads",
+"topics": ["Threads"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "Describe the differences among long-term scheduling. short-term, and medium-term scheduling.",
+"year": "S2023",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Types of scheduling",
+"topics": ["Types of scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Demonstrate FIFO and Round Robin CPU scheduling algorithms with suitable example.",
+"year": "S2023",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Round Robin Scheduling",
+"topics": ["FCFS Scheduling", "Round Robin Scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2c OR",
+"question": "What is semaphore? Explain its implementation as wait and signal for providing process synchronization?",
+"year": "S2023",
+"unit_number": 3,
+"unit_name": "Concurrency and Synchronization",
+"primary_topic": "Semaphores",
+"topics": ["Semaphores"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a",
+"question": "What are the advantages of inter-process communication? How communication takes place in a shared-memory environment?",
+"year": "S2023",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Message Passing",
+"topics": ["Message Passing"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b",
+"question": "What are the conditions under which a deadlock situation may arise?",
+"year": "S2023",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Principles of Deadlock",
+"topics": ["Principles of Deadlock"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3c",
+"question": "Explain the readers and writers problem.",
+"year": "S2023",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Reader Writer Problem",
+"topics": ["Reader Writer Problem"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a OR",
+"question": "What is race condition?",
+"year": "S2023",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Race Conditions",
+"topics": ["Race Conditions"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "What are the methods for handling deadlocks?",
+"year": "S2023",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Prevention",
+"topics": ["Deadlock Prevention", "Deadlock Avoidance", "Deadlock Detection"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "Explain the dining-philosophers problem.",
+"year": "S2023",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Dining Philosopher Problem",
+"topics": ["Dining Philosopher Problem"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a",
+"question": "Explain the difference between logical and physical addresses.",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Management requirements",
+"topics": ["Memory Management requirements"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b",
+"question": "When do page faults occur? Describe the actions taken by the operating system when a page fault occurs.",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Demand Paging",
+"topics": ["Demand Paging"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Explain Banker's deadlock-avoidance algorithm with an illustration.",
+"year": "S2023",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Avoidance",
+"topics": ["Deadlock Avoidance"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain the following allocation algorithms: 1) First-fit 2) Best-fit 3) Worst-fit",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Allocation",
+"topics": ["First Fit", "Best Fit", "Worst Fit"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b OR",
+"question": "Explain the difference between internal and external fragmentation.",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Fragmentation",
+"topics": ["Fragmentation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "Explain the different file access methods in detail.",
+"year": "S2023",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Directory Structure",
+"topics": ["Directory Structure"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a",
+"question": "Explain domain of protection.",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b",
+"question": "Write a short note on: system threats.",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Explain in detail Synchronization implementation in Linux.",
+"year": "S2023",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Linux Case Study",
+"topics": ["Linux Case Study"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a OR",
+"question": "What are the main difference between capability lists and access lists?",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b OR",
+"question": "Write a short note on: program threats.",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "What is virtualization? Explain the benefits of virtualization.",
+"year": "S2023",
+"unit_number": 9,
+"unit_name": "Virtualization Concepts",
+"primary_topic": "Virtual Machines",
+"topics": ["Virtual Machines"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1a",
+"question": "Define concurrency in OS and briefly explain its associated challenges.",
+"year": "S2024",
+"unit_number": 3,
+"unit_name": "Concurrency and Synchronization",
+"primary_topic": "Principles of Concurrency",
+"topics": ["Principles of Concurrency"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Explain '5 State' process state transition diagram with an illustration.",
+"year": "S2024",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process states",
+"topics": ["Process states"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "Discuss the variety of task types that the operating system performs.",
+"year": "S2024",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Basic functions",
+"topics": ["Basic functions"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "Define the following terms: i) Critical Section ii) Race Condition iii) Mutual Exclusion",
+"year": "S2024",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Critical Section",
+"topics": ["Critical Section", "Race Conditions", "Mutual Exclusion"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "Differentiate Multiprocessing and Multithreading.",
+"year": "S2024",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Threads",
+"topics": ["Threads"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Calculate the average waiting and turnaround time for the processes listed in the table using the following scheduling algorithms: the CPU burst time length in milliseconds. i) First Come First Serve ii) Non-preemptive Shortest Job First iii) Shortest Remaining Time Next iv) Round Robin with Quantum value two (Table: Process Arrival Time Processing Time, A 0 3, B 1 6, C 4 4, D 6 2)",
+"year": "S2024",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "FCFS Scheduling",
+"topics": ["FCFS Scheduling", "SJF Scheduling", "Round Robin Scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2c OR",
+"question": "Calculate the average waiting and turnaround time for the processes listed in the table using the following scheduling algorithms: the CPU burst time length in milliseconds. Consider 1 as the highest priority. i) Preemptive Shortest Job First ii) Non preemptive Priority Scheduling iii) Preemptive - Priority Scheduling iv) Round Robin with Quantum value one (Table: Process Burst Time Priority, P1 10 3, P2 1 1, P3 2 3, P4 1 4, P5 5 2)",
+"year": "S2024",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Priority Scheduling",
+"topics": ["SJF Scheduling", "Priority Scheduling", "Round Robin Scheduling", "Preemptive scheduling", "Non-preemptive scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a",
+"question": "Define and explain Message Passing.",
+"year": "S2024",
+"unit_number": 3,
+"unit_name": "Concurrency and Synchronization",
+"primary_topic": "Message Passing",
+"topics": ["Message Passing"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b",
+"question": "Provide a brief description of the following: i) Starvation ii) Aging",
+"year": "S2024",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Starvation",
+"topics": ["Starvation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "What is a scheduler? Illustrate queuing with an appropriate diagram.",
+"year": "S2024",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Types of scheduling",
+"topics": ["Types of scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a OR",
+"question": "Differentiate the following: i) Semaphore ii) Monitor",
+"year": "S2024",
+"unit_number": 3,
+"unit_name": "Concurrency and Synchronization",
+"primary_topic": "Semaphores",
+"topics": ["Semaphores", "Monitors"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b OR",
+"question": "Provide a brief description of the following: i) Deadlock Prevention ii) Deadlock Avoidance",
+"year": "S2024",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Prevention",
+"topics": ["Deadlock Prevention", "Deadlock Avoidance"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3c OR",
+"question": "Describe Peterson's Algorithm for Process Synchronization.",
+"year": "S2024",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Peterson's Solution",
+"topics": ["Peterson's Solution"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a",
+"question": "Compare Multiprogramming with Fixed Partition and Multiprogramming with Variable Partition.",
+"year": "S2024",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Fixed Partitioning",
+"topics": ["Fixed Partitioning", "Variable Partitioning"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b",
+"question": "Define Authentication. How can operating system security be ensured using authentication?",
+"year": "S2024",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "1. What is Stripping in RAID? Give an appropriate example. 2. Suppose that a disk drive has 200 cylinders. The drive currently serves at cylinder 50. The queue of pending requests in FIFO order is 82, 170, 43, 140, 24, 16, 190. Starting from the current head position, what is the total distance (in cylinders) the disk arm moves to satisfy all the pending requests for each of the following disk scheduling algorithms? i) FCFS ii) SCAN iii) C-SCAN",
+"year": "S2024",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "FCFS Disk Scheduling",
+"topics": ["FCFS Disk Scheduling", "SCAN Disk Scheduling", "C-SCAN Disk Scheduling", "RAID"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "What is TLB(Translation Lookaside Buffer), and what is the purpose of it?",
+"year": "S2024",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Paging",
+"topics": ["Paging"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b OR",
+"question": "Discuss the Access Control List in brief.",
+"year": "S2024",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "1. What is Mirroring in RAID? Give an appropriate example. 2. Suppose that a disk drive has 200 cylinders. The drive currently serves at cylinder 100; the previous request was at cylinder 81. The queue of pending requests in FIFO order is 55,58,39,18,90,160,150,38,184. Starting from the current head position, what is the total distance (in cylinders) the disk arm moves to satisfy all the pending requests for each of the following disk scheduling algorithms? i) SSTF ii) LOOK iii) C-LOOK",
+"year": "S2024",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "SSTF Disk Scheduling",
+"topics": ["SSTF Disk Scheduling", "RAID"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a",
+"question": "Enlist the advantages and disadvantages of Virtual Machines.",
+"year": "S2024",
+"unit_number": 9,
+"unit_name": "Virtualization Concepts",
+"primary_topic": "Virtual Machines",
+"topics": ["Virtual Machines"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b",
+"question": "Write a shell script to display all executable files, directories, and zero-sized files from the current directory.",
+"year": "S2024",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Shell Programming",
+"topics": ["Shell Programming"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Consider the reference string: 4, 7, 6, 1, 7, 6, 1, 2, 7, 2. The number of frames in the memory is 3. Find out the number of page faults respective to: i) Optimal Page Replacement Algorithm ii) FIFO Page Replacement Algorithm iii) LRU Page Replacement Algorithm",
+"year": "S2024",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "FIFO Page Replacement",
+"topics": ["FIFO Page Replacement", "LRU Page Replacement", "Optimal Page Replacement"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a OR",
+"question": "Describe virtualization with an appropriate diagram.",
+"year": "S2024",
+"unit_number": 9,
+"unit_name": "Virtualization Concepts",
+"primary_topic": "Virtual Machines",
+"topics": ["Virtual Machines"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b OR",
+"question": "Advantages of LINUX/UNIX operating system over Windows.",
+"year": "S2024",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Linux Case Study",
+"topics": ["Linux Case Study", "Windows Operating System Case Study"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Given memory partition of 100K, 500K, 200K, 300K, and 600K in order. How would each of the First-fit, Best-fit and Worst-fit algorithms place the processes of 212K, 417K, 112K and 426K in order? Which algorithm makes the most efficient use of memory? Show the diagram of memory status in each case.",
+"year": "S2024",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Allocation",
+"topics": ["First Fit", "Best Fit", "Worst Fit"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q1a",
+"question": "Explain in brief Program, Process and Thread.",
+"year": "S2025",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process Concept",
+"topics": ["Process Concept", "Threads"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "What is Process State? Explain different states of a process with various queues generated at each stage.",
+"year": "S2025",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process states",
+"topics": ["Process states"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "Give the functions of Operating System and Explain following OS in detail. 1. Time Sharing 2. Real Time 3. Batch Operating System.",
+"year": "S2025",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Basic functions",
+"topics": ["Basic functions", "Time sharing", "Real-time Operating System", "Batch Operating System"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "Define following with respect to CPU Scheduling Algorithms: 1. Turnaround Time 2. Waiting Time 3. Throughput",
+"year": "S2025",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Types of scheduling",
+"topics": ["Types of scheduling"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "Compare Round Robin, FCFS and Shortest Job First Algorithms for CPU Scheduling.",
+"year": "S2025",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Round Robin Scheduling",
+"topics": ["Round Robin Scheduling", "FCFS Scheduling", "SJF Scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "What is Semaphore? Give the implementation of Readers-Writers Problem using Semaphore.",
+"year": "S2025",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Reader Writer Problem",
+"topics": ["Reader Writer Problem", "Semaphores"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c OR",
+"question": "What is Monitor? Give the implementation of Bounded Buffer Producer-Consumer Problem using Monitor.",
+"year": "S2025",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Producer Consumer Problem",
+"topics": ["Producer Consumer Problem", "Monitors"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a",
+"question": "What is Shell and Kernel in Unix?",
+"year": "S2025",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Role and Function of Kernel",
+"topics": ["Role and Function of Kernel", "Shell Programming"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b",
+"question": "List the necessary conditions that lead to deadlock.",
+"year": "S2025",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Principles of Deadlock",
+"topics": ["Principles of Deadlock"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "Explain Banker's Algorithm for Deadlock Avoidance with illustration..",
+"year": "S2025",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Avoidance",
+"topics": ["Deadlock Avoidance"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a OR",
+"question": "Give the difference between Deadlock and Starvation.",
+"year": "S2025",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Principles of Deadlock",
+"topics": ["Principles of Deadlock", "Starvation"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "What is Process Control Block (PCB)?Explain various entries in PCB.",
+"year": "S2025",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process control",
+"topics": ["Process control"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "Draw the block diagram for DMA. Write steps for DMA data transfer.",
+"year": "S2025",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "Organization of I/O functions",
+"topics": ["Organization of I/O functions"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a",
+"question": "Explain Internal and External Fragmentation in Memory Management.",
+"year": "S2025",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Fragmentation",
+"topics": ["Fragmentation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b",
+"question": "Explain the Linux/Unix Commands: cat, rmdir, sort, chmod.",
+"year": "S2025",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Elementary Linux Commands",
+"topics": ["Elementary Linux Commands"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Explain FIFO, LRU and Optimal Page Replacement Algorithms with example.",
+"year": "S2025",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "FIFO Page Replacement",
+"topics": ["FIFO Page Replacement", "LRU Page Replacement", "Optimal Page Replacement"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "Write a shell script to find a factorial of given number n.",
+"year": "S2025",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Shell Programming",
+"topics": ["Shell Programming"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b OR",
+"question": "Compare Paging and Segmentation with reference to Memory Managament.",
+"year": "S2025",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Paging",
+"topics": ["Paging"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "Explain various Disk Arm Scheduling Algorithms for Disk Space Management.",
+"year": "S2025",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "FCFS Disk Scheduling",
+"topics": ["FCFS Disk Scheduling", "SCAN Disk Scheduling", "C-SCAN Disk Scheduling", "SSTF Disk Scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a",
+"question": "Explain difference between Security and Protection?",
+"year": "S2025",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b",
+"question": "What are the Allocation Methods of a Disk Space?",
+"year": "S2025",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "Organization of I/O functions",
+"topics": ["Organization of I/O functions"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Explain in Detail File and Directory Management of Unix/Linux Operating System in detail.",
+"year": "S2025",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Directory Structure",
+"topics": ["Directory Structure"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a OR",
+"question": "What is Access Control List?",
+"year": "S2025",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain the concept of virtual machines and pure virtualization.",
+"year": "S2025",
+"unit_number": 9,
+"unit_name": "Virtualization Concepts",
+"primary_topic": "Virtual Machines",
+"topics": ["Virtual Machines", "Pure Virtualization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "What is RAID? Explain various levels of RAID and it importance.",
+"year": "S2025",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "RAID",
+"topics": ["RAID"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q1a",
+"question": "Explain the role of kernel in an operating system.",
+"year": "S2026",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Role and Function of Kernel",
+"topics": ["Role and Function of Kernel"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Discuss the goals and functions of Operating Systems.",
+"year": "S2026",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Goals and Structures of Operating System",
+"topics": ["Goals and Structures of Operating System", "Basic functions"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "Explain various types of Operating Systems with suitable examples.",
+"year": "S2026",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Batch Operating System",
+"topics": ["Batch Operating System", "Multiprogramming", "Time sharing", "Distributed Operating System", "Real-time Operating System"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "Compare: user-level threads and kernel-level threads.",
+"year": "S2026",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Threads",
+"topics": ["Threads"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "Explain how aging prevents starvation in priority scheduling.",
+"year": "S2026",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Priority Scheduling",
+"topics": ["Priority Scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Consider the following processes: Process Arrival Time Burst Time P1 0 8 P2 1 4 P3 2 9 P4 3 5 Methods to be performed are FCFS and SRTF. Do the following: Draw Gantt chart Find Average Waiting Time Find Average Turnaround Time",
+"year": "S2026",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "FCFS Scheduling",
+"topics": ["FCFS Scheduling", "SJF Scheduling", "Preemptive scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2c OR",
+"question": "What is PCB? Explain the complete life cycle of a process in an operating systm with suitable diagram.",
+"year": "S2026",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process control",
+"topics": ["Process Concept", "Process control", "Process states"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a",
+"question": "Define Semaphore and explain binary semaphore.",
+"year": "S2026",
+"unit_number": 3,
+"unit_name": "Concurrency and Synchronization",
+"primary_topic": "Semaphores",
+"topics": ["Semaphores"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b",
+"question": "How Peterson's Solution solve critical section problem?",
+"year": "S2026",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Peterson's Solution",
+"topics": ["Peterson's Solution", "Critical Section"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "A system has four processes (P0, P1, P2,) and (P3) and three resource types (A, B and C). The total number of instances of resources (A, B,) and (C) are 12, 8, and 10 respectively. The current Allocation and Maximum matrices are given below: Process Allocation (ABC) PO 233 P1 422 P2 314 P3 121 Max (A B C) 765 654 846 533 Available Resources: (2, 0, 0) Answer the following: a) Calculate the Need Matrix for all processes. b) Determine whether the current system is in a safe state using Banker's Algorithm. If the system is safe, write one safe sequence. c) If process (P2) requests resources ((2, 0, 1)), determine whether the request can be granted immediately. Show all necessary steps and justification.",
+"year": "S2026",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Avoidance",
+"topics": ["Deadlock Avoidance"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a OR",
+"question": "Define Deadlock and list its necessary conditions.",
+"year": "S2026",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Principles of Deadlock",
+"topics": ["Principles of Deadlock"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "The following two functions P1 and P2 that share a variable B with initial value of 4 execute concurrently. P1() { C=B-1; B=2*C } P2() { D= 2*B; B=D-1; } Provide the number of distinct values that B can possibly take after the executions of two functions.",
+"year": "S2026",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Race Conditions",
+"topics": ["Race Conditions"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "Explain Dinning Philosopher problem and provide possible deadlock situations.",
+"year": "S2026",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Dining Philosopher Problem",
+"topics": ["Dining Philosopher Problem"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a",
+"question": "Differentiate: Internal Fragmentation and External Fragmentation.",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Fragmentation",
+"topics": ["Fragmentation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b",
+"question": "What is thrashing? Explain its effect on CPU Utilization. What should be the solution of it?",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Thrashing",
+"topics": ["Thrashing"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "A system uses virtual memory with 3 page frames: 3,2,1,0,3,2,4,3,2,1,0,4 provide details on page faults for FIFO,LRU and OPTIMAL algorithms.",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "FIFO Page Replacement",
+"topics": ["FIFO Page Replacement", "LRU Page Replacement", "Optimal Page Replacement"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "What is paging? How it is different from Segmentation?",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Paging",
+"topics": ["Paging"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b OR",
+"question": "What is Translation Lookaside Buffer? Provide its advantages and disadvantages.",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Paging",
+"topics": ["Paging"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "A logical address space of 8 MB is mapped to a physical memory of 256 KB using paging. The page size is 4 KB. a) Calculate the number of bits required for logical address, physical address, page number, and page offset. b) How many pages are there in the logical address space? c) How many frames are there in the physical memory? d) If the page table entry size is 4 bytes, what is the size of the page table?",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Paging",
+"topics": ["Paging"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a",
+"question": "What is RAID? STate its advantages.",
+"year": "S2026",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "RAID",
+"topics": ["RAID"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b",
+"question": "Explain VMware ESXi and Microsoft Hyper-V.",
+"year": "S2026",
+"unit_number": 9,
+"unit_name": "Virtualization Concepts",
+"primary_topic": "VMware ESXi",
+"topics": ["VMware ESXi", "Microsoft Hyper-V"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Consider a disk with tracks numbered from 0 to 199. The request queue is: 23, 89, 132, 42, 187, 65, 14, 170 Initial head position = 100 Head movement direction towards lower track numbers. Solve using FCFS, SSTF, SCAN, and C-SCAN disk scheduling algorithms.",
+"year": "S2026",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "FCFS Disk Scheduling",
+"topics": ["FCFS Disk Scheduling", "SSTF Disk Scheduling", "SCAN Disk Scheduling", "C-SCAN Disk Scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a OR",
+"question": "Differentiate: Virtual Machine and Physical Machine.",
+"year": "S2026",
+"unit_number": 9,
+"unit_name": "Virtualization Concepts",
+"primary_topic": "Virtual Machines",
+"topics": ["Virtual Machines"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain following Linux commands: 1. grep 2. ls 3. touch 4. sort",
+"year": "S2026",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Elementary Linux Commands",
+"topics": ["Elementary Linux Commands"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Write a shell script to create a file containing student details such as Full Name, Enrollment Number, Branch, and Semester. The script should also: Display the total number of lines in the file Display the total number of characters in the file Search and display the full student record based on a given string input.",
+"year": "S2026",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Shell Programming",
+"topics": ["Shell Programming"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q1a",
+"question": "Define the followings: (1) System bus (2) Auxiliary memory",
+"year": "W2021",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Computer system overview",
+"topics": ["Computer system overview"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "What do you mean by cache memory? Explain the cache read operation.",
+"year": "W2021",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "Disk Cache",
+"topics": ["Disk Cache"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "What is process? Explain the process creation and termination.",
+"year": "W2021",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process Concept",
+"topics": ["Process Concept"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "Define the term critical section.",
+"year": "W2021",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Critical Section",
+"topics": ["Critical Section"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "Difference between user level and kernel level thread.",
+"year": "W2021",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Threads",
+"topics": ["Threads"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Consider following processes with length of CPU burst time in milliseconds Process Burst time P1 5 P2 10 P3 2 P4 1 All process arrived in order p1, p2, p3, p4 all time zero. (1) Draw gantt charts illustrating execution of these processes for SJF and round robin (quantum=1) (2) Calculate waiting time for each process for each scheduling algorithm (3) Calculate average waiting time for each scheduling algorithm",
+"year": "W2021",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "SJF Scheduling",
+"topics": ["SJF Scheduling", "Round Robin Scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2c OR",
+"question": "What are various criteria for a good process scheduling algorithm? Explain any two preemptive scheduling algorithms in brief.",
+"year": "W2021",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Types of scheduling",
+"topics": ["Types of scheduling", "Preemptive scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a",
+"question": "What is meant priority inversion?",
+"year": "W2021",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Priority Scheduling",
+"topics": ["Priority Scheduling"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b",
+"question": "What is the criterion used to select the time quantum in case of round-robin scheduling algorithm? Explain it with a suitable example.",
+"year": "W2021",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Round Robin Scheduling",
+"topics": ["Round Robin Scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "What is Semaphore? Give the implementation of Bounded Buffer Producer Consumer Problem using Semaphore.",
+"year": "W2021",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Producer Consumer Problem",
+"topics": ["Producer Consumer Problem", "Semaphores"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a OR",
+"question": "What is Deadlock? List the conditions that lead to deadlock.",
+"year": "W2021",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Principles of Deadlock",
+"topics": ["Principles of Deadlock"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "List criterions used to evaluate the performance of CPU scheduling algorithms.",
+"year": "W2021",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Types of scheduling",
+"topics": ["Types of scheduling"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3c OR",
+"question": "What is advantage of using Monitor? Give the implementation of Bounded Buffer Producer Consumer Problem using Monitor.",
+"year": "W2021",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Producer Consumer Problem",
+"topics": ["Producer Consumer Problem", "Monitors"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a",
+"question": "What is resource allocation graph?",
+"year": "W2021",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Principles of Deadlock",
+"topics": ["Principles of Deadlock"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b",
+"question": "Explain paging technique.",
+"year": "W2021",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Paging",
+"topics": ["Paging"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Explain the following allocation algorithms: (1) First-fit (2) Best-fit (3) Worst-fit",
+"year": "W2021",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Allocation",
+"topics": ["First Fit", "Best Fit", "Worst Fit"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a OR",
+"question": "When is a system in a safe state?",
+"year": "W2021",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Avoidance",
+"topics": ["Deadlock Avoidance"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b OR",
+"question": "Explain segmentation.",
+"year": "W2021",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Allocation",
+"topics": ["Memory Allocation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "What is fragmentation? Explain the difference between internal and external fragmentation.",
+"year": "W2021",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Fragmentation",
+"topics": ["Fragmentation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a",
+"question": "Explain RAID. How it is helpful to increase CPU performance?",
+"year": "W2021",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "RAID",
+"topics": ["RAID"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b",
+"question": "Explain the following Linux commands: (1) mkdir (2) touch (3) cat (4) rm",
+"year": "W2021",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Elementary Linux Commands",
+"topics": ["Elementary Linux Commands"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "What do you mean by security? Discuss in brief access control list.",
+"year": "W2021",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a OR",
+"question": "Explain i/o buffering.",
+"year": "W2021",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "I/O Buffering",
+"topics": ["I/O Buffering"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b OR",
+"question": "What is virtualization? Explain the benefits of virtualization.",
+"year": "W2021",
+"unit_number": 9,
+"unit_name": "Virtualization Concepts",
+"primary_topic": "Virtual Machines",
+"topics": ["Virtual Machines"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Why is segmented paging important (as compared to a paging system)? What are the different pieces of the virtual address in a segmented paging?",
+"year": "W2021",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Paging",
+"topics": ["Paging"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q1a",
+"question": "Differentiate multiprocessing and multiprogramming operating system.",
+"year": "W2022",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Multiprogramming",
+"topics": ["Multiprogramming", "Parallel Operating System"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1b",
+"question": "Write the functions of operating system.",
+"year": "W2022",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Basic functions",
+"topics": ["Basic functions"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1c",
+"question": "What is process? Explain process control block with all parameters.",
+"year": "W2022",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process control",
+"topics": ["Process Concept", "Process control"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "Differentiate user level and kernel level thread.",
+"year": "W2022",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Threads",
+"topics": ["Threads"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2b",
+"question": "What is scheduling? Explain the types of schedulers.",
+"year": "W2022",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Types of scheduling",
+"topics": ["Types of scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "List out various criteria for good process scheduling algorithms. Illustrate non-preemptive priority scheduling algorithm.",
+"year": "W2022",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Priority Scheduling",
+"topics": ["Types of scheduling", "Priority Scheduling", "Non-preemptive scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2c OR",
+"question": "Differentiate process and thread. Explain process state diagram.",
+"year": "W2022",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process states",
+"topics": ["Process Concept", "Threads", "Process states"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a",
+"question": "Define following terms: (i)Critical section (ii) Mutual exclusion (iii) Bounded waiting",
+"year": "W2022",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Critical Section",
+"topics": ["Critical Section", "Mutual Exclusion"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b",
+"question": "Define deadlock. Describe deadlock prevention in detail.",
+"year": "W2022",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Prevention",
+"topics": ["Principles of Deadlock", "Deadlock Prevention"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "Illustrate Readers and Writers IPC problem with solution.",
+"year": "W2022",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Reader Writer Problem",
+"topics": ["Reader Writer Problem"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a OR",
+"question": "Explain Resource allocation graph.",
+"year": "W2022",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Principles of Deadlock",
+"topics": ["Principles of Deadlock"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b OR",
+"question": "What is deadlock? List the conditions that lead to deadlock.",
+"year": "W2022",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Principles of Deadlock",
+"topics": ["Principles of Deadlock"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3c OR",
+"question": "Explain the Banker's algorithm for deadlock avoidance with an example.",
+"year": "W2022",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Avoidance",
+"topics": ["Deadlock Avoidance"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a",
+"question": "Explain segmentation.",
+"year": "W2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Allocation",
+"topics": ["Memory Allocation"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b",
+"question": "What is external fragmentation? Explain the solution to external fragmentation.",
+"year": "W2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Fragmentation",
+"topics": ["Fragmentation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Explain paging hardware with TLB.",
+"year": "W2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Paging",
+"topics": ["Paging"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain address binding.",
+"year": "W2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Allocation",
+"topics": ["Memory Allocation"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b OR",
+"question": "Explain following allocation algorithm 1) First Fit 2) Best Fit.",
+"year": "W2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Allocation",
+"topics": ["First Fit", "Best Fit"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "What is page fault? Explain steps to handle page fault with diagram.",
+"year": "W2022",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Demand Paging",
+"topics": ["Demand Paging"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a",
+"question": "Discuss the major goals of I/O software.",
+"year": "W2022",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "Operating System Design Issues",
+"topics": ["Operating System Design Issues"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b",
+"question": "What is virtualization? Explain the benefits of virtualization.",
+"year": "W2022",
+"unit_number": 9,
+"unit_name": "Virtualization Concepts",
+"primary_topic": "Virtual Machines",
+"topics": ["Virtual Machines"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5c",
+"question": "Draw the block diagram for DMA. Write steps for DMA data transfer.",
+"year": "W2022",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "Organization of I/O functions",
+"topics": ["Organization of I/O functions"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a OR",
+"question": "Differentiate block and character devices.",
+"year": "W2022",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "I/O Devices",
+"topics": ["I/O Devices"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain following Unix command: grep, sort, chmod, mkdir.",
+"year": "W2022",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Elementary Linux Commands",
+"topics": ["Elementary Linux Commands"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Write short note on RAID levels.",
+"year": "W2022",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "RAID",
+"topics": ["RAID"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1a",
+"question": "Define true virtualization with example.",
+"year": "W2023",
+"unit_number": 9,
+"unit_name": "Virtualization Concepts",
+"primary_topic": "True Virtualization",
+"topics": ["True Virtualization"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Write a shell script to find factorial of an user-defined natural number.",
+"year": "W2023",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Shell Programming",
+"topics": ["Shell Programming"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "Draw and explain seven state process state transition diagram in detail.",
+"year": "W2023",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process states",
+"topics": ["Process states"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2a",
+"question": "Explain the main function of a dispatcher in brief.",
+"year": "W2023",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Types of scheduling",
+"topics": ["Types of scheduling"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "List and briefly define four classes of real-time scheduling algorithms.",
+"year": "W2023",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Real Time Scheduling",
+"topics": ["Real Time Scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Five batch jobs A, B, C, D and E arrive at same time. They have estimated running times 10, 6, 3, 4 and 8 ms. For each of the following algorithm determine mean process turnaround time. Consider process swapping overhead is 1 ms. 1) FCFS 2) Round-Robin (Time quantum = 2 ms)",
+"year": "W2023",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Round Robin Scheduling",
+"topics": ["FCFS Scheduling", "Round Robin Scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2c OR",
+"question": "Five batch jobs P1, P2, P3, P4 and P5 arrive at 0, 1, 2, 3 and 4 ms. They have estimated running times 14, 12, 8, 3 and 6 ms. Their priorities are 3, 5, 2, 1 and 4 respectively with 5 being highest priority. For each of the following algorithm determine mean process turnaround time. Consider process swapping overhead is 0.5 ms. 1) SJF (Non-preemptive) 2) Priority Scheduling (Preemptive)",
+"year": "W2023",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Priority Scheduling",
+"topics": ["SJF Scheduling", "Priority Scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a",
+"question": "Give the difference between weak semaphore and strong semaphore.",
+"year": "W2023",
+"unit_number": 3,
+"unit_name": "Concurrency and Synchronization",
+"primary_topic": "Semaphores",
+"topics": ["Semaphores"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b",
+"question": "Briefly explain critical section.",
+"year": "W2023",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Critical Section",
+"topics": ["Critical Section"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3c",
+"question": "Explain producer-consumer problem and solve it using semaphore. Write pseudo code for the same.",
+"year": "W2023",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Producer Consumer Problem",
+"topics": ["Producer Consumer Problem", "Semaphores"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a OR",
+"question": "Give the key difference between a mutex and a binary semaphore.",
+"year": "W2023",
+"unit_number": 3,
+"unit_name": "Concurrency and Synchronization",
+"primary_topic": "Semaphores",
+"topics": ["Semaphores", "Mutual Exclusion"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "List the requirements for mutual exclusion.",
+"year": "W2023",
+"unit_number": 3,
+"unit_name": "Concurrency and Synchronization",
+"primary_topic": "Mutual Exclusion",
+"topics": ["Mutual Exclusion"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "Explain Dining philosopher problem and its solution using semaphore.",
+"year": "W2023",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Dining Philosopher Problem",
+"topics": ["Dining Philosopher Problem", "Semaphores"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a",
+"question": "Explain I/O buffering in brief.",
+"year": "W2023",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "I/O Buffering",
+"topics": ["I/O Buffering"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b",
+"question": "Write a short note on Access Control List.",
+"year": "W2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Write and explain Banker's Algorithm for deadlock avoidance with suitable example.",
+"year": "W2023",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Avoidance",
+"topics": ["Deadlock Avoidance"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "Compare RAID level 3 with RAID level 4.",
+"year": "W2023",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "RAID",
+"topics": ["RAID"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b OR",
+"question": "Write a short note on design principles of OS security.",
+"year": "W2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Security Issues",
+"topics": ["Security Issues"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "Write and explain deadlock detection algorithm with suitable example.",
+"year": "W2023",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Detection",
+"topics": ["Deadlock Detection"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a",
+"question": "Explain concept of thrashing.",
+"year": "W2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Thrashing",
+"topics": ["Thrashing"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b",
+"question": "Given the following track requests in the disk queue, compute for the Total Head Movement (THM) of the read/write head and seek time needed for SSTF Disk Scheduling approach: 86, 147, 91, 230, 94, 168, 270, 30 Consider that the read/write head is positioned at location 150. A seek takes 3 ms per cylinder move. Consider a disk drive with 300 cylinders.",
+"year": "W2023",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "SSTF Disk Scheduling",
+"topics": ["SSTF Disk Scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5c",
+"question": "Explain any three memory placement algorithms with suitable example.",
+"year": "W2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Allocation",
+"topics": ["Memory Allocation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a OR",
+"question": "Compare and contrast paging with fragmentation.",
+"year": "W2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Paging",
+"topics": ["Paging", "Fragmentation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b OR",
+"question": "Given the following track requests in the disk queue, compute for the Total Head Movement (THM) of the read/write head and seek time needed for C-SCAN Disk Scheduling approach: 95, 180, 34, 119, 11, 123, 62, 64 Consider that the read/write head is positioned at location 50. A seek takes 5 ms per cylinder move. Consider a disk drive with 200 cylinders.",
+"year": "W2023",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "C-SCAN Disk Scheduling",
+"topics": ["C-SCAN Disk Scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5c OR",
+"question": "Explain any three page replacement algorithms with suitable example.",
+"year": "W2023",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Virtual Memory Management",
+"topics": ["FIFO Page Replacement", "LRU Page Replacement", "Optimal Page Replacement"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1a",
+"question": "What is Operating System? Explain basic functions of OS.",
+"year": "W2024",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Basic functions",
+"topics": ["Basic functions", "Computer system overview"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Explain Virtual Machine architecture of OS.",
+"year": "W2024",
+"unit_number": 9,
+"unit_name": "Virtualization Concepts",
+"primary_topic": "Virtual Machines",
+"topics": ["Virtual Machines"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "Differentiate Multiprogramming, Multitasking, Multiprocessing OS.",
+"year": "W2024",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Multiprogramming",
+"topics": ["Multiprogramming", "Multitasking", "Parallel Operating System"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "Explain Advantages of using threads in Process.",
+"year": "W2024",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Threads",
+"topics": ["Threads"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "Explain how System call is handled in OS with example.",
+"year": "W2024",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "System calls",
+"topics": ["System calls"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Differentiate process and thread. Explain process state diagram.",
+"year": "W2024",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process states",
+"topics": ["Process Concept", "Threads", "Process states"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c OR",
+"question": "Explain Peterson's Solution to achieve mutual exclusion.",
+"year": "W2024",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Peterson's Solution",
+"topics": ["Peterson's Solution", "Mutual Exclusion"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a",
+"question": "Differentiate Pre-emptive and Non-Preemptive process scheduling.",
+"year": "W2024",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Preemptive scheduling",
+"topics": ["Preemptive scheduling", "Non-preemptive scheduling"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b",
+"question": "Explain the difference between internal and external fragmentation.",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Fragmentation",
+"topics": ["Fragmentation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "What is semaphore? Solve the producer consumer problem with Semaphore.",
+"year": "W2024",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Producer Consumer Problem",
+"topics": ["Producer Consumer Problem", "Semaphores"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a OR",
+"question": "What is deadlock? List the conditions that lead to deadlock.",
+"year": "W2024",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Principles of Deadlock",
+"topics": ["Principles of Deadlock"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "Explain Monitor construct to achieve mutual exclusion.",
+"year": "W2024",
+"unit_number": 3,
+"unit_name": "Concurrency and Synchronization",
+"primary_topic": "Monitors",
+"topics": ["Monitors", "Mutual Exclusion"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "Solve the Dining philosopher problem with semaphore.",
+"year": "W2024",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Dining Philosopher Problem",
+"topics": ["Dining Philosopher Problem", "Semaphores"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a",
+"question": "Explain the difference between logical and physical addresses.",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Management requirements",
+"topics": ["Memory Management requirements"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b",
+"question": "What is TLB(Translation Lookaside Buffer), and what is use of it?",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Paging",
+"topics": ["Paging"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Explain following process scheduling algorithms. i) First Come First Serve ii) Non-preemptive Shortest Job First iii) Shortest Remaining Time Next iv) Round Robin",
+"year": "W2024",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Types of scheduling",
+"topics": ["FCFS Scheduling", "SJF Scheduling", "Round Robin Scheduling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "What is virtualization? Explain the benefits of virtualization.",
+"year": "W2024",
+"unit_number": 9,
+"unit_name": "Virtualization Concepts",
+"primary_topic": "Virtual Machines",
+"topics": ["Virtual Machines"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b OR",
+"question": "Define Virtual Memory. Explain the process of converting virtual addresses to physical addresses with a neat diagram.",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Virtual Memory Concepts",
+"topics": ["Virtual Memory Concepts"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "Consider a Swapping system in which memory consists of the following hole sizes(in MB) in memory order: 10, 4,20,18,7,9,12,15. Which hole is taken for successive segment request of 12 MB and 10 MB for First fit, Best fit, Worst fit and Next fit.",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Allocation",
+"topics": ["First Fit", "Best Fit", "Worst Fit", "Swapping"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a",
+"question": "What is Inode? Explain it's usage.",
+"year": "W2024",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Directory Structure",
+"topics": ["Directory Structure"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b",
+"question": "List Advantages of LINUX/UNIX operating system over Windows.",
+"year": "W2024",
+"unit_number": 8,
+"unit_name": "Unix/Linux Operating System",
+"primary_topic": "Linux Case Study",
+"topics": ["Linux Case Study", "Windows Operating System Case Study"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Explain various Page Replacement Algorithms.",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Virtual Memory Management",
+"topics": ["FIFO Page Replacement", "LRU Page Replacement", "Optimal Page Replacement", "Other Page Replacement Strategies"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a OR",
+"question": "Explain I/O buffering in brief.",
+"year": "W2024",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "I/O Buffering",
+"topics": ["I/O Buffering"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain Disk arm scheduling algorithms.",
+"year": "W2024",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "FCFS Disk Scheduling",
+"topics": ["FCFS Disk Scheduling", "SCAN Disk Scheduling", "C-SCAN Disk Scheduling", "SSTF Disk Scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Explain the Banker's algorithm for deadlock avoidance with an example.",
+"year": "W2024",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Avoidance",
+"topics": ["Deadlock Avoidance"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q1a",
+"question": "Explain the uses of Operating system.",
+"year": "W2025",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Basic functions",
+"topics": ["Basic functions"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Explain multiprogramming and multiprocessing operating system.",
+"year": "W2025",
+"unit_number": 1,
+"unit_name": "Introduction",
+"primary_topic": "Multiprogramming",
+"topics": ["Multiprogramming", "Parallel Operating System"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "What is process? Explain process state transition diagram.",
+"year": "W2025",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Process states",
+"topics": ["Process Concept", "Process states"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "What is thread? Explain user level and kernel level thread.",
+"year": "W2025",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Threads",
+"topics": ["Threads"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2b",
+"question": "What is critical section? Explain race condition with example.",
+"year": "W2025",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Critical Section",
+"topics": ["Critical Section", "Race Conditions"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "What is Semaphore? Solve dinning philosopher problem using semaphore.",
+"year": "W2025",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Dining Philosopher Problem",
+"topics": ["Dining Philosopher Problem", "Semaphores"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2c OR",
+"question": "What is Binary Semaphore? Solve Reader and Writer problem using semaphore.",
+"year": "W2025",
+"unit_number": 4,
+"unit_name": "Inter Process Communication",
+"primary_topic": "Reader Writer Problem",
+"topics": ["Reader Writer Problem", "Semaphores"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a",
+"question": "Differentiate between preemptive and non preemptive scheduling algorithm.",
+"year": "W2025",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Preemptive scheduling",
+"topics": ["Preemptive scheduling", "Non-preemptive scheduling"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b",
+"question": "Explain Principles of Concurrency with example.",
+"year": "W2025",
+"unit_number": 3,
+"unit_name": "Concurrency and Synchronization",
+"primary_topic": "Principles of Concurrency",
+"topics": ["Principles of Concurrency"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "Explain Round robin scheduling algorithm with example.",
+"year": "W2025",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Round Robin Scheduling",
+"topics": ["Round Robin Scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a OR",
+"question": "Explain the scheduling criteria for a good scheduling algorithm.",
+"year": "W2025",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "Types of scheduling",
+"topics": ["Types of scheduling"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "Explain segmentation with example.",
+"year": "W2025",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Memory Allocation",
+"topics": ["Memory Allocation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "Explain Shortest Job scheduling algorithm with example.",
+"year": "W2025",
+"unit_number": 2,
+"unit_name": "Process and Threads Management",
+"primary_topic": "SJF Scheduling",
+"topics": ["SJF Scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a",
+"question": "Explain page fault.",
+"year": "W2025",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Demand Paging",
+"topics": ["Demand Paging"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b",
+"question": "What is deadlock? Explain the condition that leads to deadlock.",
+"year": "W2025",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Principles of Deadlock",
+"topics": ["Principles of Deadlock"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Explain Banker algorithm for deadlock avoidance with example.",
+"year": "W2025",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Deadlock Avoidance",
+"topics": ["Deadlock Avoidance"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain Resource allocation graph.",
+"year": "W2025",
+"unit_number": 5,
+"unit_name": "Deadlock",
+"primary_topic": "Principles of Deadlock",
+"topics": ["Principles of Deadlock"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b OR",
+"question": "Explain different paging techniques.",
+"year": "W2025",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Paging",
+"topics": ["Paging"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "Differentiate between External Fragmentation and Internal Fragmentation.",
+"year": "W2025",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Fragmentation",
+"topics": ["Fragmentation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a",
+"question": "Explain major goals of I/O software.",
+"year": "W2025",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "Operating System Design Issues",
+"topics": ["Operating System Design Issues"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b",
+"question": "Differentiate between fixed and variable partitioning technique for memory management.",
+"year": "W2025",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Fixed Partitioning",
+"topics": ["Fixed Partitioning", "Variable Partitioning"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Explain Disk arm scheduling algorithm.",
+"year": "W2025",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "FCFS Disk Scheduling",
+"topics": ["FCFS Disk Scheduling", "SCAN Disk Scheduling", "C-SCAN Disk Scheduling", "SSTF Disk Scheduling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a OR",
+"question": "Explain DMA with block diagram.",
+"year": "W2025",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "Organization of I/O functions",
+"topics": ["Organization of I/O functions"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain swapping in operating system.",
+"year": "W2025",
+"unit_number": 6,
+"unit_name": "Memory Management",
+"primary_topic": "Swapping",
+"topics": ["Swapping"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Explain RAID level system.",
+"year": "W2025",
+"unit_number": 7,
+"unit_name": "I/O Management and Disk Scheduling",
+"primary_topic": "RAID",
+"topics": ["RAID"],
+"difficulty": "Hard"
+}
+]

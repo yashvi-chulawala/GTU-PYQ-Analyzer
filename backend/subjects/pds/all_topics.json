@@ -1,0 +1,2492 @@
+[
+{
+"question_no": "Q1a",
+"question": "List Advantages of Python.",
+"year": "S2022",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Features & History of Python",
+"topics": ["Features & History of Python"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Differentiate Numpy and Pandas.",
+"year": "S2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "NumPy and Pandas",
+"topics": ["Numerical computing and working with multidimensional array through NumPy", "Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "Explain Exploratory Data Analysis (EDA).",
+"year": "S2022",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data analysis",
+"topics": ["Data analysis (Univariate, bivariate and Multivariate)"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "Explain String Slicing in python with Example.",
+"year": "S2022",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "string operations",
+"topics": ["string operations"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "List and Explain different programming styles in python.",
+"year": "S2022",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Features & History of Python",
+"topics": ["Features & History of Python"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Write a program to check whether the given number is prime or not.",
+"year": "S2022",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "Loops",
+"topics": ["while loop", "for loop", "Conditional statements"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c OR",
+"question": "Write a program to print Fibonacci series up to number given by user.",
+"year": "S2022",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "Loops",
+"topics": ["while loop", "for loop"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a",
+"question": "Differentiate rand and randn function in Numpy.",
+"year": "S2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "NumPy",
+"topics": ["Numerical computing and working with multidimensional array through NumPy"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b",
+"question": "Explain DataFrame in Pandas with example.",
+"year": "S2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Pandas",
+"topics": ["Data manipulation through Pandas"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3c",
+"question": "Write a program to print following patterns. 1) * *** **** 2) $$$$ $$$ $$ S 3) ##### ### # ### #####",
+"year": "S2022",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "Nested Loop",
+"topics": ["Nested Loop", "for loop"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a OR",
+"question": "Explain Groupby function in pandas with example.",
+"year": "S2022",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Aggregating data",
+"topics": ["Aggregating data", "Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b OR",
+"question": "Explain how to deal with missing data in Pandas.",
+"year": "S2022",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "dealing with missing data",
+"topics": ["dealing with missing data", "Data cleaning"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "Explain Web Scrapping with Example using Beautiful Soup library.",
+"year": "S2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Beautiful soup",
+"topics": ["Extracting components from HTML document through beautiful soup"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a",
+"question": "Explain Bag of Word model.",
+"year": "S2022",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data Normalization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b",
+"question": "Differentiate join and merge functions in pandas.",
+"year": "S2022",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Concatenating and transforming",
+"topics": ["Concatenating and transforming", "Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Write a program which takes 2 digits, X,Y as input and generates a 2- dimensional array of size $X^{*}Y$ The element value in the i-th row and j-th column of the array should be $i^{*}j$.",
+"year": "S2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "NumPy",
+"topics": ["Numerical computing and working with multidimensional array through NumPy", "Nested Loop"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain Hashing Trick in python with example.",
+"year": "S2022",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data wrangling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4b OR",
+"question": "Write a brief note on NetworkX library.",
+"year": "S2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Exploring Python libraries",
+"topics": ["Exploring Python libraries"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4c OR",
+"question": "List and Explain different graphs in MatPlotLib.",
+"year": "S2022",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs", "Visualizing data through figure"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5a",
+"question": "Explain Labels, Annotation and Legends in MatPlotLib.",
+"year": "S2022",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "subplot and its properties",
+"topics": ["subplot and its properties", "plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b",
+"question": "Differentiate Supervised and Unsupervised learning.",
+"year": "S2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Explain Regression with example.",
+"year": "S2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a OR",
+"question": "Write a program to print Current date and time.",
+"year": "S2022",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "Modules",
+"topics": ["Modules - create own and use basic inbuilt modules"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b OR",
+"question": "Write a program to interchange the List elements on two positions entered by a user",
+"year": "S2022",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "list",
+"topics": ["list", "Array"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Explain Classification with example.",
+"year": "S2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1a",
+"question": "Write a single line code to get the value of 'type' from the given dictionary in such a way that it does not produce any error or exception even if any key from the dictionary is misspelled. e.g. batters is misspelled as bateers. Still, your code must traverse the dictionary and fetch the value 'Regular' of the key 'type'. {\n 'batters': {\n 'batter': [\n {\n 'type': 'Regular'\n }\n ]\n }\n}",
+"year": "S2023",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "dictionary",
+"topics": ["dictionary", "Exception handling in python"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q1b",
+"question": "What is chi-square test? why it is necessary in data analysis?",
+"year": "S2023",
+"unit_number": 5,
+"unit_name": "Probabilistic and Inferential Statistics",
+"primary_topic": "Hypothesis testing",
+"topics": ["Hypothesis testing through one sample test"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "Explain following string functions with suitable example. len, count, title, lower, upper, find, rfine, replace",
+"year": "S2023",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "string operations",
+"topics": ["string operations"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "List and explain the reasons which make python programming popular in Data Science.",
+"year": "S2023",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Understanding Python's role in data science",
+"topics": ["Understanding Python's role in data science", "Features & History of Python"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "Differentiate: Dictionary and List",
+"year": "S2023",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "dictionary",
+"topics": ["dictionary", "list"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2c",
+"question": "What do you mean by Exploratory Data Analysis? List and explain the task which needs to be performed in EDA.",
+"year": "S2023",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data analysis",
+"topics": ["Data analysis (Univariate, bivariate and Multivariate)"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c OR",
+"question": "Define Standardization. Explain Z-score standardization with suitable example.",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data Normalization",
+"topics": ["Data Normalization", "Data wrangling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a",
+"question": "Depict steps to create a scatter plot with example.",
+"year": "S2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b",
+"question": "Establish relationship between AI, data science and big data.",
+"year": "S2023",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Fundamentals of data science",
+"topics": ["Considering the emergence and fundamentals of data science", "Understanding data, its type and data science"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "Provide explanations on the importance of Graphs in Data Science.",
+"year": "S2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "Visualizing data",
+"topics": ["Visualizing data through figure", "graphs"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3a OR",
+"question": "Define correlation and explain its importance in Data Science.",
+"year": "S2023",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data analysis",
+"topics": ["Data analysis (Univariate, bivariate and Multivariate)", "Data descriptive statistics"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b OR",
+"question": "Provide duties performed by a Data Scientist with suitable example",
+"year": "S2023",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Fundamentals of data science",
+"topics": ["Considering the emergence and fundamentals of data science"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3c OR",
+"question": "Elaborate Graphs along with its types.",
+"year": "S2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "graphs",
+"topics": ["graphs", "plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a",
+"question": "Differentiate: Bar graph vs. Histogram",
+"year": "S2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "graphs",
+"topics": ["graphs", "plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b",
+"question": "Explain Training and Testing with suitable example.",
+"year": "S2023",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Elaborate a bag of word concept in detail.",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data Normalization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a OR",
+"question": "Why data visualization is important in Data Science?",
+"year": "S2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "Visualizing data",
+"topics": ["Visualizing data through figure", "graphs"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b OR",
+"question": "Explain HTML parsing using Beautiful soup.",
+"year": "S2023",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Beautiful soup",
+"topics": ["Extracting components from HTML document through beautiful soup"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "Explain stemming in detail with relatable example.",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data Normalization"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a",
+"question": "Provide your views on Data wrangling with suitable example.",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data wrangling",
+"topics": ["Data wrangling"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b",
+"question": "Define covariance and explain its importance with appropriate example.",
+"year": "S2023",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data analysis",
+"topics": ["Data analysis (Univariate, bivariate and Multivariate)"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Elaborate XPath in detail with relatable example.",
+"year": "S2023",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Beautiful soup",
+"topics": ["Extracting components from HTML document through beautiful soup"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a OR",
+"question": "Explain Hashing Tricks and its importance with suitable example.",
+"year": "S2023",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data wrangling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain importance of Legends, Labels and Annotations in Graphs.",
+"year": "S2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "subplot and its properties",
+"topics": ["subplot and its properties", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Describe sampling along with its types in detail with suitable example.",
+"year": "S2023",
+"unit_number": 5,
+"unit_name": "Probabilistic and Inferential Statistics",
+"primary_topic": "Sampling",
+"topics": ["Sampling and its various techniques"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1a",
+"question": "Briefly discuss major coding styles supported by python programming language.",
+"year": "S2024",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Features & History of Python",
+"topics": ["Features & History of Python"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "What will be the output of the below python code? import numpy as np a = np.array([[1, 2.5, 3],[4, 5, 6.5]]) print(a.shape) print(a.ndim) print(a.itemsize) print(a.nbytes)",
+"year": "S2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "NumPy",
+"topics": ["Numerical computing and working with multidimensional array through NumPy"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "Write a python program to take two strings and position value (starting from zero) as input from the user. Insert the second string in the first string after the given position. (Example: String-1 'Gujarat University', String-2='Technological', position = 7 Output 'Gujarat Technological University')",
+"year": "S2024",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "string operations",
+"topics": ["string operations"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2a",
+"question": "Discuss characteristics of Set and Dictionary data structures in python.",
+"year": "S2024",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "set",
+"topics": ["set", "dictionary"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2b",
+"question": "Write a short note on TF-IDF transformations.",
+"year": "S2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data Normalization",
+"topics": ["Data Normalization", "Data preparation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Explain different stages of the data science pipeline.",
+"year": "S2024",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data science life cycle",
+"topics": ["Data science life cycle"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c OR",
+"question": "Discuss major libraries available with python language with its application in the field of Data Science.",
+"year": "S2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Exploring Python libraries",
+"topics": ["Exploring Python libraries"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3a",
+"question": "Explain different data structures available in pandas library.",
+"year": "S2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Pandas",
+"topics": ["Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b",
+"question": "Below is the content of a csv file named 'data.csv'. Name, Salary abc, 10000 xyz,20000 pqr,40000",
+"year": "S2024",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "use CSV files",
+"topics": ["use CSV files", "An introduction to file I/O"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3c",
+"question": "Write a python program to read data from given csv file and print each pair of names and salaries in the format 'Name -> Salary'. (Example: abc -> 10000 and so on) Why it is important to find missing values from a dataset? Discuss different approaches to handle missing values with appropriate examples.",
+"year": "S2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "dealing with missing data",
+"topics": ["dealing with missing data", "use CSV files"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a OR",
+"question": "Write a short note on categorical variables.",
+"year": "S2024",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Understanding data, its type and data science",
+"topics": ["Understanding data, its type and data science"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "Consider below dataframe in python A B C 0 7 2 3 1 4 5 8 2 3 6 9 i. Write a code to sort this dataframe by column A. ii. Write a code to sort this dataframe by row 0 (first row).",
+"year": "S2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Sorting and shuffling",
+"topics": ["Sorting and shuffling", "Data manipulation through Pandas"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3c OR",
+"question": "Explain the process of Word Tokenization, Stemming and Stop word removal using nltk library with suitable example code.",
+"year": "S2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data Normalization"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a",
+"question": "Discuss how to create pie chart using matplotlib library with suitable example.",
+"year": "S2024",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b",
+"question": "Demonstrate how to remove a row and a column from a dataframe with appropriate example code.",
+"year": "S2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "removing data",
+"topics": ["removing data", "Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Data of marks for five students in three subjects is as given below. Maths [100, 82, 76, 51, 88] Physics [92, 89, 81, 83, 80] Chemistry [71, 90, 75, 88, 45] Write a python program to create boxplot from the above data. What type of important observation about data can be derived from the boxplot?",
+"year": "S2024",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "Data descriptive statistics"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain how to add markers and change line color and line style in a line graph using matplotlib library.",
+"year": "S2024",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "subplot and its properties",
+"topics": ["subplot and its properties", "plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b OR",
+"question": "An adjacency matrix for a graph with for nodes named 0, 1, 2, 3 is given below. 0 1 2 3 0 0 1 1 0 1 0 0 0 0 2 0 1 0 1 3 1 0 0 0 Write a python program to draw the undirected graph from above matrix using networkx library.",
+"year": "S2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Exploring Python libraries",
+"topics": ["Exploring Python libraries"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a",
+"question": "What is the use of %timeit and %%timeit magic functions?",
+"year": "S2024",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Installation and working with Python",
+"topics": ["Installation and working with Python"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b",
+"question": "Discuss importance of covariance and correlation in EDA.",
+"year": "S2024",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data analysis",
+"topics": ["Data analysis (Univariate, bivariate and Multivariate)", "Data descriptive statistics"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "What is regression and classification problems? Explain any one with suitable example.",
+"year": "S2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a OR",
+"question": "Explain different interfaces from Scikit-learn library.",
+"year": "S2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain the importance of chi-square test in EDA.",
+"year": "S2024",
+"unit_number": 5,
+"unit_name": "Probabilistic and Inferential Statistics",
+"primary_topic": "Hypothesis testing",
+"topics": ["Hypothesis testing through one sample test"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Write a note on different descriptive statistics measures for numeric data.",
+"year": "S2024",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data descriptive statistics",
+"topics": ["Data descriptive statistics"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1a",
+"question": "Explain range() function of python with suitable example.",
+"year": "S2025",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "for loop",
+"topics": ["for loop"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Write a short note on List.",
+"year": "S2025",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "list",
+"topics": ["list"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1c",
+"question": "Write a python program to display the Fibonacci series. Number of terms will be inputted by user.",
+"year": "S2025",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "while loop",
+"topics": ["while loop", "for loop"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "Why data visualization is important in Data Science?",
+"year": "S2025",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "Visualizing data",
+"topics": ["Visualizing data through figure"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "List and Explain advantages & disadvantages of Python in context of Data Science.",
+"year": "S2025",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Understanding Python's role in data science",
+"topics": ["Understanding Python's role in data science", "Features & History of Python"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Explain different stages of the data science pipeline.",
+"year": "S2025",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data science life cycle",
+"topics": ["Data science life cycle"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c OR",
+"question": "Explain HTML parsing using Beautiful soup with suitable program.",
+"year": "S2025",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Beautiful soup",
+"topics": ["Extracting components from HTML document through beautiful soup"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a",
+"question": "Differentiate NumPy and pandas.",
+"year": "S2025",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Exploring Python libraries",
+"topics": ["Numerical computing and working with multidimensional array through NumPy", "Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b",
+"question": "Write a program in Python to read.CSV file named 'PDS. csv'. Display the contents of Column 'Grade'. File contents are as follows, Roll No Grade 101 AA 102 BB 103 AB",
+"year": "S2025",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "use CSV files",
+"topics": ["use CSV files", "Data manipulation through Pandas"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3c",
+"question": "Explain use of categorical variable with the help of suitable program.",
+"year": "S2025",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Understanding data, its type and data science",
+"topics": ["Understanding data, its type and data science"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a OR",
+"question": "Write a program to read and display a text file named 'PDS.txt'.",
+"year": "S2025",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "use text files",
+"topics": ["use text files"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "Explain how to deal with the missing data.",
+"year": "S2025",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "dealing with missing data",
+"topics": ["dealing with missing data"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "Explain time transformation with suitable program.",
+"year": "S2025",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Concatenating and transforming",
+"topics": ["Concatenating and transforming", "Data wrangling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a",
+"question": "Explain use of Labels, Annotations and Legends with suitable example.",
+"year": "S2025",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "subplot and its properties",
+"topics": ["subplot and its properties", "plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b",
+"question": "Explain pie chart with suitable example.",
+"year": "S2025",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Explain Bag of words model.",
+"year": "S2025",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data Normalization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain histograms with suitable example.",
+"year": "S2025",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b OR",
+"question": "Explain bar chart with suitable example.",
+"year": "S2025",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "Explain TF-IDF transformations.",
+"year": "S2025",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data Normalization",
+"topics": ["Data Normalization", "Data preparation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a",
+"question": "Explain of covariance and correlation in EDA.",
+"year": "S2025",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data analysis",
+"topics": ["Data analysis (Univariate, bivariate and Multivariate)", "Data descriptive statistics"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b",
+"question": "Explain skewness and kurtosis.",
+"year": "S2025",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data descriptive statistics",
+"topics": ["Data descriptive statistics"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "What is the use of hashing trick and hash function in Scikit-learn? Explain in detail with suitable example.",
+"year": "S2025",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data wrangling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a OR",
+"question": "What is the use of % timeit and %%timeit magic functions?",
+"year": "S2025",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Installation and working with Python",
+"topics": ["Installation and working with Python"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain Z-score standardization.",
+"year": "S2025",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data Normalization",
+"topics": ["Data Normalization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Explain EDA approach in detail.",
+"year": "S2025",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data analysis",
+"topics": ["Data analysis (Univariate, bivariate and Multivariate)"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1a",
+"question": "Discuss the role of indentation in python",
+"year": "S2026",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Features & History of Python",
+"topics": ["Features & History of Python"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "What is the role of Python in Data science?",
+"year": "S2026",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Understanding Python's role in data science",
+"topics": ["Understanding Python's role in data science"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1c",
+"question": "Write a python program to read data from CSV files using pandas and Explain any two operations on data.",
+"year": "S2026",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Pandas",
+"topics": ["Data manipulation through Pandas", "use CSV files"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "Explain Slicing rows and columns with example",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Slicing and Dicing",
+"topics": ["Slicing and Dicing", "Filtering, and selecting data"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2b",
+"question": "List and explain any three Magic functions",
+"year": "S2026",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Installation and working with Python",
+"topics": ["Installation and working with Python"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "What is the use of hash function in EDA? Express various hashing trick along with example",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data wrangling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2c OR",
+"question": "What do you mean by Exploratory Data Analysis (EDA)? How t-test is useful for EDA?",
+"year": "S2026",
+"unit_number": 5,
+"unit_name": "Probabilistic and Inferential Statistics",
+"primary_topic": "Hypothesis testing",
+"topics": ["Hypothesis testing through one sample test", "Data analysis (Univariate, bivariate and Multivariate)"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a",
+"question": "Explain join and merge functions in pandas with Example",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Concatenating and transforming",
+"topics": ["Concatenating and transforming", "Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b",
+"question": "Write a program to perform the following operation about Function 1. Function with multiple return values 2. Default arguments",
+"year": "S2026",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "defining custom functions",
+"topics": ["defining custom functions", "Organizing Python codes using functions"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "What kind of data is analyzed with Bag of word model? Explain it with example.",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data Normalization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a OR",
+"question": "Explain Z-score standardization",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data Normalization",
+"topics": ["Data Normalization"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "Write python program to demonstrate Tuple, list and Dictionary",
+"year": "S2026",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "tuple",
+"topics": ["tuple", "list", "dictionary"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3c OR",
+"question": "Define the term Data wrangling. Explain the steps needed to perform data wrangling",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data wrangling",
+"topics": ["Data wrangling", "Data preparation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a",
+"question": "Explain hist() and bar() function with code",
+"year": "S2026",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b",
+"question": "Write a python program to perform the following operation on Array (Create a single Program to demonstrate all) a. Create b. Insert Element c. Print Array d. Slice Array",
+"year": "S2026",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Arry",
+"topics": ["Arry"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Write a python program to demonstrate the concept of skewness and kurtosis",
+"year": "S2026",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data descriptive statistics",
+"topics": ["Data descriptive statistics"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain any three functions from Scikit learn",
+"year": "S2026",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b OR",
+"question": "Define the classification problem. How can it be solved using Scikit-learn?",
+"year": "S2026",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "List various types of graph/chart available in the pyplot of matplotlib library for data visualization. Explain any two of them in brief",
+"year": "S2026",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a",
+"question": "Write python program to find area of circle (user defined function)",
+"year": "S2026",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "defining custom functions",
+"topics": ["defining custom functions"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b",
+"question": "Define the regression problem. How can it be solved using Scikit-learn?",
+"year": "S2026",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Explain Labels, Annotation and Legends in MatPlotLib",
+"year": "S2026",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "subplot and its properties",
+"topics": ["subplot and its properties", "plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a OR",
+"question": "Differentiate Supervised and Unsupervised learning",
+"year": "S2026",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b OR",
+"question": "Write a brief note on NetworkX library",
+"year": "S2026",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Exploring Python libraries",
+"topics": ["Exploring Python libraries"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5c OR",
+"question": "What are the different ways to remove duplicate values from dataset? Explain with Example",
+"year": "S2026",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "removing duplicates",
+"topics": ["removing duplicates", "Data cleaning"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1a",
+"question": "What is the role of Python in Data science?",
+"year": "W2021",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Understanding Python's role in data science",
+"topics": ["Understanding Python's role in data science"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Differentiate List and Tuple in Python",
+"year": "W2021",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "list",
+"topics": ["list", "tuple"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1c",
+"question": "Explain data science pipeline in details.",
+"year": "W2021",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data science life cycle",
+"topics": ["Data science life cycle"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "What is HTML parsing?",
+"year": "W2021",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Beautiful soup",
+"topics": ["Extracting components from HTML document through beautiful soup"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "Write a python code to find factorial of number using function.",
+"year": "W2021",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "defining custom functions",
+"topics": ["defining custom functions", "for loop", "while loop"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Explain Dictionary in Python with example",
+"year": "W2021",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "dictionary",
+"topics": ["dictionary"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2c OR",
+"question": "Is String a mutable data type? Also explain the string operations length, indexing and slicing in detail with an appropriate example",
+"year": "W2021",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "string operations",
+"topics": ["string operations"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a",
+"question": "List and explain any three Magic function.",
+"year": "W2021",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Installation and working with Python",
+"topics": ["Installation and working with Python"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b",
+"question": "Explain Slicing rows and columns with example.",
+"year": "W2021",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Slicing and Dicing",
+"topics": ["Slicing and Dicing"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "What do you mean by missing values? Explain the different ways to handle the missing value with example.",
+"year": "W2021",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "dealing with missing data",
+"topics": ["dealing with missing data", "Data cleaning"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a OR",
+"question": "What is Categorical Variables? Explain it with example.",
+"year": "W2021",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Understanding data, its type and data science",
+"topics": ["Understanding data, its type and data science", "Data measurement scale"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b OR",
+"question": "How to read data from relational database? Briefly explain it.",
+"year": "W2021",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "Python MySql basic operations",
+"topics": ["Python MySql basic operations"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "What is the use of following operations on Panda's Data Frames? Explain with a small example of each. 1. shape 2. tail() 3. describe()",
+"year": "W2021",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Pandas",
+"topics": ["Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a",
+"question": "Explain hist() function with code.",
+"year": "W2021",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b",
+"question": "Write a program using Numpy to count number of 'C' element wise in a given array.",
+"year": "W2021",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "NumPy",
+"topics": ["Numerical computing and working with multidimensional array through NumPy"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "What do you understand by Data visualization? Discuss some Python's data visualization techniques.",
+"year": "W2021",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "Visualizing data",
+"topics": ["Visualizing data through figure", "plots in matplotlib", "basics of advanced visualizations with Seaborn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain bar() function with code.",
+"year": "W2021",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b OR",
+"question": "What are the different ways to remove duplicate values from dataset?",
+"year": "W2021",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "removing duplicates",
+"topics": ["removing duplicates", "Data cleaning"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "Write a simple python program that draws a line graph where x = [1,2,3,4] and y=[1,4,9,16] and gives both axis label as 'X-axis' and 'Y-axis'.",
+"year": "W2021",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a",
+"question": "What is Scikit-learn?",
+"year": "W2021",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b",
+"question": "Explain Box plot with example.",
+"year": "W2021",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Write a Python programming to create a pie chart with a title of the popularity of programming Languages. Sample data: Programming languages: Java, Python, PHP, JavaScript, C#, C++ Popularity: 22.2, 17.6, 8.8, 8, 7.7, 6.7",
+"year": "W2021",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a OR",
+"question": "Define covariance and correlation",
+"year": "W2021",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data analysis",
+"topics": ["Data analysis (Univariate, bivariate and Multivariate)"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain scatterplots with example.",
+"year": "W2021",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "What is Data Wrangling process? Define data exploratory data analysis? Why EDA is required in data analysis?",
+"year": "W2021",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data wrangling",
+"topics": ["Data wrangling", "Data analysis (Univariate, bivariate and Multivariate)"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1a",
+"question": "What is the role of python in data science?",
+"year": "W2022",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Understanding Python's role in data science",
+"topics": ["Understanding Python's role in data science"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Explain the input function of python that demonstrates type casting.",
+"year": "W2022",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Variables and data types in python",
+"topics": ["Variables and data types in python"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "Explain following data structures of python with suitable example. 1. String 2. List 3. Tuple 4. Dictionary",
+"year": "W2022",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "list",
+"topics": ["list", "tuple", "dictionary", "string operations"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "Differentiate: C and Python.",
+"year": "W2022",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Features & History of Python",
+"topics": ["Features & History of Python"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "How to format Date and Time in python. Explain it with example.",
+"year": "W2022",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "Modules",
+"topics": ["Modules - create own and use basic inbuilt modules"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Give comparison between Numpy and Pandas.",
+"year": "W2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Exploring Python libraries",
+"topics": ["Numerical computing and working with multidimensional array through NumPy", "Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c OR",
+"question": "Write a python code to read data from text file.",
+"year": "W2022",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "use text files",
+"topics": ["use text files", "An introduction to file I/O"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3a",
+"question": "Explain %matplotlib magic function.",
+"year": "W2022",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b",
+"question": "Explain stemming and stop words removal operation in python.",
+"year": "W2022",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data Normalization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "Write a python program to implement Fibonacci sequence for given input.",
+"year": "W2022",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "while loop",
+"topics": ["while loop", "for loop"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a OR",
+"question": "What are the magic functions in Jupyter? Explain with example.",
+"year": "W2022",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Installation and working with Python",
+"topics": ["Installation and working with Python"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b OR",
+"question": "With example explain the concept of bags of words model.",
+"year": "W2022",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data Normalization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "Write a python program that finds the factorial of a natural number n.",
+"year": "W2022",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "while loop",
+"topics": ["while loop", "for loop"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a",
+"question": "Explain labels, annotations and legends.",
+"year": "W2022",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "subplot and its properties",
+"topics": ["subplot and its properties", "plots in matplotlib"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b",
+"question": "Explain with example how to parse XML and HTML.",
+"year": "W2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Beautiful soup",
+"topics": ["Extracting components from HTML document through beautiful soup"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Write a python code that demonstrate hashing trick.",
+"year": "W2022",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data wrangling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain any three functions from Scikit learn.",
+"year": "W2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b OR",
+"question": "Explain how to create data science pipeline.",
+"year": "W2022",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data science life cycle",
+"topics": ["Data science life cycle"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "Write a python program to demonstrate the concept of skewness and kurtosis.",
+"year": "W2022",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data descriptive statistics",
+"topics": ["Data descriptive statistics"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a",
+"question": "Explain EDA in detail.",
+"year": "W2022",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data analysis",
+"topics": ["Data analysis (Univariate, bivariate and Multivariate)"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b",
+"question": "Write a python code to access data from web.",
+"year": "W2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Beautiful soup",
+"topics": ["Extracting components from HTML document through beautiful soup"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Write a small code to perform following operations on data: Slicing, Dicing, Concatenation, Transformation.",
+"year": "W2022",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Slicing and Dicing",
+"topics": ["Slicing and Dicing", "Concatenating and transforming", "Data manipulation through Pandas"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a OR",
+"question": "Explain Z-score standardization.",
+"year": "W2022",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data Normalization",
+"topics": ["Data Normalization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b OR",
+"question": "How to Obtain online graphics and multimedia. Explain with example.",
+"year": "W2022",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Beautiful soup",
+"topics": ["Extracting components from HTML document through beautiful soup"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Write a code to draw pie chart using python's library.",
+"year": "W2022",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1a",
+"question": "Why python is very popular language in 21st Century?",
+"year": "W2023",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Features & History of Python",
+"topics": ["Features & History of Python"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Write any four-python command that demonstrate Python as calculator.",
+"year": "W2023",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Arithmetic",
+"topics": ["Arithmetic", "perform computations and create logical statements using Python's operators"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1c",
+"question": "Write a python program to display the Fibonacci sequence up to nth term.",
+"year": "W2023",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "while loop",
+"topics": ["while loop", "for loop"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2a",
+"question": "Explain with example use of range () function in python.",
+"year": "W2023",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "for loop",
+"topics": ["for loop"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "Explain the phases of Data Science Pipeline.",
+"year": "W2023",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data science life cycle",
+"topics": ["Data science life cycle"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "List the different data structure used in python. Explain any three with example of each.",
+"year": "W2023",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "list",
+"topics": ["list", "tuple", "dictionary", "set", "Array"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c OR",
+"question": "Write a Python program to input the string from user and count number of Vowel in given string.",
+"year": "W2023",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "string operations",
+"topics": ["string operations", "for loop"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a",
+"question": "What is the use of magic function in python? Explain with the help of example.",
+"year": "W2023",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Installation and working with Python",
+"topics": ["Installation and working with Python"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b",
+"question": "Explain the use of following libraries of python in data science. i. Matplotlib ii. Scikit-learn",
+"year": "W2023",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Exploring Python libraries",
+"topics": ["Basic functionalities of machine learning using Scikit-learn", "plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "Write a python code to read the local image, obtain statistics about that image, and display the image onscreen.",
+"year": "W2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "Visualizing data through figure",
+"topics": ["Visualizing data through figure", "plots in matplotlib"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q3a OR",
+"question": "Write a python code to print current date and time.",
+"year": "W2023",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "Modules",
+"topics": ["Modules - create own and use basic inbuilt modules"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "Write the difference between numpy and pandas.",
+"year": "W2023",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Exploring Python libraries",
+"topics": ["Numerical computing and working with multidimensional array through NumPy", "Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "Describe the three levels of flat-file dataset. Explain any two with the help of example.",
+"year": "W2023",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "An introduction to file I/O",
+"topics": ["An introduction to file I/O", "use text files", "use CSV files"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a",
+"question": "List the different line styles used in charts.",
+"year": "W2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "subplot and its properties"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b",
+"question": "Explain with the example use of axes () and grid () method in plots.",
+"year": "W2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "subplot and its properties",
+"topics": ["subplot and its properties", "plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Write a python code to draw two lines on plot. Both lines should be depicted with different colors.",
+"year": "W2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "What is the use of %matplotlib inline command?",
+"year": "W2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b OR",
+"question": "What is the use of labels and legends in plot? Explain with example.",
+"year": "W2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "subplot and its properties",
+"topics": ["subplot and its properties", "plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "Write a python code to draw a bar chart utilizing at least three properties of it.",
+"year": "W2023",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a",
+"question": "Explain Classification and clustering class of Scikit-learn.",
+"year": "W2023",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b",
+"question": "Illustrate the concept of regression class of Scikit-learn with the help of small example.",
+"year": "W2023",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "What is the use of hashing trick and hash function in Scikit-learn? Explain in detail with example.",
+"year": "W2023",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data wrangling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a OR",
+"question": "What do you mean by categorical data? Explain with small example.",
+"year": "W2023",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Understanding data, its type and data science",
+"topics": ["Understanding data, its type and data science", "Data measurement scale"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain the use of skew () and kurtosis() function.",
+"year": "W2023",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data descriptive statistics",
+"topics": ["Data descriptive statistics"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Explain EDA approach in detail.",
+"year": "W2023",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data analysis",
+"topics": ["Data analysis (Univariate, bivariate and Multivariate)"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1a",
+"question": "Explain range() function with suitable examples",
+"year": "W2024",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "for loop",
+"topics": ["for loop"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Differentiate List and Tuple in Python",
+"year": "W2024",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "list",
+"topics": ["list", "tuple"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1c",
+"question": "Write a python program to read data from CSV files using pandas and Explain Slicing operation using appropriate examples.",
+"year": "W2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Pandas",
+"topics": ["Data manipulation through Pandas", "use CSV files", "Slicing and Dicing"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2a",
+"question": "What do you mean by slicing operation in string of python? Write an example of slicing to fetch first name and last name from full name of person and display it",
+"year": "W2024",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "string operations",
+"topics": ["string operations"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2b",
+"question": "Explain data science pipeline in details",
+"year": "W2024",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data science life cycle",
+"topics": ["Data science life cycle"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Define term n-gram. Explain the TF-IDF techniques",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data Normalization",
+"topics": ["Data Normalization", "Data preparation"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2c OR",
+"question": "What is the use of following operations on Panda's Data Frames? Explain with a small example of each. shape 2. tail() 3. describe()",
+"year": "W2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Pandas",
+"topics": ["Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a",
+"question": "Explain Groupby function in pandas with example",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Aggregating data",
+"topics": ["Aggregating data", "Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b",
+"question": "Write a program to perform the following operation about Function 1. Function with multiple return values 2. Default arguments",
+"year": "W2024",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "defining custom functions",
+"topics": ["defining custom functions", "Organizing Python codes using functions"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "What kind of data is analyzed with Bag of word model? Explain it with example.",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data Normalization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a OR",
+"question": "Why we need to perform Z-score standardization in EDA? Justify it with example",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data Normalization",
+"topics": ["Data Normalization", "Data analysis (Univariate, bivariate and Multivariate)"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3b OR",
+"question": "Write python program to demonstrate Tuple, list and Dictionary",
+"year": "W2024",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "tuple",
+"topics": ["tuple", "list", "dictionary"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "Define the term Data wrangling. Explain the steps needed to perform data wrangling",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data wrangling",
+"topics": ["Data wrangling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a",
+"question": "Define covariance and correlation",
+"year": "W2024",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data analysis",
+"topics": ["Data analysis (Univariate, bivariate and Multivariate)", "Data descriptive statistics"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q4b",
+"question": "Define stemming. Explain the concept of stemming with example",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data Normalization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Write a python program to demonstrate the concept of skewness and kurtosis",
+"year": "W2024",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data descriptive statistics",
+"topics": ["Data descriptive statistics"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain any three functions from Scikit learn",
+"year": "W2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b OR",
+"question": "Define the classification problem. How can it be solved using Scikit-learn?",
+"year": "W2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c OR",
+"question": "Explain pie chart plot with appropriate examples",
+"year": "W2024",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a",
+"question": "Explain Labels, Annotation and Legends in MatPlotLib",
+"year": "W2024",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "subplot and its properties",
+"topics": ["subplot and its properties", "plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b",
+"question": "Explain Regression with example",
+"year": "W2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Explain Hashing Trick in python with example",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data wrangling"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q5a OR",
+"question": "Differentiate Supervised and Unsupervised learning",
+"year": "W2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Scikit-learn",
+"topics": ["Basic functionalities of machine learning using Scikit-learn"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b OR",
+"question": "Write a brief note on NetworkX library",
+"year": "W2024",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Exploring Python libraries",
+"topics": ["Exploring Python libraries"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q5c OR",
+"question": "What do you mean by missing values? Explain the different ways to handle the missing value with example",
+"year": "W2024",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "dealing with missing data",
+"topics": ["dealing with missing data", "Data cleaning"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1a",
+"question": "What are the advantages of python as a preferred programming language for data science?",
+"year": "W2025",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Understanding Python's role in data science",
+"topics": ["Understanding Python's role in data science", "Features & History of Python"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q1b",
+"question": "Write a program that takes a list of words as input and returns the longest word in the list.",
+"year": "W2025",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "list",
+"topics": ["list", "string operations", "for loop"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q1c",
+"question": "In EDA, why is it essential to analyze both covariance and correlation when exploring relationships between variables? Provide examples of scenarios where covariance might indicate a strong relationship while correlation might suggest otherwise.",
+"year": "W2025",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data analysis",
+"topics": ["Data analysis (Univariate, bivariate and Multivariate)"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q2a",
+"question": "Describe the difference between a list and a tuple in Python (Provide at-least three points).",
+"year": "W2025",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "list",
+"topics": ["list", "tuple"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q2b",
+"question": "Implement a function that takes a string as input and returns the count of each character in the string as a dictionary.",
+"year": "W2025",
+"unit_number": 2,
+"unit_name": "Python Decision making, Loops & Functions",
+"primary_topic": "defining custom functions",
+"topics": ["defining custom functions", "dictionary", "string operations"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c",
+"question": "Explain Data Science Pipeline in detail.",
+"year": "W2025",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data science life cycle",
+"topics": ["Data science life cycle"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q2c OR",
+"question": "Write a note on python ecosystem for data science.",
+"year": "W2025",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Understanding Python's role in data science",
+"topics": ["Understanding Python's role in data science"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a",
+"question": "What are the advantages of Jupyter Notebook?",
+"year": "W2025",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Installation and working with Python",
+"topics": ["Installation and working with Python"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b",
+"question": "Explain how one-hot encoding is performed on a given text snippet, such as 'The quick brown fox jumps over the lazy dog.' What specific steps are involved in transforming this text into one-hot encoded vectors?",
+"year": "W2025",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data preparation",
+"topics": ["Data preparation", "Data Normalization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c",
+"question": "Describe the process of parsing an HTML document using the Beautiful Soup library in Python.",
+"year": "W2025",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Beautiful soup",
+"topics": ["Extracting components from HTML document through beautiful soup"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3a OR",
+"question": "Discuss the advantages of pandas library in python.",
+"year": "W2025",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Pandas",
+"topics": ["Data manipulation through Pandas"],
+"difficulty": "Easy"
+},
+{
+"question_no": "Q3b OR",
+"question": "Explain the process of calculating the TF-IDF score for a term in a document with proper example.",
+"year": "W2025",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data Normalization",
+"topics": ["Data Normalization", "Data preparation"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q3c OR",
+"question": "Discuss different options to deal with missing data as part of data cleaning process.",
+"year": "W2025",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "dealing with missing data",
+"topics": ["dealing with missing data", "Data cleaning"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4a",
+"question": "Discuss importance of pie chart and box plot in data visualization.",
+"year": "W2025",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b",
+"question": "What are magic functions? Briefly explain any two magic functions.",
+"year": "W2025",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Installation and working with Python",
+"topics": ["Installation and working with Python"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4c",
+"question": "Write code to create an undirected graph of six nodes using networkx and matplotlib.",
+"year": "W2025",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Exploring Python libraries",
+"topics": ["Exploring Python libraries", "plots in matplotlib"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4a OR",
+"question": "How can we add labels, annotations and legends in our graphs using matplotlib?",
+"year": "W2025",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "subplot and its properties",
+"topics": ["subplot and its properties", "plots in matplotlib"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q4b OR",
+"question": "Given the sample CSV file 'trigonometry_data.csv' containing trigonometry data (Angle (degrees), Sine, Cosine, Tangent), how would you use Pandas to read the file in DataFrame and print the angle in degrees and its corresponding cosine value from the DataFrame? Content of 'trigonometry_data.csv' file is as below. Angle (degrees), Sine, Cosine, Tangent 0,0.0,1.0,0.0 30,0.5,0.866,0.577 45,0.707.0.707.1.0 60,0.866,0.5,1.732 90,1.0,0.0,undefined",
+"year": "W2025",
+"unit_number": 4,
+"unit_name": "Exploring Python libraries",
+"primary_topic": "Pandas",
+"topics": ["Data manipulation through Pandas", "use CSV files"],
+"difficulty": "Hard"
+},
+{
+"question_no": "Q4c OR",
+"question": "What is the importance of histogram in data visualization? Write code to create histogram using matplotlib.",
+"year": "W2025",
+"unit_number": 7,
+"unit_name": "Data Visualization",
+"primary_topic": "plots in matplotlib",
+"topics": ["plots in matplotlib", "graphs"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a",
+"question": "What role does the chi-square test play in data analysis?",
+"year": "W2025",
+"unit_number": 5,
+"unit_name": "Probabilistic and Inferential Statistics",
+"primary_topic": "Hypothesis testing",
+"topics": ["Hypothesis testing through one sample test"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b",
+"question": "Briefly discuss skewness and kurtosis.",
+"year": "W2025",
+"unit_number": 3,
+"unit_name": "Data Science and Descriptive Statistics",
+"primary_topic": "Data descriptive statistics",
+"topics": ["Data descriptive statistics"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c",
+"question": "Describe various methods for slicing rows and columns in a Pandas DataFrame, supported by relevant examples.",
+"year": "W2025",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Slicing and Dicing",
+"topics": ["Slicing and Dicing", "Data manipulation through Pandas"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5a OR",
+"question": "What is z-score standardization and why it is useful in EDA?",
+"year": "W2025",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Data Normalization",
+"topics": ["Data Normalization"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain working of %timeit and %memit magic functions.",
+"year": "W2025",
+"unit_number": 1,
+"unit_name": "Introduction, Data Types and Operators",
+"primary_topic": "Installation and working with Python",
+"topics": ["Installation and working with Python"],
+"difficulty": "Medium"
+},
+{
+"question_no": "Q5c OR",
+"question": "Elaborate on the concepts of sorting data row-wise, column-wise, and shuffling data within a DataFrame by providing appropriate examples.",
+"year": "W2025",
+"unit_number": 6,
+"unit_name": "Data preparation",
+"primary_topic": "Sorting and shuffling",
+"topics": ["Sorting and shuffling", "Data manipulation through Pandas"],
+"difficulty": "Hard"
+}
+]

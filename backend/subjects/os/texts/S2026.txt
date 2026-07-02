@@ -1,0 +1,225 @@
+Seat No./Enrollment No.:
+
+GUJARAT TECHNOLOGICAL UNIVERSITY
+BACHELOR OF ENGINEERING — SEMESTER 4 —
+EXAMINATION — SUMMER 2026
+
+Subject Code: BE04000221 Date: 21/05/2026
+Subject Name: Operating System
+
+Time: 10:30 AM TO 01:00 PM Total Marks: 70
+Instructions:
+
+1. Attempt all questions.
+2. Make suitable assumptions wherever necessary.
+3. Figures to the right indicate full marks.
+
+4. Simple and non-programmable scientific calculators are allowed.
+
+Q.
+
+(a) Explain the role of kernel in an operating system. 03
+(b) Discuss the goals and functions of Operating Systems. 04
+(c) Explain various types of Operating Systems with suitable examples. 07
+Q2 (a) Compare: user-level threads and kernel-level threads. 03
+(b) Explain how aging prevents starvation in priority scheduling. 04
+(c) Consider the following processes: 07
+Process Arrival Time Burst Time
+Pl 0 8
+P2 1 4
+P3 2 9
+P4 3 5
+Methods to be performed are FCFS and SRTF.
+Do the following:
+
++ Draw Gantt chart
+- Find Average Waiting Time
++ Find Average Turnaround Time
+
+OR
+Q.2
+
+Q.3
+
+Q.3
+
+Q.4
+
+(c)
+
+(a)
+(b)
+(©)
+
+(a)
+(b)
+
+(a)
+(b)
+
+What is PCB?Explain the complete life cycle of a process in an operating
+systm with suitable diagram.
+
+Define Semaphore and explain binary semaphore.
+How Peterson’s Solution solve critical section problem?
+
+A system has four processes (PO, P1, P2,) and (P3) and three resource types
+(A, B and C).The total number of instances of resources (A, B,) and (C) are
+12, 8, and 10 respectively.
+
+The current Allocation and Maximum matrices are given below:
+
+Process Allocation (A B C) Max (A B C)
+PO 233 765
+Pl 422 654
+P2 314 846
+P3 121 533
+
+Available Resources:(2, 0, 0)
+
+Answer the following:
+
+a) Calculate the Need Matrix for all processes.
+
+b) Determine whether the current system is in a safe state using Banker’s
+Algorithm. If the system is safe, write one safe sequence.
+
+c) If process (P2) requests resources ((2, 0, 1)), determine whether the
+request can be granted immediately. Show all necessary steps and
+justification.
+
+OR
+
+Define Deadlock and list its necessary conditions.
+
+The following two functions P1 and P2 that share a variable B with initial
+value of 4 execute concurrently.
+
+P1() P2()
+
+{ {
+C=B-1; D= 2*B;
+B=2*C; B=D-1;
+} }
+
+Provide the number of distinct values that B can possibly take after the
+executions of two functions.
+
+Explain Dinning Philosopher problem and provide possible deadlock
+situations.
+
+Differentiate: Internal Fragmentation and External Fragmentation.
+
+What is thrashing? Explain its effect on CPU Utilization. What should be
+the solution of it?
+
+07
+
+03
+04
+07
+
+03
+04
+
+07
+
+03
+04
+Q4
+
+Q.5
+
+Q.5
+
+(c)
+
+(a)
+(b)
+
+(©)
+
+(a)
+(b)
+(c)
+
+(a)
+(b)
+
+©
+
+A system uses virtual memory with 3 page frames:
+3,2,1,0,3,2,4,3,2,1,0,4
+
+provide details on page faults for FIFO,LRU and OPTIMAL algorithms.
+OR
+
+What is paging? How it is different from Segmentation?
+
+What is Translation Lookaside Buffer? Provide its advantages and
+disadvantages.
+
+A logical address space of 8 MB is mapped to a physical memory of 256
+KB using paging. The page size is 4 KB.
+
+a) Calculate the number of bits required for logical address, physical
+address, page number, and page offset.
+
+b) How many pages are there in the logical address space?
+
+c) How many frames are there in the physical memory?
+
+d) If the page table entry size is 4 bytes, what is the size of the page table?
+
+What is RAID? STate its advantages.
+Explain VMware ESXi and Microsoft Hyper-V.
+
+Consider a disk with tracks numbered from 0 to 199.
+
+The request queue is: 23, 89, 132, 42, 187, 65, 14, 170
+Initial head position = 100
+
+Head movement direction = towards lower track numbers.
+
+Solve using FCFS, SSTF, SCAN, and C-SCAN disk scheduling algorithms.
+
+OR
+
+Differentiate: Virtual Machine and Physical Machine.
+
+Explain following Linux commands:
+1. grep
+
+2. Is
+
+3. touch
+
+4. sort
+
+Write a shell script to create a file containing student details such as Full
+Name, Enrollment Number, Branch, and Semester. The script should also:
+
+- Display the total number of lines in the file
+
+- Display the total number of characters in the file
+
+¢ Search and display the full student record based on a
+given string input.
+
+RR KKK
+
+07
+
+03
+04
+
+07
+
+03
+04
+07
+
+03
+04
+
+07

@@ -1,0 +1,60 @@
+Seat No.: Enrolment No.
+
+GUJARAT TECHNOLOGICAL UNIVERSITY
+BE - SEMESTER- IV(NEW) EXAMINATION — SUMMER 2023
+
+Subject Code:3140702 Date:07-07-2023
+Subject Name:Operating System
+
+Time:10:30 AM TO 01:00 PM Total Marks:70
+Instructions:
+
+1. Attempt all questions.
+
+2. Make suitable assumptions wherever necessary.
+
+3. Figures to the right indicate full marks.
+
+4. Simple and non-programmable scientific calculators are allowed.
+
+Marks
+Q.1 (a) Explain any three main functions of an Operating System. 03
+(b) Describe the features of a distributed operating system. 04
+(c) What is a process? Explain about various fields of process control block. 07
+Q.2 (a) Define multi-threading? Explain its benefits. 03
+(b) Describe the differences among long-term scheduling. short-term, and medium- 04
+
+term scheduling.
+(c) Demonstrate FIFO and Round Robin CPU scheduling algorithms with suitable 07
+
+example.
+OR
+(c) What is semaphore? Explain its implementation as wait and signal for 07
+providing process synchronization?
+Q.3 (a) What are the advantages of inter-process communication? How communication 03
+takes place in a shared-memory environment?
+(b) What are the conditions under which a deadlock situation may arise? 04
+(c) Explain the readers and writers problem. 07
+OR
+Q.3. (a) What is race condition? 03
+(b) What are the methods for handling deadlocks? 04
+(c) Explain the dining-philosophers problem. 07
+Q.4 (a) Explain the difference between logical and physical addresses. 03
+(b) When do page faults occur? Describe the actions taken by the operating system 04
+
+when a page fault occurs.
+
+(c) Explain Banker's deadlock-avoidance algorithm with an illustration. 07
+OR
+Q.4 (a) Explain the following allocation algorithms: 03
+1) First-fit 2) Best-fit 3) Worst-fit
+(b) Explain the difference between internal and external fragmentation. 04
+(c) Explain the different file access methods in detail. 07
+Q.5 (a) Explain domain of protection. 03
+(b) Write a short note on: system threats. 04
+(c) Explain in detail Synchronization implementation in Linux. 07
+OR
+Q.5 (a) What are the main difference between capability lists and access lists? 03
+(b) Write a short note on: program threats. 04
+(c) What is virtualization? Explain the benefits of virtualization. 07
+KRRKKKEKKKEKKKEK

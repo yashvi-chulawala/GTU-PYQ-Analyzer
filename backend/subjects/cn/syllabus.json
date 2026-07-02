@@ -1,0 +1,85 @@
+{
+  "subject": "Computer Networks",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title": "Introduction to Computer Networks",
+      "topics": [
+        "Network models",
+        "OSI model",
+        "TCP/IP model",
+        "Network topologies",
+        "Transmission media",
+        "Switching techniques",
+        "Ethernet",
+        "LAN technologies",
+        "IPv4 addressing",
+        "IPv6 addressing"
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "Data Link and Network Layer",
+      "topics": [
+        "Error detection and correction",
+        "Framing",
+        "MAC protocols",
+        "Routing algorithms",
+        "RIP",
+        "OSPF",
+        "BGP",
+        "Subnetting",
+        "CIDR",
+        "VLANs",
+        "Switching concepts"
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "Transport and Application Layer",
+      "topics": [
+        "TCP",
+        "UDP",
+        "Congestion control",
+        "Flow control",
+        "DNS",
+        "HTTP/HTTPS",
+        "FTP",
+        "Email protocols",
+        "Socket programming basics",
+        "REST APIs",
+        "Web communication"
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "Wireless, IoT and Cloud Networking",
+      "topics": [
+        "Wi-Fi standards",
+        "Bluetooth",
+        "5G architecture",
+        "IoT communication protocols",
+        "MQTT",
+        "CoAP",
+        "Cloud networking",
+        "Virtualization",
+        "Concept of container networking"
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "Network Security and Emerging Trends",
+      "topics": [
+        "Firewalls",
+        "VPN",
+        "IDS/IPS",
+        "Cryptography basics",
+        "Secure communication",
+        "SDN",
+        "Case study on AI-driven network monitoring",
+        "Zero-trust networking",
+        "Cybersecurity practices"
+      ]
+    }
+  ]
+}

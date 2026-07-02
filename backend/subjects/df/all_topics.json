@@ -1,0 +1,3030 @@
+[
+  {
+    "question_no": "Q1a",
+    "question": "List out various logic families. Also list characteristics of digital IC.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families",
+      "Characteristics of Digital ICs"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What is signal? Explain different types of signal.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Digital Signals",
+    "topics": [
+      "Digital Signals"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Implement the following Boolean function using MUX\na) F(A,B,C) = ∑(1,3,6)\nb) F(A,B,C) = π(2,3,5)",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Multiplexer",
+    "topics": [
+      "Multiplexer",
+      "Boolean Function Implementation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Perform the binary subtraction using 2's complement\n(0111)2 - (1101)2",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Two's Complement Arithmetic",
+    "topics": [
+      "Two's Complement Arithmetic",
+      "Binary Arithmetic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Convert the decimal Number 250.5 to base 4 and base 8.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Number Systems",
+    "topics": [
+      "Number Systems",
+      "Number Conversion"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Design a Combinational circuit that convert 8-4-2-1 code to BCD",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Code Converters",
+    "topics": [
+      "Code Converters",
+      "BCD"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain various logic gates.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Logic Gates",
+    "topics": [
+      "Logic Gates",
+      "AND OR NOT NAND NOR Exclusive-OR Operations"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Compare Half adder and Full adder.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Adders",
+    "topics": [
+      "Adders",
+      "Half Adder",
+      "Full Adder"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain NAND gate as a Universal Gate.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "NAND NOR Universal Gates",
+    "topics": [
+      "NAND NOR Universal Gates",
+      "Logic Gates"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Implement 2-bit Magnitude comparator.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Digital Comparator",
+    "topics": [
+      "Digital Comparator",
+      "Magnitude Comparator"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Simplify Boolean function using K-MAP\nF(A, B, C, D)=ABC'D' + ABC'D + ABCD' + AB'CD'",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "K-Map Simplification",
+    "topics": [
+      "K-Map Simplification",
+      "Boolean Algebra"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain 4 bit Binary Parallel Adder.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Adders",
+    "topics": [
+      "Adders",
+      "4-bit Binary Parallel Adder"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain Minterm and Maxterm.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Standard Representation for Logic Functions",
+    "topics": [
+      "Standard Representation for Logic Functions",
+      "Minterm",
+      "Maxterm"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Give the difference between sequential circuit and combinational circuit.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Sequential Circuits",
+    "topics": [
+      "Sequential Circuits",
+      "Combinational Circuits"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain Look-ahead Carry generator.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Carry Look Ahead Adder",
+    "topics": [
+      "Carry Look Ahead Adder",
+      "Adders"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain JK Flip-Flop.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "JK Flip-Flop",
+    "topics": [
+      "JK Flip-Flop",
+      "Flip-Flops"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain NAND SR Latch.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "SR Flip-Flop",
+    "topics": [
+      "SR Flip-Flop",
+      "Bistable Latch",
+      "NAND SR Latch"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain clock triggering mechanism.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Flip-Flop Triggering",
+    "topics": [
+      "Flip-Flop Triggering",
+      "Clocked SR Flip-Flop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "What is race around condition (racing)? How to solve it?",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Race Around Condition",
+    "topics": [
+      "Race Around Condition",
+      "JK Flip-Flop"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Classify different types of digital to analog converters.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Compare static RAM and dynamic RAM.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "RAM",
+    "topics": [
+      "RAM",
+      "Static RAM",
+      "Dynamic RAM"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "List out different types of ROM. Also explain ROM.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "ROM",
+    "topics": [
+      "ROM",
+      "Read Only Memory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Discuss the application of shift registers.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Shift Registers",
+    "topics": [
+      "Shift Registers",
+      "Applications of Shift Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain working of counter.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Counters",
+    "topics": [
+      "Counters",
+      "Counter Design"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Describe operation of D/A converter with binary-weighted resisters.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "Binary-Weighted Resistor DAC"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define the logic family properties:\n(i) fan in (ii) propagation delay (iii) power dissipation",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Characteristics of Digital ICs",
+    "topics": [
+      "Characteristics of Digital ICs",
+      "Logic Families",
+      "Fan In",
+      "Propagation Delay",
+      "Power Dissipation"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Convert the following number to the given base:\n(i) (62)10 = (?)2 = (?)8\n(ii) (AFB)16 = (?)2 = (?)8",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Number Systems",
+    "topics": [
+      "Number Systems",
+      "Number Conversion",
+      "Binary",
+      "Octal",
+      "Hexadecimal"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Why NAND and NOR gates are called universal gates? Explain with appropriate example.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "NAND NOR Universal Gates",
+    "topics": [
+      "NAND NOR Universal Gates",
+      "Logic Gates"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain the half subtractor with logic circuit.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Subtractors",
+    "topics": [
+      "Subtractors",
+      "Half Subtractor"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Minimized the boolean expression using K-map\nf (A, B, C, D) = ∑m (0, 1, 5, 6, 7, 8, 9) + d(10, 11, 12, 13, 14, 15)",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "K-Map Simplification",
+    "topics": [
+      "K-Map Simplification",
+      "Don't Care Conditions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Design BCD to excess-3 converter.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Code Converters",
+    "topics": [
+      "Code Converters",
+      "BCD",
+      "Excess-3 Code"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Design a circuit which compare two binary number whether A>B, A=B or A<B.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Digital Comparator",
+    "topics": [
+      "Digital Comparator",
+      "Magnitude Comparator"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Draw the circuit of a J-K flip-flop.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "JK Flip-Flop",
+    "topics": [
+      "JK Flip-Flop",
+      "Flip-Flops"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Describe the operation of a shift register with suitable diagram.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Shift Registers",
+    "topics": [
+      "Shift Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Design the four bit Johnson counter and explain the operation.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Ring Counter",
+    "topics": [
+      "Ring Counter",
+      "Johnson Counter",
+      "Counters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain different methods of Triggering of flip-flop.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Flip-Flop Triggering",
+    "topics": [
+      "Flip-Flop Triggering",
+      "Flip-Flops"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What are qualitative differences between parallel loading and serial loading in shift registers?",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Shift Registers",
+    "topics": [
+      "Shift Registers",
+      "Parallel Loading",
+      "Serial Loading"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Design a 3 bit synchronous counter using JK flip flop.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Synchronous Counters",
+    "topics": [
+      "Synchronous Counters",
+      "Counter Design Using Flip-Flops",
+      "JK Flip-Flop"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "How can we describe the resolution of a D/A converter?",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "Resolution of DAC"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "A 10-bit D/A converter provides an analog output which has a maximum value of 10.23 volts. Find the resolution of this D/A converter.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "Resolution of DAC"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain the working of R-2R ladder type D/A converter.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "R-2R Ladder DAC"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain the types of A/D convertors.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Analog to Digital Converters",
+    "topics": [
+      "Analog to Digital Converters"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "A 10-bit D/A converter has a step-size of 10 mV. Determine the full-scale output voltage and the percentage resolution.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "Resolution of DAC"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Describe the successive approximation A/D conversion principle with the neat diagram, explain this type of A/D converter.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Analog to Digital Converters",
+    "topics": [
+      "Analog to Digital Converters",
+      "Successive Approximation ADC"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Draw and explain the structure of a RAM cell.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "RAM",
+    "topics": [
+      "RAM",
+      "RAM Cell",
+      "Memory Organization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Implement using PLA\nf1 = ∑m(0, 3, 4, 7)\nf2 = ∑m(3, 5, 6, 7)",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Programmable Logic Array",
+    "topics": [
+      "Programmable Logic Array",
+      "PLA",
+      "ROM as PLD"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Discuss in brief semiconductor memory organization and its operation.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization",
+      "Semiconductor Memory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Compare the SRAMs and DRAMs.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "RAM",
+    "topics": [
+      "RAM",
+      "Static RAM",
+      "Dynamic RAM"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Implement the following Boolean expressions using a PROM.\nf1 (x2, x1, x0) = ∑m (0, 1, 2, 5, 7)\nf2 (x2, x1, x0) = ∑m (1, 2, 4, 6)",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "ROM",
+    "topics": [
+      "ROM",
+      "PROM",
+      "ROM as PLD"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What is a programmable LOGIC Array (PLA)? Describe with a logic diagram the principle of operation of a PLA. What are its advantages?",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Programmable Logic Array",
+    "topics": [
+      "Programmable Logic Array",
+      "PLA",
+      "ROM as PLD"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "List out various logic families. Also list characteristics of digital IC.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families",
+      "Characteristics of Digital ICs"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "State and prove De-Morgan's theorems using truth-tables.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Boolean Algebra",
+    "topics": [
+      "Boolean Algebra",
+      "De Morgan's Theorems"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Implement AND, OR, EX-OR gates using NAND & NOR gates.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "NAND NOR Universal Gates",
+    "topics": [
+      "NAND NOR Universal Gates",
+      "Logic Gates"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Reduce the expression F = x'y'z +yz+ xz",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Boolean Algebra",
+    "topics": [
+      "Boolean Algebra",
+      "Boolean Expression Simplification"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Convert the decimal Number 330.5 to base 4 and base 8.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Number Systems",
+    "topics": [
+      "Number Systems",
+      "Number Conversion"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Design a Combinational circuit that convert Binary to BCD code converter.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Code Converters",
+    "topics": [
+      "Code Converters",
+      "BCD"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Design a Combinational circuit that convert BCD to Excess 3 code converter.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Code Converters",
+    "topics": [
+      "Code Converters",
+      "BCD",
+      "Excess-3 Code"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Minimize following Boolean function using K-map: Y(A,B,C,D) = Σ m(0, 1, 3, 5,6, 7, 10, 13,14, 15)",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "K-Map Simplification",
+    "topics": [
+      "K-Map Simplification",
+      "Boolean Function Minimization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain 4 – bit parallel adder with diagram.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Adders",
+    "topics": [
+      "Adders",
+      "4-bit Binary Parallel Adder"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Design 2 - Bit Magnitude Comparator.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Digital Comparator",
+    "topics": [
+      "Digital Comparator",
+      "Magnitude Comparator"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Design D FF using SR FF. Write truth table of D FF.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "D Flip-Flop",
+    "topics": [
+      "D Flip-Flop",
+      "SR Flip-Flop",
+      "Flip-Flop Conversion"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Minimize following Boolean function using K-map: F(A,B,C,D) = Σ m(1, 5, 6, 12, 13, 14) + d(2, 4)",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "K-Map Simplification",
+    "topics": [
+      "K-Map Simplification",
+      "Don't Care Conditions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Design 3-bit even parity generator circuit.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Parity Checker/Generator",
+    "topics": [
+      "Parity Checker/Generator",
+      "Error Detecting Codes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Compare static RAM and dynamic RAM.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "RAM",
+    "topics": [
+      "RAM",
+      "Static RAM",
+      "Dynamic RAM"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain JK flip flop with its characteristic table and excitation table.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "JK Flip-Flop",
+    "topics": [
+      "JK Flip-Flop",
+      "Flip-Flops",
+      "Characteristic Table",
+      "Excitation Table"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Write a brief note on race around condition and its solution. Draw & explain the logic diagram of master-slave JK flip-flop.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Race Around Condition",
+    "topics": [
+      "Race Around Condition",
+      "JK Flip-Flop",
+      "Master-Slave JK Flip-Flop"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain the types of ROM.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "ROM",
+    "topics": [
+      "ROM",
+      "Types of ROM"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain Look-ahead Carry generator",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Carry Look Ahead Adder",
+    "topics": [
+      "Carry Look Ahead Adder",
+      "Adders"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Design a Synchronous counter with the following binary sequence: 0, 1, 3, 4,5, 7 and repeat. Use T – flip-flops",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Synchronous Counters",
+    "topics": [
+      "Synchronous Counters",
+      "Counter Design Using Flip-Flops",
+      "State Diagrams",
+      "State Tables"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain the working of a Counter.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Counters",
+    "topics": [
+      "Counters",
+      "Counter Design"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain R-2R ladder type D/A converter",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "R-2R Ladder DAC"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "A combinational circuit is defined by the function F1 (A, B, C,) = Σ m (0,1,3,4) F2 (A, B, C,) = Σ m (1.2.3,4,5) Implement the circuit with a PLA having 3 inputs, 3 product term & 2 outputs.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Programmable Logic Array",
+    "topics": [
+      "Programmable Logic Array",
+      "PLA",
+      "ROM as PLD"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain the working of SISO shift register.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Shift Registers",
+    "topics": [
+      "Shift Registers",
+      "SISO Shift Register"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain the specification of D/A converter",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "Specifications of DAC"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Describe operation of D/A converter with binary-weighted resisters",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "Binary-Weighted Resistor DAC"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "State and Apply DeMorgan's theorem.: [(x+y)'+(x+y)']'=x+y",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Boolean Algebra",
+    "topics": [
+      "Boolean Algebra",
+      "De Morgan's Theorems"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Do As Directed:\n1. Convert (0.6875)10 to Binary.\n2. Give the octal equivalent of hexadecimal numbers of DC.BA.\n3. Convert (101101.1101)2 to Hexadecimal.\n4. Give the Truth Table of XOR gate.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Number Systems",
+    "topics": [
+      "Number Systems",
+      "Number Conversion",
+      "Binary",
+      "Octal",
+      "Hexadecimal",
+      "Logic Gates"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Prove that NAND and NOR gates are universal gates.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "NAND NOR Universal Gates",
+    "topics": [
+      "NAND NOR Universal Gates",
+      "Logic Gates"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Determine the value of base x if (211)x = (152)8",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Number Systems",
+    "topics": [
+      "Number Systems",
+      "Number Conversion"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Subtract (111001)2 from (101011)2 using 1's complement",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "One's Complement Arithmetic",
+    "topics": [
+      "One's Complement Arithmetic",
+      "Binary Arithmetic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Simplify and implementation the following SOP function using NOR gates F(A,B,C,D)= ∑m(0,1,4,5,10,11,14,15)",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "K-Map Simplification",
+    "topics": [
+      "K-Map Simplification",
+      "Standard Representation for Logic Functions",
+      "NAND NOR Universal Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Simplify the Boolean expression using K-map and implement using NAND gates F(A,B,C,D) = ∑m(0,2,3,8,10,11,12,14)",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "K-Map Simplification",
+    "topics": [
+      "K-Map Simplification",
+      "NAND NOR Universal Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Design the combinational circuit of 4 Bit Parallel Adder.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Adders",
+    "topics": [
+      "Adders",
+      "4-bit Binary Parallel Adder"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Implement the following Boolean function using 8:1 multiplexer:\nF(A, B, C, D) = A'BD' + ACD + A'C' D +B'CD",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Multiplexer",
+    "topics": [
+      "Multiplexer",
+      "Boolean Function Implementation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Design a combinational circuit with four input lines that represent a decimal digit in BCD and four output lines that generate the 9's complement of the input digit.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Code Converters",
+    "topics": [
+      "Code Converters",
+      "BCD",
+      "9's Complement"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Design Truth table for the Half adder and write the expression for the sum and carry.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Adders",
+    "topics": [
+      "Adders",
+      "Half Adder"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Implement the following Boolean function using 8:1 multiplexer:\nF(A,B,C,D) = Σm (0,3,4,7,8,9,13,14)",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Multiplexer",
+    "topics": [
+      "Multiplexer",
+      "Boolean Function Implementation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Design 5 to 32 line decoder using 3 to 8 line decoder and 2 to 4 line decoder.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "De-Multiplexer/Decoders",
+    "topics": [
+      "De-Multiplexer/Decoders",
+      "Decoders/Drivers for Display Devices"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Explain about Ring counter.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Ring Counter",
+    "topics": [
+      "Ring Counter",
+      "Counters"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Describe how T flip-flop is converted into D flip-flop.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "T Flip-Flop",
+    "topics": [
+      "T Flip-Flop",
+      "D Flip-Flop",
+      "Flip-Flop Conversion"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "What is the function of shift register? With the help of simple diagram explain its working.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Shift Registers",
+    "topics": [
+      "Shift Registers",
+      "Applications of Shift Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain various applications of the register.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Shift Registers",
+    "topics": [
+      "Shift Registers",
+      "Applications of Shift Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Describe how JK flip-flop is converted into D flip-flop.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "JK Flip-Flop",
+    "topics": [
+      "JK Flip-Flop",
+      "D Flip-Flop",
+      "Flip-Flop Conversion"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Draw the state diagram of BCD ripple counter, develop its logic diagram and explain its operation.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Ripple Counters",
+    "topics": [
+      "Ripple Counters",
+      "BCD Counter",
+      "State Diagrams"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Write difference between PROM, PLA & PAL.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "ROM as PLD",
+    "topics": [
+      "ROM as PLD",
+      "Programmable Logic Array",
+      "Programmable Array Logic",
+      "PROM"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Using 8x4 ROM, realize the expressions W(A,B,C) =∑m(0,1,3,5,7) ,X(A,B,C) =∑m(0,2,4,5) , Y(A,B,C) =∑m(1,2,4,7) , Z(A,B,C=∑m(0,3,5,6,7). Show the data at address 2 & 6.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "ROM",
+    "topics": [
+      "ROM",
+      "ROM as PLD"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Implement the following function using PLA\nF1= ∑m(0,2,5,8,9,11),F2=∑m(1,3,8,10,13,15),F3=∑m(0,1,5,7,9,12,14).",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Programmable Logic Array",
+    "topics": [
+      "Programmable Logic Array",
+      "PLA"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Discuss : Field Programmable Gate Array (FPGA)",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Field Programmable Gate Array",
+    "topics": [
+      "Field Programmable Gate Array",
+      "FPGA"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain Successive Approximation type A/D converter.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Analog to Digital Converters",
+    "topics": [
+      "Analog to Digital Converters",
+      "Successive Approximation ADC"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Give a brief on various types of memories.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization",
+      "Classification of Memories"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain X-NOR and XOR gates.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Logic Gates",
+    "topics": [
+      "Logic Gates",
+      "XOR Gate",
+      "XNOR Gate",
+      "AND OR NOT NAND NOR Exclusive-OR Operations"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain Decimal to Hexadecimal, Hexadecimal to Octal with example.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Number Systems",
+    "topics": [
+      "Number Systems",
+      "Number Conversion",
+      "Hexadecimal",
+      "Octal"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Describe error correcting code with example.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Error Detecting and Correcting Codes",
+    "topics": [
+      "Error Detecting and Correcting Codes",
+      "Codes"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "List 1 bit, 2 bit, 3 bit, 4 bit Gray code.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Codes",
+    "topics": [
+      "Codes",
+      "Gray Code",
+      "Number Systems"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain 4 variable K map with example.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "K-Map Simplification",
+    "topics": [
+      "K-Map Simplification",
+      "Boolean Function Minimization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Describe BCD to Excess 3 code convertor.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Code Converters",
+    "topics": [
+      "Code Converters",
+      "BCD",
+      "Excess-3 Code"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain look ahead carry generator.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Carry Look Ahead Adder",
+    "topics": [
+      "Carry Look Ahead Adder",
+      "Adders"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain 2 bit magnitude comparator.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Digital Comparator",
+    "topics": [
+      "Digital Comparator",
+      "Magnitude Comparator"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Describe half and full subtractor.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Subtractors",
+    "topics": [
+      "Subtractors",
+      "Half Subtractor",
+      "Full Subtractor"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain synchronous 3-bit up counters.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Synchronous Counters",
+    "topics": [
+      "Synchronous Counters",
+      "Counter Design Using Flip-Flops"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain use of don't care condition with example.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Don't Care Conditions",
+    "topics": [
+      "Don't Care Conditions",
+      "K-Map Simplification"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Describe steps of reducing expression using VEM.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Variable Entered Mapping Method",
+    "topics": [
+      "Variable Entered Mapping Method",
+      "K-Map Simplification"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "List and explain different types of shift register.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Shift Registers",
+    "topics": [
+      "Shift Registers",
+      "Types of Shift Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Differentiate asynchronous and synchronous counters.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Ripple Counters",
+    "topics": [
+      "Ripple Counters",
+      "Synchronous Counters",
+      "Asynchronous Counters"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain D flip flop.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "D Flip-Flop",
+    "topics": [
+      "D Flip-Flop",
+      "Flip-Flops"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Describe 2 bit ripple down counter.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Ripple Counters",
+    "topics": [
+      "Ripple Counters",
+      "Asynchronous Counters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Differentiate sequential and combinational circuits.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Sequential Circuits",
+    "topics": [
+      "Sequential Circuits",
+      "Combinational Circuits"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain T flip flop.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "T Flip-Flop",
+    "topics": [
+      "T Flip-Flop",
+      "Flip-Flops"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "List applications of flip flops, registers, counters.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Applications of Flip-Flops",
+    "topics": [
+      "Applications of Flip-Flops",
+      "Shift Registers",
+      "Counters"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Differentiate static and dynamic RAM.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "RAM",
+    "topics": [
+      "RAM",
+      "Static RAM",
+      "Dynamic RAM"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Describe content addressable memory.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Content Addressable Memory",
+    "topics": [
+      "Content Addressable Memory",
+      "CAM"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain PAL with example.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Programmable Array Logic",
+    "topics": [
+      "Programmable Array Logic",
+      "PAL",
+      "ROM as PLD"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Differentiate RAM and ROM",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "RAM",
+    "topics": [
+      "RAM",
+      "ROM",
+      "Memory Organization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Describe charge coupled device memory.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Charge Coupled Device Memory",
+    "topics": [
+      "Charge Coupled Device Memory",
+      "CCD",
+      "Sequential Memory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "List types of memory and explain any two in details.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Classification of Memories",
+    "topics": [
+      "Classification of Memories",
+      "Memory Organization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Implement EX-NOR using NAND gate.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "NAND NOR Universal Gates",
+    "topics": [
+      "NAND NOR Universal Gates",
+      "Logic Gates",
+      "XOR Gate",
+      "XNOR Gate"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Convert the decimal number 225.225 to octal and hexadecimal.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Number Systems",
+    "topics": [
+      "Number Systems",
+      "Number Conversion",
+      "Octal",
+      "Hexadecimal"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Give classification of logic families and compare CMOS and TTL.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families",
+      "TTL",
+      "CMOS Logic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Convert F(A,B,C) = BC+A into standard minterm form.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Standard Representation for Logic Functions",
+    "topics": [
+      "Standard Representation for Logic Functions",
+      "Minterm",
+      "Boolean Algebra"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "With logic diagram and truth table, explain the working of 3 line to 8 line decoder.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "De-Multiplexer/Decoders",
+    "topics": [
+      "De-Multiplexer/Decoders",
+      "Decoder"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain Successive Approximation A/D converter in detail.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Analog to Digital Converters",
+    "topics": [
+      "Analog to Digital Converters",
+      "Successive Approximation ADC"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "A combinational logic is defined by functions:\nF1(A,B,C) = ∑m (3,5,6,7) F2(A,B,C) = ∑m (0,2,4,7)\nImplement the circuit with PLA having 3 inputs, 4 product terms & 2 outputs.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Programmable Logic Array",
+    "topics": [
+      "Programmable Logic Array",
+      "PLA",
+      "ROM as PLD"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Simplify the Boolean expression: F(x,y,z) = ∑m (0,1,3,4,5,7)",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "K-Map Simplification",
+    "topics": [
+      "K-Map Simplification",
+      "Boolean Function Minimization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain S-R clocked flip flop.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "SR Flip-Flop",
+    "topics": [
+      "SR Flip-Flop",
+      "Clocked SR Flip-Flop",
+      "Flip-Flops"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Design full adder circuit using decoder and multiplexer.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Adders",
+    "topics": [
+      "Adders",
+      "Full Adder",
+      "Multiplexer",
+      "De-Multiplexer/Decoders"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Generate AND & EX-OR gates using NOR gate.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "NAND NOR Universal Gates",
+    "topics": [
+      "NAND NOR Universal Gates",
+      "Logic Gates",
+      "AND OR NOT NAND NOR Exclusive-OR Operations"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Implement D flip flop using JK flip flop.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "D Flip-Flop",
+    "topics": [
+      "D Flip-Flop",
+      "JK Flip-Flop",
+      "Flip-Flop Conversion"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Design a counter to generate the repetitive sequence 0,4,2,1,6.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Counters",
+    "topics": [
+      "Counters",
+      "Counter Design Using Flip-Flops",
+      "Sequence Generator"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is race around condition in JK flip flop.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Race Around Condition",
+    "topics": [
+      "Race Around Condition",
+      "JK Flip-Flop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Construct a ring counter with five timing signals.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Ring Counter",
+    "topics": [
+      "Ring Counter",
+      "Counters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Design BCD to Excess 3 code converter using minimum number of NAND gates.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Code Converters",
+    "topics": [
+      "Code Converters",
+      "BCD",
+      "Excess-3 Code"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain 2-bit comparator circuit.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Digital Comparator",
+    "topics": [
+      "Digital Comparator",
+      "Magnitude Comparator"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write a short note on FPGA.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Field Programmable Gate Array",
+    "topics": [
+      "Field Programmable Gate Array",
+      "FPGA"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "What is Digital to Analog converter? Draw and Explain R-2R DAC.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "R-2R Ladder DAC"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Perform following operation using 2's complement method.\n(11010)2 – (1000)2",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Two's Complement Arithmetic",
+    "topics": [
+      "Two's Complement Arithmetic",
+      "Binary Arithmetic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write a short note on Read Only Memory (ROM).",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "ROM",
+    "topics": [
+      "ROM",
+      "Read Only Memory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain the working of 4 bit binary ripple counter.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Ripple Counters",
+    "topics": [
+      "Ripple Counters",
+      "Asynchronous Counters",
+      "Binary Ripple Counter"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Obtain the truth table of the function: F = xy+yz+zx .",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Boolean Algebra",
+    "topics": [
+      "Boolean Algebra",
+      "Truth Table"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Implement following functions using ROM.\nF1 = ∑m (1,3,4,6) and F2 = ∑m (0,1,5,7).",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "ROM",
+    "topics": [
+      "ROM",
+      "ROM as PLD"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain in detail Dual Slope A/D converter.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Analog to Digital Converters",
+    "topics": [
+      "Analog to Digital Converters",
+      "Dual Slope ADC"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Implement NOR, AND, & OR gates using NAND gates only",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "NAND NOR Universal Gates",
+    "topics": [
+      "NAND NOR Universal Gates",
+      "Logic Gates"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Write the boolean expression for the logic diagram given below and simplify it as much as possible and draw the logic diagram that implements the simplified expression",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Boolean Algebra",
+    "topics": [
+      "Boolean Algebra",
+      "Boolean Expression Simplification",
+      "Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Do as directed:\n1. Convert (75.75) 10 = (___) 8 = (___)16\n2. Convert (101.10)16 = (__)8\n3. Add (17)10 and (-25)10 using 8-bit 2's complement",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Number Systems",
+    "topics": [
+      "Number Systems",
+      "Number Conversion",
+      "Two's Complement Arithmetic",
+      "Binary Arithmetic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain SR flip-flop using characteristic table & characteristic equation",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "SR Flip-Flop",
+    "topics": [
+      "SR Flip-Flop",
+      "Flip-Flops",
+      "Characteristic Table"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain 4-bit parallel binary adder with neat and clean diagram",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Adders",
+    "topics": [
+      "Adders",
+      "4-bit Binary Parallel Adder"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Obtain the set of prime implicants for Function F=\n∑ m (1,2,3,5,6,7,8,9,12,13,15)",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "K-Map Simplification",
+    "topics": [
+      "K-Map Simplification",
+      "Prime Implicants",
+      "Tabulation Method"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "A combinational logic circuit is defined by the functions:\nF1= Ʃ (0,1,2,4) and F2= Ʃ (0, 5, 6,7).\nImplement the circuit with a PLA having three inputs, four product terms and two outputs.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Programmable Logic Array",
+    "topics": [
+      "Programmable Logic Array",
+      "PLA",
+      "ROM as PLD"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Differentiate synchronous counter and asynchronous counter",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Synchronous Counters",
+    "topics": [
+      "Synchronous Counters",
+      "Ripple Counters",
+      "Asynchronous Counters"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain BCD adder using two 4-bit adder IC and a correction-detector circuit",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "BCD Arithmetic",
+    "topics": [
+      "BCD Arithmetic",
+      "Adders",
+      "BCD Adder"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Do the conversion of JK flip flop to T flip flop and D flip flop to JK",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Flip-Flop Conversion",
+    "topics": [
+      "Flip-Flop Conversion",
+      "JK Flip-Flop",
+      "T Flip-Flop",
+      "D Flip-Flop"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Design 4 X 16 decoder using two 3 X 8 decoders",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "De-Multiplexer/Decoders",
+    "topics": [
+      "De-Multiplexer/Decoders",
+      "Decoder"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "List and explain in detail Binary codes with example",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Codes",
+    "topics": [
+      "Codes",
+      "Binary Codes",
+      "Error Detecting and Correcting Codes"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Design mod-6 asynchronous counter using T flip flop",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Ripple Counters",
+    "topics": [
+      "Ripple Counters",
+      "Asynchronous Counters",
+      "T Flip-Flop"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Reduce the expression Σ (2, 3, 6,7,8,10,11,14) using K-map",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "K-Map Simplification",
+    "topics": [
+      "K-Map Simplification",
+      "Boolean Function Minimization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Do as directed:\n1. Add 25+17 in BCD\n2. Add 37 +28 in XS-3",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "BCD Arithmetic",
+    "topics": [
+      "BCD Arithmetic",
+      "Excess-3 Code",
+      "Binary Arithmetic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "With a neat block diagram explain the function of encoder. Explain priority encoder?",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Priority Encoders",
+    "topics": [
+      "Priority Encoders",
+      "Decoders/Drivers for Display Devices"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain R-2R ladder type D/A converter",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "R-2R Ladder DAC"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Implement the following Boolean functions with a 3 x 1 multiplexer F (w, x, y, z) = Σ (2, 3, 5, 6, 11, 14, 15)",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Multiplexer",
+    "topics": [
+      "Multiplexer",
+      "Boolean Function Implementation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Design Combinational circuit for Binary to Xs-3 conversion",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Code Converters",
+    "topics": [
+      "Code Converters",
+      "Excess-3 Code"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Compare TTL, ECL, & CMOS logic families.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families",
+      "TTL",
+      "CMOS Logic",
+      "ECL"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Draw truth table of 2-bit digital comparator",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Digital Comparator",
+    "topics": [
+      "Digital Comparator",
+      "Magnitude Comparator"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "List out various commonly used D/A converters. Draw & explain any one D/A converter.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "A combinational logic circuit is defined by the functions:\nF1= Ʃ (0,1,2,5,7) and F2= Ʃ (1, 2,4, 6). Implement the circuit with a PROM",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "ROM",
+    "topics": [
+      "ROM",
+      "PROM",
+      "ROM as PLD"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain types of shift-register and their application",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Shift Registers",
+    "topics": [
+      "Shift Registers",
+      "Types of Shift Registers",
+      "Applications of Shift Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "List out various commonly used A/D converters. Draw & explain any one A/D converter",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Analog to Digital Converters",
+    "topics": [
+      "Analog to Digital Converters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Perform the following mathematical operations using 2's complement method.\n(i) (9)10 + (-5)10\n(ii) (3)10 – (8)10",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Two's Complement Arithmetic",
+    "topics": [
+      "Two's Complement Arithmetic",
+      "Binary Arithmetic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "State and prove De-Morgan's theorems using truth-tables.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Boolean Algebra",
+    "topics": [
+      "Boolean Algebra",
+      "De Morgan's Theorems"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain the characteristics of Digital ICs.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Characteristics of Digital ICs",
+    "topics": [
+      "Characteristics of Digital ICs",
+      "Logic Families"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Design a Full Adder circuit using basic logic gates.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Adders",
+    "topics": [
+      "Adders",
+      "Full Adder"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Design a modulo-6 ripple counter using T-Flip-flops.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Ripple Counters",
+    "topics": [
+      "Ripple Counters",
+      "Asynchronous Counters",
+      "T Flip-Flop"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Design a 4-bit Binary to Gray Code Converter using K-map.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Code Converters",
+    "topics": [
+      "Code Converters",
+      "Gray Code",
+      "K-Map Simplification"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Draw a two input TTL NAND gate and explain its operation.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "TTL",
+    "topics": [
+      "TTL",
+      "Logic Families",
+      "NAND NOR Universal Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain Race Around Condition in JK flip flop.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Race Around Condition",
+    "topics": [
+      "Race Around Condition",
+      "JK Flip-Flop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Design a 1 - bit Magnitude Comparator.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Digital Comparator",
+    "topics": [
+      "Digital Comparator",
+      "Magnitude Comparator"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain Hamming codes for error correction with a suitable example.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Error Detecting and Correcting Codes",
+    "topics": [
+      "Error Detecting and Correcting Codes",
+      "Hamming Codes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Find expression for the following and implement using logic gates.\nF(A,B,C,D) = πM(0,2,3,6,7,8,9,12,13)",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "K-Map Simplification",
+    "topics": [
+      "K-Map Simplification",
+      "Boolean Function Minimization",
+      "Standard Representation for Logic Functions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Implement D flip flop using JK flip flop.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "D Flip-Flop",
+    "topics": [
+      "D Flip-Flop",
+      "JK Flip-Flop",
+      "Flip-Flop Conversion"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Design a 4-bit twisted Ring Counter using JK flip flops.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Ring Counter",
+    "topics": [
+      "Ring Counter",
+      "Counters",
+      "JK Flip-Flop"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Differentiate Synchronous Counters and Asynchronous Counters.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Synchronous Counters",
+    "topics": [
+      "Synchronous Counters",
+      "Ripple Counters",
+      "Asynchronous Counters"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Implement the following using 8:1 MUX.\nF = f(A,B,C,D) = Σm(2,4,5,7,10,14)",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Multiplexer",
+    "topics": [
+      "Multiplexer",
+      "Boolean Function Implementation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Design a synchronous BCD counter using J-K flip-flops.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Synchronous Counters",
+    "topics": [
+      "Synchronous Counters",
+      "BCD Counter",
+      "Counter Design Using Flip-Flops",
+      "JK Flip-Flop"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Implement full subtractor using 3:8 decoder and write a truth table.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Subtractors",
+    "topics": [
+      "Subtractors",
+      "Full Subtractor",
+      "De-Multiplexer/Decoders"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain the specifications of Digital to Analog Converters.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "Specifications of DAC"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain Successive Approximation type A/D converter.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Analog to Digital Converters",
+    "topics": [
+      "Analog to Digital Converters",
+      "Successive Approximation ADC"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Differentiate Static RAM and Dynamic RAM.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "RAM",
+    "topics": [
+      "RAM",
+      "Static RAM",
+      "Dynamic RAM"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write a short note on FPGA.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Field Programmable Gate Array",
+    "topics": [
+      "Field Programmable Gate Array",
+      "FPGA"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain the operation of Dual-slope A/D converter.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Analog to Digital Converters",
+    "topics": [
+      "Analog to Digital Converters",
+      "Dual Slope ADC"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain basic structure of a CCD (Charge Coupled Device).",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Charge Coupled Device Memory",
+    "topics": [
+      "Charge Coupled Device Memory",
+      "CCD",
+      "Sequential Memory"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write a short note on Programmable Array Logic.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Programmable Array Logic",
+    "topics": [
+      "Programmable Array Logic",
+      "PAL",
+      "ROM as PLD"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain various types of Read Only Memory.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "ROM",
+    "topics": [
+      "ROM",
+      "Types of ROM"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "List out various logic families. Also list characteristics of digital IC.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families",
+      "Characteristics of Digital ICs"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Convert the decimal number 225.225 to octal and hexadecimal.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Number Systems",
+    "topics": [
+      "Number Systems",
+      "Number Conversion",
+      "Octal",
+      "Hexadecimal"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Implement AND, OR, EX-OR gates using NAND & NOR gates.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "NAND NOR Universal Gates",
+    "topics": [
+      "NAND NOR Universal Gates",
+      "Logic Gates",
+      "AND OR NOT NAND NOR Exclusive-OR Operations"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Draw the logic diagram of 1-digit BCD adder.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "BCD Arithmetic",
+    "topics": [
+      "BCD Arithmetic",
+      "Adders",
+      "BCD Adder"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "State and prove De-Morgan's theorems using truth-tables.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Digital System & Number System",
+    "primary_topic": "Boolean Algebra",
+    "topics": [
+      "Boolean Algebra",
+      "De Morgan's Theorems"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Design 3-bit even parity generator circuit.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Parity Checker/Generator",
+    "topics": [
+      "Parity Checker/Generator",
+      "Error Detecting Codes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Design full adder circuit using decoder and multiplexer.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Adders",
+    "topics": [
+      "Adders",
+      "Full Adder",
+      "Multiplexer",
+      "De-Multiplexer/Decoders"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Design half subtractor logic circuit.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Subtractors",
+    "topics": [
+      "Subtractors",
+      "Half Subtractor"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Implement D flip flop using JK flip flop.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "D Flip-Flop",
+    "topics": [
+      "D Flip-Flop",
+      "JK Flip-Flop",
+      "Flip-Flop Conversion"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Design 2 - Bit Magnitude Comparator.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Digital Comparator",
+    "topics": [
+      "Digital Comparator",
+      "Magnitude Comparator"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Differentiate synchronous counter and asynchronous counter.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Synchronous Counters",
+    "topics": [
+      "Synchronous Counters",
+      "Ripple Counters",
+      "Asynchronous Counters"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Draw & explain in brief the logic diagram of 4-bit bidirectional shift register.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Shift Registers",
+    "topics": [
+      "Shift Registers",
+      "Bidirectional Shift Register"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Design a Combinational circuit that convert Binary to BCD code converter.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "Code Converters",
+    "topics": [
+      "Code Converters",
+      "BCD"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Explain S-R clocked flip flop.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "SR Flip-Flop",
+    "topics": [
+      "SR Flip-Flop",
+      "Clocked SR Flip-Flop",
+      "Flip-Flops"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain the specification of D/A converter.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "Specifications of DAC"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Design mod-6 asynchronous counter using T flip flop.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Ripple Counters",
+    "topics": [
+      "Ripple Counters",
+      "Asynchronous Counters",
+      "T Flip-Flop"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "List out and explain any one application of the register.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Shift Registers",
+    "topics": [
+      "Shift Registers",
+      "Applications of Shift Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Design 4 X 16 decoder using two 3 X 8 decoders.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "De-Multiplexer/Decoders",
+    "topics": [
+      "De-Multiplexer/Decoders",
+      "Decoder"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Design a 3-bit synchronous up counter using JK flip-flops.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Sequential Logic Design",
+    "primary_topic": "Synchronous Counters",
+    "topics": [
+      "Synchronous Counters",
+      "Counter Design Using Flip-Flops",
+      "JK Flip-Flop"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Compare SRAM with DRAM.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "RAM",
+    "topics": [
+      "RAM",
+      "Static RAM",
+      "Dynamic RAM"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Draw & explain the block diagram of ALU.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Combinational Logic Design",
+    "primary_topic": "ALU",
+    "topics": [
+      "ALU",
+      "Elementary ALU Design"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Write a short note on FPGA.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Field Programmable Gate Array",
+    "topics": [
+      "Field Programmable Gate Array",
+      "FPGA"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain classification of Memories.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Classification of Memories",
+    "topics": [
+      "Classification of Memories",
+      "Memory Organization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain R-2R ladder type D/A converter.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "Digital to Analog Converters",
+    "topics": [
+      "Digital to Analog Converters",
+      "R-2R Ladder DAC"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Write a short note on ROM & its types.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Memory Element",
+    "primary_topic": "ROM",
+    "topics": [
+      "ROM",
+      "Types of ROM"
+    ],
+    "difficulty": "Easy"
+  }
+]

@@ -1,0 +1,166 @@
+Enrolment No./Seat No
+
+Subject Code:3140702
+
+GUJARAT TECHNOLOGICAL UNIVERSITY
+BE- SEMESTER-IV EXAMINATION — WINTER 2025
+
+Subject Name:Operating System
+
+Time:02:30 PM TO 05:00 PM
+
+Instructions:
+
+Ql
+
+Q.2
+
+Q.3
+
+Q3
+
+Q4
+
+Q.4
+
+Q.5
+
+1.
+
+2
+3.
+4
+
+(a)
+(b)
+(©)
+
+(a)
+
+(b)
+(c)
+
+(9)
+
+(a)
+
+(b)
+
+(a)
+(b)
+(c)
+
+(a)
+(b)
+©)
+
+(a)
+
+(b)
+(©)
+
+(a)
+(b)
+
+(©)
+
+Attempt all questions.
+
+. Make suitable assumptions wherever necessary.
+
+Figures to the right indicate full marks.
+Simple and non-programmable scientific calculators are allowed.
+
+Explain the uses of Operating system.
+Explain multiprogramming and multiprocessing operating system.
+What is process? Explain process state transition diagram.
+
+What is thread? Explain user level and kernel level thread.
+What is critical section? Explain race condition with example.
+What is Semaphore? Solve dinning philosopher problem using
+semaphore.
+
+OR
+What is Binary Semaphore? Solve Reader and Writer problem using
+semaphore.
+
+Differentiate between preemptive and non preemptive scheduling
+algorithm.
+
+Explain Principles of Concurrency with example.
+
+Explain Round robin scheduling algorithm with example.
+
+OR
+
+Explain the scheduling criteria for a good scheduling algorithm.
+Explain segmentation with example.
+
+Explain Shortest Job scheduling algorithm with example.
+
+Explain page fault.
+
+What is deadlock? Explain the condition that leads to deadlock.
+Explain Banker algorithm for deadlock avoidance with example. 7
+
+OR
+
+Explain Resource allocation graph.
+
+Explain different paging techniques.
+
+Differentiate between External Fragmentation and _ Internal
+
+Fragmentation.
+
+Explain major goals of I/O software.
+
+Differentiate between fixed and variable partitioning technique for
+memory management.
+
+Explain Disk arm scheduling algorithm.
+
+Date:13-11-2025
+
+Total Marks:70
+
+MARKS
+
+03
+04
+07
+
+03
+04
+07
+
+07
+
+03
+
+04
+07
+
+03
+04
+07
+
+03
+04
+07
+
+03
+
+04
+07
+
+03
+04
+
+07
+OR
+Q.5 (a) Explain DMA with block diagram. 03
+(b) Explain swapping in operating system. 04
+(c) Explain RAID level system. 07
+
+HR RRERER EEK

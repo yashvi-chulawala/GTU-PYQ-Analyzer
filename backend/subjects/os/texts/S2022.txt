@@ -1,0 +1,71 @@
+Seat No.: Enrolment No.
+
+GUJARAT TECHNOLOGICAL UNIVERSITY
+BE - SEMESTER-IV (NEW) EXAMINATION — SUMMER 2022
+
+Subject Code:3140702 Date:23-06-2022
+Subject Name:Operating System
+
+Time:10:30 AM TO 01:00 PM Total Marks: 70
+Instructions:
+
+1. Attempt all questions.
+
+2. Make suitable assumptions wherever necessary.
+
+3. Figures to the right indicate full marks.
+
+4. Simple and non-programmable scientific calculators are allowed.
+
+Marks
+Q.1 (a) List any four functions of operating system? 03
+(b) Explain the essential properties of 04
+i) Batch system ii) Time sharing
+ili) Real time iv) Distribute
+(c) Explain process states and process control block in details. 07
+Q.2 (a) What are the various criteria for a good process scheduling algorithm? 03
+(b) What is thread? Explain classical thread model. 04
+
+(c) How semaphores can be used to deal with n-process critical section 07
+problem? Explain.
+
+OR
+(c) What is monitor? Explain solution for producer-consumer problem using 07
+monitor.
+Q.3 (a) Define preemption and nonpreemption. 03
+(b) Explain the terms related to IPC: 04
+
+i) Race condition ii) Critical section iii) Mutual exclusion iv) Semaphores
+(c) How does deadlock avoidance differ from deadlock prevention? Write about 07
+deadlock avoidance algorithm in detail.
+
+OR
+Q.3 (a) Give the Difference between Thread and Process. 03
+(b) Explain the Priority scheduling algorithm. 04
+
+(c) How to characterize the structure of deadlock? Explain the two solutions of 07
+recovery from deadlock.
+
+Q.4 (a) List out the seven RAID levels. 03
+(b) Write short note on: Relocation problem for multiprogramming with fixed 04
+partitions.
+(c) What is paging? Discuss basic paging technique in details. 07
+OR
+Q.4 (a) What is the difference between logical I/O and device I/O? 03
+(b) Write the first, best fit memory allocation techniques. 04
+
+(c) Define Virtual Memory. Explain the process of converting virtual addresses 07
+to physical addresses with a neat diagram.
+
+Q.5 (a) Explain access control list. 03
+(b) Differentiate between Windows and Linux file system. 04
+(c) Write about Least Recently Used page replacement algorithm all its variants 07
+
+with an example.
+OR
+Q.5 (a) Explain domain protection mechanism. 03
+(b) Write a short note: Unix kernel. 04
+(c) Describe in detail about variety of techniques used to improve the efficiency 07
+
+and performance of secondary storage.
+RREKKKKEKEKEK

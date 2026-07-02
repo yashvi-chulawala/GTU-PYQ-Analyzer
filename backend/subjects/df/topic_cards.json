@@ -1,0 +1,3639 @@
+{
+    "2": {
+        "unit_name": "Digital System & Number System",
+        "Most Important": [
+            {
+                "topic": "Logic Families",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1a",
+                        "question": "List out various logic families. Also list characteristics of digital IC."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "Define the logic family properties:\n(i) fan in (ii) propagation delay (iii) power dissipation"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1a",
+                        "question": "List out various logic families. Also list characteristics of digital IC."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1c",
+                        "question": "Give classification of logic families and compare CMOS and TTL."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "Compare TTL, ECL, & CMOS logic families."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1c",
+                        "question": "Explain the characteristics of Digital ICs."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c OR",
+                        "question": "Draw a two input TTL NAND gate and explain its operation."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1a",
+                        "question": "List out various logic families. Also list characteristics of digital IC."
+                    }
+                ]
+            },
+            {
+                "topic": "Characteristics of Digital ICs",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1a",
+                        "question": "List out various logic families. Also list characteristics of digital IC."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "Define the logic family properties:\n(i) fan in (ii) propagation delay (iii) power dissipation"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1a",
+                        "question": "List out various logic families. Also list characteristics of digital IC."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1c",
+                        "question": "Explain the characteristics of Digital ICs."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1a",
+                        "question": "List out various logic families. Also list characteristics of digital IC."
+                    }
+                ]
+            },
+            {
+                "topic": "Binary Arithmetic",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2a",
+                        "question": "Perform the binary subtraction using 2's complement\n(0111)2 - (1101)2"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2b",
+                        "question": "Subtract (111001)2 from (101011)2 using 1's complement"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5a",
+                        "question": "Perform following operation using 2's complement method.\n(11010)2 – (1000)2"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "Do as directed:\n1. Convert (75.75) 10 = (___) 8 = (___)16\n2. Convert (101.10)16 = (__)8\n3. Add (17)10 and (-25)10 using 8-bit 2's complement"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1a",
+                        "question": "Perform the following mathematical operations using 2's complement method.\n(i) (9)10 + (-5)10\n(ii) (3)10 – (8)10"
+                    }
+                ]
+            },
+            {
+                "topic": "Number Systems",
+                "frequency": 10,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2b",
+                        "question": "Convert the decimal Number 250.5 to base 4 and base 8."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1b",
+                        "question": "Convert the following number to the given base:\n(i) (62)10 = (?)2 = (?)8\n(ii) (AFB)16 = (?)2 = (?)8"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2b",
+                        "question": "Convert the decimal Number 330.5 to base 4 and base 8."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1b",
+                        "question": "Do As Directed:\n1. Convert (0.6875)10 to Binary.\n2. Give the octal equivalent of hexadecimal numbers of DC.BA.\n3. Convert (101101.1101)2 to Hexadecimal.\n4. Give the Truth Table of XOR gate."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2a",
+                        "question": "Determine the value of base x if (211)x = (152)8"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1b",
+                        "question": "Explain Decimal to Hexadecimal, Hexadecimal to Octal with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2a",
+                        "question": "List 1 bit, 2 bit, 3 bit, 4 bit Gray code."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1b",
+                        "question": "Convert the decimal number 225.225 to octal and hexadecimal."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "Do as directed:\n1. Convert (75.75) 10 = (___) 8 = (___)16\n2. Convert (101.10)16 = (__)8\n3. Add (17)10 and (-25)10 using 8-bit 2's complement"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1b",
+                        "question": "Convert the decimal number 225.225 to octal and hexadecimal."
+                    }
+                ]
+            },
+            {
+                "topic": "Number Conversion",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2b",
+                        "question": "Convert the decimal Number 250.5 to base 4 and base 8."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1b",
+                        "question": "Convert the following number to the given base:\n(i) (62)10 = (?)2 = (?)8\n(ii) (AFB)16 = (?)2 = (?)8"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2b",
+                        "question": "Convert the decimal Number 330.5 to base 4 and base 8."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1b",
+                        "question": "Do As Directed:\n1. Convert (0.6875)10 to Binary.\n2. Give the octal equivalent of hexadecimal numbers of DC.BA.\n3. Convert (101101.1101)2 to Hexadecimal.\n4. Give the Truth Table of XOR gate."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2a",
+                        "question": "Determine the value of base x if (211)x = (152)8"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1b",
+                        "question": "Explain Decimal to Hexadecimal, Hexadecimal to Octal with example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1b",
+                        "question": "Convert the decimal number 225.225 to octal and hexadecimal."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "Do as directed:\n1. Convert (75.75) 10 = (___) 8 = (___)16\n2. Convert (101.10)16 = (__)8\n3. Add (17)10 and (-25)10 using 8-bit 2's complement"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1b",
+                        "question": "Convert the decimal number 225.225 to octal and hexadecimal."
+                    }
+                ]
+            },
+            {
+                "topic": "Logic Gates",
+                "frequency": 12,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c OR",
+                        "question": "Explain various logic gates."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3b",
+                        "question": "Explain NAND gate as a Universal Gate."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1c",
+                        "question": "Why NAND and NOR gates are called universal gates? Explain with appropriate example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1c",
+                        "question": "Implement AND, OR, EX-OR gates using NAND & NOR gates."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1b",
+                        "question": "Do As Directed:\n1. Convert (0.6875)10 to Binary.\n2. Give the octal equivalent of hexadecimal numbers of DC.BA.\n3. Convert (101101.1101)2 to Hexadecimal.\n4. Give the Truth Table of XOR gate."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1c",
+                        "question": "Prove that NAND and NOR gates are universal gates."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "Explain X-NOR and XOR gates."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1a",
+                        "question": "Implement EX-NOR using NAND gate."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3a OR",
+                        "question": "Generate AND & EX-OR gates using NOR gate."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1a",
+                        "question": "Implement NOR, AND, & OR gates using NAND gates only"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1b",
+                        "question": "Write the boolean expression for the logic diagram given below and simplify it as much as possible and draw the logic diagram that implements the simplified expression"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1c",
+                        "question": "Implement AND, OR, EX-OR gates using NAND & NOR gates."
+                    }
+                ]
+            },
+            {
+                "topic": "NAND NOR Universal Gates",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3b",
+                        "question": "Explain NAND gate as a Universal Gate."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1c",
+                        "question": "Why NAND and NOR gates are called universal gates? Explain with appropriate example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1c",
+                        "question": "Implement AND, OR, EX-OR gates using NAND & NOR gates."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1c",
+                        "question": "Prove that NAND and NOR gates are universal gates."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1a",
+                        "question": "Implement EX-NOR using NAND gate."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3a OR",
+                        "question": "Generate AND & EX-OR gates using NOR gate."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1a",
+                        "question": "Implement NOR, AND, & OR gates using NAND gates only"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c OR",
+                        "question": "Draw a two input TTL NAND gate and explain its operation."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1c",
+                        "question": "Implement AND, OR, EX-OR gates using NAND & NOR gates."
+                    }
+                ]
+            },
+            {
+                "topic": "Octal",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1b",
+                        "question": "Convert the following number to the given base:\n(i) (62)10 = (?)2 = (?)8\n(ii) (AFB)16 = (?)2 = (?)8"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1b",
+                        "question": "Do As Directed:\n1. Convert (0.6875)10 to Binary.\n2. Give the octal equivalent of hexadecimal numbers of DC.BA.\n3. Convert (101101.1101)2 to Hexadecimal.\n4. Give the Truth Table of XOR gate."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1b",
+                        "question": "Explain Decimal to Hexadecimal, Hexadecimal to Octal with example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1b",
+                        "question": "Convert the decimal number 225.225 to octal and hexadecimal."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1b",
+                        "question": "Convert the decimal number 225.225 to octal and hexadecimal."
+                    }
+                ]
+            },
+            {
+                "topic": "Hexadecimal",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1b",
+                        "question": "Convert the following number to the given base:\n(i) (62)10 = (?)2 = (?)8\n(ii) (AFB)16 = (?)2 = (?)8"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1b",
+                        "question": "Do As Directed:\n1. Convert (0.6875)10 to Binary.\n2. Give the octal equivalent of hexadecimal numbers of DC.BA.\n3. Convert (101101.1101)2 to Hexadecimal.\n4. Give the Truth Table of XOR gate."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1b",
+                        "question": "Explain Decimal to Hexadecimal, Hexadecimal to Octal with example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1b",
+                        "question": "Convert the decimal number 225.225 to octal and hexadecimal."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1b",
+                        "question": "Convert the decimal number 225.225 to octal and hexadecimal."
+                    }
+                ]
+            },
+            {
+                "topic": "Boolean Algebra",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1b",
+                        "question": "State and prove De-Morgan's theorems using truth-tables."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2a",
+                        "question": "Reduce the expression F = x'y'z +yz+ xz"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1a",
+                        "question": "State and Apply DeMorgan's theorem.: [(x+y)'+(x+y)']'=x+y"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5a OR",
+                        "question": "Obtain the truth table of the function: F = xy+yz+zx ."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1b",
+                        "question": "Write the boolean expression for the logic diagram given below and simplify it as much as possible and draw the logic diagram that implements the simplified expression"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1b",
+                        "question": "State and prove De-Morgan's theorems using truth-tables."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2b",
+                        "question": "State and prove De-Morgan's theorems using truth-tables."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Two's Complement Arithmetic",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2a",
+                        "question": "Perform the binary subtraction using 2's complement\n(0111)2 - (1101)2"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5a",
+                        "question": "Perform following operation using 2's complement method.\n(11010)2 – (1000)2"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "Do as directed:\n1. Convert (75.75) 10 = (___) 8 = (___)16\n2. Convert (101.10)16 = (__)8\n3. Add (17)10 and (-25)10 using 8-bit 2's complement"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1a",
+                        "question": "Perform the following mathematical operations using 2's complement method.\n(i) (9)10 + (-5)10\n(ii) (3)10 – (8)10"
+                    }
+                ]
+            },
+            {
+                "topic": "AND OR NOT NAND NOR Exclusive-OR Operations",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c OR",
+                        "question": "Explain various logic gates."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "Explain X-NOR and XOR gates."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3a OR",
+                        "question": "Generate AND & EX-OR gates using NOR gate."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1c",
+                        "question": "Implement AND, OR, EX-OR gates using NAND & NOR gates."
+                    }
+                ]
+            },
+            {
+                "topic": "De Morgan's Theorems",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1b",
+                        "question": "State and prove De-Morgan's theorems using truth-tables."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1a",
+                        "question": "State and Apply DeMorgan's theorem.: [(x+y)'+(x+y)']'=x+y"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1b",
+                        "question": "State and prove De-Morgan's theorems using truth-tables."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2b",
+                        "question": "State and prove De-Morgan's theorems using truth-tables."
+                    }
+                ]
+            },
+            {
+                "topic": "Error Detecting and Correcting Codes",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1c",
+                        "question": "Describe error correcting code with example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b OR",
+                        "question": "List and explain in detail Binary codes with example"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c",
+                        "question": "Explain Hamming codes for error correction with a suitable example."
+                    }
+                ]
+            },
+            {
+                "topic": "Codes",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1c",
+                        "question": "Describe error correcting code with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2a",
+                        "question": "List 1 bit, 2 bit, 3 bit, 4 bit Gray code."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b OR",
+                        "question": "List and explain in detail Binary codes with example"
+                    }
+                ]
+            },
+            {
+                "topic": "TTL",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1c",
+                        "question": "Give classification of logic families and compare CMOS and TTL."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "Compare TTL, ECL, & CMOS logic families."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c OR",
+                        "question": "Draw a two input TTL NAND gate and explain its operation."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Binary",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1b",
+                        "question": "Convert the following number to the given base:\n(i) (62)10 = (?)2 = (?)8\n(ii) (AFB)16 = (?)2 = (?)8"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1b",
+                        "question": "Do As Directed:\n1. Convert (0.6875)10 to Binary.\n2. Give the octal equivalent of hexadecimal numbers of DC.BA.\n3. Convert (101101.1101)2 to Hexadecimal.\n4. Give the Truth Table of XOR gate."
+                    }
+                ]
+            },
+            {
+                "topic": "Boolean Expression Simplification",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2a",
+                        "question": "Reduce the expression F = x'y'z +yz+ xz"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1b",
+                        "question": "Write the boolean expression for the logic diagram given below and simplify it as much as possible and draw the logic diagram that implements the simplified expression"
+                    }
+                ]
+            },
+            {
+                "topic": "XOR Gate",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "Explain X-NOR and XOR gates."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1a",
+                        "question": "Implement EX-NOR using NAND gate."
+                    }
+                ]
+            },
+            {
+                "topic": "XNOR Gate",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "Explain X-NOR and XOR gates."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1a",
+                        "question": "Implement EX-NOR using NAND gate."
+                    }
+                ]
+            },
+            {
+                "topic": "CMOS Logic",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1c",
+                        "question": "Give classification of logic families and compare CMOS and TTL."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "Compare TTL, ECL, & CMOS logic families."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Digital Signals",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1b",
+                        "question": "What is signal? Explain different types of signal."
+                    }
+                ]
+            },
+            {
+                "topic": "Fan In",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "Define the logic family properties:\n(i) fan in (ii) propagation delay (iii) power dissipation"
+                    }
+                ]
+            },
+            {
+                "topic": "Propagation Delay",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "Define the logic family properties:\n(i) fan in (ii) propagation delay (iii) power dissipation"
+                    }
+                ]
+            },
+            {
+                "topic": "Power Dissipation",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "Define the logic family properties:\n(i) fan in (ii) propagation delay (iii) power dissipation"
+                    }
+                ]
+            },
+            {
+                "topic": "One's Complement Arithmetic",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2b",
+                        "question": "Subtract (111001)2 from (101011)2 using 1's complement"
+                    }
+                ]
+            },
+            {
+                "topic": "Gray Code",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2a",
+                        "question": "List 1 bit, 2 bit, 3 bit, 4 bit Gray code."
+                    }
+                ]
+            },
+            {
+                "topic": "Truth Table",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5a OR",
+                        "question": "Obtain the truth table of the function: F = xy+yz+zx ."
+                    }
+                ]
+            },
+            {
+                "topic": "Binary Codes",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b OR",
+                        "question": "List and explain in detail Binary codes with example"
+                    }
+                ]
+            },
+            {
+                "topic": "ECL",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "Compare TTL, ECL, & CMOS logic families."
+                    }
+                ]
+            },
+            {
+                "topic": "Hamming Codes",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c",
+                        "question": "Explain Hamming codes for error correction with a suitable example."
+                    }
+                ]
+            }
+        ]
+    },
+    "3": {
+        "unit_name": "Combinational Logic Design",
+        "Most Important": [
+            {
+                "topic": "Multiplexer",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1c",
+                        "question": "Implement the following Boolean function using MUX\na) F(A,B,C) = ∑(1,3,6)\nb) F(A,B,C) = π(2,3,5)"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b",
+                        "question": "Implement the following Boolean function using 8:1 multiplexer:\nF(A, B, C, D) = A'BD' + ACD + A'C' D +B'CD"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b OR",
+                        "question": "Implement the following Boolean function using 8:1 multiplexer:\nF(A,B,C,D) = Σm (0,3,4,7,8,9,13,14)"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c",
+                        "question": "Design full adder circuit using decoder and multiplexer."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b OR",
+                        "question": "Implement the following Boolean functions with a 3 x 1 multiplexer F (w, x, y, z) = Σ (2, 3, 5, 6, 11, 14, 15)"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b",
+                        "question": "Implement the following using 8:1 MUX.\nF = f(A,B,C,D) = Σm(2,4,5,7,10,14)"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c OR",
+                        "question": "Design full adder circuit using decoder and multiplexer."
+                    }
+                ]
+            },
+            {
+                "topic": "Boolean Function Implementation",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1c",
+                        "question": "Implement the following Boolean function using MUX\na) F(A,B,C) = ∑(1,3,6)\nb) F(A,B,C) = π(2,3,5)"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b",
+                        "question": "Implement the following Boolean function using 8:1 multiplexer:\nF(A, B, C, D) = A'BD' + ACD + A'C' D +B'CD"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b OR",
+                        "question": "Implement the following Boolean function using 8:1 multiplexer:\nF(A,B,C,D) = Σm (0,3,4,7,8,9,13,14)"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b OR",
+                        "question": "Implement the following Boolean functions with a 3 x 1 multiplexer F (w, x, y, z) = Σ (2, 3, 5, 6, 11, 14, 15)"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b",
+                        "question": "Implement the following using 8:1 MUX.\nF = f(A,B,C,D) = Σm(2,4,5,7,10,14)"
+                    }
+                ]
+            },
+            {
+                "topic": "Code Converters",
+                "frequency": 10,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c",
+                        "question": "Design a Combinational circuit that convert 8-4-2-1 code to BCD"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "Design BCD to excess-3 converter."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c",
+                        "question": "Design a Combinational circuit that convert Binary to BCD code converter."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Design a Combinational circuit that convert BCD to Excess 3 code converter."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c",
+                        "question": "Design a combinational circuit with four input lines that represent a decimal digit in BCD and four output lines that generate the 9's complement of the input digit."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c",
+                        "question": "Describe BCD to Excess 3 code convertor."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4c",
+                        "question": "Design BCD to Excess 3 code converter using minimum number of NAND gates."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c OR",
+                        "question": "Design Combinational circuit for Binary to Xs-3 conversion"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c",
+                        "question": "Design a 4-bit Binary to Gray Code Converter using K-map."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c OR",
+                        "question": "Design a Combinational circuit that convert Binary to BCD code converter."
+                    }
+                ]
+            },
+            {
+                "topic": "BCD",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c",
+                        "question": "Design a Combinational circuit that convert 8-4-2-1 code to BCD"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "Design BCD to excess-3 converter."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c",
+                        "question": "Design a Combinational circuit that convert Binary to BCD code converter."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Design a Combinational circuit that convert BCD to Excess 3 code converter."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c",
+                        "question": "Design a combinational circuit with four input lines that represent a decimal digit in BCD and four output lines that generate the 9's complement of the input digit."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c",
+                        "question": "Describe BCD to Excess 3 code convertor."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4c",
+                        "question": "Design BCD to Excess 3 code converter using minimum number of NAND gates."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c OR",
+                        "question": "Design a Combinational circuit that convert Binary to BCD code converter."
+                    }
+                ]
+            },
+            {
+                "topic": "Adders",
+                "frequency": 14,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a",
+                        "question": "Compare Half adder and Full adder."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3b OR",
+                        "question": "Explain 4 bit Binary Parallel Adder."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b",
+                        "question": "Explain Look-ahead Carry generator."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b",
+                        "question": "Explain 4 – bit parallel adder with diagram."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b OR",
+                        "question": "Explain Look-ahead Carry generator"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a",
+                        "question": "Design the combinational circuit of 4 Bit Parallel Adder."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a OR",
+                        "question": "Design Truth table for the Half adder and write the expression for the sum and carry."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c OR",
+                        "question": "Explain look ahead carry generator."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c",
+                        "question": "Design full adder circuit using decoder and multiplexer."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2b",
+                        "question": "Explain 4-bit parallel binary adder with neat and clean diagram"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b",
+                        "question": "Explain BCD adder using two 4-bit adder IC and a correction-detector circuit"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2a",
+                        "question": "Design a Full Adder circuit using basic logic gates."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2a",
+                        "question": "Draw the logic diagram of 1-digit BCD adder."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c OR",
+                        "question": "Design full adder circuit using decoder and multiplexer."
+                    }
+                ]
+            },
+            {
+                "topic": "Digital Comparator",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c",
+                        "question": "Implement 2-bit Magnitude comparator."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c OR",
+                        "question": "Design a circuit which compare two binary number whether A>B, A=B or A<B."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Design 2 - Bit Magnitude Comparator."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a",
+                        "question": "Explain 2 bit magnitude comparator."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4a OR",
+                        "question": "Explain 2-bit comparator circuit."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b",
+                        "question": "Draw truth table of 2-bit digital comparator"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b",
+                        "question": "Design a 1 - bit Magnitude Comparator."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c",
+                        "question": "Design 2 - Bit Magnitude Comparator."
+                    }
+                ]
+            },
+            {
+                "topic": "Magnitude Comparator",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c",
+                        "question": "Implement 2-bit Magnitude comparator."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c OR",
+                        "question": "Design a circuit which compare two binary number whether A>B, A=B or A<B."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Design 2 - Bit Magnitude Comparator."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a",
+                        "question": "Explain 2 bit magnitude comparator."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4a OR",
+                        "question": "Explain 2-bit comparator circuit."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b",
+                        "question": "Draw truth table of 2-bit digital comparator"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b",
+                        "question": "Design a 1 - bit Magnitude Comparator."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c",
+                        "question": "Design 2 - Bit Magnitude Comparator."
+                    }
+                ]
+            },
+            {
+                "topic": "K-Map Simplification",
+                "frequency": 14,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a OR",
+                        "question": "Simplify Boolean function using K-MAP\nF(A, B, C, D)=ABC'D' + ABC'D + ABCD' + AB'CD'"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2b",
+                        "question": "Minimized the boolean expression using K-map\nf (A, B, C, D) = ∑m (0, 1, 5, 6, 7, 8, 9) + d(10, 11, 12, 13, 14, 15)"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a",
+                        "question": "Minimize following Boolean function using K-map: Y(A,B,C,D) = Σ m(0, 1, 3, 5,6, 7, 10, 13,14, 15)"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b OR",
+                        "question": "Minimize following Boolean function using K-map: F(A,B,C,D) = Σ m(1, 5, 6, 12, 13, 14) + d(2, 4)"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c",
+                        "question": "Simplify and implementation the following SOP function using NOR gates F(A,B,C,D)= ∑m(0,1,4,5,10,11,14,15)"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c OR",
+                        "question": "Simplify the Boolean expression using K-map and implement using NAND gates F(A,B,C,D) = ∑m(0,2,3,8,10,11,12,14)"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2b",
+                        "question": "Explain 4 variable K map with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a OR",
+                        "question": "Explain use of don't care condition with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b OR",
+                        "question": "Describe steps of reducing expression using VEM."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3a",
+                        "question": "Simplify the Boolean expression: F(x,y,z) = ∑m (0,1,3,4,5,7)"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c",
+                        "question": "Obtain the set of prime implicants for Function F=\n∑ m (1,2,3,5,6,7,8,9,12,13,15)"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a",
+                        "question": "Reduce the expression Σ (2, 3, 6,7,8,10,11,14) using K-map"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c",
+                        "question": "Design a 4-bit Binary to Gray Code Converter using K-map."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a OR",
+                        "question": "Find expression for the following and implement using logic gates.\nF(A,B,C,D) = πM(0,2,3,6,7,8,9,12,13)"
+                    }
+                ]
+            },
+            {
+                "topic": "Excess-3 Code",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "Design BCD to excess-3 converter."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Design a Combinational circuit that convert BCD to Excess 3 code converter."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c",
+                        "question": "Describe BCD to Excess 3 code convertor."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4c",
+                        "question": "Design BCD to Excess 3 code converter using minimum number of NAND gates."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b",
+                        "question": "Do as directed:\n1. Add 25+17 in BCD\n2. Add 37 +28 in XS-3"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c OR",
+                        "question": "Design Combinational circuit for Binary to Xs-3 conversion"
+                    }
+                ]
+            },
+            {
+                "topic": "Boolean Function Minimization",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a",
+                        "question": "Minimize following Boolean function using K-map: Y(A,B,C,D) = Σ m(0, 1, 3, 5,6, 7, 10, 13,14, 15)"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2b",
+                        "question": "Explain 4 variable K map with example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3a",
+                        "question": "Simplify the Boolean expression: F(x,y,z) = ∑m (0,1,3,4,5,7)"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a",
+                        "question": "Reduce the expression Σ (2, 3, 6,7,8,10,11,14) using K-map"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a OR",
+                        "question": "Find expression for the following and implement using logic gates.\nF(A,B,C,D) = πM(0,2,3,6,7,8,9,12,13)"
+                    }
+                ]
+            },
+            {
+                "topic": "De-Multiplexer/Decoders",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c OR",
+                        "question": "Design 5 to 32 line decoder using 3 to 8 line decoder and 2 to 4 line decoder."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2b",
+                        "question": "With logic diagram and truth table, explain the working of 3 line to 8 line decoder."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c",
+                        "question": "Design full adder circuit using decoder and multiplexer."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a OR",
+                        "question": "Design 4 X 16 decoder using two 3 X 8 decoders"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a OR",
+                        "question": "Implement full subtractor using 3:8 decoder and write a truth table."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c OR",
+                        "question": "Design full adder circuit using decoder and multiplexer."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b OR",
+                        "question": "Design 4 X 16 decoder using two 3 X 8 decoders."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Full Adder",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a",
+                        "question": "Compare Half adder and Full adder."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c",
+                        "question": "Design full adder circuit using decoder and multiplexer."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2a",
+                        "question": "Design a Full Adder circuit using basic logic gates."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c OR",
+                        "question": "Design full adder circuit using decoder and multiplexer."
+                    }
+                ]
+            },
+            {
+                "topic": "4-bit Binary Parallel Adder",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3b OR",
+                        "question": "Explain 4 bit Binary Parallel Adder."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b",
+                        "question": "Explain 4 – bit parallel adder with diagram."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a",
+                        "question": "Design the combinational circuit of 4 Bit Parallel Adder."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2b",
+                        "question": "Explain 4-bit parallel binary adder with neat and clean diagram"
+                    }
+                ]
+            },
+            {
+                "topic": "Standard Representation for Logic Functions",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c OR",
+                        "question": "Explain Minterm and Maxterm."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c",
+                        "question": "Simplify and implementation the following SOP function using NOR gates F(A,B,C,D)= ∑m(0,1,4,5,10,11,14,15)"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2a",
+                        "question": "Convert F(A,B,C) = BC+A into standard minterm form."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a OR",
+                        "question": "Find expression for the following and implement using logic gates.\nF(A,B,C,D) = πM(0,2,3,6,7,8,9,12,13)"
+                    }
+                ]
+            },
+            {
+                "topic": "Carry Look Ahead Adder",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b",
+                        "question": "Explain Look-ahead Carry generator."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b OR",
+                        "question": "Explain Look-ahead Carry generator"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c OR",
+                        "question": "Explain look ahead carry generator."
+                    }
+                ]
+            },
+            {
+                "topic": "Subtractors",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2a",
+                        "question": "Explain the half subtractor with logic circuit."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b",
+                        "question": "Describe half and full subtractor."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a OR",
+                        "question": "Implement full subtractor using 3:8 decoder and write a truth table."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a",
+                        "question": "Design half subtractor logic circuit."
+                    }
+                ]
+            },
+            {
+                "topic": "Half Subtractor",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2a",
+                        "question": "Explain the half subtractor with logic circuit."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b",
+                        "question": "Describe half and full subtractor."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a",
+                        "question": "Design half subtractor logic circuit."
+                    }
+                ]
+            },
+            {
+                "topic": "Don't Care Conditions",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2b",
+                        "question": "Minimized the boolean expression using K-map\nf (A, B, C, D) = ∑m (0, 1, 5, 6, 7, 8, 9) + d(10, 11, 12, 13, 14, 15)"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b OR",
+                        "question": "Minimize following Boolean function using K-map: F(A,B,C,D) = Σ m(1, 5, 6, 12, 13, 14) + d(2, 4)"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a OR",
+                        "question": "Explain use of don't care condition with example."
+                    }
+                ]
+            },
+            {
+                "topic": "Decoder",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2b",
+                        "question": "With logic diagram and truth table, explain the working of 3 line to 8 line decoder."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a OR",
+                        "question": "Design 4 X 16 decoder using two 3 X 8 decoders"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b OR",
+                        "question": "Design 4 X 16 decoder using two 3 X 8 decoders."
+                    }
+                ]
+            },
+            {
+                "topic": "BCD Arithmetic",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b",
+                        "question": "Explain BCD adder using two 4-bit adder IC and a correction-detector circuit"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b",
+                        "question": "Do as directed:\n1. Add 25+17 in BCD\n2. Add 37 +28 in XS-3"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2a",
+                        "question": "Draw the logic diagram of 1-digit BCD adder."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Half Adder",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a",
+                        "question": "Compare Half adder and Full adder."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a OR",
+                        "question": "Design Truth table for the Half adder and write the expression for the sum and carry."
+                    }
+                ]
+            },
+            {
+                "topic": "Boolean Algebra",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a OR",
+                        "question": "Simplify Boolean function using K-MAP\nF(A, B, C, D)=ABC'D' + ABC'D + ABCD' + AB'CD'"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2a",
+                        "question": "Convert F(A,B,C) = BC+A into standard minterm form."
+                    }
+                ]
+            },
+            {
+                "topic": "Minterm",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c OR",
+                        "question": "Explain Minterm and Maxterm."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2a",
+                        "question": "Convert F(A,B,C) = BC+A into standard minterm form."
+                    }
+                ]
+            },
+            {
+                "topic": "Parity Checker/Generator",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c OR",
+                        "question": "Design 3-bit even parity generator circuit."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c",
+                        "question": "Design 3-bit even parity generator circuit."
+                    }
+                ]
+            },
+            {
+                "topic": "Error Detecting Codes",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c OR",
+                        "question": "Design 3-bit even parity generator circuit."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c",
+                        "question": "Design 3-bit even parity generator circuit."
+                    }
+                ]
+            },
+            {
+                "topic": "NAND NOR Universal Gates",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c",
+                        "question": "Simplify and implementation the following SOP function using NOR gates F(A,B,C,D)= ∑m(0,1,4,5,10,11,14,15)"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c OR",
+                        "question": "Simplify the Boolean expression using K-map and implement using NAND gates F(A,B,C,D) = ∑m(0,2,3,8,10,11,12,14)"
+                    }
+                ]
+            },
+            {
+                "topic": "Decoders/Drivers for Display Devices",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c OR",
+                        "question": "Design 5 to 32 line decoder using 3 to 8 line decoder and 2 to 4 line decoder."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c",
+                        "question": "With a neat block diagram explain the function of encoder. Explain priority encoder?"
+                    }
+                ]
+            },
+            {
+                "topic": "Full Subtractor",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b",
+                        "question": "Describe half and full subtractor."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a OR",
+                        "question": "Implement full subtractor using 3:8 decoder and write a truth table."
+                    }
+                ]
+            },
+            {
+                "topic": "BCD Adder",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b",
+                        "question": "Explain BCD adder using two 4-bit adder IC and a correction-detector circuit"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2a",
+                        "question": "Draw the logic diagram of 1-digit BCD adder."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Maxterm",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c OR",
+                        "question": "Explain Minterm and Maxterm."
+                    }
+                ]
+            },
+            {
+                "topic": "9's Complement",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c",
+                        "question": "Design a combinational circuit with four input lines that represent a decimal digit in BCD and four output lines that generate the 9's complement of the input digit."
+                    }
+                ]
+            },
+            {
+                "topic": "Variable Entered Mapping Method",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b OR",
+                        "question": "Describe steps of reducing expression using VEM."
+                    }
+                ]
+            },
+            {
+                "topic": "Prime Implicants",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c",
+                        "question": "Obtain the set of prime implicants for Function F=\n∑ m (1,2,3,5,6,7,8,9,12,13,15)"
+                    }
+                ]
+            },
+            {
+                "topic": "Tabulation Method",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c",
+                        "question": "Obtain the set of prime implicants for Function F=\n∑ m (1,2,3,5,6,7,8,9,12,13,15)"
+                    }
+                ]
+            },
+            {
+                "topic": "Binary Arithmetic",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b",
+                        "question": "Do as directed:\n1. Add 25+17 in BCD\n2. Add 37 +28 in XS-3"
+                    }
+                ]
+            },
+            {
+                "topic": "Priority Encoders",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c",
+                        "question": "With a neat block diagram explain the function of encoder. Explain priority encoder?"
+                    }
+                ]
+            },
+            {
+                "topic": "Gray Code",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c",
+                        "question": "Design a 4-bit Binary to Gray Code Converter using K-map."
+                    }
+                ]
+            },
+            {
+                "topic": "ALU",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b",
+                        "question": "Draw & explain the block diagram of ALU."
+                    }
+                ]
+            },
+            {
+                "topic": "Elementary ALU Design",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b",
+                        "question": "Draw & explain the block diagram of ALU."
+                    }
+                ]
+            }
+        ]
+    },
+    "4": {
+        "unit_name": "Sequential Logic Design",
+        "Most Important": [
+            {
+                "topic": "JK Flip-Flop",
+                "frequency": 16,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4c",
+                        "question": "Explain JK Flip-Flop."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4c OR",
+                        "question": "What is race around condition (racing)? How to solve it?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a",
+                        "question": "Draw the circuit of a J-K flip-flop."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c OR",
+                        "question": "Design a 3 bit synchronous counter using JK flip flop."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b",
+                        "question": "Explain JK flip flop with its characteristic table and excitation table."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c",
+                        "question": "Write a brief note on race around condition and its solution. Draw & explain the logic diagram of master-slave JK flip-flop."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b OR",
+                        "question": "Describe how JK flip-flop is converted into D flip-flop."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3b OR",
+                        "question": "Implement D flip flop using JK flip flop."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4a",
+                        "question": "What is race around condition in JK flip flop."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Do the conversion of JK flip flop to T flip flop and D flip flop to JK"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a",
+                        "question": "Explain Race Around Condition in JK flip flop."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b OR",
+                        "question": "Implement D flip flop using JK flip flop."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c OR",
+                        "question": "Design a 4-bit twisted Ring Counter using JK flip flops."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c",
+                        "question": "Design a synchronous BCD counter using J-K flip-flops."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b",
+                        "question": "Implement D flip flop using JK flip flop."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c OR",
+                        "question": "Design a 3-bit synchronous up counter using JK flip-flops."
+                    }
+                ]
+            },
+            {
+                "topic": "Flip-Flops",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4c",
+                        "question": "Explain JK Flip-Flop."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a",
+                        "question": "Draw the circuit of a J-K flip-flop."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a OR",
+                        "question": "Explain different methods of Triggering of flip-flop."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b",
+                        "question": "Explain JK flip flop with its characteristic table and excitation table."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b",
+                        "question": "Explain D flip flop."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b OR",
+                        "question": "Explain T flip flop."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3b",
+                        "question": "Explain S-R clocked flip flop."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2a",
+                        "question": "Explain SR flip-flop using characteristic table & characteristic equation"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a",
+                        "question": "Explain S-R clocked flip flop."
+                    }
+                ]
+            },
+            {
+                "topic": "SR Flip-Flop",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a OR",
+                        "question": "Explain NAND SR Latch."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a OR",
+                        "question": "Design D FF using SR FF. Write truth table of D FF."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3b",
+                        "question": "Explain S-R clocked flip flop."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2a",
+                        "question": "Explain SR flip-flop using characteristic table & characteristic equation"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a",
+                        "question": "Explain S-R clocked flip flop."
+                    }
+                ]
+            },
+            {
+                "topic": "Shift Registers",
+                "frequency": 11,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5a OR",
+                        "question": "Discuss the application of shift registers."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b",
+                        "question": "Describe the operation of a shift register with suitable diagram."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b OR",
+                        "question": "What are qualitative differences between parallel loading and serial loading in shift registers?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a OR",
+                        "question": "Explain the working of SISO shift register."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c",
+                        "question": "What is the function of shift register? With the help of simple diagram explain its working."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a OR",
+                        "question": "Explain various applications of the register."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c OR",
+                        "question": "List and explain different types of shift register."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "List applications of flip flops, registers, counters."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b OR",
+                        "question": "Explain types of shift-register and their application"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b OR",
+                        "question": "Draw & explain in brief the logic diagram of 4-bit bidirectional shift register."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a OR",
+                        "question": "List out and explain any one application of the register."
+                    }
+                ]
+            },
+            {
+                "topic": "Applications of Shift Registers",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5a OR",
+                        "question": "Discuss the application of shift registers."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c",
+                        "question": "What is the function of shift register? With the help of simple diagram explain its working."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a OR",
+                        "question": "Explain various applications of the register."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b OR",
+                        "question": "Explain types of shift-register and their application"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a OR",
+                        "question": "List out and explain any one application of the register."
+                    }
+                ]
+            },
+            {
+                "topic": "Counters",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5b OR",
+                        "question": "Explain working of counter."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c",
+                        "question": "Design the four bit Johnson counter and explain the operation."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a",
+                        "question": "Explain the working of a Counter."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a",
+                        "question": "Explain about Ring counter."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "List applications of flip flops, registers, counters."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c OR",
+                        "question": "Design a counter to generate the repetitive sequence 0,4,2,1,6."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4b",
+                        "question": "Construct a ring counter with five timing signals."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c OR",
+                        "question": "Design a 4-bit twisted Ring Counter using JK flip flops."
+                    }
+                ]
+            },
+            {
+                "topic": "Synchronous Counters",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c OR",
+                        "question": "Design a 3 bit synchronous counter using JK flip flop."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c OR",
+                        "question": "Design a Synchronous counter with the following binary sequence: 0, 1, 3, 4,5, 7 and repeat. Use T – flip-flops"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c",
+                        "question": "Explain synchronous 3-bit up counters."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a",
+                        "question": "Differentiate asynchronous and synchronous counters."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a",
+                        "question": "Differentiate synchronous counter and asynchronous counter"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a",
+                        "question": "Differentiate Synchronous Counters and Asynchronous Counters."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c",
+                        "question": "Design a synchronous BCD counter using J-K flip-flops."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a OR",
+                        "question": "Differentiate synchronous counter and asynchronous counter."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c OR",
+                        "question": "Design a 3-bit synchronous up counter using JK flip-flops."
+                    }
+                ]
+            },
+            {
+                "topic": "Counter Design Using Flip-Flops",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c OR",
+                        "question": "Design a 3 bit synchronous counter using JK flip flop."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c OR",
+                        "question": "Design a Synchronous counter with the following binary sequence: 0, 1, 3, 4,5, 7 and repeat. Use T – flip-flops"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c",
+                        "question": "Explain synchronous 3-bit up counters."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c OR",
+                        "question": "Design a counter to generate the repetitive sequence 0,4,2,1,6."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c",
+                        "question": "Design a synchronous BCD counter using J-K flip-flops."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c OR",
+                        "question": "Design a 3-bit synchronous up counter using JK flip-flops."
+                    }
+                ]
+            },
+            {
+                "topic": "D Flip-Flop",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a OR",
+                        "question": "Design D FF using SR FF. Write truth table of D FF."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b",
+                        "question": "Describe how T flip-flop is converted into D flip-flop."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b OR",
+                        "question": "Describe how JK flip-flop is converted into D flip-flop."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b",
+                        "question": "Explain D flip flop."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3b OR",
+                        "question": "Implement D flip flop using JK flip flop."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Do the conversion of JK flip flop to T flip flop and D flip flop to JK"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b OR",
+                        "question": "Implement D flip flop using JK flip flop."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b",
+                        "question": "Implement D flip flop using JK flip flop."
+                    }
+                ]
+            },
+            {
+                "topic": "Flip-Flop Conversion",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a OR",
+                        "question": "Design D FF using SR FF. Write truth table of D FF."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b",
+                        "question": "Describe how T flip-flop is converted into D flip-flop."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b OR",
+                        "question": "Describe how JK flip-flop is converted into D flip-flop."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3b OR",
+                        "question": "Implement D flip flop using JK flip flop."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Do the conversion of JK flip flop to T flip flop and D flip flop to JK"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b OR",
+                        "question": "Implement D flip flop using JK flip flop."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b",
+                        "question": "Implement D flip flop using JK flip flop."
+                    }
+                ]
+            },
+            {
+                "topic": "T Flip-Flop",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b",
+                        "question": "Describe how T flip-flop is converted into D flip-flop."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b OR",
+                        "question": "Explain T flip flop."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Do the conversion of JK flip flop to T flip flop and D flip flop to JK"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Design mod-6 asynchronous counter using T flip flop"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2b",
+                        "question": "Design a modulo-6 ripple counter using T-Flip-flops."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c",
+                        "question": "Design mod-6 asynchronous counter using T flip flop."
+                    }
+                ]
+            },
+            {
+                "topic": "Ripple Counters",
+                "frequency": 10,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c OR",
+                        "question": "Draw the state diagram of BCD ripple counter, develop its logic diagram and explain its operation."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a",
+                        "question": "Differentiate asynchronous and synchronous counters."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Describe 2 bit ripple down counter."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5c",
+                        "question": "Explain the working of 4 bit binary ripple counter."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a",
+                        "question": "Differentiate synchronous counter and asynchronous counter"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Design mod-6 asynchronous counter using T flip flop"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2b",
+                        "question": "Design a modulo-6 ripple counter using T-Flip-flops."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a",
+                        "question": "Differentiate Synchronous Counters and Asynchronous Counters."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a OR",
+                        "question": "Differentiate synchronous counter and asynchronous counter."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c",
+                        "question": "Design mod-6 asynchronous counter using T flip flop."
+                    }
+                ]
+            },
+            {
+                "topic": "Asynchronous Counters",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a",
+                        "question": "Differentiate asynchronous and synchronous counters."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Describe 2 bit ripple down counter."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5c",
+                        "question": "Explain the working of 4 bit binary ripple counter."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a",
+                        "question": "Differentiate synchronous counter and asynchronous counter"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Design mod-6 asynchronous counter using T flip flop"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2b",
+                        "question": "Design a modulo-6 ripple counter using T-Flip-flops."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a",
+                        "question": "Differentiate Synchronous Counters and Asynchronous Counters."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a OR",
+                        "question": "Differentiate synchronous counter and asynchronous counter."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c",
+                        "question": "Design mod-6 asynchronous counter using T flip flop."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Clocked SR Flip-Flop",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b OR",
+                        "question": "Explain clock triggering mechanism."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3b",
+                        "question": "Explain S-R clocked flip flop."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a",
+                        "question": "Explain S-R clocked flip flop."
+                    }
+                ]
+            },
+            {
+                "topic": "Race Around Condition",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4c OR",
+                        "question": "What is race around condition (racing)? How to solve it?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c",
+                        "question": "Write a brief note on race around condition and its solution. Draw & explain the logic diagram of master-slave JK flip-flop."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4a",
+                        "question": "What is race around condition in JK flip flop."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a",
+                        "question": "Explain Race Around Condition in JK flip flop."
+                    }
+                ]
+            },
+            {
+                "topic": "Ring Counter",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c",
+                        "question": "Design the four bit Johnson counter and explain the operation."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a",
+                        "question": "Explain about Ring counter."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4b",
+                        "question": "Construct a ring counter with five timing signals."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c OR",
+                        "question": "Design a 4-bit twisted Ring Counter using JK flip flops."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Sequential Circuits",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a",
+                        "question": "Give the difference between sequential circuit and combinational circuit."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a OR",
+                        "question": "Differentiate sequential and combinational circuits."
+                    }
+                ]
+            },
+            {
+                "topic": "Combinational Circuits",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a",
+                        "question": "Give the difference between sequential circuit and combinational circuit."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a OR",
+                        "question": "Differentiate sequential and combinational circuits."
+                    }
+                ]
+            },
+            {
+                "topic": "Flip-Flop Triggering",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b OR",
+                        "question": "Explain clock triggering mechanism."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a OR",
+                        "question": "Explain different methods of Triggering of flip-flop."
+                    }
+                ]
+            },
+            {
+                "topic": "Counter Design",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5b OR",
+                        "question": "Explain working of counter."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a",
+                        "question": "Explain the working of a Counter."
+                    }
+                ]
+            },
+            {
+                "topic": "Characteristic Table",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b",
+                        "question": "Explain JK flip flop with its characteristic table and excitation table."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2a",
+                        "question": "Explain SR flip-flop using characteristic table & characteristic equation"
+                    }
+                ]
+            },
+            {
+                "topic": "State Diagrams",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c OR",
+                        "question": "Design a Synchronous counter with the following binary sequence: 0, 1, 3, 4,5, 7 and repeat. Use T – flip-flops"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c OR",
+                        "question": "Draw the state diagram of BCD ripple counter, develop its logic diagram and explain its operation."
+                    }
+                ]
+            },
+            {
+                "topic": "BCD Counter",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c OR",
+                        "question": "Draw the state diagram of BCD ripple counter, develop its logic diagram and explain its operation."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c",
+                        "question": "Design a synchronous BCD counter using J-K flip-flops."
+                    }
+                ]
+            },
+            {
+                "topic": "Types of Shift Registers",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c OR",
+                        "question": "List and explain different types of shift register."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b OR",
+                        "question": "Explain types of shift-register and their application"
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Bistable Latch",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a OR",
+                        "question": "Explain NAND SR Latch."
+                    }
+                ]
+            },
+            {
+                "topic": "NAND SR Latch",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a OR",
+                        "question": "Explain NAND SR Latch."
+                    }
+                ]
+            },
+            {
+                "topic": "Johnson Counter",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c",
+                        "question": "Design the four bit Johnson counter and explain the operation."
+                    }
+                ]
+            },
+            {
+                "topic": "Parallel Loading",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b OR",
+                        "question": "What are qualitative differences between parallel loading and serial loading in shift registers?"
+                    }
+                ]
+            },
+            {
+                "topic": "Serial Loading",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b OR",
+                        "question": "What are qualitative differences between parallel loading and serial loading in shift registers?"
+                    }
+                ]
+            },
+            {
+                "topic": "Excitation Table",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b",
+                        "question": "Explain JK flip flop with its characteristic table and excitation table."
+                    }
+                ]
+            },
+            {
+                "topic": "Master-Slave JK Flip-Flop",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c",
+                        "question": "Write a brief note on race around condition and its solution. Draw & explain the logic diagram of master-slave JK flip-flop."
+                    }
+                ]
+            },
+            {
+                "topic": "State Tables",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c OR",
+                        "question": "Design a Synchronous counter with the following binary sequence: 0, 1, 3, 4,5, 7 and repeat. Use T – flip-flops"
+                    }
+                ]
+            },
+            {
+                "topic": "SISO Shift Register",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a OR",
+                        "question": "Explain the working of SISO shift register."
+                    }
+                ]
+            },
+            {
+                "topic": "Applications of Flip-Flops",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "List applications of flip flops, registers, counters."
+                    }
+                ]
+            },
+            {
+                "topic": "Sequence Generator",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c OR",
+                        "question": "Design a counter to generate the repetitive sequence 0,4,2,1,6."
+                    }
+                ]
+            },
+            {
+                "topic": "Binary Ripple Counter",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5c",
+                        "question": "Explain the working of 4 bit binary ripple counter."
+                    }
+                ]
+            },
+            {
+                "topic": "Bidirectional Shift Register",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b OR",
+                        "question": "Draw & explain in brief the logic diagram of 4-bit bidirectional shift register."
+                    }
+                ]
+            }
+        ]
+    },
+    "5": {
+        "unit_name": "Memory Element",
+        "Most Important": [
+            {
+                "topic": "Digital to Analog Converters",
+                "frequency": 15,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5a",
+                        "question": "Classify different types of digital to analog converters."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5c OR",
+                        "question": "Describe operation of D/A converter with binary-weighted resisters."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a",
+                        "question": "How can we describe the resolution of a D/A converter?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b",
+                        "question": "A 10-bit D/A converter provides an analog output which has a maximum value of 10.23 volts. Find the resolution of this D/A converter."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c",
+                        "question": "Explain the working of R-2R ladder type D/A converter."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b OR",
+                        "question": "A 10-bit D/A converter has a step-size of 10 mV. Determine the full-scale output voltage and the percentage resolution."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b",
+                        "question": "Explain R-2R ladder type D/A converter"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b OR",
+                        "question": "Explain the specification of D/A converter"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c OR",
+                        "question": "Describe operation of D/A converter with binary-weighted resisters"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4c OR",
+                        "question": "What is Digital to Analog converter? Draw and Explain R-2R DAC."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a OR",
+                        "question": "Explain R-2R ladder type D/A converter"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c",
+                        "question": "List out various commonly used D/A converters. Draw & explain any one D/A converter."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b OR",
+                        "question": "Explain the specifications of Digital to Analog Converters."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b",
+                        "question": "Explain the specification of D/A converter."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b OR",
+                        "question": "Explain R-2R ladder type D/A converter."
+                    }
+                ]
+            },
+            {
+                "topic": "RAM",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5b",
+                        "question": "Compare static RAM and dynamic RAM."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a",
+                        "question": "Draw and explain the structure of a RAM cell."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a OR",
+                        "question": "Compare the SRAMs and DRAMs."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a",
+                        "question": "Compare static RAM and dynamic RAM."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a",
+                        "question": "Differentiate static and dynamic RAM."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a OR",
+                        "question": "Differentiate RAM and ROM"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a",
+                        "question": "Differentiate Static RAM and Dynamic RAM."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a",
+                        "question": "Compare SRAM with DRAM."
+                    }
+                ]
+            },
+            {
+                "topic": "Static RAM",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5b",
+                        "question": "Compare static RAM and dynamic RAM."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a OR",
+                        "question": "Compare the SRAMs and DRAMs."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a",
+                        "question": "Compare static RAM and dynamic RAM."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a",
+                        "question": "Differentiate static and dynamic RAM."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a",
+                        "question": "Differentiate Static RAM and Dynamic RAM."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a",
+                        "question": "Compare SRAM with DRAM."
+                    }
+                ]
+            },
+            {
+                "topic": "Dynamic RAM",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5b",
+                        "question": "Compare static RAM and dynamic RAM."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a OR",
+                        "question": "Compare the SRAMs and DRAMs."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a",
+                        "question": "Compare static RAM and dynamic RAM."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a",
+                        "question": "Differentiate static and dynamic RAM."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a",
+                        "question": "Differentiate Static RAM and Dynamic RAM."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a",
+                        "question": "Compare SRAM with DRAM."
+                    }
+                ]
+            },
+            {
+                "topic": "ROM",
+                "frequency": 10,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5c",
+                        "question": "List out different types of ROM. Also explain ROM."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b OR",
+                        "question": "Implement the following Boolean expressions using a PROM.\nf1 (x2, x1, x0) = ∑m (0, 1, 2, 5, 7)\nf2 (x2, x1, x0) = ∑m (1, 2, 4, 6)"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a OR",
+                        "question": "Explain the types of ROM."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b",
+                        "question": "Using 8x4 ROM, realize the expressions W(A,B,C) =∑m(0,1,3,5,7) ,X(A,B,C) =∑m(0,2,4,5) , Y(A,B,C) =∑m(1,2,4,7) , Z(A,B,C=∑m(0,3,5,6,7). Show the data at address 2 & 6."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a OR",
+                        "question": "Differentiate RAM and ROM"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5b",
+                        "question": "Write a short note on Read Only Memory (ROM)."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5b OR",
+                        "question": "Implement following functions using ROM.\nF1 = ∑m (1,3,4,6) and F2 = ∑m (0,1,5,7)."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a OR",
+                        "question": "A combinational logic circuit is defined by the functions:\nF1= Ʃ (0,1,2,5,7) and F2= Ʃ (1, 2,4, 6). Implement the circuit with a PROM"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c OR",
+                        "question": "Explain various types of Read Only Memory."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c OR",
+                        "question": "Write a short note on ROM & its types."
+                    }
+                ]
+            },
+            {
+                "topic": "R-2R Ladder DAC",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c",
+                        "question": "Explain the working of R-2R ladder type D/A converter."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b",
+                        "question": "Explain R-2R ladder type D/A converter"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4c OR",
+                        "question": "What is Digital to Analog converter? Draw and Explain R-2R DAC."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a OR",
+                        "question": "Explain R-2R ladder type D/A converter"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b OR",
+                        "question": "Explain R-2R ladder type D/A converter."
+                    }
+                ]
+            },
+            {
+                "topic": "Analog to Digital Converters",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a OR",
+                        "question": "Explain the types of A/D convertors."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c OR",
+                        "question": "Describe the successive approximation A/D conversion principle with the neat diagram, explain this type of A/D converter."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b OR",
+                        "question": "Explain Successive Approximation type A/D converter."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2c",
+                        "question": "Explain Successive Approximation A/D converter in detail."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5c OR",
+                        "question": "Explain in detail Dual Slope A/D converter."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c OR",
+                        "question": "List out various commonly used A/D converters. Draw & explain any one A/D converter"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c OR",
+                        "question": "Explain Successive Approximation type A/D converter."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c",
+                        "question": "Explain the operation of Dual-slope A/D converter."
+                    }
+                ]
+            },
+            {
+                "topic": "Memory Organization",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a",
+                        "question": "Draw and explain the structure of a RAM cell."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "Discuss in brief semiconductor memory organization and its operation."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c OR",
+                        "question": "Give a brief on various types of memories."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a OR",
+                        "question": "Differentiate RAM and ROM"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c OR",
+                        "question": "List types of memory and explain any two in details."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a OR",
+                        "question": "Explain classification of Memories."
+                    }
+                ]
+            },
+            {
+                "topic": "Programmable Logic Array",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b",
+                        "question": "Implement using PLA\nf1 = ∑m(0, 3, 4, 7)\nf2 = ∑m(3, 5, 6, 7)"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c OR",
+                        "question": "What is a programmable LOGIC Array (PLA)? Describe with a logic diagram the principle of operation of a PLA. What are its advantages?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c",
+                        "question": "A combinational circuit is defined by the function F1 (A, B, C,) = Σ m (0,1,3,4) F2 (A, B, C,) = Σ m (1.2.3,4,5) Implement the circuit with a PLA having 3 inputs, 3 product term & 2 outputs."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a",
+                        "question": "Write difference between PROM, PLA & PAL."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c",
+                        "question": "Implement the following function using PLA\nF1= ∑m(0,2,5,8,9,11),F2=∑m(1,3,8,10,13,15),F3=∑m(0,1,5,7,9,12,14)."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2c OR",
+                        "question": "A combinational logic is defined by functions:\nF1(A,B,C) = ∑m (3,5,6,7) F2(A,B,C) = ∑m (0,2,4,7)\nImplement the circuit with PLA having 3 inputs, 4 product terms & 2 outputs."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c OR",
+                        "question": "A combinational logic circuit is defined by the functions:\nF1= Ʃ (0,1,2,4) and F2= Ʃ (0, 5, 6,7).\nImplement the circuit with a PLA having three inputs, four product terms and two outputs."
+                    }
+                ]
+            },
+            {
+                "topic": "PLA",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b",
+                        "question": "Implement using PLA\nf1 = ∑m(0, 3, 4, 7)\nf2 = ∑m(3, 5, 6, 7)"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c OR",
+                        "question": "What is a programmable LOGIC Array (PLA)? Describe with a logic diagram the principle of operation of a PLA. What are its advantages?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c",
+                        "question": "A combinational circuit is defined by the function F1 (A, B, C,) = Σ m (0,1,3,4) F2 (A, B, C,) = Σ m (1.2.3,4,5) Implement the circuit with a PLA having 3 inputs, 3 product term & 2 outputs."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c",
+                        "question": "Implement the following function using PLA\nF1= ∑m(0,2,5,8,9,11),F2=∑m(1,3,8,10,13,15),F3=∑m(0,1,5,7,9,12,14)."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2c OR",
+                        "question": "A combinational logic is defined by functions:\nF1(A,B,C) = ∑m (3,5,6,7) F2(A,B,C) = ∑m (0,2,4,7)\nImplement the circuit with PLA having 3 inputs, 4 product terms & 2 outputs."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c OR",
+                        "question": "A combinational logic circuit is defined by the functions:\nF1= Ʃ (0,1,2,4) and F2= Ʃ (0, 5, 6,7).\nImplement the circuit with a PLA having three inputs, four product terms and two outputs."
+                    }
+                ]
+            },
+            {
+                "topic": "ROM as PLD",
+                "frequency": 12,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b",
+                        "question": "Implement using PLA\nf1 = ∑m(0, 3, 4, 7)\nf2 = ∑m(3, 5, 6, 7)"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b OR",
+                        "question": "Implement the following Boolean expressions using a PROM.\nf1 (x2, x1, x0) = ∑m (0, 1, 2, 5, 7)\nf2 (x2, x1, x0) = ∑m (1, 2, 4, 6)"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c OR",
+                        "question": "What is a programmable LOGIC Array (PLA)? Describe with a logic diagram the principle of operation of a PLA. What are its advantages?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c",
+                        "question": "A combinational circuit is defined by the function F1 (A, B, C,) = Σ m (0,1,3,4) F2 (A, B, C,) = Σ m (1.2.3,4,5) Implement the circuit with a PLA having 3 inputs, 3 product term & 2 outputs."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a",
+                        "question": "Write difference between PROM, PLA & PAL."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b",
+                        "question": "Using 8x4 ROM, realize the expressions W(A,B,C) =∑m(0,1,3,5,7) ,X(A,B,C) =∑m(0,2,4,5) , Y(A,B,C) =∑m(1,2,4,7) , Z(A,B,C=∑m(0,3,5,6,7). Show the data at address 2 & 6."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c",
+                        "question": "Explain PAL with example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2c OR",
+                        "question": "A combinational logic is defined by functions:\nF1(A,B,C) = ∑m (3,5,6,7) F2(A,B,C) = ∑m (0,2,4,7)\nImplement the circuit with PLA having 3 inputs, 4 product terms & 2 outputs."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5b OR",
+                        "question": "Implement following functions using ROM.\nF1 = ∑m (1,3,4,6) and F2 = ∑m (0,1,5,7)."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c OR",
+                        "question": "A combinational logic circuit is defined by the functions:\nF1= Ʃ (0,1,2,4) and F2= Ʃ (0, 5, 6,7).\nImplement the circuit with a PLA having three inputs, four product terms and two outputs."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a OR",
+                        "question": "A combinational logic circuit is defined by the functions:\nF1= Ʃ (0,1,2,5,7) and F2= Ʃ (1, 2,4, 6). Implement the circuit with a PROM"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b OR",
+                        "question": "Write a short note on Programmable Array Logic."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Resolution of DAC",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a",
+                        "question": "How can we describe the resolution of a D/A converter?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b",
+                        "question": "A 10-bit D/A converter provides an analog output which has a maximum value of 10.23 volts. Find the resolution of this D/A converter."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b OR",
+                        "question": "A 10-bit D/A converter has a step-size of 10 mV. Determine the full-scale output voltage and the percentage resolution."
+                    }
+                ]
+            },
+            {
+                "topic": "Successive Approximation ADC",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c OR",
+                        "question": "Describe the successive approximation A/D conversion principle with the neat diagram, explain this type of A/D converter."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b OR",
+                        "question": "Explain Successive Approximation type A/D converter."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2c",
+                        "question": "Explain Successive Approximation A/D converter in detail."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c OR",
+                        "question": "Explain Successive Approximation type A/D converter."
+                    }
+                ]
+            },
+            {
+                "topic": "PROM",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b OR",
+                        "question": "Implement the following Boolean expressions using a PROM.\nf1 (x2, x1, x0) = ∑m (0, 1, 2, 5, 7)\nf2 (x2, x1, x0) = ∑m (1, 2, 4, 6)"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a",
+                        "question": "Write difference between PROM, PLA & PAL."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a OR",
+                        "question": "A combinational logic circuit is defined by the functions:\nF1= Ʃ (0,1,2,5,7) and F2= Ʃ (1, 2,4, 6). Implement the circuit with a PROM"
+                    }
+                ]
+            },
+            {
+                "topic": "Types of ROM",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a OR",
+                        "question": "Explain the types of ROM."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c OR",
+                        "question": "Explain various types of Read Only Memory."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c OR",
+                        "question": "Write a short note on ROM & its types."
+                    }
+                ]
+            },
+            {
+                "topic": "Specifications of DAC",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b OR",
+                        "question": "Explain the specification of D/A converter"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b OR",
+                        "question": "Explain the specifications of Digital to Analog Converters."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b",
+                        "question": "Explain the specification of D/A converter."
+                    }
+                ]
+            },
+            {
+                "topic": "Programmable Array Logic",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a",
+                        "question": "Write difference between PROM, PLA & PAL."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c",
+                        "question": "Explain PAL with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b OR",
+                        "question": "Write a short note on Programmable Array Logic."
+                    }
+                ]
+            },
+            {
+                "topic": "Field Programmable Gate Array",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a OR",
+                        "question": "Discuss : Field Programmable Gate Array (FPGA)"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4b OR",
+                        "question": "Write a short note on FPGA."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b",
+                        "question": "Write a short note on FPGA."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c",
+                        "question": "Write a short note on FPGA."
+                    }
+                ]
+            },
+            {
+                "topic": "FPGA",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a OR",
+                        "question": "Discuss : Field Programmable Gate Array (FPGA)"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4b OR",
+                        "question": "Write a short note on FPGA."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b",
+                        "question": "Write a short note on FPGA."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c",
+                        "question": "Write a short note on FPGA."
+                    }
+                ]
+            },
+            {
+                "topic": "Classification of Memories",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c OR",
+                        "question": "Give a brief on various types of memories."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c OR",
+                        "question": "List types of memory and explain any two in details."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a OR",
+                        "question": "Explain classification of Memories."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Read Only Memory",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5c",
+                        "question": "List out different types of ROM. Also explain ROM."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5b",
+                        "question": "Write a short note on Read Only Memory (ROM)."
+                    }
+                ]
+            },
+            {
+                "topic": "Binary-Weighted Resistor DAC",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5c OR",
+                        "question": "Describe operation of D/A converter with binary-weighted resisters."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c OR",
+                        "question": "Describe operation of D/A converter with binary-weighted resisters"
+                    }
+                ]
+            },
+            {
+                "topic": "PAL",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c",
+                        "question": "Explain PAL with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b OR",
+                        "question": "Write a short note on Programmable Array Logic."
+                    }
+                ]
+            },
+            {
+                "topic": "Charge Coupled Device Memory",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b OR",
+                        "question": "Describe charge coupled device memory."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a OR",
+                        "question": "Explain basic structure of a CCD (Charge Coupled Device)."
+                    }
+                ]
+            },
+            {
+                "topic": "CCD",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b OR",
+                        "question": "Describe charge coupled device memory."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a OR",
+                        "question": "Explain basic structure of a CCD (Charge Coupled Device)."
+                    }
+                ]
+            },
+            {
+                "topic": "Sequential Memory",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b OR",
+                        "question": "Describe charge coupled device memory."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a OR",
+                        "question": "Explain basic structure of a CCD (Charge Coupled Device)."
+                    }
+                ]
+            },
+            {
+                "topic": "Dual Slope ADC",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5c OR",
+                        "question": "Explain in detail Dual Slope A/D converter."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c",
+                        "question": "Explain the operation of Dual-slope A/D converter."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "RAM Cell",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a",
+                        "question": "Draw and explain the structure of a RAM cell."
+                    }
+                ]
+            },
+            {
+                "topic": "Semiconductor Memory",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "Discuss in brief semiconductor memory organization and its operation."
+                    }
+                ]
+            },
+            {
+                "topic": "Content Addressable Memory",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b",
+                        "question": "Describe content addressable memory."
+                    }
+                ]
+            },
+            {
+                "topic": "CAM",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b",
+                        "question": "Describe content addressable memory."
+                    }
+                ]
+            }
+        ]
+    }
+}

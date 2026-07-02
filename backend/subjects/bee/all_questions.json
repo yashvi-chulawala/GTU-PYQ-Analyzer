@@ -1,0 +1,1252 @@
+[
+  {
+    "question_no": "Q1a",
+    "question": "Calculate the Resistance of a 100 m length of wire having a uniform cross sectional area of 0.02 mm² and having resistivity of 40 μΩ-cm.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain Kirchhoff's law for DC series network in brief.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Define the following terms for AC (alternating current) signal: (i) Peak Factor (ii) Form Factor (iii) Average Value (iv) RMS Value (v) Time period (vi) Frequency (vii) Cycle",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "State the Superposition theorem with suitable example.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "State the Norton's theorem with suitable example.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "For the Wheatstone bridge diagram shown in Figure 1, obtain the current flowing through the 20Ω resistance using Thevenin's equivalent network.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Derive an expression for the voltage across the capacitor during charging through the resistor at any instant Vc = V(1-e^(-t/RC)). Assume that RC series circuit is connected across a DC supply of voltage V.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Write the comparison between Series resonance and Parallel resonance condition in AC circuit.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Distinguish between (i) Apparent power (ii) Active power and (iii) Reactive power in ac circuits.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Prove that the current in purely Capacitive circuit leads its voltage by 90° and average power consumption in pure capacitor is zero.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "List out the merits of two-watt meter method.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Draw Impedance triangle, Voltage triangle, Power triangle for single phase R-L series circuit.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Obtain the relationship between line and phase values of current in a three phase, balanced, delta connected system.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Explain working principle of single phase Transformer.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Mention Merits and Demerits of Single Phase Induction Motor.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain construction of Alternator with neat diagram.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write applications of Auto Transformer.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Compare Squirrel cage induction motor and Slip ring Induction Motor.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Describe construction of a DC machine.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain the protective device Switch Fuse unit in detail.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "With help of suitable labeled diagram, explain any two types of wires used in the residential and commercial wiring.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain different methods of Power factor Improvement.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Compare MCB and ELCB.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write safety precautions for Electrical Appliances.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Classify different types Earthing and explain any one in detail.",
+    "year": "S2022"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Determine the number of branches and nodes in the circuit shown in fig 1. Identify which elements are in series and which are in parallel.",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Find the average and rms value for the waveform shown in fig 2.",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain working of a single-phase transformer and derive the e.m.f. equation. Why the rating of transformer is in KVA?",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Can we apply KVL in a loop containing a current source? Give answer with reason.",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain ideal Voltage and current source",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Determine the current in the branches of the network in Fig.3 using nodal analysis.",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "A 120 V, 500 W lamp is used with a series choke on a 230 V, 60 Hz line, what is the inductance of the required choke if the choke has a Q of 2?",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Distinguish between a mesh and a loop of a circuit.",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "What is the use of form factor and peak factor; also differentiate between EMF and potential difference.",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Determine the current through 2 ohm resistor connected between A and B in the circuit shown in fig.4 using Thevenin theorem",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is the need for power factor improvement in electrical circuits?",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Summarize the advantages of 3 phase circuits over single-phase circuits.",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "A 400 V, 50 Hz 3-phase supply has 100 ohm between R and Y, j100 ohm between Y and B and -j100 ohm between B and R. Find (a) line currents for phase sequence RYB (b) star connected balanced resistors for the same power",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Draw and explain briefly BH curve.",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Write advantages of the sinusoidal waveform for electrical power applications.",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "With the help of phasor diagram explain two wattmeter methods for the measurement of three-phase power.",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is the significance of back E.M.F. in a DC Motor?",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "State advantages and disadvantages of autotransformer.",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "What is the time constant of an RC circuit? Show that its units are the same as that of time. How this quantity signify about capacitor voltage during charging?",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Why single-phase induction motor is not self-starting?",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Analyze on how can the direction of rotation of a DC shunt motor be reversed",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Define the term battery capacity. On which factors it depends. Also list out the parts of lead acid battery",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "List out some safety measures against electric shocks",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What is the difference between wire & cable?",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain principle, construction and working of a synchronous generator in details.",
+    "year": "S2023"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define the following terms related to Electrical Circuits. 1. Branch 2. Node or Junction point 3. Mesh or Loop",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "A 100 W, 230 V lamp is connected in series with a 50W, 150 V lamp across 250 V supply mains. Calculate Voltage across each lamp.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain Superposition theorem with suitable example.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "A R-L-C series circuit consists of R=10 ohm, L= 0.1 H and C= 50 μF. Find 1. Impedance 2. Current and 3. Active power, when it is connected to a a.c. source of 230V,50Hz.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Draw the voltage and current waveforms of R-L and R-C series circuits.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Derive the equation of three equivalent star connected resistances in terms of delta connected resistances.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Using Thevenin's theorem find current in branch BD of the network shown in Fig. 1",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Define the following terms in connection with A.C. wave forms. 1. Time period 2. R.M.S. Value 3. Average Value",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Three currents are represented by: i1 = 10 sin wt, i2 = 20 sin (wt - π/6) and i3 = 30 sin (wt + π/4). Find magnitude and phase angle of resultant current.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Prove that current through pure inductor is always lagging by 90° to its voltage and power consumed is zero with necessary waveform and phasor diagram.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Write the characteristics of Series Resonant Circuit.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Give advantages and disadvantages of Two Wattmeter method.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Derive the relationship of voltages and currents for Star connection in 3-phase a.c. circuit.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Derive E.M.F. equation of single-phase transformer.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Compare core type and shell type transformers.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Describe an auto transformer with its advantages, limitations and applications.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Give classification of D.C. Motors.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Prepare list of different parts of D.C. machine and explain any one part with figure.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain construction of synchronous generator with diagram.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "List the various safety devices used for domestic purpose.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain necessity of earthing.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain different methods for power factor improvement.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What is MCCB? Where it is used?",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "State the advantages and applications of underground cables.",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Calculate the electricity bill amount for a month of March, if 5 bulbs of 40 W for 5 h, 6 tube lights of 60 W for 5 h, a TV of 100 W for 6 h, a washing machine of 400 W for 2 h, a water pump of 0.5 HP for 30 minutes are used per day. The cost per unit is Rs 3.50. Consider 1 HP = 746 watts",
+    "year": "S2024"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "State Ohm's law and Kirchhoff's laws.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Define power factor. Write the disadvantages of low power factor.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Derive the equation of star to delta and delta to star transformation.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Write the advantages and disadvantages of polyphase systems.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Define: (i) Form factor (ii) Peak factor (iii) Frequency and (iv) Cycle.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "State and explain Thevenin's theorem with suitable example.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "A 100 V, 100-Watt lamp is connected in series with a 100 V, 60-watt lamp across 200 V supply. Determine current drawn and power consumed by each lamp.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Define: (i) Active power (ii) Reactive power and (iii) apparent power in ac circuits.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain the comparison between series resonance and parallel resonance condition in ac circuits.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Prove that current in purely inductive circuit lags its voltage by 90 degree and average power consumption in pure inductive circuit is zero.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Define and explain RMS value and average value in ac circuits.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Derive an expression for impedance, current and power factor for an R-L-C series circuit when supplied with ac voltage. Also draw the phasor diagram.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Derive the relationship between line voltage and phase voltage, line current and phase current in a 3-phase balanced star connected circuit",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define transformer. Write the main parts of transformer.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Compare auto transformer with two winding transformers.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain various connections of 3-phase transformers with necessary diagrams.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write the advantages and disadvantages of auto transformer.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write the types of 1-phase induction motors. Explain any one of them.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain construction and working of synchronous generator with necessary diagram.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Compare squirrel cage induction motor with slip ring induction motor.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain the types of dc motors with diagrams.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Define earthing. Explain plate earthing with diagram.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Give a list of safety devices used for home appliances.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write the comparison of Fuse, MCB and ELCB.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "A series R-L-C circuit having a resistance of 8 Ω, inductance of 80 mH and capacitance of 100 μF is connected across a 150 Volt, 50 Hz supply. Calculate (i) the current (ii) the power factor and (iii) the voltage drops in the coil and capacitance.",
+    "year": "S2025"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Demonstrate Kirchhoff's Current Law",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Define Active, Reactive, Apparent Power and Power factor.",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Using Thevenin's theorem, Calculate the current passing through load resistance, shown in the figure below.",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Compare electric circuit and magnetic circuit",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain 3-phase power measurement by two wattmeter method",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain the condition for resonance in a series RLC circuit. Derive the expression for resonant frequency and sketch the graphs of frequency versus current, impedance, power factor, and VL or VC",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Derive relation between line voltage and phase voltage in star connection",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Draw the construction of single phase transformer and mention the main parts.",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "List the types of split-phase induction motors. Which type is most suitable for heavy-duty load applications with a good power factor? Justify your answer",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Draw and Explain B-H Curve",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain Working of single phase transformer",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Discuss the reason behind the non-self-starting nature of a single-phase induction motor. What are the essential conditions required to produce a rotating magnetic field?",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Define MMF, Magnetic field intensity, Magnetic flux density, reluctance, permeance, reluctivity, permeability",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What are the various types of lamps used in practice? Which lamp is most suitable for domestic use and why?",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Demonstrate working of miniature circuit braker",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain Working of BLDC Motor",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Differentiate between a fuse and an Miniature Circuit Breaker",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain the working of ELCB",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Draw the construction of BLDC motor and explain function of each part",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What are lighting fixtures and reflectors? Give two examples of each.",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "List the types of lightning scheme with general diagram",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "State the importance of earthing and list its types. Explain any one type in detail.",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "State important characteristics of battery",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What safety precautions should be taken while dealing with electrical appliances?",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Calculate the monthly energy consumption and energy charge for the month of June for the following electrical appliances: 5 bulbs of 20 W used for 5 hours/day, 4 ceiling fan used for 13 hours/day, a TV of 120 W used for 9 hours/day, a washing machine of 400 W used for 3 hours/day, and a 1 HP water pump used for 30 minutes/day. The cost per unit is Rs 4.50. (1 HP = 746 W)",
+    "year": "S2026"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "State and explain Kirchhoff's current Law.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Prepare a list of parts of a Single-phase AC Motor.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "State & Explain the Thevenin's theorem with suitable example.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Write short note on autotransformer.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Derive the EMF equation of single-phase transformer.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "When three resistances of 10Ω, 20Ω, and 30Ω are connected in series across 230 V supply. Find (1) equivalent resistance (2) current flowing through each resistance, (3) voltage drop across each and (4) power loss in each resistor",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Derive the relationship between line and phase values of current in a three phase, balanced, delta connected system.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Define following terms in connection with A.C wave forms: (i) Frequency (ii) Time period (iii) Amplitude.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "If the waveform of a voltage has a form factor of 1.11 and peak factor of 1.51 and if the maximum value of a voltage is 4500 volts. Calculate the average and r.m.s. values of the voltage.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Describe the open circuit & short circuit test on single-phase transformer.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "List out the merits of two-watt meter method.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Compare series and parallel RLC circuit resonance.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Derive an expression for the voltage across the capacitor during charging through the resistor at any instant Vc = V (1-e^(-t/RC)). Assume that RC series circuit is connected across a DC supply of voltage V.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Mention Merits and Demerits of Single-Phase Induction Motor.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Compare Squirrel cage induction motor and Slip ring Induction Motor.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Describe construction of a DC machine.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write applications of Auto Transformer.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain Working of capacitor start Single phase induction motor",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain construction of synchronous generator with diagram.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Write advantages and disadvantages of ELCB.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Draw the structure of underground cable with name of all sections.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain different methods of Power factor Improvement",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Write safety precautions for electrical Applications",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Compute the monthly energy charges for an air conditioner having Power consumption of 3 kW and daily uses 10 hours. Energy charges Rs. 5 per unit",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Classify different types Earthing and explain any one in detail.",
+    "year": "W2024"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Calculate current, resistance and energy consumed by an oven rated 230V, 1KW when used for 20 hours. Also calculate the electricity bill at the rate of Rs. 7/- per unit.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Define Power Factor. What are the disadvantages of Low Power Factor?",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Summarize; Mathematical & Waveform representation of an alternating sinusoidal quantity (voltage or current). Demonstrate time period, peak value, Peak to Peak value, Average value, RMS value. Write definition of all.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Write statement of Superposition, Norton and Thevenin theorem.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Write classification of Electric Networks.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write applications of Thevenin's theorem. Find the current passing through 2 Ω (Fig. A) resistance using Thevenin's theorem. All resistances are in Ω.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Derive the expression for the rise of current in R-L series circuit when a D.C. supply is switched on to it. Define time constant of it.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Define Form factor. State the value of form factor for Sinusoidal waveform.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "A series resonance network consisting of a resistor of 30Ω, a capacitor of 2μF and an inductor of 20mH is connected across a sinusoidal supply voltage which has a constant output of 9 volts at all frequencies. Calculate, the resonant frequency, the current at resonance, the voltage across the inductor and capacitor at resonance, the Quality factor and the bandwidth of the circuit.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "With the help of waveforms and phasor diagrams, comment on phase relationship between voltage and current in single phase RLC series circuit.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Define Q-factor of RLC series circuit. What is the importance of it?",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Draw Impedance triangle and Admittance triangle.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "A balanced 3-phase load consists of 3 coils each of resistance of 6 Ω and inductive reactance of 8 Ω. Determine line current and power absorbed when the coils are 1. Star connected and 2. Delta connected across 400V, 3-phase supply.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "State advantages of polyphase systems.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Mention Merits and Demerits of Induction Motor.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain construction of single phase Transformer.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write applications of Auto Transformer.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain the principle of operation of an Alternator.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Describe construction of a DC machine.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Mention advantages of MCB over Fuse.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Mention basic guidelines (Safety Rules) regarding safe handling of electricity.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain construction of cable in detail with neat diagram. Label all the parts.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Briefly explain block diagram of ELCB.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Mention important points regarding Earthing of Electrical Installation.",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Write short technical notes on Battery Maintenance. What precautions to be taken for Lead Acid Batteries?",
+    "year": "W2021"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "State and explain Kirchhoff's current Law",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Draw the construction of single phase core type transformer",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Derive an expression for equivalent resistances of a Delta connected network to transform into a Star connected network.",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Prepare a list of parts of a Single phase AC Motor.",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "When three resistances of 10Ω, 20Ω, and 30Ω are connected in series across 230 V supply. Find (1) equivalent resistance (2) current flowing through each resistance, (3) voltage drop across each and (4) power loss in each resistor",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Describe phenomena of series resonance in R-L-C series circuit.",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Prove that the average power consumption in a pure inductive circuit is zero.",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Write statement of Superposition, Thevenin's and Norton's Theorems.",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Derive an emf equation of single phase transformer",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Define following terms in connection with A.C wave forms : (i) Frequency (ii) Time period (iii) Instantaneous value (iv) Peak factor (v) form factor (vi) R. M. S. Value and (vii) Average Value",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Write short note on autotransformer",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Compare series and parallel RLC circuit resonance",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Discuss how the rotating magnetic field is produced in three phase induction motor",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "State types of single phase split phase induction motor",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain Working of capacitor start Single phase induction motor",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "List the various parts of DC Motor and explain each",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Define with equation Active, reactive and apparent power in AC circuit",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What is power factor? State the methods of power factor improvement",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Prove that the sum of readings of two watt meters connected to measure power in three phase circuit gives total power consumed by the circuit",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Discuss the difference between MCB and Fuse",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Compute the monthly energy charges for an air conditioner having Power consumption of 3 kW and daily uses 10 hours. Energy charges Rs. 5 per unit",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain Working of Earth Leakage Circuit Breaker (ELCB).",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Draw the structure of underground cable with name of all sections.",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain construction of 3-phase induction motor with diagram",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Briefly describe pipe earthing",
+    "year": "W2022"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Compare resistive series and parallel circuits.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "State the Thevenin's theorem with suitable example.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Derive an expression for equivalent resistances of a star connected network to transform into a Delta connected network.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Define Amplitude, Frequency and Time period for alternating quantities.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Two coils are connected in parallel and a voltage of 200V is applied between the terminals. The total current taken by the circuit is 25 A and power dissipated in one of the coils is 1500 W. Calculate the resistance of each coil.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Obtain the relationship between line and phase values of current in a three phase, balanced, delta connected system.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Prove that the current in purely inductive circuit lags its voltage by 90° and average power consumption in pure inductor is zero.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Draw power triangle and define active power, reactive power and apparent power.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "If the waveform of a voltage has a form factor of 1.15 and peak factor of 1.5 and if the maximum value of a voltage is 4500 volts. Calculate the average and r.m.s. values of the voltage.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Use the superposition theorem to calculate the current in branch AB of the circuit shown in below figure.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain working principle of synchronous motor.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Classify and compare various types of D.C. motors.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain construction of DC Machine.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Derive the EMF equation of single-phase transformer.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Compare core type and shell type single phase transformers.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain various connections of three phase transformer with diagram.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Give a comparison between squirrel cage induction motor and wound rotor induction motor.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain in brief working principle of Three Phase Induction Motor.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain construction of synchronous generator with diagram.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Compute the energy charges for an air conditioner having consumption of 2 kW for the month of April. Daily usage of the air conditioner is 12 hours. Energy charges are Rs 9 per unit.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write safety precautions for electrical Applications.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain different methods of Power factor Improvement.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Write advantages and disadvantages of ELCB.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Give comparison between MCB and Fuse.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Classify different types of Earthing and explain Plate Earthing with diagram.",
+    "year": "W2023"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Calculate current, resistance and energy consumed by an electric iron rated 230 V, 2 KW when used for 12 hours. What is the monthly energy bill at Rs. 5/- per unit?",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Draw various types of alternating waveforms. Label peak, peak-to-peak, RMS and average value on sinusoidal AC waveform. Why are sinusoidal voltages preferred over other alternating voltages?",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Write basic guidelines (Safety Rules) regarding the safe handling of electricity and electrical appliances. Mention various types of electrical safety devices.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "A 100 V, 100 W lamp is connected in series with a 100 V, 60W lamp across 200 V supply. Determine current drawn and power consumed by each lamp.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What are the limitations of the superposition theorem?",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Find current in 2 Ω resistance by Thevenin's theorem circuit shown in figure 1. Also draw Thevenin's equivalent circuit.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Derive the expression for the voltage across the capacitor at any instant after the application of DC voltage V to a circuit with a capacitance C in series with resistance R. Define the time constant (τ) of the series RC circuit.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "A balanced star connected load of 4+j3 Ω per phase is connected to a balanced 3-phase 400 V supply. Find the active power and reactive power.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Compare single phase alternating R-L circuit with R-C circuit.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Write short technical note on series RLC resonance. Plot the variation of impedance, current and power factor with respect to the signal frequency.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "A single-phase series RLC circuit having 50 Ω resistance, 0.1 H inductance and 50μF capacitance and it is connected with single phase 230 V, 50 Hz supply. Calculate the active power consumed by the circuit.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Draw Power triangle and impedance triangle for single phase R-L series circuit and write the formula of power factor from it.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Define power factor. What are the drawbacks of low power factor? Explain any one method to improve the power factor.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Compare core type and shell type transformer.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Write short note on B-H curve of magnetic materials.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain the principle of operation of the transformer. Draw the construction of transformer and write function of each part.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain the principle of operation of induction motor.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Mention the advantages of induction motor over dc motor.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Draw construction of DC machine, label each part and write the function of each.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain the construction of the cable.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What is the necessity of earthing?",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Differentiate fuse, MCB and MCCB.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Compare equipment earthing with neutral earthing.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write a short technical note on battery maintenance.",
+    "year": "W2025"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Elaborate various methods of earthing.",
+    "year": "W2025"
+  }
+]

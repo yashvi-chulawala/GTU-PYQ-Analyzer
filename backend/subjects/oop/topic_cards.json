@@ -1,0 +1,1969 @@
+{
+    "1": {
+        "unit_name": "Basic of Java",
+        "Most Important": [
+            {
+                "topic": "Java Platform and Architecture (JVM, JDK, JRE)",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1a",
+                        "question": "List out features of Java. Explain any two features."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1a",
+                        "question": "Answer in one word:(one mark for each)\nI. Which integral type in Java has the exact range from -2147483648 (-2^31) to 2147483647 (2^31-1).\nII. The software for developing and running Java programs.\nIII. It is similar to machine instructions but is architecture neutral and can run on any platform that has a Java Virtual Machine (JVM)."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1a",
+                        "question": "How java supports platform independency? What is the role of JVM in it?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a OR",
+                        "question": "Elaborate the role of java garbage collector."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1c",
+                        "question": "Write a method that returns a new array by eliminating the duplicate values in the array using the following method header: public static int[] eliminateDuplicates(int[] list). Write a test program that reads in ten integers, invokes the method, and displays the result."
+                    }
+                ]
+            },
+            {
+                "topic": "Java Program Structure, Compilation, and Execution",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1b",
+                        "question": "Write a single program which demonstrates the usage of following keywords:\ni) import, ii) new, iii) this, iv) break, v) continue\nShow how to compile and run the program in java."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "What is the Java bytecode, and what is the extension of Java bytecode file? Which software is needed to run Java bytecode?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1b",
+                        "question": "Describe syntax errors (compile errors), runtime errors, and logic errors by giving suitable examples?"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "How one can compile and execute a Java program?"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1a",
+                        "question": "What are syntax errors (compile errors), runtime errors, and logic errors?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1a",
+                        "question": "Discuss significance of byte code."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1a",
+                        "question": "Why public, static, void and arguments in following statement required → public static void main(String args[])"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b",
+                        "question": "Read two numbers from command line argument and print sum of them."
+                    }
+                ]
+            }
+        ],
+        "Important": [],
+        "Moderate": [
+            {
+                "topic": "Data Types",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1a",
+                        "question": "Answer in one word:(one mark for each)\nI. Which integral type in Java has the exact range from -2147483648 (-2^31) to 2147483647 (2^31-1).\nII. The software for developing and running Java programs.\nIII. It is similar to machine instructions but is architecture neutral and can run on any platform that has a Java Virtual Machine (JVM)."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1c",
+                        "question": "Explain Data Types in detail with example."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Variables, Keywords, Literals, Operators",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1b",
+                        "question": "Write a single program which demonstrates the usage of following keywords:\ni) import, ii) new, iii) this, iv) break, v) continue\nShow how to compile and run the program in java."
+                    }
+                ]
+            },
+            {
+                "topic": "Type Conversion",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q1b",
+                        "question": "What is Type Casting? Explain widening and narrowing type casting."
+                    }
+                ]
+            }
+        ]
+    },
+    "5": {
+        "unit_name": "Interface, Abstract Class and Exception Handling",
+        "Most Important": [
+            {
+                "topic": "Handling Exception using try, catch and finally",
+                "frequency": 20,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1c",
+                        "question": "Demonstrate use of try-catch construct in case of hierarchical Exception Handling. (i.e handling various exception belongs to the exception hierarchy)"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a",
+                        "question": "Differentiate between checked and unchecked exception?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b",
+                        "question": "Exemplify throw and throws clause of exception handling?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c",
+                        "question": "Demonstrate use of try catch block by catching ArithmeticExceptions and InputMismatchExceptions?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c OR",
+                        "question": "Write a program to make calculator that accepts input from commandline? Use java's exception handling mechanism to handle abnormal situation?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c OR",
+                        "question": "Write a program to make calculator that accepts input from commandline? Use java's exception handling mechanism to handle abnormal situation?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c OR",
+                        "question": "What is an Exception? Explain Exception handling in JAVA with the help of example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a",
+                        "question": "How do keyword throw differ from throws in Exception handling?"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a",
+                        "question": "Explain use of throw in exception handling with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "Write a Java program to create a class VotingApp where the method checkEligibility(int age) checks if a person is eligible to vote. If age < 18, explicitly throw the predefined exception IllegalArgumentException with the message \"Invalid Age\". The finally block should always print \"Validation done\"."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4c",
+                        "question": "What is an Exception? Explain try, catch and finally with example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b",
+                        "question": "Write exception handling mechanisms in JAVA."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3a OR",
+                        "question": "Explain the use of finally. Show the type of code usually kept in finally?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b OR",
+                        "question": "Distinguish unchecked exception and checked exception? Give example of each type of exception?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b",
+                        "question": "Outline the use of throw in exception handling with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c OR",
+                        "question": "Create a method named Withdraw () in the main function performing exception handling. Example: Balance = 1000; Withdraw = 12000 Here, Balance<Withdraw (throw exception)"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a",
+                        "question": "Describe following term : finally and finalize"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c",
+                        "question": "What is exception? Explain the use of exception handling keywords with example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c",
+                        "question": "Write the bin2Dec(String binary String) method to convert a binary string into a decimal number. Implement the bin2Dec method to throw a Number Format Exception if the string is not a binary string."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b OR",
+                        "question": "Differentiate the followings:\n(i) Checked and Unchecked Exceptions\n(ii) Text I/O and Binary I/O"
+                    }
+                ]
+            },
+            {
+                "topic": "Interface",
+                "frequency": 20,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a OR",
+                        "question": "Differentiate between Abstract class and Interfaces"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b OR",
+                        "question": "Explain multithreading using Runnable interface"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5b OR",
+                        "question": "In multi-threads using the Runnable interface, explain with an example how a start() method calls the run() method of a class implementing a runnable interface."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b OR",
+                        "question": "Differentiate between Thread class and Runnable interface for implementing Threads?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a",
+                        "question": "Answer in one line:\n(i) Write the name of package in which all collection classes and interface are grouped.\n(ii) Write the name of collection interface or abstract class which store and process object in a first-in, first-out fashion.\n(iii) Write the name of method that checks whether the collection contains the specified element."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Differentiate between following:\ni. this keyword vs super keyword\nii. abstract class vs interface"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b OR",
+                        "question": "Declare an interface called Function that has a method named evaluate that takes an int parameter and returns an int value.\nCreate a class called Half that implements the Function interface. The implementation of the method evaluate() should return the value obtained by dividing the int argument by 2."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c",
+                        "question": "Give the name of class or interface that provides following facility (Do not elaborate)(one mark for each)\ni. Dynamic array to store the duplicate element of different data types. It maintains the insertion order.\nii. Implements the last-in-first-out data structure.\niii. Implements the first-in-first-out data structure.\niv. Implements the first-in-first-out data structure and it holds the elements or objects which are to be processed by their priorities.\nv. It represents the unordered set of elements which doesn't allow us to store the duplicate items.\nvi. It is a red-black tree-based implementation. It provides an efficient means of storing key-value pairs in sorted order.\nvii. It allows us to store key and value pair, where keys should be unique."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b",
+                        "question": "Define interface in java."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b OR",
+                        "question": "Explain runnable interface."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Design a Java program for an Online Order Processing System using partial interface implementation. Create an interface Order with three methods: placeOrder(String item, int qty), cancelOrder(int orderId), generateBill(). Create an abstract class PartialOrder that implements the Order interface but provides implementation only for placeOrder() (storing order details). Create a concrete class FinalOrder that extends PartialOrder and implements the remaining methods cancelOrder() and generateBill(). Accept user input for order details and allow user to either generate a bill or cancel the order."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2a",
+                        "question": "What is an interface? Explain with example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c OR",
+                        "question": "Write a program that illustrates interface inheritance. Interface P is extended by P1 and P2. Interface P12 inherits from both P1 and P2. Each interface declares one constant and one method. class Q implements P12. Instantiate Q and invoke each of its methods. Each method displays one of the constants."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c OR",
+                        "question": "Answer in brief(within two lines):\n(i) If a method defined in a subclass has the same signature as a method in its superclass with the same return type, is the method overridden or overloaded?\n(ii) How do you invoke an overridden superclass method from a subclass?\n(iii) What is the purpose of \"this\" keyword?\n(iv) Differentiate between following statements:\nint a=3;\nInteger b=new Integer(3);\n(v) Which java keyword is used to prevent inheritance (prevent class to be extended)?\n(vi) Can we create reference of interface. If we can create, then what is the use of it?\n(vii) What is the difference between a String in Java and String in C/C++?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b OR",
+                        "question": "State four similarities between Interfaces and Classes."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b",
+                        "question": "Characterize the role of Iterator interface?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b OR",
+                        "question": "Compare Abstract class and Interface"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1b",
+                        "question": "Differentiate following:\n(i) abstract class with interface\n(ii) String with String Buffer"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c OR",
+                        "question": "How do interfaces support polymorphism? Explain with example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a",
+                        "question": "Define the compare To method in a class implementing the Comparable interface. What are the benefits of implementing the Comparable interface?"
+                    }
+                ]
+            },
+            {
+                "topic": "Abstract Class",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a OR",
+                        "question": "Differentiate between Abstract class and Interfaces"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a",
+                        "question": "Answer in one line:\n(i) Write the name of package in which all collection classes and interface are grouped.\n(ii) Write the name of collection interface or abstract class which store and process object in a first-in, first-out fashion.\n(iii) Write the name of method that checks whether the collection contains the specified element."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Differentiate between following:\ni. this keyword vs super keyword\nii. abstract class vs interface"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b",
+                        "question": "i. Analyze following code pieces and write the output/error and briefly justify output:\npublic class Test {\npublic static void main(String[] args) {\nnew Person().printPerson();\nnew Student().printPerson();\n}\n}\nclass Student extends Person {\n@Override\npublic String getInfo() {\nreturn \"Student\";\n}\n}\nclass Person {\npublic String getInfo() {\nreturn \"Person\";\n}\npublic void printPerson() {\nSystem.out.println(getInfo());\n}\n}\n\nii. Given the following source code, which comment line can be uncommented without introducing errors?\nabstract class MyClass {\nabstract void f();\nfinal void g() {}\n//final void h() {} // comment (1)\n}\nfinal class MyOtherClass extends MyClass {\npublic static void main(String[] args) {\nMyClass mc = new MyOtherClass();\n}\nvoid f() {}\nvoid h() {}\n//void g() {} // comment (2)\n}"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Design a Java program for an Online Order Processing System using partial interface implementation. Create an interface Order with three methods: placeOrder(String item, int qty), cancelOrder(int orderId), generateBill(). Create an abstract class PartialOrder that implements the Order interface but provides implementation only for placeOrder() (storing order details). Create a concrete class FinalOrder that extends PartialOrder and implements the remaining methods cancelOrder() and generateBill(). Accept user input for order details and allow user to either generate a bill or cancel the order."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3a",
+                        "question": "Explain abstract class with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c OR",
+                        "question": "What is Abstract class? Describe usage of Abstract class with one example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b OR",
+                        "question": "Compare Abstract class and Interface"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1b",
+                        "question": "Differentiate following:\n(i) abstract class with interface\n(ii) String with String Buffer"
+                    }
+                ]
+            },
+            {
+                "topic": "throws keyword",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5a",
+                        "question": "Explain following Java keywords using appropriate examples:\ni) throw, ii) throws, iii) finally"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b",
+                        "question": "Exemplify throw and throws clause of exception handling?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a",
+                        "question": "How do keyword throw differ from throws in Exception handling?"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a OR",
+                        "question": "Explain difference between throw and throws."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a",
+                        "question": "What is the significance of throws keyword in Java?"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4a OR",
+                        "question": "What is the keyword \"throw\" used for? What is the keyword \"throws\" used for?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a OR",
+                        "question": "Describe following keywords: (i) throw (ii) throws"
+                    }
+                ]
+            },
+            {
+                "topic": "Throwing Exception using throw",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a",
+                        "question": "Explain use of throw in exception handling with example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a OR",
+                        "question": "Explain difference between throw and throws."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "Write a Java program to create a class VotingApp where the method checkEligibility(int age) checks if a person is eligible to vote. If age < 18, explicitly throw the predefined exception IllegalArgumentException with the message \"Invalid Age\". The finally block should always print \"Validation done\"."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b",
+                        "question": "Outline the use of throw in exception handling with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c OR",
+                        "question": "Create a method named Withdraw () in the main function performing exception handling. Example: Balance = 1000; Withdraw = 12000 Here, Balance<Withdraw (throw exception)"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c",
+                        "question": "Write the bin2Dec(String binary String) method to convert a binary string into a decimal number. Implement the bin2Dec method to throw a Number Format Exception if the string is not a binary string."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Checked and Unchecked Exceptions",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a",
+                        "question": "Differentiate between checked and unchecked exception?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b OR",
+                        "question": "Distinguish unchecked exception and checked exception? Give example of each type of exception?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b OR",
+                        "question": "Differentiate the followings:\n(i) Checked and Unchecked Exceptions\n(ii) Text I/O and Binary I/O"
+                    }
+                ]
+            }
+        ],
+        "Moderate": [],
+        "Less Important": [
+            {
+                "topic": "Partial Interface",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Design a Java program for an Online Order Processing System using partial interface implementation. Create an interface Order with three methods: placeOrder(String item, int qty), cancelOrder(int orderId), generateBill(). Create an abstract class PartialOrder that implements the Order interface but provides implementation only for placeOrder() (storing order details). Create a concrete class FinalOrder that extends PartialOrder and implements the remaining methods cancelOrder() and generateBill(). Accept user input for order details and allow user to either generate a bill or cancel the order."
+                    }
+                ]
+            }
+        ]
+    },
+    "4": {
+        "unit_name": "Inheritance, Polymorphism and Wrapper Classes",
+        "Most Important": [
+            {
+                "topic": "super keyword",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2a",
+                        "question": "Explain following Java keywords using appropriate examples:\ni) static, ii) final, iii) super"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2a",
+                        "question": "What is the use of this keyword? How it is different from super keyword?"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a OR",
+                        "question": "What is use of super keyword?"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a OR",
+                        "question": "Demonstrate all the uses of the super keyword in Java with suitable examples."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3b OR",
+                        "question": "Explain following keywords\n(1) super   (2) this"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Explain the words super, static, final and this with the help of an example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a",
+                        "question": "Describe use of Super keyword."
+                    }
+                ]
+            },
+            {
+                "topic": "final keyword",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2a",
+                        "question": "Explain following Java keywords using appropriate examples:\ni) static, ii) final, iii) super"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a OR",
+                        "question": "What is the final keyword? Give different uses of the final keyword."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c OR",
+                        "question": "What is difference between final, finally and finalize."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a",
+                        "question": "Demonstrate all the uses of the final keyword in Java with suitable examples."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Explain the words super, static, final and this with the help of an example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c",
+                        "question": "Give Definitions: static, finalize, final"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2a",
+                        "question": "State three use of final keyword."
+                    }
+                ]
+            },
+            {
+                "topic": "Method Overloading",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c",
+                        "question": "Write a java program to take infix expressions and convert it into prefix expressions."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "Write a program that defines class named StopWatch. The class contains:\n• Private data fields startTime and endTime with getter methods.\n• no-arg constructor that initializes startTime with the current time.\n• A method named start() that resets the startTime to the current time.\n• A method named stop() that sets the endTime to the current time.\n• A method named getElapsedTime() that returns the elapsed time for the stopwatch in milliseconds.\n• Declare object of StopWatch to demonstrate stop watch.\nHint: Use System.currentTimeMillis() to get current time in milliseconds."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a",
+                        "question": "Give definition of method overloading."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1a",
+                        "question": "Explain method overriding and method overloading in Java."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c",
+                        "question": "Explain the concept of method overloading with an example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3b",
+                        "question": "Explain Method Overloading and Overriding."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Explain Overloading and Overriding with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c",
+                        "question": "Define concept of method overloading and method overriding with examples."
+                    }
+                ]
+            },
+            {
+                "topic": "Inheritance",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a",
+                        "question": "Defines types of inheritance."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c",
+                        "question": "Explain inheritance with example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "List OOP characteristics and describe inheritance with examples."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b OR",
+                        "question": "What is Inheritance? List out the different forms of Inheritance and explain any one with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2b",
+                        "question": "Analyze following code. Validate and explain output of code. If any error exists, indicate portion. Suggest code to eliminate error:\npublic class Circle {\nprivate double radius;\npublic static void main(String args[]){\nCircle c1=new Circle(2);\nSystem.out.println(\"Area \"+c1.getArea());\nB b1=new B(2, 2);\nSystem.out.println(\"Area \"+b1.getArea());\n}\npublic Circle(double radius) {\nradius = radius;\n}\npublic double getRadius() {\nreturn radius;\n}\npublic double getArea() {\nreturn radius * radius * Math.PI;\n}\n}\nclass B extends Circle {\nprivate double length;\nB(){}\nB(double radius, double length) {\nlength = length;\n}\npublic double getArea() {\nreturn (super.getArea() * length);\n}\n}"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1c",
+                        "question": "Describe Inheritance, Polymorphism and Data Encapsulation characteristics of OOP with example."
+                    }
+                ]
+            },
+            {
+                "topic": "Polymorphism",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a OR",
+                        "question": "Define types of polymorphism"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b",
+                        "question": "Explain types of polymorphism?"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c OR",
+                        "question": "Explain polymorphism with example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2c OR",
+                        "question": "What is polymorphism? Explain dynamic binding with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1c",
+                        "question": "Describe Inheritance, Polymorphism and Data Encapsulation characteristics of OOP with example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a",
+                        "question": "What is polymorphism? What is dynamic binding?"
+                    }
+                ]
+            },
+            {
+                "topic": "String, StringBuffer and StringBuilder class",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1c",
+                        "question": "Analyze following code pieces (assume they are properly enclosed in class and main function) and write the output/error (No justification is required): (one mark for each)\nI. int num = 5;\nint x = 1;\nfor (int i = 1; i <= num; i++) {\nx *= i;\n}\nSystem.out.println(\"x is \" + x);\n\nII. int[] nums = {1, 5, 3, 9, 7};\nint m= 1;\nint s= 0;\nfor (int i = 0; i < nums.length; i++) {\nif (nums[i] > m) {\ns = m;\nm = nums[i];\n} else if (nums[i] > s && nums[i] != m) {\ns = nums[i];\n}\n}\nSystem.out.println(\"s is: \" + s);\n\nIII. int i=1,j=0,k=0;\nif (i > k) {\nif (j > k)\nSystem.out.println(\"i and j are greater than k\");\n}\nelse\nSystem.out.println(\"i is less than or equal to k\");\n\nIV. int x = 3, y = 3;\nswitch (x + 3) {\ncase 6: y = 1;\ndefault: y += 1;\n}\nSystem.out.println(\"y is \" + y);\n\nV. class HelloWorld {\npublic static void main(String[] args) {\nint[] numbers = new int[1];\nnumbers[0]=0;\nm(numbers);\nSystem.out.println(\"numbers[0] is\" + numbers[0]);\n}\npublic static void m(int[] y) {\ny[0] = 3;\n}\n}\n\nVI. StringBuffer s1 = new StringBuffer(\"Complete\");\ns1.setCharAt(1,'i');\ns1.setCharAt(7,'d');\nSystem.out.println(s1);\n\nVII. int Integer = 24;\nchar String ='I';\nSystem.out.print(Integer);\nSystem.out.print(String);"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b",
+                        "question": "Differentiate between StringBuffer and StringBuilder class."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3a OR",
+                        "question": "Differentiate String class and StringBuffer class."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2b",
+                        "question": "List out different methods available for String class in java and explain any two with proper example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c OR",
+                        "question": "Compare String with StringBuffer. Also, write a program to count the occurrence of a character in a string."
+                    }
+                ]
+            },
+            {
+                "topic": "Method Overriding",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1a",
+                        "question": "Explain method overriding and method overloading in Java."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c OR",
+                        "question": "Explain the concept of method overriding with an example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3b",
+                        "question": "Explain Method Overloading and Overriding."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Explain Overloading and Overriding with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2b",
+                        "question": "Analyze following code. Validate and explain output of code. If any error exists, indicate portion. Suggest code to eliminate error:\npublic class Circle {\nprivate double radius;\npublic static void main(String args[]){\nCircle c1=new Circle(2);\nSystem.out.println(\"Area \"+c1.getArea());\nB b1=new B(2, 2);\nSystem.out.println(\"Area \"+b1.getArea());\n}\npublic Circle(double radius) {\nradius = radius;\n}\npublic double getRadius() {\nreturn radius;\n}\npublic double getArea() {\nreturn radius * radius * Math.PI;\n}\n}\nclass B extends Circle {\nprivate double length;\nB(){}\nB(double radius, double length) {\nlength = length;\n}\npublic double getArea() {\nreturn (super.getArea() * length);\n}\n}"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c",
+                        "question": "Define concept of method overloading and method overriding with examples."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "static keyword",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2a",
+                        "question": "Explain following Java keywords using appropriate examples:\ni) static, ii) final, iii) super"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Explain the words super, static, final and this with the help of an example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c",
+                        "question": "Give Definitions: static, finalize, final"
+                    }
+                ]
+            },
+            {
+                "topic": "this keyword",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2a",
+                        "question": "What is the use of this keyword? How it is different from super keyword?"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3b OR",
+                        "question": "Explain following keywords\n(1) super   (2) this"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Explain the words super, static, final and this with the help of an example."
+                    }
+                ]
+            },
+            {
+                "topic": "Java API Packages, User-defined Packages",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b OR",
+                        "question": "What is the package? Explain steps to create a package with example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b OR",
+                        "question": "What is package concept and Describe the use of package."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a OR",
+                        "question": "How can you create packages in Java?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c",
+                        "question": "Describe steps to create a package with one example."
+                    }
+                ]
+            },
+            {
+                "topic": "Dynamic Binding",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2c OR",
+                        "question": "What is polymorphism? Explain dynamic binding with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b OR",
+                        "question": "Define property of Dynamic method dispatch with example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a",
+                        "question": "What is polymorphism? What is dynamic binding?"
+                    }
+                ]
+            },
+            {
+                "topic": "Defining Classes and Objects",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "List OOP characteristics and describe inheritance with examples."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2b",
+                        "question": "Analyze following code. Validate and explain output of code. If any error exists, indicate portion. Suggest code to eliminate error:\npublic class Circle {\nprivate double radius;\npublic static void main(String args[]){\nCircle c1=new Circle(2);\nSystem.out.println(\"Area \"+c1.getArea());\nB b1=new B(2, 2);\nSystem.out.println(\"Area \"+b1.getArea());\n}\npublic Circle(double radius) {\nradius = radius;\n}\npublic double getRadius() {\nreturn radius;\n}\npublic double getArea() {\nreturn radius * radius * Math.PI;\n}\n}\nclass B extends Circle {\nprivate double length;\nB(){}\nB(double radius, double length) {\nlength = length;\n}\npublic double getArea() {\nreturn (super.getArea() * length);\n}\n}"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c OR",
+                        "question": "Create a class named Account with instance variables Ac_No, Name and Balance and methods display (), setdata (),deposit(). In display () method, display the instance variables Ac_No, Name and Balance. And in setdata () method set the instance variable values (Ac_No, Name and Balance) and in deposit() method the amount that user wants to deposit that will be deposited."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Types of Inheritance",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a",
+                        "question": "Defines types of inheritance."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b OR",
+                        "question": "What is Inheritance? List out the different forms of Inheritance and explain any one with example."
+                    }
+                ]
+            },
+            {
+                "topic": "Wrapper Classes for Primitive Types",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b OR",
+                        "question": "What is the purpose of wrapper classes for primitive types in Java? Demonstrate autoboxing and unboxing with suitable example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a OR",
+                        "question": "Describe any one wrapper class with its method usage."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Handling Exception using try, catch and finally",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c OR",
+                        "question": "What is difference between final, finally and finalize."
+                    }
+                ]
+            },
+            {
+                "topic": "Autoboxing/Unboxing",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b OR",
+                        "question": "What is the purpose of wrapper classes for primitive types in Java? Demonstrate autoboxing and unboxing with suitable example."
+                    }
+                ]
+            }
+        ]
+    },
+    "3": {
+        "unit_name": "Basics of Object Oriented Programming",
+        "Most Important": [
+            {
+                "topic": "Defining Classes and Objects",
+                "frequency": 19,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2b",
+                        "question": "Consider class A as the parent of class B. Explain among the following which statement will show the compilation error.\ni) A a = new A();\nii) A a = new B();\niii) B b = new A();\niv) B b = new B();"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3b OR",
+                        "question": "Explain the following:\ni) Arguments and Parameters of a function\nii) Pass by Value and Pass by reference"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2b",
+                        "question": "(i) Given that Thing is a class, how many objects and how many reference variables are created by the following code?\nThing item, stuff;\nitem = new Thing();\nThing entity = new Thing();\n(ii) Examine following code. Write and justify output.\npublic class MyClass {\npublic static void main(String[] args) {\nC c = new C();\nSystem.out.println(c.max(12, 29));\n}\n}\nclass A {\nint max(int x, int y) { if (x>y) return x; else return y; }\n}\nclass B extends A{\nint max(int x, int y) { return super.max(y, x) - 10; }\n}\nclass C extends B {\nint max(int x, int y) { return super.max(x+10, y+2); }\n}"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c OR",
+                        "question": "Create a class called Employee that includes:\nI. Three instance variables— id (type String), name (type String) and monthly_salary (double).\nII. A default constructor that initializes the three instance variables.\nIII. A setter and a getter method for each instance variable (for example for id variable void setId(String id), String getId( )).\nIV. displayEmployee() method for displaying employee details.\nWrite a driver class named EmployeeTest that demonstrates class Employee's capabilities. Create two Employee objects and display each object's yearly salary. Then give each Employee a 10% raise and display each Employee's yearly salary again."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2a",
+                        "question": "Describe the relationship between an object and its defining class."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1c",
+                        "question": "Define and explain object and class in Java with appropriate example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c",
+                        "question": "What is purpose of using methods? How do you declare a method? How do you invoke a method?"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a",
+                        "question": "What is super class?"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c",
+                        "question": "Write a Java program to design a class Time with hours (int) and minutes (int) as data members. Include method setTime(int h, int m) to initialize the time and displayTime() to display the time. Implement a method addTime(Time t1, Time t2) that adds t1 and t2, and print the result."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c OR",
+                        "question": "Fill in the blanks to get following output.\nOutput: 3 5 8 13 21\npublic class FibonacciRecursive {\npublic _____ void generateFibonacci(_____ first, int second, int n) {\nif (n == 0)\nreturn;\nSystem.out._______(first + \" \");\ngenerateFibonacci(second, _____, _______);\n}\npublic static ________ main(String[] args) {\ngenerateFibonacci(3, _____, 5);\n}\n}"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2b",
+                        "question": "Explain \"Passing argument by values\" with example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a",
+                        "question": "What is the final class? Why they are used?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2a",
+                        "question": "Describe the relationship between an object and its defining class?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a",
+                        "question": "List various classes for Binary Input Output?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b",
+                        "question": "Describe various methods and usage of Object class in java."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c",
+                        "question": "Create a class called Employee that includes three pieces of information as instance variables—a first name (typeString), a last name (typeString) and a monthly salary (double). Your class should have a constructor that initializes the three instance variables. Provide a set and a get method for each instance variable. If the monthly salary is not positive, set it to 0.0. Write a test application named EmployeeTest that demonstrates class Employee's capabilities. Create two Employee objects and display each object's yearly salary. Then give each Employee a 10% raise and display each Employee's yearly salary again."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a OR",
+                        "question": "Describe use of static keyword."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2a",
+                        "question": "Compare static methods with instance methods."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a OR",
+                        "question": "How do you prevent a class from being extended? How do you prevent a method from being overridden?"
+                    }
+                ]
+            },
+            {
+                "topic": "Defining Constructors",
+                "frequency": 12,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3b",
+                        "question": "Explain the following constructors using appropriate example:\ni) Default constructor and Parameterised constructor\nii) Shallow copy and Deep copy constructor"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c OR",
+                        "question": "Create a class called Employee that includes:\nI. Three instance variables— id (type String), name (type String) and monthly_salary (double).\nII. A default constructor that initializes the three instance variables.\nIII. A setter and a getter method for each instance variable (for example for id variable void setId(String id), String getId( )).\nIV. displayEmployee() method for displaying employee details.\nWrite a driver class named EmployeeTest that demonstrates class Employee's capabilities. Create two Employee objects and display each object's yearly salary. Then give each Employee a 10% raise and display each Employee's yearly salary again."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2b",
+                        "question": "Write java statements for following class:\npublic class Counter {\nint c;\n}\ni. Declare a parameterized constructor to initialize variable c.\nii. Declare instance method to increment c and return updated value of c."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c",
+                        "question": "Justify following:\ni. In general, constructors should be public.\nii. Why main is declared as static.\niii. Why we do not declare destructors in java.\niv. There is no pointer in java."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c OR",
+                        "question": "Declare a class called Employee having employee_Id and employee_Name as members.\nExtend class Employee to have a subclass called SalariedEmployee having designation and monthly_salary as members. Define following:\n- Required constructors\n- Methods to insert, update and display all details of employees.\n- Method main for creating an array for storing these details given as command line arguments and showing usage of above methods."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2a",
+                        "question": "What is constructor? What is it role? Explain various features/characteristics of constructors."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c",
+                        "question": "What is purpose of using methods? How do you declare a method? How do you invoke a method?"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2b",
+                        "question": "Explain the different types of constructors in Java with appropriate examples."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4b OR",
+                        "question": "What is constructor? Explain constructor overloading."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2a",
+                        "question": "Explain constructor with the help of an example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c",
+                        "question": "Design a java class Rectangle which contains following field and methods:\n(i) Field: length, width: int\n(ii) Default Constructor: initialize all fields with 0 value\n(iii) Method: int getArea() will return area of rectangle."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c",
+                        "question": "Create a class called Employee that includes three pieces of information as instance variables—a first name (typeString), a last name (typeString) and a monthly salary (double). Your class should have a constructor that initializes the three instance variables. Provide a set and a get method for each instance variable. If the monthly salary is not positive, set it to 0.0. Write a test application named EmployeeTest that demonstrates class Employee's capabilities. Create two Employee objects and display each object's yearly salary. Then give each Employee a 10% raise and display each Employee's yearly salary again."
+                    }
+                ]
+            },
+            {
+                "topic": "Access Specifiers",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a",
+                        "question": "Define Encapsulation and access specifier"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Discuss public, private, protected and default access modifiers with examples."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2b",
+                        "question": "What are different types of access modifier?"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2a",
+                        "question": "Explain Java access specifiers with scope, visibility, and examples."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4a",
+                        "question": "Explain visibility modifiers."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c",
+                        "question": "Explain all access modifiers and their visibility as class members."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2b",
+                        "question": "Describe java Access modifier."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Static Data Member and Static Member Function",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2b",
+                        "question": "(i) Given that Thing is a class, how many objects and how many reference variables are created by the following code?\nThing item, stuff;\nitem = new Thing();\nThing entity = new Thing();\n(ii) Examine following code. Write and justify output.\npublic class MyClass {\npublic static void main(String[] args) {\nC c = new C();\nSystem.out.println(c.max(12, 29));\n}\n}\nclass A {\nint max(int x, int y) { if (x>y) return x; else return y; }\n}\nclass B extends A{\nint max(int x, int y) { return super.max(y, x) - 10; }\n}\nclass C extends B {\nint max(int x, int y) { return super.max(x+10, y+2); }\n}"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5b OR",
+                        "question": "Explain static variable and static method with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a OR",
+                        "question": "Describe use of static keyword."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2a",
+                        "question": "Compare static methods with instance methods."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Returning and Passing Objects",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3b OR",
+                        "question": "Explain the following:\ni) Arguments and Parameters of a function\nii) Pass by Value and Pass by reference"
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2b",
+                        "question": "Explain \"Passing argument by values\" with example."
+                    }
+                ]
+            },
+            {
+                "topic": "Inner Class",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5b",
+                        "question": "Explain Inner class with example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b OR",
+                        "question": "How do create and use anonymous inner class?"
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Data Encapsulation",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a",
+                        "question": "Define Encapsulation and access specifier"
+                    }
+                ]
+            },
+            {
+                "topic": "Java Platform and Architecture (JVM, JDK, JRE)",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1b",
+                        "question": "Explain Java garbage collection mechanism."
+                    }
+                ]
+            }
+        ]
+    },
+    "2": {
+        "unit_name": "Conditional and Looping Statements",
+        "Most Important": [
+            {
+                "topic": "for loop, while loop, do-while loop, Enhanced for Loop",
+                "frequency": 10,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c OR",
+                        "question": "Write a java program that evaluates a math expression given in string form from command line arguments."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1c",
+                        "question": "Answer in brief (within 50 words):\nI. Justify Java enables high performance.\nII. Differentiate between while and do while loop?\nIII. How many times is the println statement executed?\nfor (int i = 0; i < 10; i++)\nfor (int j = 0; j < i; j++)\nSystem.out.println(i * j);\nIV. If the value of variable x is 1 then what will be returned by the following expression:\nx % 2 = = 0"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1b",
+                        "question": "Write a program that reads an integer and adds all the digits in the integer. For example, if an integer is 932, the sum of all its digits is 14.\nHint: Use the % operator to extract digits, and use the / operator to remove the extracted digit. For instance, 932 % 10 = 2 and 932 / 10 = 93."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1c",
+                        "question": "Write a Java program to simulate a simple ATM or cashier. Given an integer amount to be dispensed (e.g., 787), calculate and display the minimum number of currency notes of denominations 100, 50, 10, 5, 2, and 1 that would be given to the user."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1b",
+                        "question": "Write a program which displays first n prime number? Where is n provided by user as command line argument?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1c",
+                        "question": "Write a program which declare integer array of 10 elements? Initialize array and define following methods with the specified header:\n(i) public static int add(int [] array) print addition of all element of array.\n(ii) public static int max(int [] array) print maximum element of array.\n(ii) public static int search(int [] array, int key) search element key in array and return index of it. If element is not found method will return -1."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b",
+                        "question": "Develop a program which stores name of districts in Gujrat in array of String. The array specified capacity to store 5 districts. The user will be able to print name of district based on array index e.g. (0 will print Ahemdabad). If the specified index is out of bounds, program will display the message Out of Bounds."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a",
+                        "question": "Write a program to find out whether the given number is palindrome or not?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1b",
+                        "question": "List out different types of loops available in java with code snippet."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a OR",
+                        "question": "What is a recursive method? Write a recursive mathematical definition for computing 2n for a positive integer n."
+                    }
+                ]
+            }
+        ],
+        "Important": [],
+        "Moderate": [
+            {
+                "topic": "Data Types",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1c",
+                        "question": "Write a program which declare integer array of 10 elements? Initialize array and define following methods with the specified header:\n(i) public static int add(int [] array) print addition of all element of array.\n(ii) public static int max(int [] array) print maximum element of array.\n(ii) public static int search(int [] array, int key) search element key in array and return index of it. If element is not found method will return -1."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b",
+                        "question": "Develop a program which stores name of districts in Gujrat in array of String. The array specified capacity to store 5 districts. The user will be able to print name of district based on array index e.g. (0 will print Ahemdabad). If the specified index is out of bounds, program will display the message Out of Bounds."
+                    }
+                ]
+            }
+        ],
+        "Less Important": []
+    },
+    "7": {
+        "unit_name": "I/O Management and Generics",
+        "Most Important": [
+            {
+                "topic": "File Class",
+                "frequency": 11,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c",
+                        "question": "Explain file io using byte stream with appropriate example.\nhint: use FileInputStream, FileOutputStream"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4c",
+                        "question": "Write a short note on Java Collections."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c",
+                        "question": "Explain binary I/O classes. Demonstrate java file I/O with any I/O class to read a text file."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1b",
+                        "question": "Demonstrates use of BufferedReader and the readLine() method."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b OR",
+                        "question": "Write a program to display file properties like name, size, path, ."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q2c",
+                        "question": "Explain File class with its methods."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c",
+                        "question": "Write a program that counts the number of words in a text file. The file name is passed as a command line argument. The words in the file are separated by white space characters."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c OR",
+                        "question": "Create a class called Student. Write a student manager program to manipulate the student information from files by using FileInputStream and FileOutputStream."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "What is Java Collection?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b",
+                        "question": "Explain the use of File class to handle I/O."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c",
+                        "question": "Describe and compare Hash Map, Linked Hash Map, and Tree Map."
+                    }
+                ]
+            },
+            {
+                "topic": "Writing, Reading and Random Access Files",
+                "frequency": 17,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c OR",
+                        "question": "Explain file io using character stream with appropriate example.\nhint: use FileReader, FileWriter"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a OR",
+                        "question": "Define Object Serialization?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b OR",
+                        "question": "What are the differences between text I/O and binary I/O?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c OR",
+                        "question": "Describe and demonstrate Binary I/O classes of java?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b",
+                        "question": "Differentiate between a byte oriented and a character-oriented stream."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c",
+                        "question": "Explain binary I/O classes. Demonstrate java file I/O with any I/O class to read a text file."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b",
+                        "question": "Write a Java Program to copy the content of one file to other."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b OR",
+                        "question": "Write a program to display file properties like name, size, path, ."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q3c",
+                        "question": "Write a program that counts the number of words in a text file. The file name is passed as a command line argument. The words in the file are separated by white space characters."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5a",
+                        "question": "Differentiate Text I/O and Binary I/O"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c",
+                        "question": "Discuss BufferedInputStream and BufferedOutputStream classes with an example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c OR",
+                        "question": "Create a class called Student. Write a student manager program to manipulate the student information from files by using FileInputStream and FileOutputStream."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c OR",
+                        "question": "Implement java code to take some (say 10) Strings from users. Put all the input Strings in an array (String name[]). Provide implementation of following methods:\n(i)search(String s) will return index of String passed in method if String S is found in name, otherwise return -1.\n(ii)sort() will print sorted String array to user"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c",
+                        "question": "Explain DataInputStream and DataOutputStream Classes? Implement a java program to demonstrate any one of them?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b",
+                        "question": "Write a java program to read employee details from emp.txt file and print on screen."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b OR",
+                        "question": "Write a java program to read students details from console and write that students details into emp.txt file."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c OR",
+                        "question": "Write a program that lets users copy files. The user needs to provide a source file and a target file as command-line arguments using the command: java Copy source target"
+                    }
+                ]
+            },
+            {
+                "topic": "Generics with Collections like ArrayList, HashMap",
+                "frequency": 19,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4c OR",
+                        "question": "Write a program to add input elements in ArrayList collection class, then sort the inserted elements in descending order and display the sorted output.\nhint: use Collections.reverseOrder()"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a",
+                        "question": "Define Queue interface of java collection classes?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c",
+                        "question": "What are the differences between ArrayList and LinkedList? Demonstrates use of ArrayList with example?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a",
+                        "question": "What are the differences between ArrayList and LinkedList? Which list should you use to insert and delete elements at the beginning of a list?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b",
+                        "question": "What is Java Collection Framework? List four collection classes?"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c",
+                        "question": "Explain use of Linked List collection class with example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c OR",
+                        "question": "Explain Sets with examples."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a",
+                        "question": "Give the output of the following code.\nimport java.util.*;\npublic class Main {\npublic static void main(String[] args) {\nList<String> list = new ArrayList<>();\nSet<String> set = new HashSet<>();\nlist.add(\"C++\");\nlist.add(\"Java\");\nlist.add(\"C++\");\nset.add(\"C++\");\nset.add(\"Java\");\nset.add(\"C++\");\nSystem.out.print(list.size() * set.size());\n}\n}"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a OR",
+                        "question": "Explain LinkedList in Java with a suitable example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5a OR",
+                        "question": "Compare List and Set."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b",
+                        "question": "List out methods of Iterator and explain it."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c",
+                        "question": "Explain Set and Map in Java with example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a OR",
+                        "question": "What is Vector class?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c OR",
+                        "question": "Implement java code to take some (say 10) Strings from users. Put all the input Strings in an array (String name[]). Provide implementation of following methods:\n(i)search(String s) will return index of String passed in method if String S is found in name, otherwise return -1.\n(ii)sort() will print sorted String array to user"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c OR",
+                        "question": "Differentiate between ArrayList and LinkedList? Which list should you use to insert and delete elements at the beginning of a list? What methods are in LinkedList but not in ArrayList?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b OR",
+                        "question": "Explain ArrayList Class with its methods?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a",
+                        "question": "Write a Java program to copy one array list into another."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c OR",
+                        "question": "Write a program to add ten elements in a list and traverse a list in both directions."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b",
+                        "question": "Which method do you use to obtain an element in the collection from an iterator? Explain with example."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Purpose of Generics, Defining Generic Classes and Methods",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c",
+                        "question": "Explain Generics classes with example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c OR",
+                        "question": "Explain Generics methods with example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a",
+                        "question": "What are the benefits of using generic types? How do you declare a generic type in a class?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a OR",
+                        "question": "How do you declare and invoke a generic method?"
+                    }
+                ]
+            }
+        ],
+        "Moderate": [],
+        "Less Important": []
+    },
+    "6": {
+        "unit_name": "Concurrency Control",
+        "Most Important": [
+            {
+                "topic": "Creating Threads using Thread Class",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b",
+                        "question": "Explain multithreading using Thread class"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5b",
+                        "question": "In multi-threading using Thread class, explain with an example how a start() method call invokes the run method of the class extending Thread class."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a OR",
+                        "question": "List and explain any three methods of the Thread class in Java"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b OR",
+                        "question": "Write a Java program where Thread T1 prints 1 to 100, T2 prints 101 to 200 and T3 prints 201 to 300. Initiate all three threads simultaneously, but ensure that numbers are printed in sequence."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3a",
+                        "question": "Discuss benefits of multithreading?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c",
+                        "question": "Characterize the two ways of implementing thread in Java? Illustrate each method by example?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c",
+                        "question": "Create customer class which extends thread class and contains two instance variables name, ProductName and static variable Product Quantity. For example if two customers are trying to buy the same product at once then follow synchronization of two customers extending thread class."
+                    }
+                ]
+            },
+            {
+                "topic": "Thread Life Cycle",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5a OR",
+                        "question": "Explain thread life cycle"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a OR",
+                        "question": "Describe thread life cycle with block diagram?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a OR",
+                        "question": "Explain thread life cycle."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b",
+                        "question": "Describe the life cycle of a thread object."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5c",
+                        "question": "What is thread? Describe the complete life cycle of thread."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b OR",
+                        "question": "Describe with diagram the life cycle of Thread."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b",
+                        "question": "What do you understand by thread? Describe the complete life cycle of thread."
+                    }
+                ]
+            },
+            {
+                "topic": "Thread Synchronization using synchronized keyword",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b",
+                        "question": "Demonstrate the use of a synchronized method in Java with a suitable example."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q5c OR",
+                        "question": "Explain Thread Synchronization with example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c OR",
+                        "question": "Explain synchronization in Thread with suitable example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c",
+                        "question": "Create customer class which extends thread class and contains two instance variables name, ProductName and static variable Product Quantity. For example if two customers are trying to buy the same product at once then follow synchronization of two customers extending thread class."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b OR",
+                        "question": "What do you mean by thread synchronization? How can you synchronize java threads?"
+                    }
+                ]
+            }
+        ],
+        "Important": [],
+        "Moderate": [
+            {
+                "topic": "Thread Methods",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5b",
+                        "question": "In multi-threading using Thread class, explain with an example how a start() method call invokes the run method of the class extending Thread class."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a OR",
+                        "question": "List and explain any three methods of the Thread class in Java"
+                    }
+                ]
+            }
+        ],
+        "Less Important": []
+    },
+    "8": {
+        "unit_name": "Designing GUI Applications using JavaFX",
+        "Most Important": [
+            {
+                "topic": "UI Components",
+                "frequency": 15,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5c",
+                        "question": "Write a short note on JAVAFX controls."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5c OR",
+                        "question": "Develop a GUI based application using JAVAFX controls."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b",
+                        "question": "List JavaFX UI controls?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b OR",
+                        "question": "i. List any four UI controls in JavaFX.\nii. List any two Panes for Containing and Organizing Nodes"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b",
+                        "question": "Explain creation of different shapes in JAVAFX application?"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a OR",
+                        "question": "Create a radio button using the RadioButton class and group radio buttons using a ToggleGroup."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1b",
+                        "question": "Demonstrate the working of break, continue, labelled break, labelled continue with proper example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c",
+                        "question": "Develop a JavaFX application for a basic login system. When the user clicks the login button, the application should validate the entered credentials against predefined values and generates appropriate response message."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4b",
+                        "question": "Explain following controls\n(1) Checkbox (2) Radio Button (3) Textfield (4) Label"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a OR",
+                        "question": "List out JavaFX UI controls and explain any one in detail."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c OR",
+                        "question": "Design and develop EMI Calculator using JavaFX? The user will enter a loan amount, annual interest rate, and number of years and click the Calculate button to get EMI and total payment? formula is EMI= P*r*(1+r)^n/((1+r)^n-1). P is Principal Loan Amount. r is rate of interest calculated on monthly basis. (i.e., r = Rate of Annual interest/12/100. If rate of interest is 10.5% per annum, then r = 10.5/12/100=0.00875). n is loan term / tenure / duration in number of months?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c OR",
+                        "question": "Write a program to create GUI for Student registration form using JavaFX."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1a",
+                        "question": "(i) What happens when your program attempts to access an array element with an invalid index?\n(ii) What are the benefits of data field encapsulation?\n(iii) What is the registration method for a button to register an Action Event handler?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2b",
+                        "question": "How do you create a button with a text and a node? How do you set a handler for processing a button-clicked action?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c",
+                        "question": "Which layout panes are supported by JavaFX? Write a program to create a login screen using Grid Pane."
+                    }
+                ]
+            },
+            {
+                "topic": "Event Handling",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "What do you understand by event source and event object? Explain how to register an event handler object and how to implement a handler interface?"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b OR",
+                        "question": "Write programs to deal with MouseEvents."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a",
+                        "question": "Demonstrate use of the Animation, PathTransition."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a OR",
+                        "question": "Create a radio button using the RadioButton class and group radio buttons using a ToggleGroup."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b OR",
+                        "question": "Demonstrate animation effect in JavaFX."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1a",
+                        "question": "(i) What happens when your program attempts to access an array element with an invalid index?\n(ii) What are the benefits of data field encapsulation?\n(iii) What is the registration method for a button to register an Action Event handler?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c OR",
+                        "question": "Write a program to define and register handlers for key pressed, key released, and key typed events using JavaFX."
+                    }
+                ]
+            },
+            {
+                "topic": "Layout Panes",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a OR",
+                        "question": "Enlist various Layout panes available in JavaFX?"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c",
+                        "question": "Develop a JavaFX application for a basic login system. When the user clicks the login button, the application should validate the entered credentials against predefined values and generates appropriate response message."
+                    },
+                    {
+                        "year": "W2021",
+                        "question_no": "Q4c OR",
+                        "question": "Explain different layout panes used in JavaFX."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a",
+                        "question": "List out various layout panes in JavaFX."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c OR",
+                        "question": "Design and develop EMI Calculator using JavaFX? The user will enter a loan amount, annual interest rate, and number of years and click the Calculate button to get EMI and total payment? formula is EMI= P*r*(1+r)^n/((1+r)^n-1). P is Principal Loan Amount. r is rate of interest calculated on monthly basis. (i.e., r = Rate of Annual interest/12/100. If rate of interest is 10.5% per annum, then r = 10.5/12/100=0.00875). n is loan term / tenure / duration in number of months?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c OR",
+                        "question": "Write a program to create GUI for Student registration form using JavaFX."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c",
+                        "question": "Which layout panes are supported by JavaFX? Write a program to create a login screen using Grid Pane."
+                    }
+                ]
+            },
+            {
+                "topic": "Basic Structure of JavaFX Application",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b OR",
+                        "question": "Discuss JavaFX benefits?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c OR",
+                        "question": "Illustrate basic structure of JavaFX program?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a OR",
+                        "question": "Compare JavaFX with Swing and AWT."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c OR",
+                        "question": "Write a program to demonstrate GUI application development using JavaFX."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c OR",
+                        "question": "List JavaFX layouts and demonstrate each with suitable examples."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b",
+                        "question": "Explain the architecture of JavaFX."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a OR",
+                        "question": "What do you understand by JavaFX? How it is different from AWT?"
+                    }
+                ]
+            }
+        ],
+        "Important": [],
+        "Moderate": [],
+        "Less Important": []
+    }
+}

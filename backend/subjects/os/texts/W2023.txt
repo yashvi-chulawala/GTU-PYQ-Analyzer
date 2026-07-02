@@ -1,0 +1,125 @@
+Seat No.:
+
+Subject Code:3140702
+
+Enrolment No.
+
+GUJARAT TECHNOLOGICAL UNIVERSITY
+
+BE - SEMESTER-IV (NEW) EXAMINATION — WINTER 2023
+Date:11-01-2024
+
+Subject Name: Operating System
+
+Marks
+
+03
+04
+07
+
+07
+
+Time:10:30 AM TO 01:00 PM Total Marks:70
+Instructions:
+1. Attempt all questions.
+2. Make suitable assumptions wherever necessary.
+3. Figures to the right indicate full marks.
+4. Simple and non-programmable scientific calculators are allowed.
+Q.1 (a) Define true virtualization with example.
+(b) Write a shell script to find factorial of an user-defined natural number.
+(c) Draw and explain seven state process state transition diagram in detail.
+Q.2 (a) Explain the main function of a dispatcher in brief.
+(b) List and briefly define four classes of real-time scheduling algorithms.
+(c) Five batch jobs A, B, C, D and E arrive at same time. They have
+estimated running times 10, 6, 3, 4 and 8 ms. For each of the following
+algorithm determine mean process turnaround time. Consider process
+swapping overhead is 1 ms.
+1) FCFS
+2) Round-Robin (Time quantum = 2 ms)
+OR
+(c) Five batch jobs P1, P2, P3, P4 and PS arrive at 0, 1, 2, 3 and 4 ms. They
+have estimated running times 14, 12, 8, 3 and 6 ms. Their priorities are
+3, 5, 2, 1 and 4 respectively with 5 being highest priority. For each of
+the following algorithm determine mean process turnaround time.
+Consider process swapping overhead is 0.5 ms.
+1) SJF (Non-preemptive)
+2) Priority Scheduling (Preemptive)
+Q.3 (a) Give the difference between weak semaphore and strong semaphore.
+(b) Briefly explain critical section.
+(c) Explain producer-consumer problem and solve it using semaphore.
+Write pseudo code for the same.
+OR
+Q.3 (a) Give the key difference between a mutex and a binary semaphore.
+(b) List the requirements for mutual exclusion.
+(c) Explain Dining philosopher problem and its solution using semaphore.
+Q.4 (a) Explain I/O buffering in brief.
+(b) Write a short note on Access Control List.
+(c) Write and explain Banker’s Algorithm for deadlock avoidance with
+suitable example.
+OR
+Q.4 (a) Compare RAID level 3 with RAID level 4.
+(b) Write a short note on design principles of OS security.
+
+(©)
+
+Write and explain deadlock detection algorithm with suitable example.
+Q.5
+
+Q.5
+
+(a)
+(b)
+
+(©)
+
+(a)
+(b)
+
+(c)
+
+Explain concept of thrashing.
+
+Given the following track requests in the disk
+
+queue, compute for the Total Head Movement
+
+(THM) of the read/write head and seek time needed for SSTF Disk
+
+Scheduling approach:
+
+86, 147, 91, 230, 94, 168, 270, 30
+
+Consider that the read/write head is positioned at location 150. A seek
+
+takes 3 ms per cylinder move. Consider a disk drive with 300 cylinders.
+
+Explain any three memory placement algorithms with suitable example.
+OR
+
+Compare and contrast paging with fragmentation.
+
+Given the following track requests in the disk
+
+queue, compute for the Total Head Movement
+
+(THM) of the read/write head and seek time needed for C-SCAN Disk
+
+Scheduling approach:
+
+95, 180, 34, 119, 11, 123, 62, 64
+
+Consider that the read/write head is positioned at location 50. A seek
+
+takes 5 ms per cylinder move. Consider a disk drive with 200 cylinders.
+
+Explain any three page replacement algorithms with suitable example.
+
+RRRKEEE
+
+03
+04
+
+07
+
+03
+04

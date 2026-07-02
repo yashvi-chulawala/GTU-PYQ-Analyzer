@@ -1,0 +1,3048 @@
+[
+  {
+    "question_no": "Q1a",
+    "question": "What do you mean by MVC architecture? Explain its role in modern applications with its advantages.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "MVC Architecture",
+    "topics": [
+      "MVC Architecture"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What is Servlet? Explain the life cycle methods of it.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet lifecycle",
+    "topics": [
+      "Servlet lifecycle"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain the use of PreparedStatement with appropriate example.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "Statement and PreparedStatement",
+    "topics": [
+      "Statement and PreparedStatement"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Compare Socket with ServerSocket.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "Socket and ServerSocket programming",
+    "topics": [
+      "Socket and ServerSocket programming"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Compare the types of JDBC drivers?",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "JDBC architecture and drivers",
+    "topics": [
+      "JDBC architecture and drivers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain JSP inbuilt objects with their use in application.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP implicit objects",
+    "topics": [
+      "JSP implicit objects"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Write a java program where client sends a string as a message and sever counts the characters in the received message from client. Server sends this value back to the client. Server should be able to serve multiple clients simultaneously.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "simple client-server communication applications",
+    "topics": [
+      "simple client-server communication applications"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What is a session? List out various session management techniques.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Cookies and Session Management",
+    "topics": [
+      "Cookies and Session Management"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain the purpose of RequestDispatcher using the methods forward () and include ().",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "RequestDispatcher",
+    "topics": [
+      "RequestDispatcher"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "What are cookies? Demonstrate the use of cookies in servlet.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Cookies and Session Management",
+    "topics": [
+      "Cookies and Session Management"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Which action tags are used to access the JavaBeans from a JSP page?",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What is Expression Language EL in JSP explain with suitable example program?",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP expressions",
+    "topics": [
+      "JSP expressions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "What is session? Demonstrate the use of Session in JSP.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Cookies and Session Management",
+    "topics": [
+      "Cookies and Session Management"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is JSF? List and explain its features.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What is JSTL? Explain the core tags of the SQL tag library.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSTL tags",
+    "topics": [
+      "JSTL tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Discuss various stages of JSP life cycle.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP lifecycle",
+    "topics": [
+      "JSP lifecycle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is a custom tag? Explain the life cycle of tag handler.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What is filter? Explain the configuration of filter using deployment descriptor.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Discuss JSF life cycle phases.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is hibernate? What are the benefits of using it?",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What is HQL? How does it different from SQL? List its advantages.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Introduction to HQL",
+    "topics": [
+      "Introduction to HQL"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain the Spring Web MVC framework controllers",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring MVC architecture",
+    "topics": [
+      "Spring MVC architecture",
+      "Controllers and Request Mapping"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What are the different bean scopes in spring?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Bean concept",
+    "topics": [
+      "Bean concept"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What is Spring Bean? How can you create bean in Spring boot?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Bean concept",
+    "topics": [
+      "Bean concept",
+      "Spring Boot introduction"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What is OR mapping? Explain the components of hibernate.cfg.xml file.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration",
+      "One-to-One and One-to-Many mapping basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Demonstrate the use of ResultSetMetadata.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "ResultSet handling",
+    "topics": [
+      "ResultSet handling"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Implement the client server program using UDP Sockets. Client will request to download the file from server and server will send it to client.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "DatagramSocket basics",
+    "topics": [
+      "DatagramSocket basics",
+      "simple client-server communication applications"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "What do you mean by session tracking? Discuss different session tracking",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Cookies and Session Management",
+    "topics": [
+      "Cookies and Session Management"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Compare ServerSocket with Socket.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "Socket and ServerSocket programming",
+    "topics": [
+      "Socket and ServerSocket programming"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Differentiate ServletConfig and ServletContext.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "ServletConfig and ServletContext",
+    "topics": [
+      "ServletConfig and ServletContext"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Demonstrate the use of ServletRequestDispacher and its methods include and forward.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "RequestDispatcher",
+    "topics": [
+      "RequestDispatcher"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Demonstrate the use of JSP action tags include and forward.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Write a code snippet to show the use of PreparedStatement.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "Statement and PreparedStatement",
+    "topics": [
+      "Statement and PreparedStatement"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "What is filter? How will you configure filter using deployment descriptor?",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Develop a web application as following to demonstrate the use of <jsp:useBean>. 1) Create a Java Bean named Student with attributes name and age. 2) Create a web page to set the properties of Student using <jsp:useBean>. 3) Create a web page to display the properties of Student using <jsp:useBean>.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags",
+      "Servlet web application development"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is FilterConfig? How will you use it?",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Write a code snippet to explain the use of CallableStatement.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "CallableStatement introduction",
+    "topics": [
+      "CallableStatement introduction"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Develop a web application as following using JSP. 1) Create a web page (HTML) to submit the registration detail (Name, email and contact number) of user to jsp page. 2) Create a jsp page to enter the registration detail in the table of database. 3) Create a jsp page to display the list of all registered users.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP and JDBC integration",
+    "topics": [
+      "JSP and JDBC integration",
+      "Servlet web application development"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is EL? Write a code snippet to show the use of method expressions in JSP page.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP expressions",
+    "topics": [
+      "JSP expressions"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Create a custom tag to print current date and time in JSP page.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Discuss JSF request processing life cycle.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write a code snippet to show the use of JSF action event.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Create a JSF custom convertor and use it in JSP page.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Discuss the tags of JSTL SQL tag library.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSTL tags",
+    "topics": [
+      "JSTL tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain the role of IoC container in Spring.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Inversion of Control (IoC)",
+    "topics": [
+      "Inversion of Control (IoC)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain AOP concepts of Spring.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring AOP",
+    "topics": [
+      "Spring AOP"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Discuss Hibernate architecture in detail.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What is Hibernate? What are the features of it?",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain OR mapping using hibernate mapping file.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "One-to-One and One-to-Many mapping basics",
+    "topics": [
+      "One-to-One and One-to-Many mapping basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Discuss Spring framework architecture in detail.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring MVC architecture",
+    "topics": [
+      "Spring MVC architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain URL and URLConnection class with example.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "URL and URLConnection",
+    "topics": [
+      "URL and URLConnection"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain Statement and PreparedStatement with example.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "Statement and PreparedStatement",
+    "topics": [
+      "Statement and PreparedStatement"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "What is Request Dispatcher? What is the difference between Request dispatcher's forward() and include() method? Explain it in detail with program.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "RequestDispatcher",
+    "topics": [
+      "RequestDispatcher"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "What is Deployment descriptor (web.xml) in servlet? Explain with code.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What is JDBC? Explain the types of JDBC drivers.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "JDBC architecture and drivers",
+    "topics": [
+      "JDBC architecture and drivers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write a client-server program using TCP/UDP sockets to echo the message send by the client.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "TCP/IP basics",
+    "topics": [
+      "TCP/IP basics",
+      "DatagramSocket basics",
+      "simple client-server communication applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Write a TCP program in which client sends string from its standard input to the server. The server reads the string, converts the string into upper case and sends back to client",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "TCP/IP basics",
+    "topics": [
+      "TCP/IP basics",
+      "simple client-server communication applications"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain difference between ServletConfig and ServletContext object",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "ServletConfig and ServletContext",
+    "topics": [
+      "ServletConfig and ServletContext"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain JSP life cycle phases.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP lifecycle",
+    "topics": [
+      "JSP lifecycle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "What is CallableStatement? Explain how to use it to call a stored procedure with proper example.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "CallableStatement introduction",
+    "topics": [
+      "CallableStatement introduction"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Compare JSP and Servlet.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Static vs Dynamic web pages",
+    "topics": [
+      "Static vs Dynamic web pages"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain Servlet Life Cycle with example and demonstrate every state in detail.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet lifecycle",
+    "topics": [
+      "Servlet lifecycle"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Write a Login servlet. Take input username and password from html file login.html and authenticate the user. Write the web.xml.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet and JDBC integration",
+    "topics": [
+      "Servlet and JDBC integration"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Explain any three JSTL Core tags.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSTL tags",
+    "topics": [
+      "JSTL tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What is Filter? Explain Filter API.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "What is session? List and explain different ways to manage the session.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Cookies and Session Management",
+    "topics": [
+      "Cookies and Session Management"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is difference between include directive and jsp:include action tag?",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What is HQL? Write difference between HQL and SQL.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Introduction to HQL",
+    "topics": [
+      "Introduction to HQL"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Draw the JSF request processing life cycle and briefly give the function of each phase.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is ORM? Explain object/relational mappings in hibernate.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "One-to-One and One-to-Many mapping basics",
+    "topics": [
+      "One-to-One and One-to-Many mapping basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What is the JSF facelets? Explain any two facelets tags.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain architecture of Spring MVC Framework.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring MVC architecture",
+    "topics": [
+      "Spring MVC architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What is Dependency Injection?",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Dependency Injection (DI)",
+    "topics": [
+      "Dependency Injection (DI)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "List the JSF validation tags and explain any two.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain Hibernate architecture in detail.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Discuss the use of execute (), executeUpdate () and executeQuery () methods.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "execute(), executeUpdate(), executeQuery() methods",
+    "topics": [
+      "execute(), executeUpdate(), executeQuery() methods"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain the following classes with their use. I) URLConnection class II) DatagramSocket class III) DatagramPacket class IV) ServerSocket class",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "Socket and ServerSocket programming",
+    "topics": [
+      "Socket and ServerSocket programming",
+      "DatagramSocket basics",
+      "URL and URLConnection"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Design a form to input details of an employee and submit the data to a servlet. Write code for servlet that will save the entered details as a new record in database table Employee with fields (EmpId, EName, Email, Age).",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet and JDBC integration",
+    "topics": [
+      "Servlet and JDBC integration"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Compare JSP and Servlet.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Static vs Dynamic web pages",
+    "topics": [
+      "Static vs Dynamic web pages"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain various Session tracking mechanisms in servlet with example.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Cookies and Session Management",
+    "topics": [
+      "Cookies and Session Management"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "What is JDBC? List the different types of JDBC drivers. Compare the various driver types for their advantages and disadvantages.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "JDBC architecture and drivers",
+    "topics": [
+      "JDBC architecture and drivers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "What is filter? What is its use? List different filter interfaces with their important methods.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What is Servlet? List and explain various stages of Servlet life cycle.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet lifecycle",
+    "topics": [
+      "Servlet lifecycle"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "List JSP implicit objects and explain any two in detail.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP implicit objects",
+    "topics": [
+      "JSP implicit objects"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain JSP page directives with example.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP directives",
+    "topics": [
+      "JSP directives"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain the usage of InetAddress class.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "InetAddress",
+    "topics": [
+      "InetAddress"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain JSP life cycle phases.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP lifecycle",
+    "topics": [
+      "JSP lifecycle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "List and Explain JSP Action Tags with example.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is the JSF facelets? Explain any two facelets tags.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Briefly explain JSF Converter tags?",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "What is Hibernate? List Advantages of Hibernate over JDBC",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Problems with plain JDBC / Need for ORM",
+    "topics": [
+      "Problems with plain JDBC / Need for ORM",
+      "Hibernate architecture and configuration"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write a servlet that redirect requests alternatively to JSP pages named odd and even",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet web application development",
+    "topics": [
+      "Servlet web application development"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What is HQL? Write difference between HQL and SQL.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Introduction to HQL",
+    "topics": [
+      "Introduction to HQL"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "What is JSF tag library? Explain any four-html tag.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is Request Dispatcher? What is the difference between Request dispatcher's forward () and include () method?",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "RequestDispatcher",
+    "topics": [
+      "RequestDispatcher"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Briefly explain spring bean life cycle.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Bean concept",
+    "topics": [
+      "Bean concept"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "What is MVC architecture? Explain Spring architecture with neat sketch.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "MVC Architecture",
+    "topics": [
+      "MVC Architecture"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What is difference between statement and prepared statement interface.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "Statement and PreparedStatement",
+    "topics": [
+      "Statement and PreparedStatement"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Draw and explain the architecture of Hibernate.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What is ORM? Explain object/relational mappings in hibernate.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "One-to-One and One-to-Many mapping basics",
+    "topics": [
+      "One-to-One and One-to-Many mapping basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "What are the components of URL? Show the use of URL class with an example.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "URL and URLConnection",
+    "topics": [
+      "URL and URLConnection"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What is JSP? Explain the stages of JSP life cycle.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP lifecycle",
+    "topics": [
+      "JSP lifecycle"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Write a concurrent client server program using TCP where the client sends a line of a text message and the server responds by displaying the received message in capital letters.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "TCP/IP basics",
+    "topics": [
+      "TCP/IP basics",
+      "simple client-server communication applications"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Differentiate ServletConfig and ServletContext.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "ServletConfig and ServletContext",
+    "topics": [
+      "ServletConfig and ServletContext"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Write a code snippet to show the use of PreparedStatement.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "Statement and PreparedStatement",
+    "topics": [
+      "Statement and PreparedStatement"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "What do you mean by session tracking? Discuss various session tracking techniques.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Cookies and Session Management",
+    "topics": [
+      "Cookies and Session Management",
+      "Session Tracking Techniques"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Discuss the architecture of Hibernate.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What is the difference between include directive tag and jsp:include action tag?",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP directives",
+    "topics": [
+      "JSP directives",
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain the use of different JSP action tags.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Demonstrate the use of JavaBeans in JSP.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is EL? Write a code snippet to show the use of method expressions in JSP page",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP expressions",
+    "topics": [
+      "JSP expressions"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What is filter? Explain the configuration of filter using deployment descriptor.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Demonstrate the use methods forward () and include () using Servlet.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "RequestDispatcher",
+    "topics": [
+      "RequestDispatcher"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "How will you use <h:commandButton> and <h:dataTable>?",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "List the JSF validation tags and explain any two in detail.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "What is JSTL? Explain the core tags of the SQL tag library",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSTL tags",
+    "topics": [
+      "JSTL tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain the use of any three implicit objects of JSP.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP implicit objects",
+    "topics": [
+      "JSP implicit objects"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What are the directive tags in JSP? Explain any two.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP directives",
+    "topics": [
+      "JSP directives"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain the JSF request processing life cycle.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What are the features of Spring Framework?",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring Framework features/advantages",
+    "topics": [
+      "Spring Framework features/advantages"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain the role of IoC container in Spring framework.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Inversion of Control (IoC)",
+    "topics": [
+      "Inversion of Control (IoC)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "List out and explain the steps to develop the hibernate web application.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate web application development",
+    "topics": [
+      "Hibernate web application development"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What is HQL? How does it differ from SQL?",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Introduction to HQL",
+    "topics": [
+      "Introduction to HQL"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What is OR mapping? Briefly explain the components of hibernate.cfg.xml file.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration",
+      "One-to-One and One-to-Many mapping basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain the architecture of Spring Framework.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring MVC architecture",
+    "topics": [
+      "Spring MVC architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain the usage of InetAddress class.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "InetAddress",
+    "topics": [
+      "InetAddress"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain the use of PreparedStatement and CallableStatement with example.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "Statement and PreparedStatement",
+    "topics": [
+      "Statement and PreparedStatement",
+      "CallableStatement introduction"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain JSP page directives with example.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP directives",
+    "topics": [
+      "JSP directives"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Differentiate HTTP Get and Post methods.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "HTTP request-response cycle",
+    "topics": [
+      "HTTP request-response cycle"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain any four implicit objects of JSP.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP implicit objects",
+    "topics": [
+      "JSP implicit objects"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write a program in which client sends string from its standard input to the server. The server reads the string, converts the string into upper case and sends back to client. Use connection-oriented communication.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "simple client-server communication applications",
+    "topics": [
+      "simple client-server communication applications"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Write a JDBC program for banking application in which consider bank table with attributes AccountNo, CustomerName, Phone and Address, and perform followings: 1. Insert two records using prepared statement. 2. Display all the records.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "JDBC architecture and drivers",
+    "topics": [
+      "JDBC architecture and drivers",
+      "Statement and PreparedStatement",
+      "CRUD operations",
+      "JDBC and database application development"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Discuss the use of execute(), executeUpdate() and executeQuery() methods.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "execute(), executeUpdate(), executeQuery() methods",
+    "topics": [
+      "execute(), executeUpdate(), executeQuery() methods"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Differentiate ServletConfig and ServletContext objects.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "ServletConfig and ServletContext",
+    "topics": [
+      "ServletConfig and ServletContext"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Write a servlet code which reads the student details from web page and stores it in database.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet and JDBC integration",
+    "topics": [
+      "Servlet and JDBC integration"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is Filter? List the applications of filter.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Discuss Servlet life cycle methods. Explain role of web container.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet lifecycle",
+    "topics": [
+      "Servlet lifecycle"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "What is Request Dispatcher? What is the difference between RequestDispatcher's forward() and include() method? Explain it in detail with program.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "RequestDispatcher",
+    "topics": [
+      "RequestDispatcher"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is difference between include directive and jsp:include action tag?",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain any four JSTL core tags.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSTL tags",
+    "topics": [
+      "JSTL tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain the JSF request processing life cycle.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is the JSF facelets? Explain any two facelets tags.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "List the JSF standard converter tags and explain any three in detail.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Write a JSP application for login module with reset password feature using database connectivity.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP and JDBC integration",
+    "topics": [
+      "JSP and JDBC integration"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is dependency injection? Explain in detail.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Dependency Injection (DI)",
+    "topics": [
+      "Dependency Injection (DI)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What is HQL? Write difference between HQL and SQL.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Introduction to HQL",
+    "topics": [
+      "Introduction to HQL"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain Hibernate Architecture.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain the features of Spring web MVC.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring MVC architecture",
+    "topics": [
+      "Spring MVC architecture",
+      "Spring Framework features/advantages"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What is ORM? Explain object/relational mappings in hibernate.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "One-to-One and One-to-Many mapping basics",
+    "topics": [
+      "One-to-One and One-to-Many mapping basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain architecture of Spring MVC Framework.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring MVC architecture",
+    "topics": [
+      "Spring MVC architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "1) How do you get the IP address of a machine from its hostname? 2) List out the important methods of HttpServletResponse. 3) What are the attributes for the JSP page directive?",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Request and Response handling",
+    "topics": [
+      "Request and Response handling",
+      "JSP directives"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "1) What is the function of a SessionFactory object? How will you obtain such an object? 2) How can you apply JSF Input Validation using input validators?",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration",
+      "Session and SessionFactory"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "What do you mean by session tracking? What are the session tracking techniques? Demonstrate any of them.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Cookies and Session Management",
+    "topics": [
+      "Cookies and Session Management",
+      "Session Tracking Techniques"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "What are the differences between a TCP socket and UDP socket? How are they created in Java?",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "TCP/IP basics",
+    "topics": [
+      "TCP/IP basics",
+      "Socket and ServerSocket programming",
+      "DatagramSocket basics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Differentiate ServletConfig and ServletContext.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "ServletConfig and ServletContext",
+    "topics": [
+      "ServletConfig and ServletContext"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "What is connection URL? How do you make a database connection? Explain various ways to make the database connection using JDBC code snippets.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "JDBC architecture and drivers",
+    "topics": [
+      "JDBC architecture and drivers",
+      "Connection object"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "What is JDBC driver? Explain its role and compare various JDBC drivers.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "JDBC architecture and drivers",
+    "topics": [
+      "JDBC architecture and drivers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What is the use of PreparedStatement? How will you use it?",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "Statement and PreparedStatement",
+    "topics": [
+      "Statement and PreparedStatement"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "What is filter? How will you configure filter using deployment descriptor?",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "What are the directive tags of JSP? Write a JSP page to demonstrate the use of them.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP directives",
+    "topics": [
+      "JSP directives"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is the use of CallableStatement? How will you use it?",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "CallableStatement introduction",
+    "topics": [
+      "CallableStatement introduction"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What is FilterConfig? How will you use it?",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "What are the implicit objects of JSP? Write a JSP page to demonstrate the use them.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP implicit objects",
+    "topics": [
+      "JSP implicit objects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is EL? Write a code snippet to show the use of method expressions in JSF page.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP expressions",
+    "topics": [
+      "JSP expressions",
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "How will you use <h:commandButton> and <h:dataTable>?",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Develop a web application as following to demonstrate the use of <jsp:useBean>. Create a Java Bean named Employee with attributes name and age. Create a web page to set the properties of Employee using <jsp:useBean>. Create a web page to display the properties of Employee using <jsp:useBean>.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags",
+      "Servlet web application development"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is JSTL? Write a code snippet to show the use of flow control tags.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSTL tags",
+    "topics": [
+      "JSTL tags"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write a code snippet to show the use of JSF action event.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Develop a web application as following to demonstrate the use of JSTL SQL tag library. Create a web page to store the registration detail (Name, email and contact number) of user in the database. Create a web page for user to update registration detail in the database. Create a web page to display the list of all registered users.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSTL tags",
+    "topics": [
+      "JSTL tags",
+      "Servlet web application development"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is Spring AOP? What are Join points and Point cuts?",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring AOP",
+    "topics": [
+      "Spring AOP"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What is dependency Injection? What is the role IoC container in Spring?",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Inversion of Control (IoC)",
+    "topics": [
+      "Inversion of Control (IoC)",
+      "Dependency Injection (DI)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "What are the different Hibernate interfaces? Explain their role in brief.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "One-to-One and One-to-Many mapping basics",
+    "topics": [
+      "One-to-One and One-to-Many mapping basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What is Hibernate? What are the features of it?",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What is OR mapping? How will you configure hibernate mapping file to map a table and its columns from a given database?",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration",
+      "One-to-One and One-to-Many mapping basics"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What are the advantages of Spring MVC? Explain the flow of Spring Web MVC.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring MVC architecture",
+    "topics": [
+      "Spring MVC architecture"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain the usage of Socket class with example.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "Socket and ServerSocket programming",
+    "topics": [
+      "Socket and ServerSocket programming"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Differentiate Statement and PreparedStatement.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "Statement and PreparedStatement",
+    "topics": [
+      "Statement and PreparedStatement"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain JSP Action tags with example.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "What is HTTP? Explain any two HTTP request methods in detail.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "HTTP request-response cycle",
+    "topics": [
+      "HTTP request-response cycle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain scripting elements of JSP.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Scripting elements of JSP",
+    "topics": [
+      "Scripting elements of JSP"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write a program in which client sends string from its standard input to the server. The server reads the string, finds number of words, characters and digits of received string and sends result back to client. Use connection-oriented communication.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "simple client-server communication applications",
+    "topics": [
+      "simple client-server communication applications"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Write a JDBC Program for Employee Management application in which Consider Employee table with attributes Emp_ID, EmpName, Phone and Address, and perform followings: i) Insert multiple records using prepared statement. ii) Display all the records in reverse order.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "JDBC architecture and drivers",
+    "topics": [
+      "JDBC architecture and drivers",
+      "Statement and PreparedStatement",
+      "CRUD operations",
+      "JDBC and database application development"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Discuss the use of CallableStatement.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "CallableStatement introduction",
+    "topics": [
+      "CallableStatement introduction"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Differentiate attributes and parameters of servlet.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Request parameters and headers",
+    "topics": [
+      "Request parameters and headers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Write a servlet code for login application using database connectivity.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet and JDBC integration",
+    "topics": [
+      "Servlet and JDBC integration"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain the lifecycle of filter.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Compare JSP with Servlet.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Static vs Dynamic web pages",
+    "topics": [
+      "Static vs Dynamic web pages"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "What is Session Management in servlet? Write a servlet application that demonstrates the use of cookie.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Cookies and Session Management",
+    "topics": [
+      "Cookies and Session Management"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is difference between JSTL tag <c:import> and <jsp:include> action tag?",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags",
+      "JSTL tags"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain any four JSTL function tags with example.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSTL tags",
+    "topics": [
+      "JSTL tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain the JSF request processing life cycle.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is faces-config.xml? Explain it with code.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "List the JSF standard validator tags and explain any three in detail.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Write a JSP application for student registration application using database connectivity.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet and JDBC integration",
+    "topics": [
+      "Servlet and JDBC integration",
+      "JSP and JDBC integration"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "List the Hibernate annotations and explain any two Hibernate annotations in detail.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Entity mapping using annotations",
+    "topics": [
+      "Entity mapping using annotations"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What is ORM? Explain object/relational mappings in hibernate.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "One-to-One and One-to-Many mapping basics",
+    "topics": [
+      "One-to-One and One-to-Many mapping basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain the architecture of Spring web MVC.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring MVC architecture",
+    "topics": [
+      "Spring MVC architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Compare Hibernate and JDBC.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "JDBC architecture and drivers",
+    "topics": [
+      "JDBC architecture and drivers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain Spring bean life cycle.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Bean concept",
+    "topics": [
+      "Bean concept"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain Hibernate Architecture.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "1) What is the purpose of the URL class in Java? 2) List out the important methods of HttpServletResponse. 3) What are the JSP action tags?",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Request and Response handling",
+    "topics": [
+      "Request and Response handling",
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "1) What are the advantages of Hibernate over JDBC? 2) What are the three types of text field's tags provided by JSF?",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "JDBC architecture and drivers",
+    "topics": [
+      "JDBC architecture and drivers"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "What is JDBC driver? Explain its role and compare various JDBC drivers.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "JDBC architecture and drivers",
+    "topics": [
+      "JDBC architecture and drivers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "What are the differences between a TCP socket and UDP socket? How are they created in Java?",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "TCP/IP basics",
+    "topics": [
+      "TCP/IP basics",
+      "Socket and ServerSocket programming",
+      "DatagramSocket basics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Demonstrate the use of ServletConfig and ServletContext.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "ServletConfig and ServletContext",
+    "topics": [
+      "ServletConfig and ServletContext"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "How do you handle multiple clients concurrently in socket programming? Explain with example.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "Socket and ServerSocket programming",
+    "topics": [
+      "Socket and ServerSocket programming",
+      "simple client-server communication applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "What is Session? Compare different session management techniques.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Cookies and Session Management",
+    "topics": [
+      "Cookies and Session Management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What is the use of PreparedStatement? How will you use it?",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "Statement and PreparedStatement",
+    "topics": [
+      "Statement and PreparedStatement"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "What is filter? How will you configure filter using deployment descriptor?",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "What is Java Bean? Demonstrate the use of JSP bean in web application.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is the use of CallableStatement? How will you use it?",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "CallableStatement introduction",
+    "topics": [
+      "CallableStatement introduction"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What is FilterConfig? How will you use it?",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "What is JSTL? Explain the core tags of the SQL tag library.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSTL tags",
+    "topics": [
+      "JSTL tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What are the benefits of using JSF Framework?",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "How will you use validator tags in JSF?",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "What are the cookies? Demonstrate the use of cookies in servlet for session management.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Cookies and Session Management",
+    "topics": [
+      "Cookies and Session Management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain the use of RequestDispatcher in servlet.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "RequestDispatcher",
+    "topics": [
+      "RequestDispatcher"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write a code snippet to show the use of JSF action event.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain JSP inbuilt objects with their use in application.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP implicit objects",
+    "topics": [
+      "JSP implicit objects"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is the advantage of using Spring Framework?",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring Framework features/advantages",
+    "topics": [
+      "Spring Framework features/advantages"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What do you understand by Dependency Injection? How do we implement it using Spring Framework?",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Dependency Injection (DI)",
+    "topics": [
+      "Dependency Injection (DI)"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "What are the different Hibernate interfaces? Explain their role in brief.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "One-to-One and One-to-Many mapping basics",
+    "topics": [
+      "One-to-One and One-to-Many mapping basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What is Hibernate SessionFactory and how to configure it?",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration",
+      "Session and SessionFactory"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Show the use of some important annotations for Hibernate mapping.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Entity mapping using annotations",
+    "topics": [
+      "Entity mapping using annotations"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain the flow of Spring Web MVC.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Spring MVC architecture",
+    "topics": [
+      "Spring MVC architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Describe the concept of JDBC.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "Need for database connectivity",
+    "topics": [
+      "Need for database connectivity",
+      "JDBC architecture and drivers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Write a Web application using servlet to find whether entered number is Prime or not.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet web application development",
+    "topics": [
+      "Servlet web application development"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "List the different types of JDBC drivers and explain type3 driver with its advantages and disadvantages.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "JDBC architecture and drivers",
+    "topics": [
+      "JDBC architecture and drivers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "What are the components of URL? Describe the use of URL class with an example.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "URL and URLConnection",
+    "topics": [
+      "URL and URLConnection"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain CallableStatement with example.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Advanced JDBC Programming",
+    "primary_topic": "CallableStatement introduction",
+    "topics": [
+      "CallableStatement introduction"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write a client server program using TCP where client sends two numbers and server responds with the sum of them.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "TCP/IP basics",
+    "topics": [
+      "TCP/IP basics",
+      "simple client-server communication applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Write a client server program using TCP where client send number and server respond reverse of given number.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Java Networking Fundamentals",
+    "primary_topic": "TCP/IP basics",
+    "topics": [
+      "TCP/IP basics",
+      "simple client-server communication applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What is session? List the different ways to manage the session.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Cookies and Session Management",
+    "topics": [
+      "Cookies and Session Management"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Disuss servlet life cycle methods.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet lifecycle",
+    "topics": [
+      "Servlet lifecycle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain use of ServletConfig and ServletContext object with example.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "ServletConfig and ServletContext",
+    "topics": [
+      "ServletConfig and ServletContext"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "How MVC architecture is better than conventional approach?",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "MVC Architecture",
+    "topics": [
+      "MVC Architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "List and Explain various stages of JSP life cycle.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP lifecycle",
+    "topics": [
+      "JSP lifecycle"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Write a Web application using servlet to find the sum of all the digits of an input integer.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet web application development",
+    "topics": [
+      "Servlet web application development"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define the init() method of a servlet.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet lifecycle",
+    "topics": [
+      "Servlet lifecycle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Write a servlet to display the name and age of a person received as parameters.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Request parameters and headers",
+    "topics": [
+      "Request parameters and headers",
+      "Servlet web application development"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "List out JSP Action Tags and explain it.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP action tags / JavaBeans / custom tags",
+    "topics": [
+      "JSP action tags / JavaBeans / custom tags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "How the GET method different from the POST method?",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "HTTP request-response cycle",
+    "topics": [
+      "HTTP request-response cycle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What is filter? List out the application of the filter.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "Servlet Filters basics",
+    "topics": [
+      "Servlet Filters basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Write a Web Application using JSP to get an integer N (where N>0) and display all the prime number up to N.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP web application development",
+    "topics": [
+      "JSP web application development"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Discuss JSP Exception Handling.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSP lifecycle",
+    "topics": [
+      "JSP lifecycle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "List out JSF HTML tags and explain any two.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Draw the Hibernate Architecture diagram and explain each part in brief.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate architecture and configuration",
+    "topics": [
+      "Hibernate architecture and configuration"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain any three Spring form tags with example.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Spring Framework, Spring Boot and RESTful Web Services",
+    "primary_topic": "Controllers and Request Mapping",
+    "topics": [
+      "Controllers and Request Mapping"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What is JSF? List and explain its features.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Java Web Fundamentals, Servlet and JSP Programming",
+    "primary_topic": "JSF (JavaServer Faces)",
+    "topics": [
+      "JSF (JavaServer Faces)"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain the steps to develop the Hibernate web application.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Hibernate and ORM Fundamentals",
+    "primary_topic": "Hibernate web application development",
+    "topics": [
+      "Hibernate web application development"
+    ],
+    "difficulty": "Easy"
+  }
+]

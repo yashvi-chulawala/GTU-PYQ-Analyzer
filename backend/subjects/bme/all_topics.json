@@ -1,0 +1,2502 @@
+[
+  {
+    "question_no": "Q1a",
+    "question": "Define (1) Critical Point (2) Enthalpy (3) Extensive property.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Properties of Steam",
+    "topics": ["Properties of Steam", "Enthalpy"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Give advantages of liquid fuels compared to solid fuels.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Applications of Energy sources",
+    "topics": ["Applications of Energy sources", "Fossil fuels"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Derive the characteristics gar equation for a perfect gas with usual notations.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Gas constant",
+    "topics": ["Gas constant", "Combined gas law"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Give comparison between work and heat.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Concept of Work and Heat",
+    "topics": ["Concept of Work and Heat", "Internal energy"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Define (1) sensible heat (2) Latent heat (3) Degree of superheat (4) Specific volume of steam.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Properties of Steam",
+    "topics": ["Properties of Steam", "Types of steam", "Specific volume"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "A 4 cylinder, 4 stroke marine oil engine has a cylinder diameter of 490 mm and a piston stroke of 1000 mm. the engine uses 130 kg of fuel of calorific value 42000 KJ/kg in one hour when running at 2 rev/sec. the torque transmitted at the engine coupling is 22 KN.m and indicated mean effective pressure 710 KN/m2. Determine (1) Indicated power (2) Brake power (3) Brake thermal efficiency (4) Mechanical efficiency (5) Indicated thermal efficiency.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Indicated power and Brake Power",
+    "topics": ["Indicated power", "Brake Power", "Efficiencies"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "A two-cylinder four stroke petrol engine has swept volume of 1.1 x 10-3 m3. It run at 950 rpm and consume 2.2 kg of petrol per hour having calorific value of 43000 KJ/kg. The mean effective pressure in both cylinder is 7.5 bar. Determine indicated thermal efficiency if clearance volume is 15% of swept volume.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Indicated power and Brake Power",
+    "topics": ["Indicated power", "Efficiencies"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain physical properties of engineering materials.",
+    "year": "S2022",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Properties of Engineering Materials",
+    "topics": ["Properties of Engineering Materials"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Efficiency of Carnot cycle is independent of working fluid justify.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Carnot cycle",
+    "topics": ["Carnot cycle", "Heat engine cycle", "Thermal efficiency"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "The initial volume of 0.9 kg of a certain gas was 0.75 m3 at a temperature of 150 C and a pressure of 1 bar. After adiabatic compression the volume is reduce to 0.28 m3 and pressure was found to be 4 bar. Calculate (1) gas constant (2) molecular mass if R0 = 8314.3 J/kg mol K, (3) ratio of specific heats (4) Cp and Cv (5) change in internal energy.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Adiabatic process",
+    "topics": ["Adiabatic process", "Gas constant", "Relation between cp and cv", "Internal energy"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is thermal prime mover? Why they are most important prime movers?",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Prime movers and its types",
+    "topics": ["Prime movers and its types"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What are nonferrous metals? Name any five and state their application.",
+    "year": "S2022",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Nonferrous metals",
+    "topics": ["Nonferrous metals", "Types and applications of metals"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain with neat sketch throttling calorimeter. Also state its advantages and disadvantages.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam calorimeters",
+    "topics": ["Steam calorimeters", "Dryness fraction of steam"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is clutch? State its functions.",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Clutches",
+    "topics": ["Clutches"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What is refrigerant? Describe the properties of good refrigerant.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Refrigerant",
+    "topics": ["Refrigerant"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "A cylindrical vessel of 1 m diameter and 4 m length has hydrogen gas at pressure of 100 KPa and 270 C. Determine the amount of heat to be supplied so as to increase gas pressure to 125 KPa. For hydrogen take Cp = 14.307 KJ/Kg K, Cv =10.183 KJ/Kg K.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Constant volume process",
+    "topics": ["Constant volume process", "Relation between cp and cv", "Gas constant"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is the difference between rigid coupling and flexible coupling?",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Couplings",
+    "topics": ["Couplings"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What is priming? Why priming is required in centrifugal pump but not in reciprocating pump?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Priming",
+    "topics": ["Priming", "Reciprocating pump", "Centrifugal pump"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Air is to be compressed in a single acting reciprocating compressor from 1.013 bar and 150 C to 7 bar. Calculate the indicated power required for free air delivery of 0.3 m3/min. when the compression process is 1. Isentropic 2. Reversible isothermal 3. polytopic with n= 1.25.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Reciprocating air compressor",
+    "topics": ["Reciprocating air compressor", "Isothermal process", "Adiabatic process", "Polytropic process"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain 1 ton of refrigeration and refrigeration effect.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Vapor compression refrigeration system",
+    "topics": ["Vapor compression refrigeration system", "Refrigerant"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What are the advantages and disadvantages of water tube boiler over fire tube boiler?",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Classification of Boilers",
+    "topics": ["Classification of Boilers"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain construction and working of Babcock and Wilcox boiler with line diagram.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Babcock and Wilcox boiler",
+    "topics": ["Babcock and Wilcox boiler"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Economizer used to increase efficiency of boiler justify this statement.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Boiler accessories",
+    "topics": ["Boiler accessories", "Mountings and accessories"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What are the differences between reciprocating and rotary compressor?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Reciprocating air compressor",
+    "topics": ["Reciprocating air compressor", "Rotary air compressor"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Determine the efficiency of air standard Carnot cycle with the following data: Minimum temperature of the cycle =270 C, Minimum pressure in the cycle = 1 bar, Pressure after isothermal compression =4.5 bar, Pressure after isentropic compression =12 bar. Take R = 0.287 KJ/kg K. Determine also power produced if engine makes 3 cycle/sec.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Carnot cycle",
+    "topics": ["Carnot cycle", "Thermal efficiency", "Isothermal process"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Classify boilers according to (i) relative position of hot gases and water, (ii) axis of the shell, (iii) method of water circulation. Give examples in each.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Classification of Boilers",
+    "topics": ["Classification of Boilers"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Make a list of (i) natural fuels and (ii) artificial (prepared) fuels. Write two effective points to reduce global warming.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Applications of Energy sources",
+    "topics": ["Applications of Energy sources", "Fossil fuels", "Environmental issues", "Global warming"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "i. Determine the amount of heat required to raise the temperature of a steel workpiece from 40 to 160 oC. The mass of workpiece is 20 kg and specific heat is 460 J/kg K.\nii. A thermodynamic cycle has four processes. The heat and work interaction with surroundings is given in the table. Determine the work done during process 3-4. What will be the change in internal energy after completion of one cycle?\nProcess | Heat transfer (kJ) | Work done (kJ)\n1-2     | +925               | +70\n2-3     | -110               | -50\n3-4     | -770               | ?\n4-1     | +220               | +170",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "First law of thermodynamics",
+    "topics": ["Specific heat capacity", "Internal energy", "Cycle", "First law of thermodynamics"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "State the function of the following in boilers: feed check valve, blow off cock, fusible plug.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Boiler mountings",
+    "topics": ["Boiler mountings", "Mountings and accessories"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Identify the following properties of materials:\n1) This property is desirable for parts subjected to impact loads and vibrations.\n2) By this property gold, silver, can be flattened or bent without cracking when hammered.\n3) This property is useful for materials subjected to high temperatures like boilers and turbines.\n4) This property is necessary for a material to be used in making springs.",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Properties of Engineering Materials",
+    "topics": ["Properties of Engineering Materials", "Ferrous metals", "Nonferrous metals"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Air has a volume of 0.15 m3, pressure 1.5 bar and temperature 107 oC. It is compressed at constant pressure, until its volume becomes 0.11 m3. Determine: (i) temperature at the end of compression, (ii) work done during compression, (iii) change in internal energy. cp = 1.005 kJ/kg K, cv = 0.718 kJ/kg K.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Constant pressure process",
+    "topics": ["Constant pressure process", "Internal energy", "Relation between cp and cv"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "0.35 m3 of gas at 10 bar, 157 oC expands adiabatically to 4 bar. It is then compressed isothermally to its original volume. Find the final temperature and pressure of the gas. cp = 0.996 kJ/kg K, cv = 0.703 kJ/kg K.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Adiabatic process",
+    "topics": ["Adiabatic process", "Isothermal process", "Relation between cp and cv"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "State the need of couplings along with the purposes they serve in machineries.",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Couplings",
+    "topics": ["Couplings"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Draw a schematic diagram of vapour compression refrigeration system. State the function of each main component.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Vapor compression refrigeration system",
+    "topics": ["Vapor compression refrigeration system"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Steam is initially dry saturated at 9 bar in each of the following cases. Determine,\n1) its dryness fraction if it loses 50 kJ/kg heat at constant pressure,\n2) the degree of superheat if it receives 150 kJ/kg heat at constant pressure.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Dryness fraction of steam",
+    "topics": ["Dryness fraction of steam", "Types of steam", "Enthalpy", "Steam tables"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Draw a half-sectional view of the sleeve (muff) coupling.",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Couplings",
+    "topics": ["Couplings"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Draw a labeled diagram of split air-conditioner. Why does the split air-conditioner consume more power than a window air-conditioner of same capacity?",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Window and split air conditioners",
+    "topics": ["Window and split air conditioners"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Draw a neat self-explanatory diagram of separating calorimeter. During the test on a separating calorimeter, 2.2 kg moisture was collected and 16 kg of steam left the calorimeter. Calculate dryness fraction of steam.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam calorimeters",
+    "topics": ["Steam calorimeters", "Dryness fraction of steam"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Classify clutches.",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Clutches",
+    "topics": ["Clutches"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Draw a schematic diagram of reciprocating pump. Show the variation of discharge of water with crank angle for single-acting reciprocating pump.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Reciprocating pump",
+    "topics": ["Reciprocating pump"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "A Carnot cycle works with isentropic compression ratio of 6 and isothermal expansion ratio of 2. The volume of air at the beginning of isothermal expansion is 0.2 m3. If Tmax and pmax is limited to 600 K and 20 bar respectively, determine: (i) minimum pressure during the cycle, (ii) thermal efficiency of cycle. Show the T-s and p-v diagram.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Carnot cycle",
+    "topics": ["Carnot cycle", "Thermal efficiency", "Isothermal process"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "State the function of brakes and classify them.",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Brakes",
+    "topics": ["Brakes"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Draw a labeled figure of centrifugal pump indicating all main components.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Centrifugal pump",
+    "topics": ["Centrifugal pump", "Rotary pump"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "The compression ratio of an ideal air standard diesel cycle is 15. Heat supplied at constant pressure is 1470 kJ/kg of air. Show the cycle on p-v diagram and determine the cycle efficiency if inlet conditions are 300 K and 1 bar.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Diesel cycle",
+    "topics": ["Diesel cycle", "Thermal efficiency"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Enlist various belt drives. Name any three belt materials.",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Belt drive",
+    "topics": ["Belt drive", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Outline the technical meaning of following terms used in air compressor: single acting compressor, single stage compressor, pressure ratio, swept volume, volumetric efficiency.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Reciprocating air compressor",
+    "topics": ["Reciprocating air compressor", "Types and operation of compressors"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Indicated power of a 6-cylinder 4-stroke engine is 150 kW at an average piston speed of 300 m/min. Stroke to bore ratio is 1.25. If mean effective pressure is 650 kN/m2, determine crankshaft speed. What is a flywheel and what is its function in IC engine?",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Indicated power and Brake Power",
+    "topics": ["Indicated power", "Engine details", "four-stroke cycle Diesel engines"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Match the following:\nSpiral gears - Parallel shafts\nBevel gears - Intersecting shafts\nWorm gears - Non-parallel non-intersecting shafts\nHelical gears - Shaft axes at right angles & non-intersecting",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Gear drive",
+    "topics": ["Gear drive", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Define with regard to compressors: mean effective pressure, indicated power, brake power, mechanical efficiency.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Types and operation of compressors",
+    "topics": ["Types and operation of compressors", "Reciprocating air compressor"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "A 4-cylinder 4-stroke petrol engine has a bore 60 mm and a stroke of 90 mm. The rated speed is 2800 rpm and torque is 55 N-m. Fuel consumption is 6.75 litre/hr. Specific gravity of petrol is 0.76 and calorific value is 44200 kJ/kg. Calculate brake power, brake mean effective pressure, brake thermal efficiency and brake specific fuel consumption.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Brake Power",
+    "topics": ["Brake Power", "Efficiencies", "four-stroke cycle Petrol engines"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define these terms: (1) Absolute Pressure (2) Thermal Equilibrium (3) Prime Mover.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Basic Terminology",
+    "topics": ["Concept of Force and Pressure", "Prime movers and its types", "Zeroth law of thermodynamics"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain with suitable examples the following thermodynamic systems: (1) Isolated (2) Open.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "System",
+    "topics": ["System"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Write a short note on \"Renewable Energy Sources\".",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Applications of Energy sources",
+    "topics": ["Applications of Energy sources", "Solar energy", "Wind energy", "Hydro energy", "Bio-fuels"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Define: (1) Isothermal process (2) Adiabatic process (3) Degree of superheat.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Non-flow processes",
+    "topics": ["Isothermal process", "Adiabatic process", "Types of steam"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Determine the condition of steam at a pressure of 10 bar and temperature of 200 \u2103.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam tables",
+    "topics": ["Steam tables", "Types of steam", "Properties of Steam"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "A gas initially at 510 kPa and volume of 142 liters undergoes a certain process after which the pressure and volume reach to 170 kPa and 275 liters respectively. And there is enthalpy drop of 65 kJ. The specific heat at constant volume for this gas is 718 J/kg-K. Calculate: 1. Change in internal energy 2. Specific heat at constant pressure 3. Gas Constant.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Internal energy",
+    "topics": ["Internal energy", "Enthalpy", "Gas constant", "Relation between cp and cv"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "(1) Draw neat diagram of the Separating Calorimeter.\n(2) Determine the dryness fraction of steam after throttling from pressure 14 bar to 1.1 bar. The initial dryness fraction of steam is equal to 0.70.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam calorimeters",
+    "topics": ["Steam calorimeters", "Dryness fraction of steam"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Define the terms: (1) T.D.C. (2) B.D.C. (3) Compression Ratio.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Engine details",
+    "topics": ["Engine details", "Internal Combustion Engines"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Classify the I. C. Engines.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Classification of heat engines",
+    "topics": ["Classification of heat engines", "Internal Combustion Engines"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Calculate the air standard efficiency of the diesel cycle where the pressure and temperature at the beginning of compression process are 1 bar and 27 \u2103 respectively. The compression ratio is 14 and the constant pressure heat addition continues up to 7% of the stroke volume. Draw this Diesel cycle on p-v diagram.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Diesel cycle",
+    "topics": ["Diesel cycle", "Thermal efficiency"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Write the function of following I.C. Engine components: (1) Spark Plug (2) Injector (3) Piston Rings.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Engine details",
+    "topics": ["Engine details", "Internal Combustion Engines"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Calculate the air standard efficiency of an Otto Cycle engine having a bore of 100 mm and stroke length equal to 150 mm. The clearance volume of cylinder is equal to 250 cm3. Take \u03b3 = 1.4.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Otto cycle",
+    "topics": ["Otto cycle", "Thermal efficiency"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "A Diesel engine develops 5 kW brake power at a speed of 1000 rpm. The mechanical efficiency of the engine is 75% and indicated thermal efficiency is equal to 30 %. The diesel fuel having specific gravity = 0.87 and calorific value = 42700 kJ/kg is used. Calculate: 1. Fuel consumption in kg/h. 2. Brake thermal efficiency 3. Brake specific fuel consumption.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Brake Power",
+    "topics": ["Brake Power", "Indicated power", "Efficiencies"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define these terms: (1) Refrigerant (2) C.O.P. (3) Air conditioning.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Refrigerant",
+    "topics": ["Refrigerant", "Vapor compression refrigeration system", "Window and split air conditioners"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Classify the Boilers.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Classification of Boilers",
+    "topics": ["Classification of Boilers"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain with neat diagrams the working of centrifugal compressor and centrifugal pump.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Rotary air compressor",
+    "topics": ["Rotary air compressor", "Centrifugal pump"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is an economizer? Why is it used in boiler plant?",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Boiler accessories",
+    "topics": ["Boiler accessories", "Mountings and accessories"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Classify the Pumps.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Types and operation of pumps",
+    "topics": ["Types and operation of pumps", "Reciprocating pump", "Centrifugal pump", "Rotary pump"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain the characteristics of a Lancashire boiler with neat diagrams.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Lancashire boiler",
+    "topics": ["Lancashire boiler"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "List the important properties of engineering materials.",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Properties of Engineering Materials",
+    "topics": ["Properties of Engineering Materials"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain with neat diagram the working of domestic refrigerator.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Domestic Refrigerator",
+    "topics": ["Domestic Refrigerator", "Vapor compression refrigeration system"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Classify: (1) Clutches (2) Brakes.",
+    "year": "S2024",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Clutches",
+    "topics": ["Clutches", "Brakes"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Define these terms: (1) Coupling (2) Shaft (3) Spindle.",
+    "year": "S2024",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Couplings",
+    "topics": ["Couplings", "Shaft and axle", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain with neat diagram the construction and working of Roots Blower.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Rotary air compressor",
+    "topics": ["Rotary air compressor"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Compare: Belt, Chain and Gear drives.",
+    "year": "S2024",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Transmission of Motion and Power",
+    "topics": ["Belt drive", "Chain drive", "Gear drive", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Discuss Closed, Open and Isolated Thermodynamic system with neat sketch.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "System",
+    "topics": ["System"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain different between renewable and non-renewable energy.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Applications of Energy sources",
+    "topics": ["Applications of Energy sources", "Fossil fuels", "Solar energy", "Wind energy"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Derive the characteristics gas equation for a perfect gas with usual notations.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Gas constant",
+    "topics": ["Gas constant", "Combined gas law", "Avogadro's law"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "State and explain zeroth law of thermodynamics and First law of thermodynamics.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "First law of thermodynamics",
+    "topics": ["Zeroth law of thermodynamics", "First law of thermodynamics"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "With usual notations prove that Cp \u2013 Cv= R.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Relation between cp and cv",
+    "topics": ["Relation between cp and cv", "Gas constant"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write a difference between SI engine and CI engine.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Internal Combustion Engines",
+    "topics": ["Internal Combustion Engines", "Classification of heat engines", "four-stroke cycle Petrol engines", "four-stroke cycle Diesel engines"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "A sample of wet steam at pressure of 15 bar has a dryness fraction of 0.06. determine the enthalpy, volume, entropy and internal enthalpy per kg.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Dryness fraction of steam",
+    "topics": ["Dryness fraction of steam", "Enthalpy", "Specific volume", "Internal energy", "Steam tables"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What is dryness fraction? Also state its importance.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Dryness fraction of steam",
+    "topics": ["Dryness fraction of steam", "Properties of Steam"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "List essential qualities of a good boiler.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Steam Boilers Introduction",
+    "topics": ["Steam Boilers Introduction", "Classification of Boilers"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "One kg of air at 7 bar pressure and 900 C temperature undergoes a non-flow process. The law of expansion is PV1.1 =C. the pressure falls to 1.4 bar during process calculate (1) the final temperature (2) work done (3) Change in internal energy (4) Heat exchange. Take R= 287 J/kg.K and \u03b3=1.4 for air.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Polytropic process",
+    "topics": ["Polytropic process", "Internal energy", "Gas constant"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is priming? Why priming is required in centrifugal pump?",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Priming",
+    "topics": ["Priming", "Centrifugal pump"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "List different mountings of boiler and explain any one in brief.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Boiler mountings",
+    "topics": ["Boiler mountings", "Mountings and accessories"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "With usual notation derive the expression for air standard efficiency of diesel cycle.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Diesel cycle",
+    "topics": ["Diesel cycle", "Thermal efficiency"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is the difference between rigid coupling and flexible coupling?",
+    "year": "S2025",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Couplings",
+    "topics": ["Couplings"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain working of Vapor absorption refrigeration system with neat sketch.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Vapor absorption refrigeration system",
+    "topics": ["Vapor absorption refrigeration system"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "One kg of an ideal gas is heated from 180 C to 980 C assuming R=0.27 KJ/kgK and \u03b3=1.18 for gas calculate (1) specific heats (Cp and Cv) (2) Change in internal energy (3) change in enthalpy.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Relation between cp and cv",
+    "topics": ["Relation between cp and cv", "Internal energy", "Enthalpy", "Gas constant"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write the function of following I.C. Engine components: (1) Spark Plug (2) Injector (3) Piston Rings.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Engine details",
+    "topics": ["Engine details", "Internal Combustion Engines"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Define the terms: Hardness, Toughness, Ductility, Elasticity.",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Properties of Engineering Materials",
+    "topics": ["Properties of Engineering Materials"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "It is required to find out the efficiency of an air standard Carnot Cycle with the following data. Minimum temperature of cycle 150 C, minimum pressure in cycle 1 bar. Pressure after isothermal compression 3.5 bar. Pressure after isentropic compression 10.5 bar. Assume R=0.287 KJ/kgK for air. What power would be produced if engine makes 2 cycles/second.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Carnot cycle",
+    "topics": ["Carnot cycle", "Thermal efficiency", "Isothermal process"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is throttling calorimeter? Also state its limitation.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam calorimeters",
+    "topics": ["Steam calorimeters", "Dryness fraction of steam"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain working of split air conditioner.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Window and split air conditioners",
+    "topics": ["Window and split air conditioners"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Calculate the dimensions (diameter and stroke) of a double acting reciprocating compressor neglecting clearance volume from the following additional data: compressor power=10 kw, Compressor ratio=7, Inlet pressure=1 bar, Piston speed = 180 m/min, Law of compression = PV1.3=C, L/D = 1.5.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Reciprocating air compressor",
+    "topics": ["Reciprocating air compressor", "Polytropic process"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Define brake and also state difference between clutch and coupling.",
+    "year": "S2025",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Brakes",
+    "topics": ["Brakes", "Clutches", "Couplings"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Elaborate differences between reciprocating and rotary compressor?",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Reciprocating air compressor",
+    "topics": ["Reciprocating air compressor", "Rotary air compressor"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "A six-cylinder four stroke petrol engine develop 300 KW brake power at 2500 rpm. The stroke to bore ratio is 1.25. Assuming the mechanical efficiency as 80% and mean effective pressure of 9 bar, determine the bore and stroke of engine. Also find the fuel consumption in kg/hr if indicated thermal efficiency is 30% and CV of fuel used is 41900 KJ/kg.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Brake Power",
+    "topics": ["Brake Power", "Indicated power", "Efficiencies", "four-stroke cycle Petrol engines"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain in brief concept of energy, work and power.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Concept of Energy Work and Power",
+    "topics": ["Concept of Energy Work and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "State and explain in brief First law of thermodynamics.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "First law of thermodynamics",
+    "topics": ["First law of thermodynamics"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Write short note on environmental issues of Global warming and ozone depletion.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Environmental issues",
+    "topics": ["Environmental issues", "Global warming", "Ozone depletion"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "State and explain Charles's law.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Charles's law",
+    "topics": ["Charles's law"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain adiabatic process by stating examples.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Adiabatic process",
+    "topics": ["Adiabatic process"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "With a neat sketch explain Throttling calorimeter.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam calorimeters",
+    "topics": ["Steam calorimeters", "Dryness fraction of steam"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "A steam power plant uses steam at boiler pressure of 150 bar and temperature of 550\u00b0C with reheat at 40 bar and 550\u00b0C at condenser pressure of 0.1 bar. Find the quality of steam at turbine exhaust.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Rankine cycle",
+    "topics": ["Rankine cycle", "Steam tables", "Properties of Steam"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain in brief about the concept of heat engines.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Heat engine cycle",
+    "topics": ["Heat engine cycle", "Classification of heat engines"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain Rankine cycle with sketch.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Rankine cycle",
+    "topics": ["Rankine cycle", "Thermal efficiency"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain construction and working of Babcock and Wilcox boiler with neat sketch.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Babcock and Wilcox boiler",
+    "topics": ["Babcock and Wilcox boiler"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Enlist classification of Internal combustion engines.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Classification of heat engines",
+    "topics": ["Classification of heat engines", "Internal Combustion Engines"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Differentiate the functions of boiler mountings and accessories.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Mountings and accessories",
+    "topics": ["Boiler mountings", "Boiler accessories", "Mountings and accessories"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Following observations were recorded during a test on a single cylinder 4-stroke oil engine: Bore =300 mm; Stroke = 450 mm; Speed =300 rpm; imep = 6 bar; Net brake load = 1.5 kN; Brake drum diameter = 1.8 m; Brake rope diameter = 2 cm. Calculate: (i) Indicated Power (ii) Brake Power (iii) Mechanical Efficiency.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Indicated power and Brake Power",
+    "topics": ["Indicated power", "Brake Power", "Efficiencies"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Explain in brief about function of an air compressor.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Types and operation of compressors",
+    "topics": ["Types and operation of compressors", "Reciprocating air compressor"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Write short note on Priming.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Priming",
+    "topics": ["Priming", "Centrifugal pump"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain construction and working of reciprocating pump with neat sketch.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Reciprocating pump",
+    "topics": ["Reciprocating pump"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "State function of refrigerant in vapor compression refrigeration system.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Refrigerant",
+    "topics": ["Refrigerant", "Vapor compression refrigeration system"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write short note on vapor absorption refrigeration system.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Vapor absorption refrigeration system",
+    "topics": ["Vapor absorption refrigeration system"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain construction and working of window conditioner with neat sketch.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Window and split air conditioners",
+    "topics": ["Window and split air conditioners"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain Oldham coupling with neat sketch.",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Couplings",
+    "topics": ["Couplings"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Describe centrifugal clutch with neat sketch.",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Clutches",
+    "topics": ["Clutches"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain construction and working of shoe brake with neat sketch.",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Brakes",
+    "topics": ["Brakes"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain different arrangement and application of belt drive.",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Belt drive",
+    "topics": ["Belt drive", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Differentiate ferrous and nonferrous metals.",
+    "year": "S2026",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Ferrous metals",
+    "topics": ["Ferrous metals", "Nonferrous metals"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Write short note on plastic and polymers materials.",
+    "year": "S2026",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Plastic and polymer",
+    "topics": ["Plastic and polymer"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define zeroth law of thermodynamics, and First law of thermodynamics.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "First law of thermodynamics",
+    "topics": ["Zeroth law of thermodynamics", "First law of thermodynamics"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "With usual notations prove that Cp \u2013 Cv= R.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Relation between cp and cv",
+    "topics": ["Relation between cp and cv", "Gas constant"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Write a difference between SI engine and CI engine.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Internal Combustion Engines",
+    "topics": ["Internal Combustion Engines", "four-stroke cycle Petrol engines", "four-stroke cycle Diesel engines"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Describe the process of formation steam on T-H diagram.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam formation",
+    "topics": ["Steam formation", "Types of steam", "Enthalpy"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Write a short note on \"Global Warming and solar energy\".",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Environmental issues",
+    "topics": ["Environmental issues", "Global warming", "Solar energy"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Ford car having a four cylinder, four stroke petrol engine has 100 mm bore and stroke is 1.25 times the bore. It consumes 4 kg of fuel per hour having calorific value of 41,000 kJ/kg. The engine speed is 800 rpm. Calculate indicated thermal efficiency if mean effective pressure is 0.75 MPa.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Indicated power and Brake Power",
+    "topics": ["Indicated power", "Efficiencies", "four-stroke cycle Petrol engines"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "A 4-cylinder, two-stroke cycle petrol engine develops 30 kW at 2500 rpm. The mean effective pressure on each piston is 8 bar and mechanical efficiency is 80%. Calculate the diameter and stroke of each cylinder if stroke to bore ratio is 1.5. Also the fuel consumption of engine, if brake thermal efficiency is 28% and calorific value is 43900 kJ/kg.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Brake Power",
+    "topics": ["Brake Power", "Indicated power", "Efficiencies", "two-stroke cycle Petrol engines"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "How do you classify steam boilers?",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Classification of Boilers",
+    "topics": ["Classification of Boilers"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Draw labeled diagram of Babcock and wilcox boiler.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Babcock and Wilcox boiler",
+    "topics": ["Babcock and Wilcox boiler"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "An air standard Otto cycle has compression ratio of 6. The temperature at the start of compression is 25oC and pressure is 1 bar. If the maximum temperature of the cycle is 1150oC. Calculate (a) the heat supplied and heat rejected per kg of air (b) network done per kg of air and (c) thermal efficiency of cycle. Assume \u03b3=1.4, Cv= 0.778 kJ/kg K for air.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Otto cycle",
+    "topics": ["Otto cycle", "Thermal efficiency"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "List out application of compressed air.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Types and operation of compressors",
+    "topics": ["Types and operation of compressors", "Reciprocating air compressor"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain single acting reciprocating pump.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Reciprocating pump",
+    "topics": ["Reciprocating pump"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "One kg of a gas at 1 bar pressure and 17oC is compressed isothermally to a pressure of 25 bar in a cylinder. The characteristic gas constant is 260 J/kg K. calculate (a) the final temperature (b) work done and (c) change in enthalpy.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Isothermal process",
+    "topics": ["Isothermal process", "Enthalpy", "Gas constant"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is priming? Why priming is required in centrifugal pump but not in reciprocating pump.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Priming",
+    "topics": ["Priming", "Centrifugal pump", "Reciprocating pump"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Define (i) Dryness fraction (ii) wetness fraction.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Dryness fraction of steam",
+    "topics": ["Dryness fraction of steam"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain vapour compression refrigeration cycle used in domestic refrigerator.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Domestic Refrigerator",
+    "topics": ["Domestic Refrigerator", "Vapor compression refrigeration system"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write function of clutch, Break and Coupling.",
+    "year": "W2021",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Clutches",
+    "topics": ["Clutches", "Brakes", "Couplings"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Compare belt drive, chain drive and gear drive.",
+    "year": "W2021",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Transmission of Motion and Power",
+    "topics": ["Belt drive", "Chain drive", "Gear drive", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Define following mechanical properties: (1) Elasticity (2) Malleability (3) Ductility (4) Stiffness (5) Hardness (6) Toughness (7) Resilience.",
+    "year": "W2021",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Properties of Engineering Materials",
+    "topics": ["Properties of Engineering Materials"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain open system, closed system and isolated system.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "System",
+    "topics": ["System"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Define (i) one ton of refrigeration (ii) COP.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Vapor compression refrigeration system",
+    "topics": ["Vapor compression refrigeration system", "Refrigerant"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain construction and working of centrifugal compressor with neat sketch.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Rotary air compressor",
+    "topics": ["Rotary air compressor"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Define ferrous and Nonferrous material with example.",
+    "year": "W2021",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Ferrous metals",
+    "topics": ["Ferrous metals", "Nonferrous metals"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain types of Belt Drives.",
+    "year": "W2021",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Belt drive",
+    "topics": ["Belt drive", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Write a short on a single plate (disc) friction clutch.",
+    "year": "W2021",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Clutches",
+    "topics": ["Clutches"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define Specific heat and enthalpy.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Specific heat capacity",
+    "topics": ["Specific heat capacity", "Enthalpy"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain different between renewable and non-renewable energy.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Applications of Energy sources",
+    "topics": ["Applications of Energy sources", "Fossil fuels", "Solar energy"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Define adiabatic process. Prove that pV\u03b3 = constant.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Adiabatic process",
+    "topics": ["Adiabatic process"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain classification of engineering materials.",
+    "year": "W2022",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Types of Engineering Materials",
+    "topics": ["Ferrous metals", "Nonferrous metals", "Timber", "Ceramics", "Plastic and polymer"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain with neat sketch the working of fast and loose pulley.",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Belt drive",
+    "topics": ["Belt drive", "Transmission of Motion and Power"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "How much heat to be added to convert 4kg water at 200 C into steam at 8bar and 2000 C. take Cp of superheated steam as 2.1KJ/kg and specific heat of water of water as 4.187KJ/kgK.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam formation",
+    "topics": ["Steam formation", "Types of steam", "Enthalpy", "Steam tables"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "1kg of air at 7bar pressure and 900C temperature undergoes a non flow polytropic process. The law of expansion is pV1.1=constant. The pressure falls to 1.4bar during process. Calculate: (1) final temperature (2) Work done (3) change in internal energy (4) heat exchange take R= 287J/kg K and \u03b3 =1.4 for air.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Polytropic process",
+    "topics": ["Polytropic process", "Internal energy", "Gas constant"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain with neat sketch throttling calorimeter.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam calorimeters",
+    "topics": ["Steam calorimeters", "Dryness fraction of steam"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain different between fire tube boiler and water tube boiler.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Classification of Boilers",
+    "topics": ["Classification of Boilers"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Derive equation for efficiency of constant pressure heat addition cycle.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Diesel cycle",
+    "topics": ["Diesel cycle", "Thermal efficiency"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain dryness fraction of steam.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Dryness fraction of steam",
+    "topics": ["Dryness fraction of steam", "Types of steam"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "The engine working on ideal Otto cycle. The temperature at the beginning and at the end of compression is 500 C and 4000 C. Calculate the air standard efficiency and compression ratio.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Otto cycle",
+    "topics": ["Otto cycle", "Thermal efficiency"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain with neat sketch Cochran boiler.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Cochran boiler",
+    "topics": ["Cochran boiler"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Draw net figures of any three types of belt drive.",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Belt drive",
+    "topics": ["Belt drive", "Transmission of Motion and Power"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What are the uses of compressed air?",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Types and operation of compressors",
+    "topics": ["Types and operation of compressors"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "The following reading were taken during the test on a single cylinder four stroke oil engine:\nCylinder diameter =270 mm\nStroke length= 380 mm\nMean effective pressure= 6 bar\nEngine speed=250 rpm\nNet load on brake =1000 N\nEffective mean diameter of brake=1.5 m\nFuel used = 10 kg/hr\nC.V of fuel = 44400KJ/kg\nCalculate: (1) Brake power (2) Indicated power (3) Indicated thermal efficiency.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Indicated power and Brake Power",
+    "topics": ["Brake Power", "Indicated power", "Efficiencies"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write function of clutch, Break and Coupling.",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Clutches",
+    "topics": ["Clutches", "Brakes", "Couplings"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Classify internal combustion Engine.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Classification of heat engines",
+    "topics": ["Classification of heat engines", "Internal Combustion Engines"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Two cylinder four stroke diesel has total swept volume of 870cm3. Following data available with test on the engine.\nEngine speed = 300rpm\nBrake torque= 50 N-m\npm= 10bar\ncalculate (1) indicated power (2) brake power (3) Mechanical efficiency.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Indicated power and Brake Power",
+    "topics": ["Indicated power", "Brake Power", "Efficiencies"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain difference between belt drive and chain drive.",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Belt drive",
+    "topics": ["Belt drive", "Chain drive", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain with the help of neat sketches, the working of two stroke petrol engine.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "two-stroke cycle Petrol engines",
+    "topics": ["two-stroke cycle Petrol engines", "Internal Combustion Engines"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain vapour compression refrigeration cycle.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Vapor compression refrigeration system",
+    "topics": ["Vapor compression refrigeration system"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Define the following mechanical properties: (i) Ductility (ii) Hardness (iii) Plasticity.",
+    "year": "W2022",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Properties of Engineering Materials",
+    "topics": ["Properties of Engineering Materials"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What is coupling? Explain internal expanding shoe brake with a neat sketch?",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Brakes",
+    "topics": ["Brakes", "Couplings"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What is priming? Explain with neat sketch centrifugal pump.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Centrifugal pump",
+    "topics": ["Centrifugal pump", "Priming"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "What do you mean by 'boiler mountings' and 'boiler accessories'? Write three examples of them.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Mountings and accessories",
+    "topics": ["Boiler mountings", "Boiler accessories", "Mountings and accessories"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain advantages and disadvantages of wind energy.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Wind energy",
+    "topics": ["Wind energy", "Applications of Energy sources"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "i. Fill in the blanks: 1 bar = ______ Pa = _____ kPa = _____ MPa; 1 atm = ________ bar\nii. Write the equation of 1st law of thermodynamics for a stationary closed system.\niii. Determine the power required to accelerate a 900-kg car from rest to a velocity of 80 km/h in 20 sec on a horizontal road. (Neglect friction, rolling resistance, air drag, etc.)",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "First law of thermodynamics",
+    "topics": ["Concept of Force and Pressure", "First law of thermodynamics", "Concept of Energy Work and Power"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "State the function of the following in boilers: Economizer, air preheater, superheater.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Boiler accessories",
+    "topics": ["Boiler accessories", "Mountings and accessories"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Provide meaning of the following statements regarding cast iron material:\n1) It is brittle and has low ductility.\n2) It has high compressive strength but low tensile strength.\n3) It has excellent castability.\n4) It has poor formability.",
+    "year": "W2023",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Ferrous metals",
+    "topics": ["Ferrous metals", "Properties of Engineering Materials"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "A gas whose pressure, volume, and temperature are 2.75 bar, 0.09 m3, and 185oC respectively has the state changed at constant pressure until its temperature becomes 15oC. Calculate (i) the heat transferred, and (ii) the work done. Take R = 0.29 kJ/kg K and cp = 1.005 kJ/kg K.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Constant pressure process",
+    "topics": ["Constant pressure process", "Gas constant"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "The gauge pressure of an automobile tire is measured to be 210 kPa before a trip and 220 kPa after the trip at a location where the atmospheric pressure is 95 kPa. Assuming the volume of the tire remains constant and the air temperature before the trip is 25\u00b0C, determine air temperature in the tire after the trip. Convert this change in temperature into percentage change.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Gay-Lussac's law",
+    "topics": ["Gay-Lussac's law", "Boyle's law", "Constant volume process"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Classify clutches.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Clutches",
+    "topics": ["Clutches"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Draw a schematic diagram of the vapor absorption refrigeration system.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Vapor absorption refrigeration system",
+    "topics": ["Vapor absorption refrigeration system"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Determine the missing properties and the phase descriptions in the following table for water. Use steam tables and write necessary explanations.\nT (oC) | P (kPa) | h (kJ/kg) | x    | Phase description\n(i)    | 200     |           | 0.6  |\n(ii)   |         | 124       | 1835.2|",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam tables",
+    "topics": ["Steam tables", "Dryness fraction of steam", "Enthalpy", "Types of steam"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Draw a labeled diagram of a shoe brake used in automobiles.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Brakes",
+    "topics": ["Brakes"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Draw a self-explanatory diagram of window room air-conditioner.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Window and split air conditioners",
+    "topics": ["Window and split air conditioners"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Draw a neat, labeled diagram of barrel calorimeter. Write the equation used for this calorimeter for finding dryness fraction and state what each term in it indicates.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam calorimeters",
+    "topics": ["Steam calorimeters", "Dryness fraction of steam"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Match the following:\nRigid flange coupling - Axis of shafts are parallel but not in alignment\nPin type flexible coupling - Where angular misalignment is more\nUniversal coupling - Requires proper alignment of shaft axes\nOldham's coupling - For small angular misalignment",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Couplings",
+    "topics": ["Couplings"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Compare centrifugal pumps v/s reciprocation pumps.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Centrifugal pump",
+    "topics": ["Centrifugal pump", "Reciprocating pump"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Consider a steam power plant operating on the simple ideal Rankine cycle. Steam enters the turbine at 3 MPa and 350\u00b0C and is condensed in the condenser at a pressure of 74 kPa. Draw the T-s diagram and determine the thermal efficiency of this cycle. (Do not neglect the pump work.)",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Rankine cycle",
+    "topics": ["Rankine cycle", "Thermal efficiency", "Steam tables"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Give the similarities and differences between a clutch and a brake.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Clutches",
+    "topics": ["Clutches", "Brakes"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain any one type of rotary pumps with figure.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Rotary pump",
+    "topics": ["Rotary pump"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Derive, using P-v diagram, the equation to find air standard efficiency of Otto cycle. Use the formula you derived to find which gas from the following will give maximum efficiency for the same compression ratio: exhaust gas (\u03b3=1.3), air, and monatomic gas (\u03b3=1.67).",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Otto cycle",
+    "topics": ["Otto cycle", "Thermal efficiency"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Draw a schematic diagram of the fast and loose pulley drive.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Belt drive",
+    "topics": ["Belt drive", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Give classification of air compressors.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Types and operation of compressors",
+    "topics": ["Types and operation of compressors", "Reciprocating air compressor", "Rotary air compressor"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "A 4-stroke 6-cylinder IC engine has a stroke volume of 1.75 liters and is operating at a mean effective pressure of 6 bar. At what crankshaft rpm will the engine develop 35 hp? (Take 1 hp = 736 watts). What is the function of a carburetor and a fuel injector in an IC engine?",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Indicated power and Brake Power",
+    "topics": ["Indicated power", "Engine details", "four-stroke cycle Petrol engines", "four-stroke cycle Diesel engines"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Differentiate between a belt drive and a gear drive.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Belt drive",
+    "topics": ["Belt drive", "Gear drive", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Define with regard to compressors: double-acting compressor, multistage compressor, displacement (swept) volume, pressure ratio.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Types and operation of compressors",
+    "topics": ["Types and operation of compressors", "Multistage compressor"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "A petrol engine has a compression ratio of 6 and develops 15 kW. Its brake thermal efficiency is half of its air standard efficiency. Find the fuel consumption. Take calorific value of petrol as 41500 kJ/kg. Why are more two-wheeler automobiles made with a 4-stroke engine instead of a 2-stroke engine? Give three technical reasons for this.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Brake Power",
+    "topics": ["Brake Power", "Efficiencies", "Otto cycle", "four-stroke cycle Petrol engines", "two-stroke cycle Petrol engines"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain with neat sketch: Open, Close and Isolated system.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "System",
+    "topics": ["System"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Find expression of work done and change in internal energy for adiabatic process.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Adiabatic process",
+    "topics": ["Adiabatic process", "Internal energy"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Discuss the primary causes of global warming. What are impacts of global warming?",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Environmental issues",
+    "topics": ["Environmental issues", "Global warming"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Write the statements for Boyle's law, Charles's law and Gay-Lussac's law.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Boyle's law",
+    "topics": ["Boyle's law", "Charles's law", "Gay-Lussac's law"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What do you mean by non metallic materials? Name any three non metallic materials and state its practical importance.",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Types of Engineering Materials",
+    "topics": ["Timber", "Ceramics", "Plastic and polymer", "Abrasive material"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "With a neat sketch explain Throttling calorimeter.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam calorimeters",
+    "topics": ["Steam calorimeters", "Dryness fraction of steam"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "5 kg of air is heated from 250C to 1500 C. Determine: (i) specific heats, (ii) change in internal energy, (iii) change in enthalpy and (iv) heat supplied. Assume R = 0.287 kJ/kgK and \u03b3 = 1.4 for air and work done = 500 kJ.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Relation between cp and cv",
+    "topics": ["Relation between cp and cv", "Internal energy", "Enthalpy", "Gas constant"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "State the assumptions made in working of Carnot cycle. Also write down the limitations of Carnot cycle.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Carnot cycle",
+    "topics": ["Carnot cycle"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "An engine operation on an air-standard Otto cycle has a compression ratio equal to 7. The conditions at the start of compression are 0.1 MPa and 300 K. The pressure at the end of heat addition is 4 MPa. Determine: (i) thermal efficiency, (ii) net work done per kg of air. Take Cv = 0.718 kJ/kg, and \u03b3 = 1.4.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Otto cycle",
+    "topics": ["Otto cycle", "Thermal efficiency"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Derive equation for air standard efficiency of diesel cycle.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Diesel cycle",
+    "topics": ["Diesel cycle", "Thermal efficiency"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Give difference between SI and CI engines.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Internal Combustion Engines",
+    "topics": ["Internal Combustion Engines", "four-stroke cycle Petrol engines", "four-stroke cycle Diesel engines"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "The following data were noted for a 4-cylinder, 4-stroke engine: Diameter = 101 mm, stroke = 114 mm, engine speed = 1600 rpm, fuel consumption = 0.204 kg/min, heating value of fuel = 41,800 kJ/kg, difference in either side of the brake pulley = 378 N, brake pulley radius = 3.35 m. Assume mechanical efficiency = 83%. Calculate: (i) brake thermal efficiency, (ii) indicated thermal efficiency, (iii) fuel consumption per brake power.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Brake Power",
+    "topics": ["Brake Power", "Indicated power", "Efficiencies"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain with neat sketch four stoke diesel engine.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "four-stroke cycle Diesel engines",
+    "topics": ["four-stroke cycle Diesel engines", "Internal Combustion Engines"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is priming? Why is it required in centrifugal pump?",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Priming",
+    "topics": ["Priming", "Centrifugal pump"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain with P-V diagram need of multi staging in reciprocating air compressor.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Multistage compressor",
+    "topics": ["Multistage compressor", "Reciprocating air compressor"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain with neat sketch working of Babcock and Wilcox boiler.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Babcock and Wilcox boiler",
+    "topics": ["Babcock and Wilcox boiler"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Define boiler. Also mention at least five essential requirements of a good boiler.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Steam Boilers Introduction",
+    "topics": ["Steam Boilers Introduction", "Classification of Boilers"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Give comparison between reciprocating and centrifugal pump.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Reciprocating pump",
+    "topics": ["Reciprocating pump", "Centrifugal pump"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "What do you mean by mounting and accessories? Enlist different boiler mountings and accessories with their functions.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Mountings and accessories",
+    "topics": ["Boiler mountings", "Boiler accessories", "Mountings and accessories"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Define the terms: Refrigeration, Refrigeration effect and Coefficient of Performance.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Vapor compression refrigeration system",
+    "topics": ["Vapor compression refrigeration system", "Refrigerant"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write down comparison between Belt, Chain and Gear drive.",
+    "year": "W2024",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Transmission of Motion and Power",
+    "topics": ["Belt drive", "Chain drive", "Gear drive", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain with neat sketch vapour compression refrigeration system.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Vapor compression refrigeration system",
+    "topics": ["Vapor compression refrigeration system"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Define air conditioning. Also give the classification of air conditioning system.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Window and split air conditioners",
+    "topics": ["Window and split air conditioners", "Vapor compression refrigeration system"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain with a neat sketch working of internal expanding shoe brake.",
+    "year": "W2024",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Brakes",
+    "topics": ["Brakes"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What do you mean by the word 'Friction clutches'? Explain with neat sketch working of a centrifugal clutch.",
+    "year": "W2024",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Clutches",
+    "topics": ["Clutches"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Classify the Babcock-Wilcox boiler. What is the function of a superheater?",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Babcock and Wilcox boiler",
+    "topics": ["Babcock and Wilcox boiler", "Boiler accessories", "Classification of Boilers"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Describe advantages and disadvantages of solar energy.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Solar energy",
+    "topics": ["Solar energy", "Applications of Energy sources"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "(i) A 3-kg plastic tank that has a volume of 0.2 m3 is filled with liquid water. Determine the weight of the combined system.\n(ii) A pressure gage connected to a tank reads 500 kPa at a location where the atmospheric pressure is 94 kPa. Determine the absolute pressure in the tank.\n(iii) What is the characteristic of a steady-flow process?",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Basic Terminology and Energy",
+    "primary_topic": "Basic Terminology",
+    "topics": ["Concept of Force and Pressure", "Concept of Energy Work and Power", "Process"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "State the function of any three accessories in boilers.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Steam Boilers",
+    "primary_topic": "Boiler accessories",
+    "topics": ["Boiler accessories", "Mountings and accessories"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What is the difference between elasticity and plasticity? What do you understand by resilience?",
+    "year": "W2025",
+    "unit_number": 8,
+    "unit_name": "Engineering Materials",
+    "primary_topic": "Properties of Engineering Materials",
+    "topics": ["Properties of Engineering Materials"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Air enters a compressor at 1.013 bar and 27oC having a volume of 5 m3/kg and it is compressed to 12 bar isothermally. Determine: (i) work done, (ii) heat transfer, and (iii) change in internal energy.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Isothermal process",
+    "topics": ["Isothermal process", "Internal energy"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Five kg of air is heated from an initial volume of 0.5 m3 to final volume of 1.3 m3 at constant pressure 4 bar. Determine: (i) heat supplied, (ii) work done, and (iii) initial and final temperature of air. Cp = 1.005 kJ/kg K, R = 0.287 kJ/kg K.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Constant pressure process",
+    "topics": ["Constant pressure process", "Gas constant", "Relation between cp and cv"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Draw a schematic diagram of a differential bank brake.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Brakes",
+    "topics": ["Brakes"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Show the vapour compression refrigeration cycle on T-s and p-h diagram. Name each process in the cycle.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Vapor compression refrigeration system",
+    "topics": ["Vapor compression refrigeration system"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Steam at 5 bar and dryness fraction of 0.85 expands reversibly at constant pressure until the temperature is 220oC. Determine the work and heat transfer per kg of steam during the process. Take specific heat for superheated steam as 2.1 kJ/kg K.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Dryness fraction of steam",
+    "topics": ["Dryness fraction of steam", "Types of steam", "Enthalpy", "Steam tables"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Answer in one word:\n(i) Which coupling is used to connect engine shaft to driven shaft in automobile?\n(ii) Energy absorbed by a brake is released into the environment in the form of which energy?\n(iii) What causes the outward movement of a shoe in centrifugal clutch?",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Couplings",
+    "topics": ["Couplings", "Brakes", "Clutches"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "A classroom has a window air conditioner of 2 TR capacity. Its COP is 3. How much electrical energy (in kWhr) will be consumed in one month if the unit runs for 6 hours per day?",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Refrigeration and Air Conditioning",
+    "primary_topic": "Window and split air conditioners",
+    "topics": ["Window and split air conditioners", "Vapor compression refrigeration system"],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "During a test of steam with throttling calorimeter, sample is taken from main pipe at 15 bar, pressure and temperature after throttling are 1.2 bar and 150oC respectively. Determine dryness fraction of steam. Take specific heat of superheated steam as 2.1 kJ/kg K.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Properties of gases and Steam",
+    "primary_topic": "Steam calorimeters",
+    "topics": ["Steam calorimeters", "Dryness fraction of steam"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is a flexible coupling? What are its types?",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Couplings",
+    "topics": ["Couplings"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Draw a diagram of vortex-type centrifugal pump.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Centrifugal pump",
+    "topics": ["Centrifugal pump", "Rotary pump"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "A steam plant works on ideal Rankine cycle. Steam is supplied at 25 bar and 290oC. The steam exhausts into a condenser at 15 kN/m2 with 0.9 dry. Determine the cycle efficiency.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Rankine cycle",
+    "topics": ["Rankine cycle", "Thermal efficiency", "Steam tables"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Give similarities and differences between a friction clutch and a positive-contact clutch.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Clutches",
+    "topics": ["Clutches"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Describe in short the parts of a reciprocating pump.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Reciprocating pump",
+    "topics": ["Reciprocating pump"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "An oil engine working on diesel cycle has cylinder bore of 190 mm and piston stroke of 230 mm. The clearance volume is 290 cm3. The fuel injection takes place at a constant pressure for 6% of the stroke. Determine the air-standard efficiency.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Diesel cycle",
+    "topics": ["Diesel cycle", "Thermal efficiency"],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Answer in short:\n(i) Name the different types of belt drives.\n(ii) Enlist different gear types.\n(iii) Give one benefit of using a V-belt.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Belt drive",
+    "topics": ["Belt drive", "Gear drive", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What do you understand by positive displacement compressor? How it differs from rotodynamic compressor?",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Types and operation of compressors",
+    "topics": ["Reciprocating air compressor", "Rotary air compressor", "Types and operation of compressors"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain following terms of I.C. engine: (i) brake power, (ii) indicated power, (iii) specific fuel consumption, (iv) clearance volume.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Indicated power and Brake Power",
+    "topics": ["Brake Power", "Indicated power", "Efficiencies", "Engine details"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "State one disadvantage of rope drive, chain drive and gear drive.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Couplings, Clutches and Brakes",
+    "primary_topic": "Transmission of Motion and Power",
+    "topics": ["Belt drive", "Chain drive", "Gear drive", "Transmission of Motion and Power"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Define with regard to compressors: double-acting compressor, multistage compressor, displacement (swept) volume, pressure ratio.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Air compressors and pumps",
+    "primary_topic": "Types and operation of compressors",
+    "topics": ["Types and operation of compressors", "Multistage compressor", "Reciprocating air compressor"],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "A 6-cylinder 4-stroke I.C. engine is used to produce 95 kW brake power at 800 rpm. The stroke to bore ratio is 1.25. Mean effective pressure is 7 bar. Determine the bore and stroke of the engine. Assume mechanical efficiency as 80%.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Heat Engines and IC Engines",
+    "primary_topic": "Brake Power",
+    "topics": ["Brake Power", "Indicated power", "Efficiencies", "four-stroke cycle Diesel engines"],
+    "difficulty": "Hard"
+  }
+]

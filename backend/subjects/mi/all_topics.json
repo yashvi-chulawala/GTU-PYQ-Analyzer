@@ -1,0 +1,3508 @@
+[
+  {
+    "question_no": "Q1a",
+    "question": "Explain the flag register in 8085 microprocessor.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Flag Register",
+    "topics": [
+      "Flag Register",
+      "8085 Programming Model"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain the following pins of 8085:\n(1) INTR (2) HOLD (3) SOD (4) READY",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Pin Functions",
+    "topics": [
+      "8085 Pin Functions",
+      "INTR",
+      "HOLD",
+      "SOD",
+      "READY"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Draw the block diagram of internal architecture of 8085 and explain its working.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "Internal Block Diagram"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain the following instructions\n1.LHLD 2.RAL 3.DAA",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "LHLD",
+      "RAL",
+      "DAA"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain demultiplexing of data and address bus of 8085.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Demultiplexing of Buses",
+    "topics": [
+      "Demultiplexing of Buses",
+      "Address Bus",
+      "Data Bus"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain the timing diagram of the instruction MOV C,A (4FH) stored in location 2005H is being fetched. Define T-state, Machine cycle and Instruction cycle.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "Timing Diagram",
+      "Instruction Cycle"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain interfacing of 4B EPROM with 8085 using decoder and gates as required. Assume starting address as 0000H.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Memory Interfacing",
+    "topics": [
+      "Memory Interfacing",
+      "EPROM Interfacing"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Write a program to find 2's complement of a number stored at 2050H and store result at 2055H.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "2's Complement",
+      "Arithmetic Instructions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Compare memory mapped I/O and I/O mapped I/O.",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interfacing Concepts",
+    "topics": [
+      "Interfacing Concepts",
+      "Memory-Mapped I/O",
+      "I/O-Mapped I/O"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "What are interrupts? List and explain the interrupt available in microprocessor 8085?",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Hardware Interrupts",
+      "Software Interrupts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain the concept of stack.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Stack",
+    "topics": [
+      "Stack",
+      "Stack Concept"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain arithmetic instructions of 8085.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "Arithmetic Instructions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Write an 8085 program to copy block of ten numbers starting from location 2050h to locations starting from 3050h.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Block Copy",
+      "Data Transfer Instructions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "State the difference between PUSH and POP instruction.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Stack",
+    "topics": [
+      "Stack",
+      "PUSH Instruction",
+      "POP Instruction"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain the generation of control signals in 8085.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Generation of Control Signals",
+    "topics": [
+      "Generation of Control Signals",
+      "8085 Architecture"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Draw the internal block diagram of 8259A and explain the functions of each block in detail.",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Interrupt Controller 8259A",
+    "topics": [
+      "Programmable Interrupt Controller 8259A",
+      "8259A Block Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain Machine level language and Assembly level language with examples.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Assembly Language Programming Basics",
+    "topics": [
+      "Assembly Language Programming Basics",
+      "Machine Level Language"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain 8085 bus organization.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "Bus Organization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Write a program to count continuously in hexadecimal from FFH to 00H in a system with a clock period of 0.5 us. Use register C to set up 1 millisecond delay between each count and display the number at the output port1.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Developing Counters and Time Delay Routines",
+    "topics": [
+      "Developing Counters and Time Delay Routines",
+      "Hexadecimal Counter",
+      "Time Delay"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "How many memory locations can be addressed by microprocessor with 14 address lines? Also specify how many address lines are required for 2KB memory.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Introduction to Microprocessor",
+    "primary_topic": "Introduction to Microprocessor",
+    "topics": [
+      "Introduction to Microprocessor",
+      "Address Lines",
+      "Memory Addressing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Load the hexadecimal numbers 56H and A9H in registers D and E respectively and add them. If sum is greater than FFH, display 01H at output PORT0; otherwise display sum.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Arithmetic Instructions",
+      "Logical Instructions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Draw the internal block diagram of 8255 and explain the functions of each block in details.",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Peripheral Interface 8255A",
+    "topics": [
+      "Programmable Peripheral Interface 8255A",
+      "8255A Block Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain the given pins of 8086.\n1. ALE 2. DEN 3.MN/MX",
+    "year": "S2022",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Pin Functions",
+    "topics": [
+      "8086 Pin Functions",
+      "ALE",
+      "DEN",
+      "MN/MX"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain the modes of operation of 8086 microprocessor.",
+    "year": "S2022",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Minimum and Maximum Mode",
+    "topics": [
+      "8086 Minimum and Maximum Mode",
+      "8086 Operating Modes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain the block diagram of 8086 microprocessor.",
+    "year": "S2022",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Logical Block Diagram",
+    "topics": [
+      "8086 Logical Block Diagram",
+      "8086 Architecture"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Differentiate between Microcontroller and Microprocessor.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction to Microprocessor",
+    "primary_topic": "Introduction to Microprocessor",
+    "topics": [
+      "Introduction to Microprocessor",
+      "Microcontroller vs Microprocessor"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain the purpose of the following signals in 8085\n1. READY\n2. ADO-AD7\n3. HOLD\n4. IO/M\n5. INTR",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Pin Functions",
+    "topics": [
+      "8085 Pin Functions",
+      "READY",
+      "ADO-AD7",
+      "HOLD",
+      "IO/M",
+      "INTR"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Draw the architectural diagram of 8085 microprocessor and list out the following:\n1. General Purpose Registers\n2. Special Purpose registers with their functions\n3. Flags in the flag register with required explanation",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "General Purpose Registers",
+      "Special Purpose Registers",
+      "Flag Register"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "If an 8085 is an 8 bit microprocessor, how many bits can be loaded by the 3 register pairs (BC, DE, HL, or SP) using LXI?",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "Register Pairs",
+      "LXI Instruction"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Define significance of ALE pin with an example or a diagram.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Pin Functions",
+    "topics": [
+      "8085 Pin Functions",
+      "ALE Pin",
+      "Demultiplexing of Buses"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "If an 8085 microprocessor has a 2 MHz crystal frequency, what is the assembly language code required creating a delay of 1 second?",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Developing Counters and Time Delay Routines",
+    "topics": [
+      "Developing Counters and Time Delay Routines",
+      "Time Delay",
+      "Crystal Frequency"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Draw the interfacing of a 4KB EPROM having a starting address 0000h and two 2KB static RAMs having starting addresses 4000h and 8000h, respectively, with 8085 microprocessor. Use demultiplexed address/data lines and use 3-to-8 decoder (74LS138).",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Memory Interfacing",
+    "topics": [
+      "Memory Interfacing",
+      "EPROM Interfacing",
+      "RAM Interfacing",
+      "74LS138 Decoder"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "State the addressing modes of the following instructions:\n1. CMA\n2. LDA 2500H\n3. ANA M\n4. LXI SP",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "CMA",
+      "LDA",
+      "ANA M",
+      "LXI SP"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Using stack operations, write an 8085 assembly program to set the sign, zero, and parity flags while resetting the auxiliary carry and carry flags.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Stack",
+    "topics": [
+      "Stack",
+      "Stack Operations",
+      "Flag Manipulation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Can you describe the process by which the 8085 processor executes the CALL instruction, and how does the timing diagram illustrate this sequence of events?",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "Timing Diagram",
+      "CALL Instruction"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "An array of ten data bytes are stored from memory locations 2100H onwards. Write an 8085 assembly language program to find the minimum number from this array and store it to new memory location 2200H.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Minimum Value Search",
+      "Array Operations"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Can you provide a diagram illustrating the de-multiplexing of the Address/Data bus (AD0-AD7) in the 8085 microprocessor?",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Demultiplexing of Buses",
+    "topics": [
+      "Demultiplexing of Buses",
+      "Address/Data Bus",
+      "AD0-AD7"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain the different addressing modes available in the 8085 microprocessor, with examples to illustrate each mode.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "8085 Addressing Modes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Explain instruction set of 8085.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "Classification of Instructions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Compare the memory-mapped IO with the standard IO-mapped IO",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interfacing Concepts",
+    "topics": [
+      "Interfacing Concepts",
+      "Memory-Mapped I/O",
+      "I/O-Mapped I/O"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Can you provide an example program in assembly language that initializes a single 8259 Programmable Interrupt Controller (PIC) connected to an 8085 processor?",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Interrupt Controller 8259A",
+    "topics": [
+      "Programmable Interrupt Controller 8259A",
+      "8259A Initialization",
+      "Assembly Program"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "List the Software and Hardware interrupts of 8085?",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Software Interrupts",
+      "Hardware Interrupts"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Discuss the operation of the 8255 Programmable Peripheral Interface and how it is interfaced with an 8085 microprocessor. What are the different modes of operation and how are they selected?",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Peripheral Interface 8255A",
+    "topics": [
+      "Programmable Peripheral Interface 8255A",
+      "8255A Modes",
+      "8255A Interfacing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "How does the instruction sequence\nMVI A, 07H\nRLC\nMOV B, A\nRLC\nRLC\nADD B\nUse the values stored in registers A and B to execute a specific mathematical function in an assembly language program?",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "RLC Instruction",
+      "Arithmetic Instructions",
+      "Logical Instructions"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Differentiate 80286 with 80386 microprocessor.",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "Advanced Microprocessors",
+    "topics": [
+      "Advanced Microprocessors",
+      "80286 vs 80386"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Describe the importance of bus interface unit (BIU) and execution unit (EU) in the 8086 microprocessor.",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Logical Block Diagram",
+    "topics": [
+      "8086 Logical Block Diagram",
+      "BIU",
+      "EU",
+      "Execution Unit",
+      "Bus Interface Unit"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Draw and explain internal architecture and PIN diagram of 8086 microprocessor.",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Logical Block Diagram",
+    "topics": [
+      "8086 Logical Block Diagram",
+      "8086 Architecture",
+      "8086 Pin Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Differentiate between the real mode and protected mode of the 80286 microprocessor.",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80286 Architecture",
+    "topics": [
+      "80286 Architecture",
+      "Real Mode",
+      "Protected Mode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "How the physical addresses are calculated from segment register in 8086 microprocessor?",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Segmentation",
+    "topics": [
+      "8086 Segmentation",
+      "Segment Registers",
+      "Physical Address Calculation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Describe the architecture of the 80286 with a neat block diagram.",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80286 Architecture",
+    "topics": [
+      "80286 Architecture",
+      "80286 Block Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define (1) Microprocessor (2) System Bus (3) Instruction Cycle",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Microprocessor",
+    "primary_topic": "Introduction to Microprocessor",
+    "topics": [
+      "Introduction to Microprocessor",
+      "System Bus",
+      "Instruction Cycle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain 8085 Programming Model with diagram",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "8085 Programming Model",
+      "Registers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Draw and explain Pin diagram of 8085 Microprocessor",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Pin Functions",
+    "topics": [
+      "8085 Pin Functions",
+      "8085 Pin Diagram"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Define (1) Accumulator (2) Program Counter (3) Stack Pointer",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "Accumulator",
+      "Program Counter",
+      "Stack Pointer"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Draw timing diagram of instruction MVI A, 32H",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "Timing Diagram",
+      "MVI Instruction"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Elaborate different addressing modes in 8085 with suitable examples",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "8085 Addressing Modes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Draw the memory interface 4kB of EPROM with starting address from 0000H and 2kB of RAM with starting address followed by EPROM with 8085 Microprocessor",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Memory Interfacing",
+    "topics": [
+      "Memory Interfacing",
+      "EPROM Interfacing",
+      "RAM Interfacing"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain instruction format of 8085 instructions",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Classification of Instructions",
+    "topics": [
+      "Classification of Instructions",
+      "Instruction Format"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Describe any four arithmetic instructions in 8085 with examples",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "Arithmetic Instructions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain counters and time delay with suitable example. Also specify various applications of counters and time delay.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Developing Counters and Time Delay Routines",
+    "topics": [
+      "Developing Counters and Time Delay Routines",
+      "Counters",
+      "Time Delay"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain classification of instructions based on byte size with examples",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Classification of Instructions",
+    "topics": [
+      "Classification of Instructions",
+      "Byte Size",
+      "Instruction Format"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Describe any four data transfer instructions in 8085 with examples",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "Data Transfer Instructions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Write an assembly language program in 8085 to arrange five 8-bit numbers in ascending order stored at memory location starting from 3000H",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Sorting",
+      "Ascending Order"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define Stack. Explain PUSH and POP instructions",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Stack",
+    "topics": [
+      "Stack",
+      "PUSH Instruction",
+      "POP Instruction"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain classification of Interrupts in 8085 Microprocessor",
+    "year": "S2024",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Classification of Interrupts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Draw and explain block diagram of 8255A",
+    "year": "S2024",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Peripheral Interface 8255A",
+    "topics": [
+      "Programmable Peripheral Interface 8255A",
+      "8255A Block Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Differentiate IO-mapped IO and Memory-mapped IO",
+    "year": "S2024",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interfacing Concepts",
+    "topics": [
+      "Interfacing Concepts",
+      "I/O-Mapped I/O",
+      "Memory-Mapped I/O"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain BSR Mode in 8255A",
+    "year": "S2024",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Peripheral Interface 8255A",
+    "topics": [
+      "Programmable Peripheral Interface 8255A",
+      "BSR Mode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Draw and explain block diagram of 8259A",
+    "year": "S2024",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Interrupt Controller 8259A",
+    "topics": [
+      "Programmable Interrupt Controller 8259A",
+      "8259A Block Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Describe flag register in 8086 Microprocessor",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Logical Block Diagram",
+    "topics": [
+      "8086 Logical Block Diagram",
+      "Flag Register",
+      "8086 Architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain register organization of 80286 Microprocessor",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80286 Architecture",
+    "topics": [
+      "80286 Architecture",
+      "Register Organization",
+      "80286 Programming Model"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Draw and explain logical block diagram of 8086 Microprocessor",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Logical Block Diagram",
+    "topics": [
+      "8086 Logical Block Diagram",
+      "8086 Architecture"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Describe protected virtual address mode in 80286 Microprocessor",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80286 Architecture",
+    "topics": [
+      "80286 Architecture",
+      "Protected Virtual Address Mode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain concepts of segmentation in 8086 Microprocessor",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Segmentation",
+    "topics": [
+      "8086 Segmentation",
+      "Segmentation Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Draw and explain architecture of 80386 Microprocessor",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80386 Architecture",
+    "topics": [
+      "80386 Architecture",
+      "80386 Block Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain bus organization in 8085 Microprocessor",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction to Microprocessor",
+    "primary_topic": "Introduction to Microprocessor",
+    "topics": [
+      "Introduction to Microprocessor",
+      "Bus Organization",
+      "System Bus"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain general purpose registers in 8085 Microprocessor",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "General Purpose Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain de-multiplexing of AD0 – AD7 in 8085 microprocessor with suitable diagram",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Demultiplexing of Buses",
+    "topics": [
+      "Demultiplexing of Buses",
+      "AD0-AD7",
+      "Address Bus",
+      "Data Bus"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain function of following 8085 pins\n(1) READY (2) HLDA (3) X1 & X2",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Pin Functions",
+    "topics": [
+      "8085 Pin Functions",
+      "READY",
+      "HLDA",
+      "X1 X2"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Draw timing diagram of instruction MOV A, B",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "Timing Diagram",
+      "MOV Instruction"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain flag register of 8085 Microprocessor with diagram",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Flag Register",
+    "topics": [
+      "Flag Register",
+      "8085 Architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Draw and explain architecture of 8085 Microprocessor",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "8085 Block Diagram"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain function of given instructions: (1) DAD (2) LHLD (3) XCHG",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "DAD",
+      "LHLD",
+      "XCHG"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain indirect addressing mode in 8085 with examples",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "Indirect Addressing Mode"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Write an assembly language program to find smallest number from numbers stored at memory location 1000H and 1001H. Store result on memory location 2000H",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Minimum Value Search",
+      "Data Transfer Instructions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain function of given instructions: (1) ANI (2) RLC (3) SIM",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "ANI",
+      "RLC",
+      "SIM"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain register addressing mode in 8085 with examples",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "Register Addressing Mode"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Write a set of 8085 assembly language instructions to generate a 1 second delay, if the crystal frequency is 1 MHz.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Developing Counters and Time Delay Routines",
+    "topics": [
+      "Developing Counters and Time Delay Routines",
+      "Time Delay",
+      "Crystal Frequency"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define (1) Stack (2) Counter (3) Time Delay",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Stack",
+    "topics": [
+      "Stack",
+      "Counters",
+      "Time Delay"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain subroutine in 8085 Microprocessor with example",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Stack",
+    "topics": [
+      "Stack",
+      "Subroutines"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Draw and explain input and output handshake mode of 8255A",
+    "year": "S2025",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Peripheral Interface 8255A",
+    "topics": [
+      "Programmable Peripheral Interface 8255A",
+      "Handshake Mode",
+      "I/O Modes"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Differentiate maskable and non-maskable interrupts in 8085 Microprocessor",
+    "year": "S2025",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Maskable Interrupts",
+      "Non-Maskable Interrupts"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain control register in 8255A with diagram",
+    "year": "S2025",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Peripheral Interface 8255A",
+    "topics": [
+      "Programmable Peripheral Interface 8255A",
+      "Control Register"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain Programmable Interrupt Controller 8259A",
+    "year": "S2025",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Interrupt Controller 8259A",
+    "topics": [
+      "Programmable Interrupt Controller 8259A"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Describe operating modes in 8086 Microprocessor",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Minimum and Maximum Mode",
+    "topics": [
+      "8086 Minimum and Maximum Mode",
+      "8086 Operating Modes"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain segment registers in 8086 Microprocessor",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Segmentation",
+    "topics": [
+      "8086 Segmentation",
+      "Segment Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Draw and explain architecture of 80286 Microprocessor",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80286 Architecture",
+    "topics": [
+      "80286 Architecture",
+      "80286 Block Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Differentiate GDT and LDT in 80286 Microprocessor",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80286 Architecture",
+    "topics": [
+      "80286 Architecture",
+      "GDT",
+      "LDT",
+      "Descriptor Table"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain register organization in 80386 Microprocessor",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80386 Architecture",
+    "topics": [
+      "80386 Architecture",
+      "Register Organization",
+      "80386 Programming Model"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Draw and explain pin diagram of 8086 Microprocessor",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Logical Block Diagram",
+    "topics": [
+      "8086 Logical Block Diagram",
+      "8086 Pin Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define (1) Microprocessor (2) Program Counter (3) Accumulator",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Introduction to Microprocessor",
+    "primary_topic": "Introduction to Microprocessor",
+    "topics": [
+      "Introduction to Microprocessor",
+      "Program Counter",
+      "Accumulator"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain general purpose registers in 8085 Microprocessor",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "General Purpose Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Draw and explain Pin diagram of 8085 Microprocessor",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Pin Functions",
+    "topics": [
+      "8085 Pin Functions",
+      "8085 Pin Diagram"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain functions of following pins in 8085 (1) TRAP (2) SID (3) HLDA",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Pin Functions",
+    "topics": [
+      "8085 Pin Functions",
+      "TRAP",
+      "SID",
+      "HLDA"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain Memory Write Machine Cycle of 8085 with suitable diagram",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "Memory Write Machine Cycle",
+      "Timing Diagram"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Elaborate different addressing modes in 8085 with suitable examples",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "8085 Addressing Modes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Draw the memory interface 4kB of EPROM with starting address from 0000H and 2kB of RAM with starting address followed by EPROM with 8085 Microprocessor",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Memory Interfacing",
+    "topics": [
+      "Memory Interfacing",
+      "EPROM Interfacing",
+      "RAM Interfacing"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Define (1) Assembler (2) Linker (3) Debugger",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Assembly Language Programming Basics",
+    "topics": [
+      "Assembly Language Programming Basics",
+      "Assembler",
+      "Linker",
+      "Debugger"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Describe any four data transfer instructions in 8085 with examples",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "Data Transfer Instructions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Write an assembly language program to add two 16-bit numbers stored in memory with carry in 8085 simulator. Store result in the memory",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "16-Bit Addition",
+      "Carry Operation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Specify byte size of each instruction (1) ADD B (2) MVI A,32H (3) CMA",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Classification of Instructions",
+    "topics": [
+      "Classification of Instructions",
+      "Byte Size",
+      "Instruction Format"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Describe any four arithmetic instructions in 8085 with examples",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "Arithmetic Instructions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Write an assembly language program in 8085 to arrange five 8-bit numbers in ascending order stored at memory location starting from 1000H",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Sorting",
+      "Ascending Order"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define Stack. Explain importance of Stack in 8085 Microprocessor",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Stack",
+    "topics": [
+      "Stack",
+      "Stack Importance",
+      "8085 Architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Differentiate the memory-mapped IO with the IO-mapped IO",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interfacing Concepts",
+    "topics": [
+      "Interfacing Concepts",
+      "Memory-Mapped I/O",
+      "I/O-Mapped I/O"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain various operating modes of 8255A",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Peripheral Interface 8255A",
+    "topics": [
+      "Programmable Peripheral Interface 8255A",
+      "8255A Operating Modes"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain following instructions: (1) RIM (2) SHLD (3) RRC",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "RIM",
+      "SHLD",
+      "RRC"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain working of CALL and RET instructions in 8085 microprocessor with example",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Stack",
+    "topics": [
+      "Stack",
+      "Subroutines",
+      "CALL Instruction",
+      "RET Instruction"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Draw and explain architecture of 8259A",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Interrupt Controller 8259A",
+    "topics": [
+      "Programmable Interrupt Controller 8259A",
+      "8259A Architecture"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Describe different types of segment registers in 8086 Microprocessor",
+    "year": "S2026",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Segmentation",
+    "topics": [
+      "8086 Segmentation",
+      "Segment Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain flag register in 80286 Microprocessor",
+    "year": "S2026",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80286 Architecture",
+    "topics": [
+      "80286 Architecture",
+      "Flag Register"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Draw and explain BIU and EU in 8086 Microprocessor",
+    "year": "S2026",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Logical Block Diagram",
+    "topics": [
+      "8086 Logical Block Diagram",
+      "BIU",
+      "EU"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Differentiate 8086, 80286 and 80386",
+    "year": "S2026",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "Advanced Microprocessors",
+    "topics": [
+      "Advanced Microprocessors",
+      "8086 vs 80286 vs 80386"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain operating modes of 8086 Microprocessor in detail",
+    "year": "S2026",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Minimum and Maximum Mode",
+    "topics": [
+      "8086 Minimum and Maximum Mode",
+      "8086 Operating Modes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Draw and explain architecture of 80286 Microprocessor",
+    "year": "S2026",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80286 Architecture",
+    "topics": [
+      "80286 Architecture",
+      "80286 Block Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain system bus of 8085 microprocessor.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Introduction to Microprocessor",
+    "primary_topic": "Introduction to Microprocessor",
+    "topics": [
+      "Introduction to Microprocessor",
+      "System Bus",
+      "Bus Organization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain following pins of an 8085 microprocessor in brief:\n1. ALE 2.TRAP 3.READY 4. HLDA",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Pin Functions",
+    "topics": [
+      "8085 Pin Functions",
+      "ALE",
+      "TRAP",
+      "READY",
+      "HLDA"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain 8085 Programming Model and Flag Register.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "8085 Programming Model",
+      "Flag Register"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Differentiate 8085 microprocessor with 8086 microprocessor.",
+    "year": "W2021",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "Advanced Microprocessors",
+    "topics": [
+      "Advanced Microprocessors",
+      "8085 vs 8086"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Draw the timing diagram of MOV M, D instruction of an 8085 microprocessor.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "Timing Diagram",
+      "MOV Instruction"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write an 8085 assembly language program to arrange the following numbers in ascending order: 29H, 47H, 06H, 03H, 17H.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Sorting",
+      "Ascending Order"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Write an 8085 assembly language program to arrange the following numbers in descending order: 29H, 47H, 06H, 03H, 17H.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Sorting",
+      "Descending Order"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain subroutine with suitable example.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Stack",
+    "topics": [
+      "Stack",
+      "Subroutines"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain following instructions with no. of bytes, machine cycles and T-states required for execution: 1. SHLD 2. RAL",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "SHLD",
+      "RAL",
+      "Machine Cycles",
+      "T-States"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Ten 8-bit values are stored from memory location 5000H onwards. Write an 8085 assembly language program to add POSITIVE values on addresses starts from 5100H and NEGATIVE values on addresses starts from 5200H.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Positive Numbers",
+      "Negative Numbers",
+      "Signed Arithmetic"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is interrupt? List hardware interrupts of 8085.",
+    "year": "W2021",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Hardware Interrupts"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain following instructions with no. of bytes, machine cycles and T-states required for execution: 1. CALL 2. CPI",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "CALL Instruction",
+      "CPI Instruction",
+      "Machine Cycles",
+      "T-States"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Ten 8-bit values are stored from memory location 3000H onwards. Write an 8085 assembly language program to find the largest value and stored it on the location 4000H.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Maximum Value Search"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What will be the value in accumulator, for the given 8085 program below?\nMVI C,7FH\nMVI B, 3EH\nMOV A,B\nRLC\nRLC\nANI 7FH\nHLT",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "RLC Instruction",
+      "ANI Instruction",
+      "Accumulator Operations"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Consider the following 8085 assembly language instructions:\nLXI D, 1234H\nNEXT: DCX D\nMOV A, E\nORA D\nJNZ NEXT\nWhat amount of delay is generated if the crystal frequency is 4 MHz?",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Developing Counters and Time Delay Routines",
+    "topics": [
+      "Developing Counters and Time Delay Routines",
+      "Time Delay Calculation",
+      "DCX Instruction"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain various addressing modes of 8085 microprocessor.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "8085 Addressing Modes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What will be the value in accumulator, for the given 8085 program below?\nMVI A, 07H\nRLC\nMOV B,A\nRLC\nRLC\nRLC\nORA B\nHLT",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "RLC Instruction",
+      "ORA Instruction",
+      "Accumulator Operations"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write an 8085 assembly language program to convert a two-digit BCD number into its equivalent hexadecimal number.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Code Conversion",
+    "topics": [
+      "Code Conversion",
+      "BCD to Hexadecimal",
+      "BCD Arithmetic"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Define the followings: Machine Cycle, T-state, JC, CMP, RET, SBB, STC",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "8085 Instruction Set",
+      "JC",
+      "CMP",
+      "RET",
+      "SBB",
+      "STC"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain format of the descriptor in 80386 with diagram.",
+    "year": "W2021",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80386 Architecture",
+    "topics": [
+      "80386 Architecture",
+      "Descriptor Format",
+      "Segment Descriptor"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Draw block diagram of 80286 microprocessor.",
+    "year": "W2021",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80286 Architecture",
+    "topics": [
+      "80286 Architecture",
+      "80286 Block Diagram"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Draw and explain the block diagram of the programmable peripheral interface 8255A.",
+    "year": "W2021",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Peripheral Interface 8255A",
+    "topics": [
+      "Programmable Peripheral Interface 8255A",
+      "8255A Block Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "List and explain the segment registers of 8086 microprocessor.",
+    "year": "W2021",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Segmentation",
+    "topics": [
+      "8086 Segmentation",
+      "Segment Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Draw block diagram of 80386 microprocessor.",
+    "year": "W2021",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80386 Architecture",
+    "topics": [
+      "80386 Architecture",
+      "80386 Block Diagram"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Draw and explain the block diagram of the programmable interrupt controller 8259A.",
+    "year": "W2021",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Interrupt Controller 8259A",
+    "topics": [
+      "Programmable Interrupt Controller 8259A",
+      "8259A Block Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Discuss various types of addressing modes of 8085.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "8085 Addressing Modes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What are the advantages of an assembly language in comparison with high level languages?",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Assembly Language Programming Basics",
+    "topics": [
+      "Assembly Language Programming Basics",
+      "Assembly Language Advantages"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Draw and explain the block diagram of a microprocessor 8085.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "8085 Block Diagram"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "How does the microprocessor differentiate among a positive number, negative number and a bit pattern?",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction to Microprocessor",
+    "primary_topic": "Introduction to Microprocessor",
+    "topics": [
+      "Introduction to Microprocessor",
+      "Number Representation",
+      "Signed Numbers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "LOOP: LXI H, 1234H\nDCX H\nJNZ LOOP\nFind out the mistake(s) in the above program and write the correct program so that it does not become infinite loop.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "LXI Instruction",
+      "DCX Instruction",
+      "JNZ Instruction",
+      "Program Debugging"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Assume that above electronic items are plugged in single electric board.\nHere switch S7, S6, S5, S4, S3, S2, S1 and S0 are connected to the data line D7, D6, D5, D4, D3, D2, D1 and D0 respectively. When all the switches are OFF, the microprocessor reads the data FFH (for all switches ON the data will be 00H). Initially all the switches are ON.\nWrite assembly language program for the following scenarios:\n1. Krunal prefer to do work in night only if AC, LAMP and LAPTOP are ON.\n2. Chirag never use I-PAD if PC and POWERBANK are ON.\n3. Arkil feels comfortable to work on PC if AC and TUBE LIGHT are ON.\n4. Avadh never take concern of electricity bill and work only if POWER BANK and LAMP are OFF.\n5. In day time we prefer to do work with availability of FAN and PC.\n[Items: TUBE LIGHT, PC, POWER BANK, LAPTOP, LAMP, I-PAD, FAN, AC]",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Logical Instructions",
+      "I/O Port Programming",
+      "Bit Manipulation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Write an assembly language program to provide the given ON/OFF time to traffic lights (Red, Green, and Yellow) and two pedestrian signs (Walk and Don't Walk). The signal lights are turned ON/OFF by the data bits of PORT1 and gives output as shown below:\nNo Light Data Bits On Time\n1 Red D1 40 Seconds\n2 Green D3 30 Seconds\n3 Yellow D5 10 Seconds\n4 Walk D6 30 Seconds\n5 Don't Walk D7 50 Seconds\nThe traffic and pedestrian flows are in the same direction; the pedestrian should cross the road when the Green light is ON. Also write Delay subroutine to generate appropriate delay. Assume to turn ON Light, a \"0\" logic level required at corresponding data bits of the output port.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Traffic Light Control",
+      "Time Delay",
+      "I/O Port Programming"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What are the states of the Auxiliary Carry (AC), Carry (CY), sign(S) and parity (P) flags after executing the following 8085 program?\nMVI L, 5DH\nMVI A, 6BH\nADD L",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Flag Register",
+      "ADD Instruction",
+      "Flag State Analysis"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain 8085 Programming model and classify instruction set on the basis of different addressing modes.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Assembly Language Programming Basics",
+    "topics": [
+      "Assembly Language Programming Basics",
+      "8085 Programming Model",
+      "Addressing Modes",
+      "Classification of Instructions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "2100 LXI H, 1234H\nMVI A, 55H\nADD M\nWhat is the size of ADD M instruction? Name the machine cycles. Draw machine cycle and T-state diagram and specify the content of address bus, data bus and control signals *RD, *WR, IO/*M and ALE signals and status signals S1 and S0 for every T states of ADD M instruction only.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "ADD M Instruction",
+      "Timing Diagram",
+      "Control Signals",
+      "Address Bus",
+      "Data Bus"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What are the states of the Auxiliary Carry (AC), Carry (CY), sign(S) and parity (P) flags after executing the following 8085 program?\nMVI A, A9H\nMVI B, 57H\nADD B\nORA A",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Flag Register",
+      "ADD Instruction",
+      "ORA Instruction",
+      "Flag State Analysis"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain One byte, Two byte, Three byte and write short note on different types of instruction sets.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Classification of Instructions",
+    "topics": [
+      "Classification of Instructions",
+      "One Byte",
+      "Two Byte",
+      "Three Byte",
+      "Instruction Sets"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Specify the addressing mode, required Machine cycles, T-States and function for following instructions:\nMVI M, 45H\nRAL\nLHLD 2300H",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "Machine Cycles",
+      "T-States",
+      "MVI M",
+      "RAL",
+      "LHLD"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Difference between RLC and RAL instruction.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "RLC",
+      "RAL",
+      "Rotate Instructions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Differentiate between maskable and non-maskable interrupts.",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Maskable Interrupts",
+      "Non-Maskable Interrupts"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "What is a flag Register? Enlist and explain various types of flags.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Flag Register",
+    "topics": [
+      "Flag Register",
+      "8085 Flags"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Difference between RRC and RAR instruction.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "RRC",
+      "RAR",
+      "Rotate Instructions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What is vectored and non-vectored interrupts?",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Vectored Interrupts",
+      "Non-Vectored Interrupts"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Describe the functions of\n(1) READY PIN\n(2) ALE\n(3) HOLD\n(4) X1 and X2\n(5) SID and SOD\n(6) IO/M\n(7) HLDA",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Pin Functions",
+    "topics": [
+      "8085 Pin Functions",
+      "READY",
+      "ALE",
+      "HOLD",
+      "X1 X2",
+      "SID",
+      "SOD",
+      "IO/M",
+      "HLDA"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "List features of 80386 microprocessor.",
+    "year": "W2022",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "Advanced Microprocessors",
+    "topics": [
+      "Advanced Microprocessors",
+      "80386 Features"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Draw block diagram of SUN SPARC architecture.",
+    "year": "W2022",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "Advanced Microprocessors",
+    "topics": [
+      "Advanced Microprocessors",
+      "SUN SPARC Architecture"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain the internal Block diagram of 8259A.",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Interrupt Controller 8259A",
+    "topics": [
+      "Programmable Interrupt Controller 8259A",
+      "8259A Block Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "List features of 80486 microprocessor.",
+    "year": "W2022",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "Advanced Microprocessors",
+    "topics": [
+      "Advanced Microprocessors",
+      "80486 Features"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Draw logical block diagram of ARM 7 architecture.",
+    "year": "W2022",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "Advanced Microprocessors",
+    "topics": [
+      "Advanced Microprocessors",
+      "ARM 7 Architecture"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain the internal Block diagram of 8255A.",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Peripheral Interface 8255A",
+    "topics": [
+      "Programmable Peripheral Interface 8255A",
+      "8255A Block Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain the difference between a microprocessor and a microcomputer.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction to Microprocessor",
+    "primary_topic": "Introduction to Microprocessor",
+    "topics": [
+      "Introduction to Microprocessor",
+      "Microprocessor vs Microcomputer"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Define significance of ALE pin with example or a diagram.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Pin Functions",
+    "topics": [
+      "8085 Pin Functions",
+      "ALE Pin",
+      "Demultiplexing of Buses"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Draw and Explain Pin diagram of 8085.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Pin Functions",
+    "topics": [
+      "8085 Pin Functions",
+      "8085 Pin Diagram"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain Assembler, Debugger and Linker with an example.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Assembly Language Programming Basics",
+    "topics": [
+      "Assembly Language Programming Basics",
+      "Assembler",
+      "Debugger",
+      "Linker"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain Read/ Write control signals for memory and I/O.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Generation of Control Signals",
+    "topics": [
+      "Generation of Control Signals",
+      "Read Control Signal",
+      "Write Control Signal",
+      "Memory I/O Control"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Draw and Explain Timing Diagram of MVI A, 45h.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "Timing Diagram",
+      "MVI Instruction"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "List instruction set of 8085. Also explain timing diagram of two-byte instructions.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "Classification of Instructions",
+      "Two-Byte Instructions",
+      "Timing Diagram"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Find the ending address of an 8K-byte memory if the starting address is '0'",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Memory Interfacing",
+    "topics": [
+      "Memory Interfacing",
+      "Memory Size Calculation",
+      "Address Calculation"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "What are the contents in Register H and L after executing the following 8085 program?\nMVI L, 01H\nMVI H, 00H\nINX H",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "INX H",
+      "Register Operations",
+      "MVI Instruction"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Write an assembly language program to find the larger number from given two numbers stored at 2501H = 98H, 2502H = 87H result store at 2503H.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Maximum Value Search",
+      "Comparison Instructions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is the ending address of a 2K-bytes memory whose starting address is 3000H.?",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Memory Interfacing",
+    "topics": [
+      "Memory Interfacing",
+      "Memory Size Calculation",
+      "Address Calculation"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What are the states of the Carry (C), Zero (Z) flags and content in Accumulator (A) after executing the following 8085 program?\nMVI L, 01H\nMVI A, 00H\nSUB L",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Flag Register",
+      "SUB Instruction",
+      "Flag State Analysis"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Write an assembly language program to find the smaller number from given two numbers stored at 2501H = 84H, 2502H = 99H result store at 2503H.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Minimum Value Search",
+      "Comparison Instructions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Explain General purpose Data register.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "General Purpose Registers",
+      "Data Registers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain Indirect and Immediate addressing mode with example.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "Indirect Addressing Mode",
+      "Immediate Addressing Mode"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain 8085 Programming model and classify instruction set on the basis of different addressing modes.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Assembly Language Programming Basics",
+    "topics": [
+      "Assembly Language Programming Basics",
+      "8085 Programming Model",
+      "Addressing Modes",
+      "Classification of Instructions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain various flags use in 8085.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Flag Register",
+    "topics": [
+      "Flag Register",
+      "8085 Flags"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Give comparison of Memory mapped I/O and Peripheral mapped I/O.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interfacing Concepts",
+    "topics": [
+      "Interfacing Concepts",
+      "Memory-Mapped I/O",
+      "Peripheral Mapped I/O"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain One byte, Two byte, Three byte and write short note on different types of instruction sets.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Classification of Instructions",
+    "topics": [
+      "Classification of Instructions",
+      "One Byte",
+      "Two Byte",
+      "Three Byte",
+      "Instruction Sets"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Differentiate between maskable and non-maskable interrupts.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Maskable Interrupts",
+      "Non-Maskable Interrupts"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain various types of conditional jump instructions with example.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Branch Instructions",
+      "Conditional Jump Instructions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Draw and explain the architecture of SUN SPARC microprocessor.",
+    "year": "W2023",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "Advanced Microprocessors",
+    "topics": [
+      "Advanced Microprocessors",
+      "SUN SPARC Architecture"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Differentiate vectored and non-vectored interrupts.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Vectored Interrupts",
+      "Non-Vectored Interrupts"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "How many interrupts are there in 8085? Name them. Explain the characteristics in terms of maskability, vectoring and priority.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Interrupt Characteristics",
+      "Maskability",
+      "Priority"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Give ARM architecture features and explain block diagram of ARM.",
+    "year": "W2023",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "Advanced Microprocessors",
+    "topics": [
+      "Advanced Microprocessors",
+      "ARM Architecture"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "List the key parts of a microprocessor and give a short explanation of their functions.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Microprocessor",
+    "primary_topic": "Introduction to Microprocessor",
+    "topics": [
+      "Introduction to Microprocessor",
+      "Microprocessor Components",
+      "ALU",
+      "Registers",
+      "Control Unit"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain memory and I/O operations in a microprocessor.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Microprocessor Architecture and Operations",
+    "primary_topic": "Microprocessor Architecture and Operations",
+    "topics": [
+      "Microprocessor Architecture and Operations",
+      "Memory Operations",
+      "I/O Operations"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Describe the architecture of the 8085 microprocessor with a neat diagram.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "8085 Block Diagram"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain Assembler, Debugger and Linker with an example.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Assembly Language Programming Basics",
+    "topics": [
+      "Assembly Language Programming Basics",
+      "Assembler",
+      "Debugger",
+      "Linker"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain Read/ Write control signals for memory and I/O.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Generation of Control Signals",
+    "topics": [
+      "Generation of Control Signals",
+      "Read Control Signal",
+      "Write Control Signal"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Draw and Explain Timing Diagram of MVI A, 45h.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "Timing Diagram",
+      "MVI Instruction"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Identify the machine cycles in the following instructions\n1. SUB B\n2. ADI 47H\n3. STA 2050H\n4. PUSH B",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "Machine Cycles Identification",
+      "SUB B",
+      "ADI",
+      "STA",
+      "PUSH"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain the function of the program counter and stack pointer in the 8085 microprocessor.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "Program Counter",
+      "Stack Pointer"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Describe the instruction cycle and machine cycles of the 8085 microprocessor.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "Instruction Cycle",
+      "Machine Cycles"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Create an assembly program that demonstrates the process of demultiplexing the address and data bus in the 8085 microprocessor, and provide an explanation of how it works.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Demultiplexing of Buses",
+    "topics": [
+      "Demultiplexing of Buses",
+      "Address Bus",
+      "Data Bus",
+      "Assembly Program"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is the role of the ALU and control unit in the 8085 microprocessor?",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Microprocessor",
+    "primary_topic": "Introduction to Microprocessor",
+    "topics": [
+      "Introduction to Microprocessor",
+      "ALU",
+      "Control Unit"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain the memory interfacing with the 8085 microprocessor.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Memory Interfacing",
+    "topics": [
+      "Memory Interfacing",
+      "8085 Memory Interface"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Construct an 8085-assembly language program that takes two values and executes arithmetic addition, subtraction, and a logical AND operation.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Arithmetic Instructions",
+      "Logical Instructions",
+      "ADD",
+      "SUB",
+      "AND"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define I/O ports and describe their role in the process of microprocessor interfacing.",
+    "year": "W2024",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interfacing Concepts",
+    "topics": [
+      "Interfacing Concepts",
+      "I/O Ports",
+      "Interfacing Concepts"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain the working of the 8255 Programmable Peripheral Interface.",
+    "year": "W2024",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Peripheral Interface 8255A",
+    "topics": [
+      "Programmable Peripheral Interface 8255A",
+      "8255A Working"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Discuss the interrupt architecture of the 8085 microprocessor, focusing on both hardware and software interrupt types.",
+    "year": "W2024",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Hardware Interrupts",
+      "Software Interrupts",
+      "Interrupt Architecture"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Define the concepts of stack and subroutines in the context of the 8085 microprocessor.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Stack",
+    "topics": [
+      "Stack",
+      "Subroutines",
+      "Stack Concepts"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Describe how the 8259A Programmable Interrupt Controller functions and how it is utilized in microprocessor systems.",
+    "year": "W2024",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Interrupt Controller 8259A",
+    "topics": [
+      "Programmable Interrupt Controller 8259A",
+      "8259A Functions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Create an 8085-assembly language routine to implement a delay, utilizing both counters and the stack.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Stack, Subroutines, Counters and Time Delay",
+    "primary_topic": "Developing Counters and Time Delay Routines",
+    "topics": [
+      "Developing Counters and Time Delay Routines",
+      "Counters",
+      "Stack",
+      "Time Delay"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Describe the concept of segmentation in the 8086 microprocessor.",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Segmentation",
+    "topics": [
+      "8086 Segmentation",
+      "Segmentation Concepts"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Compare the minimum mode and maximum mode of the 8086 microprocessor.",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Minimum and Maximum Mode",
+    "topics": [
+      "8086 Minimum and Maximum Mode",
+      "8086 Operating Modes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Summarize the architecture and programming model of the 80386 microprocessor.",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80386 Architecture",
+    "topics": [
+      "80386 Architecture",
+      "80386 Programming Model"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Describe the pin configuration of the 8086 microprocessor in detail.",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Logical Block Diagram",
+    "topics": [
+      "8086 Logical Block Diagram",
+      "8086 Pin Configuration"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "How does the 80286 microprocessor improve upon the 8086, particularly in terms of memory management?",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80286 Architecture",
+    "topics": [
+      "80286 Architecture",
+      "80286 Memory Management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Summarize the programming model and data types available in the 80286 microprocessor.",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "80286 Architecture",
+    "topics": [
+      "80286 Architecture",
+      "80286 Programming Model",
+      "80286 Data Types"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Describe the components of a microprocessor and their roles.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Introduction to Microprocessor",
+    "primary_topic": "Introduction to Microprocessor",
+    "topics": [
+      "Introduction to Microprocessor",
+      "Microprocessor Components",
+      "ALU",
+      "Registers",
+      "Control Unit"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Detail the process by which a microprocessor communicates with memory and I/O devices, including the significance of bus organization.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Microprocessor Architecture and Operations",
+    "primary_topic": "Microprocessor Architecture and Operations",
+    "topics": [
+      "Microprocessor Architecture and Operations",
+      "Memory Operations",
+      "I/O Operations",
+      "Bus Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Draw the architectural diagram of 8085 microprocessor and list out the following:\n1. General Purpose Registers\n2. Special Purpose registers with their functions\n3. Flags in the flag register with required explanation",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "8085 Architecture",
+    "topics": [
+      "8085 Architecture",
+      "General Purpose Registers",
+      "Special Purpose Registers",
+      "Flag Register"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "List three control signals generated by the 8085 microprocessor and their purposes.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Generation of Control Signals",
+    "topics": [
+      "Generation of Control Signals",
+      "8085 Control Signals"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain the process of demultiplexing buses in the 8085 microprocessor.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Demultiplexing of Buses",
+    "topics": [
+      "Demultiplexing of Buses",
+      "Bus Demultiplexing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Describe the entire process of executing an instruction by the 8085 microprocessor, including the roles of the ALU, registers, and control unit.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "ALU",
+      "Registers",
+      "Control Unit",
+      "Instruction Execution"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Describe in detail the instruction cycle, including machine cycles and T-states, of the 8085 microprocessor.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "Instruction Cycle",
+      "Machine Cycles",
+      "T-States"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "State the addressing modes and size of the following instructions:\n1. MOV B,M\n2. MVI A, 16H\n3. LDA 2050H",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "MOV B M",
+      "MVI A",
+      "LDA 2050H",
+      "Instruction Size"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain instruction set of 8085 microprocessor.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "8085 Instruction Set",
+    "topics": [
+      "8085 Instruction Set",
+      "Classification of Instructions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "2100: MVI A, 55H\nADI 45H\nIdentify the byte size of the ADI 45H command. Illustrate the execution process of ADI 45H by creating a diagram that includes the machine cycles it undergoes. In your diagram, indicate the states of the address bus, data bus, and control signals (*RD, *WR, IO/*M, ALE) during each T-state. Also, provide the names of the machine cycles involved.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "8085 Microprocessor Architecture",
+    "primary_topic": "Machine Cycles and T-States",
+    "topics": [
+      "Machine Cycles and T-States",
+      "ADI Instruction",
+      "Timing Diagram",
+      "Control Signals",
+      "Machine Cycles"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain addressing modes of 8085 microprocessor.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "8085 Addressing Modes"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Specify the size, addressing mode, required Machine cycles, T-States and function for following instructions:\n1. MOV B,M\n2. SHLD 2300H",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Addressing Modes",
+    "topics": [
+      "Addressing Modes",
+      "Machine Cycles",
+      "T-States",
+      "MOV B M",
+      "SHLD"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Enlist the error in the below assembly language code\nMVI B,20H\nMVI D,99H\nMVI C,D\nLDAX 2099h\nADD 01H\nSTAX 3000H.\nProvide the solution after doing the correction at your end.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Assembly Language Programming Basics",
+    "primary_topic": "Assembly Language Programming Basics",
+    "topics": [
+      "Assembly Language Programming Basics",
+      "Program Debugging",
+      "Error Detection",
+      "Assembly Code Errors"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define the term \"interfacing\" in the context of microprocessors.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interfacing Concepts",
+    "topics": [
+      "Interfacing Concepts",
+      "Interfacing Definition"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain how interrupts are managed in the 8085 microprocessor.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Interrupt Management"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Create an assembly language program for the 8085 microprocessor that performs subtraction of two 8bit numbers. Please specify the memory address of each instruction, and include a flowchart for the program.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Subtraction Program",
+      "Flowchart",
+      "Memory Addressing"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain the purpose of the Programmable Peripheral Interface 8255A.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Peripheral Interface 8255A",
+    "topics": [
+      "Programmable Peripheral Interface 8255A",
+      "8255A Purpose"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Describe the process of interfacing an I/O device with the 8085 microprocessor.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interfacing Concepts",
+    "topics": [
+      "Interfacing Concepts",
+      "I/O Device Interfacing",
+      "Ports"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Create an assembly language program for the 8085 microprocessor that performs addition of two 8bit numbers. Please specify the memory address of each instruction, and include a flowchart for the program.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Addition Program",
+      "Flowchart",
+      "Memory Addressing"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Draw Block Diagram and Pin Diagram of 8259 Microcontroller.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Programmable Interrupt Controller 8259A",
+    "topics": [
+      "Programmable Interrupt Controller 8259A",
+      "8259A Block Diagram",
+      "8259A Pin Diagram"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Describe how to use the ADI and SUI instructions in an 8085-assembly language program to perform basic arithmetic operations. Provide a short example program that adds 25H to the accumulator and then subtracts 10H from the result.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "ADI Instruction",
+      "SUI Instruction",
+      "Arithmetic Instructions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Provide an overview of the 80286 and 80386 microprocessors, highlighting their architectural advancements compared to the 8086.",
+    "year": "W2025",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "Advanced Microprocessors",
+    "topics": [
+      "Advanced Microprocessors",
+      "80286 Architecture",
+      "80386 Architecture",
+      "8086 vs 80286 vs 80386"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "List and explain the interrupt available in microprocessor 8085.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Interfacing Concepts, I/O Devices, Interrupts",
+    "primary_topic": "Interrupts in 8085",
+    "topics": [
+      "Interrupts in 8085",
+      "Hardware Interrupts",
+      "Software Interrupts"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Illustrate how conditional branch instructions like JNZ (Jump if Not Zero) are used in 8085 assembly language programming. Provide an example program snippet that utilizes JNZ to perform an operation repeatedly until a condition is met.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Writing 8085 Assembly Language Programs",
+    "primary_topic": "Writing 8085 Assembly Programs",
+    "topics": [
+      "Writing 8085 Assembly Programs",
+      "Branch Instructions",
+      "JNZ Instruction",
+      "Loop Programming"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Provide a detailed explanation of the logical block diagram of the 8086 microprocessor and the functions of its major components.",
+    "year": "W2025",
+    "unit_number": 8,
+    "unit_name": "Advanced Microprocessors",
+    "primary_topic": "8086 Logical Block Diagram",
+    "topics": [
+      "8086 Logical Block Diagram",
+      "BIU",
+      "EU",
+      "8086 Architecture"
+    ],
+    "difficulty": "Hard"
+  }
+]

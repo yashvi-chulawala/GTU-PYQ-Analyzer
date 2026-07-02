@@ -1,0 +1,1604 @@
+{
+    "4": {
+        "unit_name": "APIs & HTTP Communication",
+        "Most Important": [
+            {
+                "topic": "HTTP Request and Response",
+                "frequency": 12,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "Differentiate between GET and POST method."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1c",
+                        "question": "What is HTTP? Explain how browser and server communicate using HTTP request and response."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1a",
+                        "question": "Discuss the differences between HTTP and HTTPS and the importance of secure web communication."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c",
+                        "question": "Define the Hypertext Transfer Protocol (HTTP) and describe its role in facilitating communication between web clients and servers through HTTP Request and Response."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b",
+                        "question": "Explain the difference between GET and POST method."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "Compare GET and POST method."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "What is query string? How is it transmitted to the server with the GET and POST methods?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "Summarize HTTP Protocol Header, HTTP Request and HTTP Response"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c OR",
+                        "question": "What is query string? How is it transmitted to the server with the GET and POST methods?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1c",
+                        "question": "Elaborate on the process of communication between a web browser and a server through HTTP requests and responses."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c",
+                        "question": "What is query string? How is it transmitted to the server with the GET and POST methods?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1c",
+                        "question": "What are the 4 types of HTTP Request Methods? Explain in Detail."
+                    }
+                ]
+            },
+            {
+                "topic": "Query Parameters and Request Body",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "Differentiate between GET and POST method."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c",
+                        "question": "Design HTML page which takes Name, Address, Email and Mobile No. and display on the next page using PHP."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b",
+                        "question": "Explain the difference between GET and POST method."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "Compare GET and POST method."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "What is query string? How is it transmitted to the server with the GET and POST methods?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c OR",
+                        "question": "What is query string? How is it transmitted to the server with the GET and POST methods?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c",
+                        "question": "What is query string? How is it transmitted to the server with the GET and POST methods?"
+                    }
+                ]
+            },
+            {
+                "topic": "JSON and XML Overview",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1b",
+                        "question": "Explain JSON in detail."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c",
+                        "question": "Make a note on: 1. JSON 2. Pop up boxes"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a",
+                        "question": "Define term: JSON"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3a OR",
+                        "question": "Define term: JSON"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a OR",
+                        "question": "How does JSON data work?"
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Client-Server Communication",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1c",
+                        "question": "What is HTTP? Explain how browser and server communicate using HTTP request and response."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1a",
+                        "question": "Discuss the differences between HTTP and HTTPS and the importance of secure web communication."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c",
+                        "question": "Define the Hypertext Transfer Protocol (HTTP) and describe its role in facilitating communication between web clients and servers through HTTP Request and Response."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1c",
+                        "question": "Elaborate on the process of communication between a web browser and a server through HTTP requests and responses."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [],
+        "Less Important": [
+            {
+                "topic": "Forms and Media Elements",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c",
+                        "question": "Design HTML page which takes Name, Address, Email and Mobile No. and display on the next page using PHP."
+                    }
+                ]
+            },
+            {
+                "topic": "Introduction to JavaScript",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c",
+                        "question": "Make a note on: 1. JSON 2. Pop up boxes"
+                    }
+                ]
+            }
+        ]
+    },
+    "2": {
+        "unit_name": "HTML & CSS Fundamentals",
+        "Most Important": [
+            {
+                "topic": "Basic HTML Tags",
+                "frequency": 13,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2a",
+                        "question": "Explain ordered list and unordered list in HTML."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "What is rowspan and colspan used in HTML? Give examples."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c OR",
+                        "question": "Create HTML Form for SIGNUP with details like First name, Last Name, Username, Password, Confirm Password, Date of Birth."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b",
+                        "question": "Explain , and  tag with example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b OR",
+                        "question": "Write HTML code to create ordered and unordered list."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2b",
+                        "question": "Outline following HTML tags with example (i)  (ii) ."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2a",
+                        "question": "Examine various types of Lists in HTML."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2b",
+                        "question": "List out any four HTML Tag and describe their functionality."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b OR",
+                        "question": "Explain with example frames in HTML."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2b",
+                        "question": "Explain with example frames in HTML."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c",
+                        "question": "List out any seven HTML Tag and describe their functionality."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1c",
+                        "question": "Create an HTML form for student registration. Take following detail from users: Name, Address, Username, Password, Gender, City, State, Country, Email and Mobile No. User appropriate control to take user input."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2b",
+                        "question": "Create a web page using frame. Divide the page into two parts with Navigation links on left hand side of page (width=30%) and content page on right hand side of page (width=70%). On clicking the navigation Links corresponding content must be shown on the right-hand side."
+                    }
+                ]
+            },
+            {
+                "topic": "Selectors and Styling",
+                "frequency": 10,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2b",
+                        "question": "What is positioning in CSS?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b",
+                        "question": "What is CSS? What is the importance of CSS? List out the different ways to write CSS."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c OR",
+                        "question": "What do you mean by 'class' and 'id' in CSS? Explain with Example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2a",
+                        "question": "Explain Class and ID Selector is CSS with examples."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b",
+                        "question": "Explain Class and ID Selector is CSS with examples."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Design an HTML snippet with CSS for following effects 1. link: after visited red color and before visited blue color 2. table with odd rows blue and even rows green color. 3. Text color-green, Text case-uppercase"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1b",
+                        "question": "Explain External CSS. Apply following style to an HTML form: font-style,color,margin-top,margin-left"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c OR",
+                        "question": "Create infinite div animation that will change both the background-color and the position of the  element when the animation is 30% complete, 60% complete, 80% complete and again when the animation is 100% complete."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2a",
+                        "question": "What is a Wildcard Selector? Write Syntax and use of it."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c",
+                        "question": "Explain Animations in CSS in details with @keyframes Rule."
+                    }
+                ]
+            },
+            {
+                "topic": "Tables",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "What is rowspan and colspan used in HTML? Give examples."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Write HTML code to Create your class timetable using table tag. Give different color to each column which is representing a day using CSS."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c",
+                        "question": "Outline rowspan and colspan used in HTML and give examples."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c",
+                        "question": "Identify various Table elements available in HTML."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c",
+                        "question": "Create your class time table using table tag, experiment with rowspan, colspan, cellspacing and cellpadding attributes."
+                    }
+                ]
+            },
+            {
+                "topic": "Forms and Media Elements",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c OR",
+                        "question": "Create HTML Form for SIGNUP with details like First name, Last Name, Username, Password, Confirm Password, Date of Birth."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b",
+                        "question": "Explain , and  tag with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1c",
+                        "question": "Construct HTML form for BE $1^{st}$ year student registration which includes all personal details."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2b",
+                        "question": "Outline following HTML tags with example (i)  (ii) ."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c OR",
+                        "question": "Identify various Form elements available in HTML."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b OR",
+                        "question": "Explain with example frames in HTML."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2b",
+                        "question": "Explain with example frames in HTML."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1c",
+                        "question": "Create an HTML form for student registration. Take following detail from users: Name, Address, Username, Password, Gender, City, State, Country, Email and Mobile No. User appropriate control to take user input."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2b",
+                        "question": "Create a web page using frame. Divide the page into two parts with Navigation links on left hand side of page (width=30%) and content page on right hand side of page (width=70%). On clicking the navigation Links corresponding content must be shown on the right-hand side."
+                    }
+                ]
+            },
+            {
+                "topic": "Introduction to CSS",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b",
+                        "question": "What is CSS? What is the importance of CSS? List out the different ways to write CSS."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2a",
+                        "question": "What is CSS? Explain the types of CSS with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c OR",
+                        "question": "Outline Cascading Style Sheet and different types of CSS with example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a",
+                        "question": "What is CSS? Explain it with its types."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2a",
+                        "question": "What is CSS? Explain it with its types."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1b",
+                        "question": "Explain External CSS. Apply following style to an HTML form: font-style,color,margin-top,margin-left"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c",
+                        "question": "Explain Animations in CSS in details with @keyframes Rule."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Positioning",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2b",
+                        "question": "What is positioning in CSS?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c OR",
+                        "question": "Create infinite div animation that will change both the background-color and the position of the  element when the animation is 30% complete, 60% complete, 80% complete and again when the animation is 100% complete."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c OR",
+                        "question": "Implement a designed HTML Web Page using External CSS with following instructions. 1. A web page has a header, navigation, aside, article, footer, section. 2. Add one button at a fixed position. 3. The sidebar should be on the right side and it's width should be 30%."
+                    }
+                ]
+            },
+            {
+                "topic": "Bootstrap basics",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a",
+                        "question": "What is Bootstrap?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a OR",
+                        "question": "Define term: Boot Strap for CSS"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3a",
+                        "question": "Define term: Boot Strap for CSS"
+                    }
+                ]
+            },
+            {
+                "topic": "Margin, Padding and Borders",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b",
+                        "question": "State the difference between Margin and Padding. Explain it with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1b",
+                        "question": "Explain External CSS. Apply following style to an HTML form: font-style,color,margin-top,margin-left"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c",
+                        "question": "Create your class time table using table tag, experiment with rowspan, colspan, cellspacing and cellpadding attributes."
+                    }
+                ]
+            },
+            {
+                "topic": "Colors, Backgrounds and Fonts",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Write HTML code to Create your class timetable using table tag. Give different color to each column which is representing a day using CSS."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Design an HTML snippet with CSS for following effects 1. link: after visited red color and before visited blue color 2. table with odd rows blue and even rows green color. 3. Text color-green, Text case-uppercase"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1b",
+                        "question": "Explain External CSS. Apply following style to an HTML form: font-style,color,margin-top,margin-left"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c OR",
+                        "question": "Create infinite div animation that will change both the background-color and the position of the  element when the animation is 30% complete, 60% complete, 80% complete and again when the animation is 100% complete."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Flexbox Layout",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2b",
+                        "question": "What is Flexbox and its properties in CSS?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c OR",
+                        "question": "Implement a designed HTML Web Page using External CSS with following instructions. 1. A web page has a header, navigation, aside, article, footer, section. 2. Add one button at a fixed position. 3. The sidebar should be on the right side and it's width should be 30%."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Structure of HTML Documents",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2a",
+                        "question": "Explain ordered list and unordered list in HTML."
+                    }
+                ]
+            },
+            {
+                "topic": "Div and Semantic Elements",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c OR",
+                        "question": "Implement a designed HTML Web Page using External CSS with following instructions. 1. A web page has a header, navigation, aside, article, footer, section. 2. Add one button at a fixed position. 3. The sidebar should be on the right side and it's width should be 30%."
+                    }
+                ]
+            },
+            {
+                "topic": "Media Queries",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a",
+                        "question": "What is the use of @media in CSS? Explain types and Syntax."
+                    }
+                ]
+            },
+            {
+                "topic": "Responsive Design Basics",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a",
+                        "question": "What is the use of @media in CSS? Explain types and Syntax."
+                    }
+                ]
+            }
+        ]
+    },
+    "3": {
+        "unit_name": "JavaScript Fundamentals",
+        "Most Important": [
+            {
+                "topic": "DOM Manipulation",
+                "frequency": 18,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c",
+                        "question": "What is document object model? Explain any two objects with example."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a OR",
+                        "question": "What is JQuery? What are the advantages of JQuery?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1c",
+                        "question": "Create HTML Page that contains form with fields Name, Email, Mobile No., Gender, Favorite Color and a show button. Write a java script code to combine and display the information in textbox when the button is clicked."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Create an image slider using jQuery and CSS, incorporating features such as automatic slide transitions, navigation controls, and responsive design."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c OR",
+                        "question": "Write jQuery code to perform common DOM manipulation tasks, such as adding or removing classes, modifying content, or handling events."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b OR",
+                        "question": "What is DOM? Write a javascript code to demonstrate getElementById and innerHTML."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c OR",
+                        "question": "Design a login form using HTML & JavaScript with following validations on username and password fields. • Password length must be 6 to 12 characters Username should not start with @ or number. • Both should not be blank."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Outline document object model and any two objects with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a OR",
+                        "question": "Define term: J-QUERY."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c OR",
+                        "question": "What is document object model? Explain any two objects with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a",
+                        "question": "List out and explain any three methods to access DOM elements using Javascript."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c",
+                        "question": "Create a table using JavaScript on one click of the button. Make use of at least following functions: createElement(), appendChild(), setAttribute()"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b OR",
+                        "question": "Make a use of Regular Expression and validate following fields: Username (only allow characters), Password (only allow numbers) and Email."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c OR",
+                        "question": "Create a student registration formusing JavaScript only. Make use of all the necessary built-in JavaScript functions to create form elements."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c",
+                        "question": "Create HTML Page with java script which takes Integer number as input and tells whether the number is Prime or not."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b OR",
+                        "question": "What is the benefit of using jQuery? How to make an Image Slider using it?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a",
+                        "question": "What is DOM in JavaScript with example?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c OR",
+                        "question": "How to design Image Slider using jQuery?"
+                    }
+                ]
+            },
+            {
+                "topic": "Loops and Functions",
+                "frequency": 10,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c",
+                        "question": "Write a Javascript program to Count the Number of Vowels in a string."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a OR",
+                        "question": "Write a javascript code to take a positive number and find out if it's prime or not. If any negative number is entered then send the appropriate alert message."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a",
+                        "question": "Design a java script to find whether entered number by user is Prime or Not."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Design java script function to find minimum value among three different value entered by user."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c",
+                        "question": "Design a JavaScript code to find whether given number is prime or not."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c",
+                        "question": "Design a JavaScript code to find whether given number is Armstrong or not."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b OR",
+                        "question": "Write a JavaScript that uses function to calculate how many days are left in your birthday?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c OR",
+                        "question": "Design java script function to find maximum value among three different value entered by user."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c",
+                        "question": "Create HTML Page with java script which takes Integer number as input and tells whether the number is Prime or not."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c",
+                        "question": "Explain JavaScript Built-in Functions in detail."
+                    }
+                ]
+            },
+            {
+                "topic": "Operators and Conditions",
+                "frequency": 11,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c",
+                        "question": "Write a Javascript program to Count the Number of Vowels in a string."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a OR",
+                        "question": "Write a javascript code to take a positive number and find out if it's prime or not. If any negative number is entered then send the appropriate alert message."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a",
+                        "question": "Design a java script to find whether entered number by user is Prime or Not."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c OR",
+                        "question": "Design a login form using HTML & JavaScript with following validations on username and password fields. • Password length must be 6 to 12 characters Username should not start with @ or number. • Both should not be blank."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Design java script function to find minimum value among three different value entered by user."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c",
+                        "question": "Design a JavaScript code to find whether given number is prime or not."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c",
+                        "question": "Design a JavaScript code to find whether given number is Armstrong or not."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c OR",
+                        "question": "Design java script function to find maximum value among three different value entered by user."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b OR",
+                        "question": "Make a use of Regular Expression and validate following fields: Username (only allow characters), Password (only allow numbers) and Email."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c",
+                        "question": "Create HTML Page with java script which takes Integer number as input and tells whether the number is Prime or not."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c OR",
+                        "question": "Write a Javascript Program to Check if a number is Positive, Negative, or Zero."
+                    }
+                ]
+            },
+            {
+                "topic": "Introduction to JavaScript",
+                "frequency": 16,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a",
+                        "question": "Discuss Java script alert, prompt, confirm with example."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a OR",
+                        "question": "What is JQuery? What are the advantages of JQuery?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2b",
+                        "question": "Write the difference between javascript and jQuery."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a",
+                        "question": "Write a javascript code to demonstrate the pop up boxes."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Create an image slider using jQuery and CSS, incorporating features such as automatic slide transitions, navigation controls, and responsive design."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b",
+                        "question": "Outline Java script alert, prompt, confirm with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b OR",
+                        "question": "Explain different types of pop box in JavaScript with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a OR",
+                        "question": "Define term: J-QUERY."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b",
+                        "question": "What is JavaScript? Discuss advantages of JavaScript."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b OR",
+                        "question": "Define term: JQUERY"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a OR",
+                        "question": "Discuss Java script alert, prompt, confirm with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a",
+                        "question": "Define term: JQUERY"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b OR",
+                        "question": "What are the advantages of using JQuery?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b",
+                        "question": "Write a java script to display Current date and time dynamically."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b OR",
+                        "question": "What is the benefit of using jQuery? How to make an Image Slider using it?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c OR",
+                        "question": "How to design Image Slider using jQuery?"
+                    }
+                ]
+            },
+            {
+                "topic": "Introduction to Asynchronous Programming",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b OR",
+                        "question": "Differentiate synchronous and Asynchronous web programming."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a",
+                        "question": "Define term: AJAX"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b",
+                        "question": "Compare Synchronous and Asynchronous web programming."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a OR",
+                        "question": "Identify AJAX."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b",
+                        "question": "Differentiate synchronous and Asynchronous web programming."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a OR",
+                        "question": "Identify AJAX."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b OR",
+                        "question": "What is an Asynchronous web Request AJAX? Explain with Example."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Callbacks and Promises Overview",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a",
+                        "question": "Explain callbacks in JavaScript."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a OR",
+                        "question": "Outline Call back function in JavaScript with example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a OR",
+                        "question": "Explain Use Cases of Callback Functions in Javascript."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b OR",
+                        "question": "Explain JavaScript Callback Function with Example."
+                    }
+                ]
+            },
+            {
+                "topic": "Functions",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a",
+                        "question": "Explain callbacks in JavaScript."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a OR",
+                        "question": "Outline Call back function in JavaScript with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c OR",
+                        "question": "Create a student registration formusing JavaScript only. Make use of all the necessary built-in JavaScript functions to create form elements."
+                    }
+                ]
+            },
+            {
+                "topic": "Event Handling",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1c",
+                        "question": "Create HTML Page that contains form with fields Name, Email, Mobile No., Gender, Favorite Color and a show button. Write a java script code to combine and display the information in textbox when the button is clicked."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c OR",
+                        "question": "Write jQuery code to perform common DOM manipulation tasks, such as adding or removing classes, modifying content, or handling events."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c",
+                        "question": "Create a table using JavaScript on one click of the button. Make use of at least following functions: createElement(), appendChild(), setAttribute()"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b",
+                        "question": "Inlist Common JavaScript Events and Explain Any Four."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Objects",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c",
+                        "question": "What is document object model? Explain any two objects with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c OR",
+                        "question": "What is document object model? Explain any two objects with example."
+                    }
+                ]
+            },
+            {
+                "topic": "Forms and Media Elements",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1c",
+                        "question": "Create HTML Page that contains form with fields Name, Email, Mobile No., Gender, Favorite Color and a show button. Write a java script code to combine and display the information in textbox when the button is clicked."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c OR",
+                        "question": "Design a login form using HTML & JavaScript with following validations on username and password fields. • Password length must be 6 to 12 characters Username should not start with @ or number. • Both should not be blank."
+                    }
+                ]
+            },
+            {
+                "topic": "Variables and Datatypes",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b OR",
+                        "question": "Write a JavaScript that uses function to calculate how many days are left in your birthday?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b",
+                        "question": "Write a java script to display Current date and time dynamically."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Responsive Design Basics",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Create an image slider using jQuery and CSS, incorporating features such as automatic slide transitions, navigation controls, and responsive design."
+                    }
+                ]
+            },
+            {
+                "topic": "Arrays and Objects",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a OR",
+                        "question": "List out various methods of an Array object with example using JavaScript."
+                    }
+                ]
+            }
+        ]
+    },
+    "7": {
+        "unit_name": "Deployment & Modern Web Concepts",
+        "Most Important": [
+            {
+                "topic": "SEO Introduction",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a OR",
+                        "question": "Define SEO."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b OR",
+                        "question": "Explain meta tag? How it is useful by search engine?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1b",
+                        "question": "What is SEO? Explain the role of keywords and metadata in optimizing web pages for search engines."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "Identify SEO."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1a",
+                        "question": "Define SEO."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2a",
+                        "question": "What is the need of Search Engine Optimization process? Which HTML tag is useful in it and how it is useful?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1a",
+                        "question": "What is SEO in Web Application Development and What are its types?"
+                    }
+                ]
+            }
+        ],
+        "Important": [],
+        "Moderate": [
+            {
+                "topic": "Basic HTML Tags",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b OR",
+                        "question": "Explain meta tag? How it is useful by search engine?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2a",
+                        "question": "What is the need of Search Engine Optimization process? Which HTML tag is useful in it and how it is useful?"
+                    }
+                ]
+            }
+        ],
+        "Less Important": []
+    },
+    "5": {
+        "unit_name": "Backend Development with Node.js",
+        "Most Important": [
+            {
+                "topic": "REST API Development",
+                "frequency": 25,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a OR",
+                        "question": "Explain Regular Expression in PHP."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b OR",
+                        "question": "Describe any four php array function."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b",
+                        "question": "Write a PHP script to print following pattern: $ $$$$$$$$$ $$$$$"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a",
+                        "question": "Write PHP code to find out the largest number from 3 given numbers."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a OR",
+                        "question": "Explain the types of Array in PHP with example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c OR",
+                        "question": "Write a PHP program to print first 10 Fibonacci Numbers."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a",
+                        "question": "Outline Regular Expression in PHP."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b",
+                        "question": "Make a note on associative array in PHP with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a OR",
+                        "question": "Design a PHP program to find whether entered year is leap year or not."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a OR",
+                        "question": "Interpret PHP Function: Implode and Explode"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c OR",
+                        "question": "Design PHP script to read and write a text file."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a",
+                        "question": "Interpret PHP Function: Implode and Explode"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c OR",
+                        "question": "Write a PHP program to find whether entered year is leap year or not."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a",
+                        "question": "Perform following operation on String using PHP program: 1. Find length of the String 2. Concatenate two Strings 3. Count words in a given String"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b",
+                        "question": "How to upload your photograph in JPEG format using PHP program. Give one example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a OR",
+                        "question": "Define following terms in PHP: 1. Object oriented Programming 2. Session 3. Abstract Class"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b OR",
+                        "question": "Write a program to create an array and find the smallest of all the elements. Make use of for each loop for calculation in PHP"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c OR",
+                        "question": "What is an Interface? What is the difference between Abstract Class and Interface? Implement two interfaces on a Class in PHPprogram."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b",
+                        "question": "List out various file operations? Perform various file operations in PHP?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c",
+                        "question": "Create an HTML form. Submit the form in a PHP page and show all the inserted records in a tabular form."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a OR",
+                        "question": "List out benefits of PHP."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c OR",
+                        "question": "Write a PHP script to demonstrate passing variables through a URL, and load data from database based on the passed data."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b",
+                        "question": "What is Exception Handling in PHP with example?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c",
+                        "question": "Write a PHP program to demonstrate the Divide By Zero Exception using exception handling."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a OR",
+                        "question": "Explain Regular Expression in PHP with example."
+                    }
+                ]
+            },
+            {
+                "topic": "Authentication and Authorization Overview",
+                "frequency": 17,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c OR",
+                        "question": "Write PHP program to create simple Login and Logout using sessions."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "What is Cookie? How can we handle cookies in PHP?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b OR",
+                        "question": "Differentiate between Session and Cookies."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a",
+                        "question": "Write a PHP code to demonstrate Cookies."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c",
+                        "question": "Write a PHP script for user authentication using PHP-MYSQL. Use session for storing username."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a OR",
+                        "question": "Write a PHP code to demonstrate Session."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b OR",
+                        "question": "Explain session in PHP with proper example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c",
+                        "question": "Outline Session & Cookie in PHP with proper example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b OR",
+                        "question": "What is cookie in PHP? Explain cookies handling in PHP."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b",
+                        "question": "Explain session in PHP with proper example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b",
+                        "question": "Explain session in PHP with proper example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b OR",
+                        "question": "Explain cookie in PHP with proper example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a OR",
+                        "question": "Define following terms in PHP: 1. Object oriented Programming 2. Session 3. Abstract Class"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a",
+                        "question": "How we can use cookies to maintain session in PHP?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b OR",
+                        "question": "What is the Difference Between Session and Cookies?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c OR",
+                        "question": "Explain Cookie and Session in detail with Example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a",
+                        "question": "Explain Session Management technique Hidden Fields."
+                    }
+                ]
+            },
+            {
+                "topic": "CRUD Operations with Database",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c OR",
+                        "question": "Write a code using PHP, HTML and MySQL for Students that stores Enrollment No, Name, Branch, Email id, Contact Number etc. in database. Create proper GUI including buttons that run separate.php file for each database operation like insert, delete, update etc."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c OR",
+                        "question": "Write PHP Script to perform CRUD operation using MySql."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c OR",
+                        "question": "Design php code to create database state, create table city(city name, area, population) and insert data from table."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c",
+                        "question": "Design a PHP script to store user registration details (user-name, address, date of birth, age, pan card, gender) with MySQL database."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c OR",
+                        "question": "Design a PHP script to store user registration details (user-name, address, mobile no, age and gender) with MySQL database."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c",
+                        "question": "Create an HTML form. Submit the form in a PHP page and show all the inserted records in a tabular form."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c OR",
+                        "question": "Write a PHP script to demonstrate passing variables through a URL, and load data from database based on the passed data."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b",
+                        "question": "Explain Query Execution with CRUD Example."
+                    }
+                ]
+            },
+            {
+                "topic": "Database Connectivity Basics",
+                "frequency": 12,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c OR",
+                        "question": "Write a code using PHP, HTML and MySQL for Students that stores Enrollment No, Name, Branch, Email id, Contact Number etc. in database. Create proper GUI including buttons that run separate.php file for each database operation like insert, delete, update etc."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c",
+                        "question": "Write a PHP script for user authentication using PHP-MYSQL. Use session for storing username."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c OR",
+                        "question": "Write PHP Script to perform CRUD operation using MySql."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b OR",
+                        "question": "Outline database connectivity in PHP with example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c OR",
+                        "question": "Design php code to create database state, create table city(city name, area, population) and insert data from table."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c",
+                        "question": "Design a PHP script to store user registration details (user-name, address, date of birth, age, pan card, gender) with MySQL database."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c",
+                        "question": "How can you connect to database in PHP? Explain database connectivity in PHP with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c OR",
+                        "question": "Design a PHP script to store user registration details (user-name, address, mobile no, age and gender) with MySQL database."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c",
+                        "question": "Create an HTML form. Submit the form in a PHP page and show all the inserted records in a tabular form."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c OR",
+                        "question": "Write a PHP script to demonstrate passing variables through a URL, and load data from database based on the passed data."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b",
+                        "question": "Explain Query Execution with CRUD Example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c",
+                        "question": "Explain Database Access in PHP with Example."
+                    }
+                ]
+            }
+        ],
+        "Important": [],
+        "Moderate": [],
+        "Less Important": []
+    },
+    "1": {
+        "unit_name": "Introduction to Web Technologies",
+        "Most Important": [
+            {
+                "topic": "Client-Server Architecture",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b",
+                        "question": "Differentiate between server side and client side scripting,"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1b",
+                        "question": "Make a short note on the Architecture of Web Browse."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1b",
+                        "question": "Explain the Architecture of Web Browser."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1b",
+                        "question": "Explain the Architecture of Web Browser."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b",
+                        "question": "What are the advantages and disadvantages of client side scripting?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1a",
+                        "question": "Explain following terms: (1) WWW (2) URI (3) DNS"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1b",
+                        "question": "How Web Browsers Work? Explain with diagram."
+                    }
+                ]
+            }
+        ],
+        "Important": [],
+        "Moderate": [
+            {
+                "topic": "Frontend, Backend and Database Overview",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b",
+                        "question": "Differentiate between server side and client side scripting,"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b",
+                        "question": "What are the advantages and disadvantages of client side scripting?"
+                    }
+                ]
+            },
+            {
+                "topic": "Introduction to Web Technologies",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1a",
+                        "question": "Define term: WWW"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1a",
+                        "question": "Explain following terms: (1) WWW (2) URI (3) DNS"
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Evolution of Websites",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1a",
+                        "question": "Define term: WWW"
+                    }
+                ]
+            }
+        ]
+    }
+}

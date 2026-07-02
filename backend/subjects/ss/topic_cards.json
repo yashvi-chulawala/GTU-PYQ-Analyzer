@@ -1,0 +1,2798 @@
+{
+    "1": {
+        "unit_name": "Overview of System Software",
+        "Most Important": [
+            {
+                "topic": "Introduction",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1a",
+                        "question": "Define system software. Give difference between system software and application software."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1c",
+                        "question": "Define System Software. Explain the Life Cycle of a Source Program with a neat diagram."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1b",
+                        "question": "Define following terms: 1)Linker 2)Loader 3) Parser 4)Assembler"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1a",
+                        "question": "Explain different kinds of system software."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1a",
+                        "question": "Define the following terms: i) System Programming ii) Logical Address Space iii) Device Driver"
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Software Hierarchy",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1a",
+                        "question": "Define system software. Give difference between system software and application software."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1b",
+                        "question": "Enlist levels of System Software. Explain any two in detail."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1a",
+                        "question": "Explain different kinds of system software."
+                    }
+                ]
+            },
+            {
+                "topic": "Systems Programming",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1b",
+                        "question": "Explain the user-centric view and system-centric view of system software."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "Compare user-centric view and system-centric view of system software."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1a",
+                        "question": "Define the following terms: i) System Programming ii) Logical Address Space iii) Device Driver"
+                    }
+                ]
+            },
+            {
+                "topic": "System Software Development",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1c",
+                        "question": "Describe System Software Development with appropriate diagram."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1c",
+                        "question": "Define System Software. Explain the Life Cycle of a Source Program with a neat diagram."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1c",
+                        "question": "Explain the various stages of the life cycle of a source program with a neat diagram."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1b",
+                        "question": "Discuss the various recent trends in software development."
+                    }
+                ]
+            },
+            {
+                "topic": "Life Cycle of a Source Program",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1c",
+                        "question": "Describe System Software Development with appropriate diagram."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1c",
+                        "question": "Define System Software. Explain the Life Cycle of a Source Program with a neat diagram."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1c",
+                        "question": "Explain the various stages of the life cycle of a source program with a neat diagram."
+                    }
+                ]
+            },
+            {
+                "topic": "Address Space",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "Explain semantic gap, specification gap and execution gap."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1a",
+                        "question": "Explain semantic gap, specification gap and execution gap."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1a",
+                        "question": "Define the following terms: i) System Programming ii) Logical Address Space iii) Device Driver"
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Different Views on the Meaning of a Program",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1b",
+                        "question": "Explain the user-centric view and system-centric view of system software."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1a",
+                        "question": "Compare user-centric view and system-centric view of system software."
+                    }
+                ]
+            },
+            {
+                "topic": "Levels of System Software",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1b",
+                        "question": "Enlist levels of System Software. Explain any two in detail."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1a",
+                        "question": "Explain different kinds of system software."
+                    }
+                ]
+            },
+            {
+                "topic": "Machine Structure",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "Explain semantic gap, specification gap and execution gap."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1a",
+                        "question": "Explain semantic gap, specification gap and execution gap."
+                    }
+                ]
+            },
+            {
+                "topic": "Interfaces",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1a",
+                        "question": "Explain semantic gap, specification gap and execution gap."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1a",
+                        "question": "Explain semantic gap, specification gap and execution gap."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Tools",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1b",
+                        "question": "Define following terms: 1)Linker 2)Loader 3) Parser 4)Assembler"
+                    }
+                ]
+            },
+            {
+                "topic": "Recent Trends in Software Development",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1b",
+                        "question": "Discuss the various recent trends in software development."
+                    }
+                ]
+            }
+        ]
+    },
+    "2": {
+        "unit_name": "Overview of Language Processors",
+        "Most Important": [
+            {
+                "topic": "Fundamental of Language Processing",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1c",
+                        "question": "Explain lexical, syntax and semantic analysis with example."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1c",
+                        "question": "Define Language Processing. List various phases of Language Processor. Explain each phase in detail."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1a",
+                        "question": "Explain fundamental of language processing."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1b",
+                        "question": "Define following terms: 1) Language Migrator 2) Execution gap 3) Token 4) Handle"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1a",
+                        "question": "Define following: 1)Specification Gap 2)Language Processor 3) Language Migrator"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2a",
+                        "question": "What is a Symbol Table? Define following terms: 1)Semantic Gap 2) Execution Gap"
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Language Processing Activities",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q1c",
+                        "question": "Explain lexical, syntax and semantic analysis with example."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1c",
+                        "question": "Define Language Processing. List various phases of Language Processor. Explain each phase in detail."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1a",
+                        "question": "Explain fundamental of language processing."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1c",
+                        "question": "List various phases of Language Processor. Explain any one phase in detail."
+                    }
+                ]
+            },
+            {
+                "topic": "Programming Languages and Language Processors",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q1c",
+                        "question": "Define Language Processing. List various phases of Language Processor. Explain each phase in detail."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1b",
+                        "question": "Define following terms: 1) Language Migrator 2) Execution gap 3) Token 4) Handle"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1a",
+                        "question": "Define following: 1)Specification Gap 2)Language Processor 3) Language Migrator"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1c",
+                        "question": "List various phases of Language Processor. Explain any one phase in detail."
+                    }
+                ]
+            },
+            {
+                "topic": "Symbol Tables Data Structures for Language Processing",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c OR",
+                        "question": "What is Symbol table? Explain how one can organize Symbol table using Linear Data Structure?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2a",
+                        "question": "What is a Symbol Table? Define following terms: 1)Semantic Gap 2) Execution Gap"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1c",
+                        "question": "Explain the role of symbol table data structure in language processor and also, discuss how one can organize the symbol table using linear data structure?"
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Search Data structures",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c OR",
+                        "question": "What is Symbol table? Explain how one can organize Symbol table using Linear Data Structure?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q1c",
+                        "question": "Explain the role of symbol table data structure in language processor and also, discuss how one can organize the symbol table using linear data structure?"
+                    }
+                ]
+            }
+        ],
+        "Less Important": []
+    },
+    "3": {
+        "unit_name": "Assemblers",
+        "Most Important": [
+            {
+                "topic": "Elements of Assembly Language Programming",
+                "frequency": 15,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2a",
+                        "question": "Explain the following. 1. ORIGIN 2. EQU 3. LTORG"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c OR",
+                        "question": "Given the source program: START 200 \n MOVER AREG, ='5' \n MOVEM AREG, M \n L1 MOVER AREG, ='2' \n ORIGIN L1+3 \n LTORG \n ADD AREG, ='1' \n X DS 1 \n NEXT MULT BREG, ='2' \n BACK BC LT, BACK \n SUB CREG, ='4' \n BC LT, BACK \n LTORG \n EQU LI \n ORIGIN NEXT+5 \n STOP \n 1. Show the content of symbol table generated at the end of pass I. \n 2. Show the intermediate code generated for the program."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2b",
+                        "question": "An assembly program contains the statement X EQU Y+25 Indicate how the EQU statement can be processed if a) Y is a back reference b) Y is a forward reference."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "Given the source program: START 100 \n A DS 3 \n L1 MOVER AREG, B \n ADD AREG, C \n MOVEM AREG, D \n D EQU A+1 \n L2 PRINT D \n ORIGIN A-1 \n C DC '5' \n ORIGIN L2+1 \n STOP \n B DC '19' \n END LI \n a) Show the contents of the symbol table at the end of Pass I. \n b) Explain the significance of EQU and ORIGIN statement in the program and explain how they are processed by the assembler. \n c) Show the intermediate code generated for the program."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Consider following assembly language program: Create equivalent machine code \n START 101 \n READ N \n MOVER BREG, ONE \n MOVEM BREG, TERM \n AGAIN MULT BREG, TERM \n MOVER CREG, TERM \n ADD CREG, ONE \n MOVEM CREG, TERM \n COMP CREG, N \n BC LE, AGAIN \n MOVEM BREG, AGAIN \n PRINT RESULT \n STOP \n N DS 1 \n RESULT DS 1 \n ONE DC 1 \n TERM DS 1 \n END \n Instruction opcode: STOP00, ADD 01, MULT 03. MOVER - 04, MOVEM-05, COMP 06, BC07, READ-09, PRINT10, LE02 \n Assembler directives: START-01, END-02 \n Declaration statements: DC-01, DS-02 \n Register code: BREG-02, CREG-03"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c OR",
+                        "question": "Consider following assembly language program: Create equivalent machine code \n START 300 \n MOVER AREG, -'5' \n MOVEM AREG, R1 \n AGAIN MOVER AREG, R1 \n MOVER CREG, R2 \n ADD CREG '1' \n BC ANY TERM \n LTORG \n ='5' \n ='1' \n TERM SUB AREG,-'1 \n BC LT, DOWN \n LAST STOP \n ORIGIN LOOP+2 \n MULT CREG, R2 \n ORIGIN LAST+1 \n R1 DS 1 \n DOWN EQU LOOP \n R2 DS 1 \n END ='1'"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c",
+                        "question": "Explain advanced assembler directives with suitable example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c OR",
+                        "question": "Consider following assembly language program: (i) Write equivalent machine code (ii) Write Intermediate code using Variant-I representation. \n START 200 \n READ A \n READ B \n MOVER BREG, A \n MULT BREG, B \n MOVEM BREG, C \n STOP \n A DS 1 \n B DS 1 \n C DS 1 \n END"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c",
+                        "question": "Explain various Assembler directives with suitable example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b",
+                        "question": "Define following terms: 1)START 2)END 3)BYTE 4)WORD"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c OR",
+                        "question": "Consider following assembly language program: Show (i) Contents of Symbol Table (ii) Intermediate codes using Variant-I representation. \n START 101 \n READ N \n MOVER BREG, ONE \n MOVEM BREG, TERM \n MULT BREG, TERM \n MOVER CREG, TERM \n ADD CREG, ONE \n MOVEM CREG, TERM \n COMP CREG, N \n BC LE, AGAIN \n MOVEM BREG, AGAIN \n PRINT RESULT \n STOP \n AGAIN DS 1 \n N RESULT DS 1 \n ONE DC '1' \n TERM DS 1 \n END \n Instruction opcode: STOP-00, ADD-01, MULT-03, MOVER -04, MOVEM-05, COMP-06, BC-07, READ-09, PRINT - 10, LE-02 \n Assembler directives: START-01, END-02 \n Declaration statements: DC-01, DS-02 \n Register code: BREG-02, CREG - 03"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c",
+                        "question": "Explain advanced assembler directives with suitable example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c",
+                        "question": "Explain various Assembler directives with suitable example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2b",
+                        "question": "Explain the following assembler directives: i) END ii) ORIGIN"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c",
+                        "question": "An assembly program contains the statement A EQU $B+10$ Indicate how the EQU statement can be processed if i) B is a back reference ii) B is a forward reference"
+                    }
+                ]
+            },
+            {
+                "topic": "Design of the Assembler",
+                "frequency": 21,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2a",
+                        "question": "Explain the following. 1. ORIGIN 2. EQU 3. LTORG"
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c",
+                        "question": "Compare variant I and variant II of intermediate code."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c OR",
+                        "question": "Given the source program: START 200 \n MOVER AREG, ='5' \n MOVEM AREG, M \n L1 MOVER AREG, ='2' \n ORIGIN L1+3 \n LTORG \n ADD AREG, ='1' \n X DS 1 \n NEXT MULT BREG, ='2' \n BACK BC LT, BACK \n SUB CREG, ='4' \n BC LT, BACK \n LTORG \n EQU LI \n ORIGIN NEXT+5 \n STOP \n 1. Show the content of symbol table generated at the end of pass I. \n 2. Show the intermediate code generated for the program."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "Given the source program: START 100 \n A DS 3 \n L1 MOVER AREG, B \n ADD AREG, C \n MOVEM AREG, D \n D EQU A+1 \n L2 PRINT D \n ORIGIN A-1 \n C DC '5' \n ORIGIN L2+1 \n STOP \n B DC '19' \n END LI \n a) Show the contents of the symbol table at the end of Pass I. \n b) Explain the significance of EQU and ORIGIN statement in the program and explain how they are processed by the assembler. \n c) Show the intermediate code generated for the program."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c",
+                        "question": "Describe following data structures: OPTAB, SYMTAB, LITTAB and POOLTAB"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Explain and compare two variants of the intermediate code generated from multi pass assembler."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Consider following assembly language program: Create equivalent machine code \n START 101 \n READ N \n MOVER BREG, ONE \n MOVEM BREG, TERM \n AGAIN MULT BREG, TERM \n MOVER CREG, TERM \n ADD CREG, ONE \n MOVEM CREG, TERM \n COMP CREG, N \n BC LE, AGAIN \n MOVEM BREG, AGAIN \n PRINT RESULT \n STOP \n N DS 1 \n RESULT DS 1 \n ONE DC 1 \n TERM DS 1 \n END \n Instruction opcode: STOP00, ADD 01, MULT 03. MOVER - 04, MOVEM-05, COMP 06, BC07, READ-09, PRINT10, LE02 \n Assembler directives: START-01, END-02 \n Declaration statements: DC-01, DS-02 \n Register code: BREG-02, CREG-03"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c OR",
+                        "question": "Consider following assembly language program: Create equivalent machine code \n START 300 \n MOVER AREG, -'5' \n MOVEM AREG, R1 \n AGAIN MOVER AREG, R1 \n MOVER CREG, R2 \n ADD CREG '1' \n BC ANY TERM \n LTORG \n ='5' \n ='1' \n TERM SUB AREG,-'1 \n BC LT, DOWN \n LAST STOP \n ORIGIN LOOP+2 \n MULT CREG, R2 \n ORIGIN LAST+1 \n R1 DS 1 \n DOWN EQU LOOP \n R2 DS 1 \n END ='1'"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c OR",
+                        "question": "Consider following assembly language program: (i) Write equivalent machine code (ii) Write Intermediate code using Variant-I representation. \n START 200 \n READ A \n READ B \n MOVER BREG, A \n MULT BREG, B \n MOVEM BREG, C \n STOP \n A DS 1 \n B DS 1 \n C DS 1 \n END"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a",
+                        "question": "Explain analysis phase of an assembler."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1b",
+                        "question": "Explain the role of Symbol Table and Literal Table in the assembly process."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c OR",
+                        "question": "Describe following data structures: OPTAB, SYMTAB, LITTAB and POOLTAB."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c",
+                        "question": "Explain the tasks performed by the PASS-1 and PASS-2 assembler?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b OR",
+                        "question": "Define following terms: 1)OPTAB 2)SYMTAB 3)LITAB 4) POOLTAB"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2b",
+                        "question": "Describe following data structures: OPTAB, SYMTAB, LITTAB and POOLTAB."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c OR",
+                        "question": "Consider following assembly language program: Show (i) Contents of Symbol Table (ii) Intermediate codes using Variant-I representation. \n START 101 \n READ N \n MOVER BREG, ONE \n MOVEM BREG, TERM \n MULT BREG, TERM \n MOVER CREG, TERM \n ADD CREG, ONE \n MOVEM CREG, TERM \n COMP CREG, N \n BC LE, AGAIN \n MOVEM BREG, AGAIN \n PRINT RESULT \n STOP \n AGAIN DS 1 \n N RESULT DS 1 \n ONE DC '1' \n TERM DS 1 \n END \n Instruction opcode: STOP-00, ADD-01, MULT-03, MOVER -04, MOVEM-05, COMP-06, BC-07, READ-09, PRINT - 10, LE-02 \n Assembler directives: START-01, END-02 \n Declaration statements: DC-01, DS-02 \n Register code: BREG-02, CREG - 03"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3a",
+                        "question": "Draw a flowchart of maintaining Table of Incomplete Instruction (TII) in assembler."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1b",
+                        "question": "Explain the various tasks performed during analysis and synthesis phases of the assembler."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c OR",
+                        "question": "Describe following data structures: OPTAB, SYMTAB, LITTAB and POOLTAB."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2a",
+                        "question": "Discuss various desirable properties of an intermediate representation (IR) of a code in language processor."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c OR",
+                        "question": "Discuss in detail the various data structures involved in PASS-I of the assembler."
+                    }
+                ]
+            },
+            {
+                "topic": "Two-Pass Assemblers",
+                "frequency": 16,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c",
+                        "question": "Compare variant I and variant II of intermediate code."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2c OR",
+                        "question": "Given the source program: START 200 \n MOVER AREG, ='5' \n MOVEM AREG, M \n L1 MOVER AREG, ='2' \n ORIGIN L1+3 \n LTORG \n ADD AREG, ='1' \n X DS 1 \n NEXT MULT BREG, ='2' \n BACK BC LT, BACK \n SUB CREG, ='4' \n BC LT, BACK \n LTORG \n EQU LI \n ORIGIN NEXT+5 \n STOP \n 1. Show the content of symbol table generated at the end of pass I. \n 2. Show the intermediate code generated for the program."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2b",
+                        "question": "An assembly program contains the statement X EQU Y+25 Indicate how the EQU statement can be processed if a) Y is a back reference b) Y is a forward reference."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c",
+                        "question": "Given the source program: START 100 \n A DS 3 \n L1 MOVER AREG, B \n ADD AREG, C \n MOVEM AREG, D \n D EQU A+1 \n L2 PRINT D \n ORIGIN A-1 \n C DC '5' \n ORIGIN L2+1 \n STOP \n B DC '19' \n END LI \n a) Show the contents of the symbol table at the end of Pass I. \n b) Explain the significance of EQU and ORIGIN statement in the program and explain how they are processed by the assembler. \n c) Show the intermediate code generated for the program."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c OR",
+                        "question": "Differentiate one pass and two pass assembler. Explain how forward references are handled in two pass assembler."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c",
+                        "question": "Consider following assembly language program: Create equivalent machine code \n START 101 \n READ N \n MOVER BREG, ONE \n MOVEM BREG, TERM \n AGAIN MULT BREG, TERM \n MOVER CREG, TERM \n ADD CREG, ONE \n MOVEM CREG, TERM \n COMP CREG, N \n BC LE, AGAIN \n MOVEM BREG, AGAIN \n PRINT RESULT \n STOP \n N DS 1 \n RESULT DS 1 \n ONE DC 1 \n TERM DS 1 \n END \n Instruction opcode: STOP00, ADD 01, MULT 03. MOVER - 04, MOVEM-05, COMP 06, BC07, READ-09, PRINT10, LE02 \n Assembler directives: START-01, END-02 \n Declaration statements: DC-01, DS-02 \n Register code: BREG-02, CREG-03"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3c OR",
+                        "question": "Consider following assembly language program: Create equivalent machine code \n START 300 \n MOVER AREG, -'5' \n MOVEM AREG, R1 \n AGAIN MOVER AREG, R1 \n MOVER CREG, R2 \n ADD CREG '1' \n BC ANY TERM \n LTORG \n ='5' \n ='1' \n TERM SUB AREG,-'1 \n BC LT, DOWN \n LAST STOP \n ORIGIN LOOP+2 \n MULT CREG, R2 \n ORIGIN LAST+1 \n R1 DS 1 \n DOWN EQU LOOP \n R2 DS 1 \n END ='1'"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c OR",
+                        "question": "Consider following assembly language program: (i) Write equivalent machine code (ii) Write Intermediate code using Variant-I representation. \n START 200 \n READ A \n READ B \n MOVER BREG, A \n MULT BREG, B \n MOVEM BREG, C \n STOP \n A DS 1 \n B DS 1 \n C DS 1 \n END"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a OR",
+                        "question": "Compare one pass assembler and two pass assemblers."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c",
+                        "question": "Explain the flowchart of a Single-Pass Assembler. What are its advantages and limitations compared to a Two-Pass Assembler?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c",
+                        "question": "Explain the tasks performed by the PASS-1 and PASS-2 assembler?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c OR",
+                        "question": "Explain forward reference with suitable examples. How to solve it using back-patching?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2c OR",
+                        "question": "Consider following assembly language program: Show (i) Contents of Symbol Table (ii) Intermediate codes using Variant-I representation. \n START 101 \n READ N \n MOVER BREG, ONE \n MOVEM BREG, TERM \n MULT BREG, TERM \n MOVER CREG, TERM \n ADD CREG, ONE \n MOVEM CREG, TERM \n COMP CREG, N \n BC LE, AGAIN \n MOVEM BREG, AGAIN \n PRINT RESULT \n STOP \n AGAIN DS 1 \n N RESULT DS 1 \n ONE DC '1' \n TERM DS 1 \n END \n Instruction opcode: STOP-00, ADD-01, MULT-03, MOVER -04, MOVEM-05, COMP-06, BC-07, READ-09, PRINT - 10, LE-02 \n Assembler directives: START-01, END-02 \n Declaration statements: DC-01, DS-02 \n Register code: BREG-02, CREG - 03"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b",
+                        "question": "Differentiate between single pass Assembler and 2-pass Assembler."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c",
+                        "question": "An assembly program contains the statement A EQU $B+10$ Indicate how the EQU statement can be processed if i) B is a back reference ii) B is a forward reference"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c OR",
+                        "question": "Discuss in detail the various data structures involved in PASS-I of the assembler."
+                    }
+                ]
+            },
+            {
+                "topic": "One-Pass Assemblers",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c OR",
+                        "question": "Differentiate one pass and two pass assembler. Explain how forward references are handled in two pass assembler."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a OR",
+                        "question": "Compare one pass assembler and two pass assemblers."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c",
+                        "question": "Explain the flowchart of a Single-Pass Assembler. What are its advantages and limitations compared to a Two-Pass Assembler?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4c OR",
+                        "question": "Explain forward reference with suitable examples. How to solve it using back-patching?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3a",
+                        "question": "Draw a flowchart of maintaining Table of Incomplete Instruction (TII) in assembler."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b",
+                        "question": "Differentiate between single pass Assembler and 2-pass Assembler."
+                    }
+                ]
+            },
+            {
+                "topic": "Assembler Design Criteria",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c",
+                        "question": "Describe following data structures: OPTAB, SYMTAB, LITTAB and POOLTAB"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a",
+                        "question": "Explain analysis phase of an assembler."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q1b",
+                        "question": "Explain the role of Symbol Table and Literal Table in the assembly process."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2c OR",
+                        "question": "Describe following data structures: OPTAB, SYMTAB, LITTAB and POOLTAB."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4b OR",
+                        "question": "Define following terms: 1)OPTAB 2)SYMTAB 3)LITAB 4) POOLTAB"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2b",
+                        "question": "Describe following data structures: OPTAB, SYMTAB, LITTAB and POOLTAB."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q1b",
+                        "question": "Explain the various tasks performed during analysis and synthesis phases of the assembler."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2c OR",
+                        "question": "Describe following data structures: OPTAB, SYMTAB, LITTAB and POOLTAB."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2c OR",
+                        "question": "Discuss in detail the various data structures involved in PASS-I of the assembler."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Types of Assemblers",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2c OR",
+                        "question": "Differentiate one pass and two pass assembler. Explain how forward references are handled in two pass assembler."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5a OR",
+                        "question": "Compare one pass assembler and two pass assemblers."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c",
+                        "question": "Explain the flowchart of a Single-Pass Assembler. What are its advantages and limitations compared to a Two-Pass Assembler?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b",
+                        "question": "Differentiate between single pass Assembler and 2-pass Assembler."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Multi-Pass Assemblers",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2c OR",
+                        "question": "Explain and compare two variants of the intermediate code generated from multi pass assembler."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q2a",
+                        "question": "Discuss various desirable properties of an intermediate representation (IR) of a code in language processor."
+                    }
+                ]
+            },
+            {
+                "topic": "Advanced Assembly Process",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2c",
+                        "question": "Explain advanced assembler directives with suitable example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c",
+                        "question": "Explain advanced assembler directives with suitable example."
+                    }
+                ]
+            }
+        ],
+        "Less Important": []
+    },
+    "4": {
+        "unit_name": "Macro and Macro Processors",
+        "Most Important": [
+            {
+                "topic": "Advanced Macro Facilities",
+                "frequency": 15,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2b",
+                        "question": "Show the difference between positional parameter and keyword parameter in macro."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a OR",
+                        "question": "Demonstrate the use of AIF and AGO."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b",
+                        "question": "Explain use of AIF and AGO with example."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a OR",
+                        "question": "Explain the use of expansion time loop."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1c",
+                        "question": "Explain with examples - expansion time variables, expansion time Statements -AIF and AGO for macro programming."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c",
+                        "question": "Explain expansion time loops in macro."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b OR",
+                        "question": "Explain positional parameter, keyword parameter and default value parameter."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c OR",
+                        "question": "Explain expansion time statements AIF, AGO and ANOP."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b",
+                        "question": "Explain use of AIF and AGO with example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b OR",
+                        "question": "Explain recursive macro with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b",
+                        "question": "Explain REPT and IRP statement with proper example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b OR",
+                        "question": "What is the difference between Keyword parameters and positional parameters?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c OR",
+                        "question": "Explain lexical and semantic expansion of macro with example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a",
+                        "question": "What do you mean by lexical and semantic macro expansion?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b OR",
+                        "question": "Explain the use of REPT and IRP statement in macros."
+                    }
+                ]
+            },
+            {
+                "topic": "Macro Definition and Call",
+                "frequency": 15,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q2b",
+                        "question": "Show the difference between positional parameter and keyword parameter in macro."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a",
+                        "question": "Compare and contrast the properties of macros and subroutines with respect to following criterion. 1. Code space requirement 2. Execution speed 3. Processing requirement by assembler 4. Flexibility"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a",
+                        "question": "Compare and contrast the properties of macros and subroutines with respect to following: 1. Code space requirements 2. Execution speed"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c",
+                        "question": "Define a macro taking starting_location and N as parameters to find summation of all N numbers stored at location starting from starting_location. The result is to be stored at starting_location."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b OR",
+                        "question": "Explain macro definition and call in detail."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c OR",
+                        "question": "Define a Macro taking A and B as parameters to compute $A=A^{*}B+B^{*}B+A^{*}B$"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a",
+                        "question": "Write a macro with parameters A, B, C and D. Calculate $A^{*}B+C^{*}D$ AREG."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a OR",
+                        "question": "Compare features of subroutine and macro."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b OR",
+                        "question": "Explain positional parameter, keyword parameter and default value parameter."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2b",
+                        "question": "What is a Macro? Explain the macro expansion process with an example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b",
+                        "question": "List out advantages and disadvantages of macro."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a OR",
+                        "question": "What is a macro?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b OR",
+                        "question": "What is the difference between Keyword parameters and positional parameters?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c OR",
+                        "question": "Define macro in the context of programming language. Explain the structure of a macro definition."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c",
+                        "question": "Compare and contrast the properties of macros and subroutines with respect to the following: i) code space requirements ii) execution speed iii) processing required by the assembler"
+                    }
+                ]
+            },
+            {
+                "topic": "Introduction",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a",
+                        "question": "Compare and contrast the properties of macros and subroutines with respect to following criterion. 1. Code space requirement 2. Execution speed 3. Processing requirement by assembler 4. Flexibility"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a",
+                        "question": "Compare and contrast the properties of macros and subroutines with respect to following: 1. Code space requirements 2. Execution speed"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a OR",
+                        "question": "Compare features of subroutine and macro."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b",
+                        "question": "List out advantages and disadvantages of macro."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a OR",
+                        "question": "What is a macro?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a OR",
+                        "question": "Define: Subroutine, DEFTAB, ARGTAB"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c OR",
+                        "question": "Define macro in the context of programming language. Explain the structure of a macro definition."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c",
+                        "question": "Compare and contrast the properties of macros and subroutines with respect to the following: i) code space requirements ii) execution speed iii) processing required by the assembler"
+                    }
+                ]
+            },
+            {
+                "topic": "Design of a Macro Pre-processor",
+                "frequency": 10,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c",
+                        "question": "List and explain all the tables used in macro preprocessor."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a OR",
+                        "question": "Compare and Contrast macro preprocessor and macro assembler."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b OR",
+                        "question": "Explain use and field of following tables of a macro KPDTAB, MDT, EVTAB, SSTAB"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Draw a flowchart and explain a simple one pass macro processor."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Explain design of macro preprocessor."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a",
+                        "question": "What is a macro preprocessor?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b",
+                        "question": "Explain macro preprocessor in brief."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a OR",
+                        "question": "Define: Subroutine, DEFTAB, ARGTAB"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a OR",
+                        "question": "Draw the schematic design of a macro preprocessor."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c OR",
+                        "question": "Explain the various attributes of the following tables involved in macro preprocessor. i) MNT ii) KPDTAB iii) SSTAB iv) EVTAB"
+                    }
+                ]
+            },
+            {
+                "topic": "Basic Tasks of a Macro Processor",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c",
+                        "question": "List and explain all the tables used in macro preprocessor."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c OR",
+                        "question": "List and explain all the task involved in macro expansion."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b OR",
+                        "question": "Explain use and field of following tables of a macro KPDTAB, MDT, EVTAB, SSTAB"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c OR",
+                        "question": "Explain design of macro preprocessor."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b OR",
+                        "question": "Write and explain the algorithm for macro expansion."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a OR",
+                        "question": "Draw the schematic design of a macro preprocessor."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3c OR",
+                        "question": "Explain the various attributes of the following tables involved in macro preprocessor. i) MNT ii) KPDTAB iii) SSTAB iv) EVTAB"
+                    }
+                ]
+            },
+            {
+                "topic": "Macro Expansion",
+                "frequency": 21,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3a OR",
+                        "question": "Demonstrate the use of AIF and AGO."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3c OR",
+                        "question": "List and explain all the task involved in macro expansion."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b",
+                        "question": "Explain use of AIF and AGO with example."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c",
+                        "question": "Define a macro taking starting_location and N as parameters to find summation of all N numbers stored at location starting from starting_location. The result is to be stored at starting_location."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3a OR",
+                        "question": "Explain the use of expansion time loop."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3b OR",
+                        "question": "Explain macro definition and call in detail."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q3c OR",
+                        "question": "Define a Macro taking A and B as parameters to compute $A=A^{*}B+B^{*}B+A^{*}B$"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q1c",
+                        "question": "Explain with examples - expansion time variables, expansion time Statements -AIF and AGO for macro programming."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3a",
+                        "question": "Write a macro with parameters A, B, C and D. Calculate $A^{*}B+C^{*}D$ AREG."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b",
+                        "question": "Explain nested macro call with example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c",
+                        "question": "Explain expansion time loops in macro."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3c OR",
+                        "question": "Explain expansion time statements AIF, AGO and ANOP."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2b",
+                        "question": "What is a Macro? Explain the macro expansion process with an example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b",
+                        "question": "Explain use of AIF and AGO with example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3a",
+                        "question": "What is a semantic expansion?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3b",
+                        "question": "Explain REPT and IRP statement with proper example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3c OR",
+                        "question": "Explain lexical and semantic expansion of macro with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b OR",
+                        "question": "Write and explain the algorithm for macro expansion."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3a",
+                        "question": "What do you mean by lexical and semantic macro expansion?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b",
+                        "question": "Explain nested macro call with example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b OR",
+                        "question": "Explain the use of REPT and IRP statement in macros."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Nested Macro Calls",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q3b",
+                        "question": "Explain nested macro call with example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3b OR",
+                        "question": "Explain recursive macro with example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q3b",
+                        "question": "Explain nested macro call with example."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Functions of a Macro Processor",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a",
+                        "question": "What is a macro preprocessor?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b",
+                        "question": "Explain macro preprocessor in brief."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Design of a Macro Assembler",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a OR",
+                        "question": "Compare and Contrast macro preprocessor and macro assembler."
+                    }
+                ]
+            },
+            {
+                "topic": "One-Pass Macro Processors",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q3c",
+                        "question": "Draw a flowchart and explain a simple one pass macro processor."
+                    }
+                ]
+            }
+        ]
+    },
+    "5": {
+        "unit_name": "Linkers and Loaders",
+        "Most Important": [
+            {
+                "topic": "Relocation of Linking Concept",
+                "frequency": 10,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3b",
+                        "question": "What is program relocation? How it is performed?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c OR",
+                        "question": "With algorithm and example, explain how relocation is performed by linker?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b",
+                        "question": "Explain design of a linker by addressing issues of relocation and linking."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b OR",
+                        "question": "Consider an object module with three programs A, B and C, located at following addresses: Program Address \n A 200-250 \n B 302-370 \n C 480-533 \n The load address is 300 for the executable A, B and C to be generated. Find: i) Size of each Program ii) Load origin of each program iii) Relocation Factor for each Program"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c OR",
+                        "question": "What is program relocation? How relocation is performed by linker? Explain with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c OR",
+                        "question": "What is program relocation? How relocation is performed by linker? Explain with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c",
+                        "question": "Explain how relocation and linking is performed."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a",
+                        "question": "What do you mean by non relocatable program?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a OR",
+                        "question": "Define the following terms. i) Overlay program ii) Relocating loader iii) Program relocation"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b OR",
+                        "question": "A self-relocating program needs to find its load address before it can execute its relocating logic. Comment on how this information can be determined by the program."
+                    }
+                ]
+            },
+            {
+                "topic": "Relocating Loaders",
+                "frequency": 8,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3b",
+                        "question": "What is program relocation? How it is performed?"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c OR",
+                        "question": "With algorithm and example, explain how relocation is performed by linker?"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b OR",
+                        "question": "Consider an object module with three programs A, B and C, located at following addresses: Program Address \n A 200-250 \n B 302-370 \n C 480-533 \n The load address is 300 for the executable A, B and C to be generated. Find: i) Size of each Program ii) Load origin of each program iii) Relocation Factor for each Program"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c OR",
+                        "question": "What is program relocation? How relocation is performed by linker? Explain with example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b OR",
+                        "question": "List out advantages of Relocating loader."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c OR",
+                        "question": "What is program relocation? How relocation is performed by linker? Explain with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c",
+                        "question": "Explain how relocation and linking is performed."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a OR",
+                        "question": "Define the following terms. i) Overlay program ii) Relocating loader iii) Program relocation"
+                    }
+                ]
+            },
+            {
+                "topic": "Self-Relocating Programs",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q3b OR",
+                        "question": "Explain in brief about self relocating program."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b OR",
+                        "question": "Explain characteristics of self-relocating programs."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c OR",
+                        "question": "Explain self-relocating program."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a",
+                        "question": "What is a self-relocating program? How does it work?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c",
+                        "question": "Explain Self relocating program and overlay structure program."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b OR",
+                        "question": "A self-relocating program needs to find its load address before it can execute its relocating logic. Comment on how this information can be determined by the program."
+                    }
+                ]
+            },
+            {
+                "topic": "Different Loading Schemes",
+                "frequency": 13,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a",
+                        "question": "Explain compile-and-go loaders in brief."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b",
+                        "question": "Explain Compile-and-Go loaders with example."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a OR",
+                        "question": "Explain absolute loader with suitable example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b",
+                        "question": "Explain Bootstrap loader."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a OR",
+                        "question": "Explain Compile-and-Go loader."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a OR",
+                        "question": "Explain Boostrap loader."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b",
+                        "question": "Differentiate Absolute loader and Direct linking loader."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b OR",
+                        "question": "List out advantages of Relocating loader."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b",
+                        "question": "Explain in brief design of an absolute Loader."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a OR",
+                        "question": "Explain Boostrap loader."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a",
+                        "question": "Enlist different loading schemes."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b",
+                        "question": "Describe Absolute loader in brief."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b",
+                        "question": "Explain absolute loader with suitable example."
+                    }
+                ]
+            },
+            {
+                "topic": "Linking of Overlay Structured Programs",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4c",
+                        "question": "What is overlay? Explain the linking of overlay structured program performed."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a",
+                        "question": "Explain linking of overlay structured program."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c",
+                        "question": "What is Overlay? Explain the execution of an overlay structured program."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a",
+                        "question": "Explain linking of overlay structured program."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c",
+                        "question": "Explain Self relocating program and overlay structure program."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a OR",
+                        "question": "Define the following terms. i) Overlay program ii) Relocating loader iii) Program relocation"
+                    }
+                ]
+            },
+            {
+                "topic": "Design of a Linker",
+                "frequency": 17,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4c",
+                        "question": "What is overlay? Explain the linking of overlay structured program performed."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a OR",
+                        "question": "Differentiate between linker and loader."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4c OR",
+                        "question": "Write and explain an algorithm for first pass of the Linker program."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a",
+                        "question": "Explain linking of overlay structured program."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c",
+                        "question": "Write and explain an algorithm for first pass of a linker."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b OR",
+                        "question": "Draw the flow chart for the dynamic linking."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c OR",
+                        "question": "With algorithm and example, explain how relocation is performed by linker?"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4b",
+                        "question": "Explain design of a linker by addressing issues of relocation and linking."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4c",
+                        "question": "What is Overlay? Explain the execution of an overlay structured program."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b OR",
+                        "question": "Describe the functions of a Linker. Explain the concept of Dynamic Linking with its benefits."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a OR",
+                        "question": "Compare and contrast Static and Dynamic Linking."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a",
+                        "question": "Explain linking of overlay structured program."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c OR",
+                        "question": "What is program relocation? How relocation is performed by linker? Explain with example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4c OR",
+                        "question": "What is program relocation? How relocation is performed by linker? Explain with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c",
+                        "question": "Explain how relocation and linking is performed."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c",
+                        "question": "Discuss in detail how linker resolves the external references."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c OR",
+                        "question": "Explain various components of an object module."
+                    }
+                ]
+            },
+            {
+                "topic": "Loaders",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a OR",
+                        "question": "Differentiate between linker and loader."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4b",
+                        "question": "Explain Bootstrap loader."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5a OR",
+                        "question": "Explain Boostrap loader."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a OR",
+                        "question": "Explain Boostrap loader."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a",
+                        "question": "Enlist different loading schemes."
+                    }
+                ]
+            },
+            {
+                "topic": "Linking Loaders",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4c OR",
+                        "question": "Write and explain an algorithm for first pass of the Linker program."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4c",
+                        "question": "Write and explain an algorithm for first pass of a linker."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b",
+                        "question": "Differentiate Absolute loader and Direct linking loader."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c",
+                        "question": "Discuss in detail how linker resolves the external references."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4c OR",
+                        "question": "Explain various components of an object module."
+                    }
+                ]
+            },
+            {
+                "topic": "Absolute Loaders",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4a OR",
+                        "question": "Explain absolute loader with suitable example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5b",
+                        "question": "Differentiate Absolute loader and Direct linking loader."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4b",
+                        "question": "Explain in brief design of an absolute Loader."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b",
+                        "question": "Describe Absolute loader in brief."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4a",
+                        "question": "What do you mean by non relocatable program?"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q4b",
+                        "question": "Explain absolute loader with suitable example."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Compile-and-Go Loaders",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a",
+                        "question": "Explain compile-and-go loaders in brief."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b",
+                        "question": "Explain Compile-and-Go loaders with example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a OR",
+                        "question": "Explain Compile-and-Go loader."
+                    }
+                ]
+            },
+            {
+                "topic": "Dynamic Linking",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q4b OR",
+                        "question": "Draw the flow chart for the dynamic linking."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b OR",
+                        "question": "Describe the functions of a Linker. Explain the concept of Dynamic Linking with its benefits."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4a OR",
+                        "question": "Compare and contrast Static and Dynamic Linking."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Linker's v/s Loaders",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4a OR",
+                        "question": "Differentiate between linker and loader."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q4a",
+                        "question": "Compare loader and linker."
+                    }
+                ]
+            }
+        ],
+        "Less Important": []
+    },
+    "8": {
+        "unit_name": "Interpreters & Debuggers",
+        "Most Important": [
+            {
+                "topic": "Overview of Interpretation",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b OR",
+                        "question": "Differentiate pure and impure interpreter."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b OR",
+                        "question": "Explain pure and impure interpreters."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c",
+                        "question": "Explain pure and impure interpreters."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c",
+                        "question": "What is interpreter? Explain pure & impure interpreters."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c",
+                        "question": "What is interpreter? Explain pure & impure interpreters."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c OR",
+                        "question": "What is interpreter? Explain benefits of interpreter. Compare interpreter and compiler."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a OR",
+                        "question": "Enlist the languages using interpreter."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c OR",
+                        "question": "Define: Interpreter, Explain the merits and demerits of interpretation"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b",
+                        "question": "Explain the difference between pure and impure interpreter."
+                    }
+                ]
+            },
+            {
+                "topic": "Benefits of Interpretation",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b OR",
+                        "question": "Differentiate pure and impure interpreter."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b OR",
+                        "question": "Explain pure and impure interpreters."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c",
+                        "question": "Explain pure and impure interpreters."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5c",
+                        "question": "What is interpreter? Explain pure & impure interpreters."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c",
+                        "question": "What is interpreter? Explain pure & impure interpreters."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5c OR",
+                        "question": "What is interpreter? Explain benefits of interpreter. Compare interpreter and compiler."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5a OR",
+                        "question": "Enlist the languages using interpreter."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5c OR",
+                        "question": "Define: Interpreter, Explain the merits and demerits of interpretation"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b",
+                        "question": "Explain the difference between pure and impure interpreter."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Classification of Debuggers",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b",
+                        "question": "What is debugger? Explain different types of error in program."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b OR",
+                        "question": "Explain classification of debuggers."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b OR",
+                        "question": "Describe the classification of Debuggers."
+                    }
+                ]
+            },
+            {
+                "topic": "Debugging Procedures",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b",
+                        "question": "What is debugger? Explain different types of error in program."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b OR",
+                        "question": "Explain classification of debuggers."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b",
+                        "question": "List the types of errors encountered during program execution."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q5b OR",
+                        "question": "Describe the classification of Debuggers."
+                    }
+                ]
+            },
+            {
+                "topic": "Java Virtual Machine",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b",
+                        "question": "Explain JVM in detail."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c OR",
+                        "question": "Describe JVM with appropriate diagram."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b OR",
+                        "question": "Write a short note on the Java Virtual Machine (JVM)."
+                    }
+                ]
+            },
+            {
+                "topic": "The Java Language Environment",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5b",
+                        "question": "Explain JVM in detail."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5c OR",
+                        "question": "Describe JVM with appropriate diagram."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b OR",
+                        "question": "Write a short note on the Java Virtual Machine (JVM)."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Types of Errors",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q4b",
+                        "question": "What is debugger? Explain different types of error in program."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3b",
+                        "question": "List the types of errors encountered during program execution."
+                    }
+                ]
+            }
+        ],
+        "Less Important": []
+    },
+    "6": {
+        "unit_name": "Scanning and Parsing",
+        "Most Important": [
+            {
+                "topic": "Ambiguity in Grammatic Specification",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5a",
+                        "question": "Explain Ambiguous Grammar."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a",
+                        "question": "What is ambiguity in grammar? Eliminate left recursion from the following grammar: A -> Aalb"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a OR",
+                        "question": "Explain Ambiguous grammar with any suitable example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2a",
+                        "question": "Describe ambiguous grammar with suitable example."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a",
+                        "question": "Describe the ambiguity in grammar specification."
+                    }
+                ]
+            },
+            {
+                "topic": "Programming Language Grammars",
+                "frequency": 18,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5a",
+                        "question": "Explain Ambiguous Grammar."
+                    },
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5a OR",
+                        "question": "Define the following. 1. Finite state automaton 2. Regular expression 3. Operator grammar"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c OR",
+                        "question": "Construct optimized DFA for following Regular Expression. $(1^{*})^{*}0(0|1)^{*}\\#$"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2a",
+                        "question": "Apply rule to remove left recursion from following grammar. S -> A A-> Ad | Ae | aB | aC B-> bBC | f C->g"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c OR",
+                        "question": "Define Operator precedence grammar. Convert following production rules of grammar into suitable Operator precedence grammar. E -> EAE | id A->-*"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2a",
+                        "question": "Define Left Recursion. Remove Left Recursion from the following grammar: $A\\rightarrow A~x|A~y|A~B|c|d$ B -> e"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a",
+                        "question": "What is ambiguity in grammar? Eliminate left recursion from the following grammar: A -> Aalb"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2b",
+                        "question": "Find First and Follow Set from following grammar S-> AalbAc Bc bBa A-> d B-> d Check grammar is LL(1) or not?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c OR",
+                        "question": "Find First and Follow Set from following grammar S-> AaAb BbBa A->€ B-> € Check grammar is LL(1) or not?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "Explain types of grammar."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a OR",
+                        "question": "Explain Ambiguous grammar with any suitable example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2a",
+                        "question": "Eliminate left recursion $E\\rightarrow E+T|T$"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a",
+                        "question": "Write regular expressions of a given language. The language consists no. of zero should be multiple of 3"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a OR",
+                        "question": "Write a regular expression for a language containing both 11 and 00 as substring"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a",
+                        "question": "Explain types of grammar."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q2a",
+                        "question": "Describe ambiguous grammar with suitable example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c OR",
+                        "question": "Obtain minimized DFA for the following regular expression: aa*bc*#"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a",
+                        "question": "Describe the ambiguity in grammar specification."
+                    }
+                ]
+            },
+            {
+                "topic": "Scanning",
+                "frequency": 6,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5a OR",
+                        "question": "Define the following. 1. Finite state automaton 2. Regular expression 3. Operator grammar"
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c OR",
+                        "question": "Construct optimized DFA for following Regular Expression. $(1^{*})^{*}0(0|1)^{*}\\#$"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a",
+                        "question": "Write regular expressions of a given language. The language consists no. of zero should be multiple of 3"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q4a OR",
+                        "question": "Write a regular expression for a language containing both 11 and 00 as substring"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a OR",
+                        "question": "Define: Token, Lexeme and Pattern"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c OR",
+                        "question": "Obtain minimized DFA for the following regular expression: aa*bc*#"
+                    }
+                ]
+            },
+            {
+                "topic": "Top-Down Parsing",
+                "frequency": 14,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5c OR",
+                        "question": "Explain recursive descendent parsing algorithm."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2b",
+                        "question": "Construct LL(1) parsing table for following grammar. S -> iCtSeS | iCtS | a C->b"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a",
+                        "question": "Compare top-down and bottom-up parser."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c",
+                        "question": "Given a grammar, E -> TA, A -> +TA | ε T -> VB B -> *VB | ε V -> id | (E) Develop an LL (1) parser table and parse following string using the parsing table. id * (id+id)"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a",
+                        "question": "Explain Left factoring with example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2b",
+                        "question": "Construct LL(1) Parsing table for the following grammar: S -> aAC | Bb $A\\rightarrow eD$ B -> fig C -> hi D -> bE | ε E -> eDdD"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2a",
+                        "question": "Compare and contrast Top-Down and Bottom-Up Parsing techniques."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "Given a grammar, E -> TA, Α -> +ΤΑ | ε T -> VB B -> *VB | ε V -> id | (E) Develop an LL (1) parser table and parse following string using the parsing table. id * $(id+id)$"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2b",
+                        "question": "Find First and Follow Set from following grammar S-> AalbAc Bc bBa A-> d B-> d Check grammar is LL(1) or not?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c OR",
+                        "question": "Find First and Follow Set from following grammar S-> AaAb BbBa A->€ B-> € Check grammar is LL(1) or not?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a OR",
+                        "question": "What is backtracking?"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c",
+                        "question": "Explain recursive descent parsing algorithm with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b OR",
+                        "question": "Construct LL(1) parsing table for following grammar. S -> iCtSeS | iCtS | a C -> b"
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b OR",
+                        "question": "Discuss the top down parsing without backtracking with example."
+                    }
+                ]
+            },
+            {
+                "topic": "Parsing",
+                "frequency": 20,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5c OR",
+                        "question": "Explain recursive descendent parsing algorithm."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "Define Simple Phrase and Handle. Using Handle and Simple Phrase trace the bottom up parsing algorithm. Grammar is: $E\\rightarrow T+E|T-E|T$ $T\\rightarrow T^{*}V|T/V|V$ $V\\rightarrow a|b|c|d$ String is $:a-b^{*}c+d$"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2a",
+                        "question": "Apply rule to remove left recursion from following grammar. S -> A A-> Ad | Ae | aB | aC B-> bBC | f C->g"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q2b",
+                        "question": "Construct LL(1) parsing table for following grammar. S -> iCtSeS | iCtS | a C->b"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a",
+                        "question": "Compare top-down and bottom-up parser."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c",
+                        "question": "Given a grammar, E -> TA, A -> +TA | ε T -> VB B -> *VB | ε V -> id | (E) Develop an LL (1) parser table and parse following string using the parsing table. id * (id+id)"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a",
+                        "question": "Explain Left factoring with example."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2a",
+                        "question": "Define Left Recursion. Remove Left Recursion from the following grammar: $A\\rightarrow A~x|A~y|A~B|c|d$ B -> e"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q2b",
+                        "question": "Construct LL(1) Parsing table for the following grammar: S -> aAC | Bb $A\\rightarrow eD$ B -> fig C -> hi D -> bE | ε E -> eDdD"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2a",
+                        "question": "Compare and contrast Top-Down and Bottom-Up Parsing techniques."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a",
+                        "question": "What is ambiguity in grammar? Eliminate left recursion from the following grammar: A -> Aalb"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c OR",
+                        "question": "Given a grammar, E -> TA, Α -> +ΤΑ | ε T -> VB B -> *VB | ε V -> id | (E) Develop an LL (1) parser table and parse following string using the parsing table. id * $(id+id)$"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2b",
+                        "question": "Find First and Follow Set from following grammar S-> AalbAc Bc bBa A-> d B-> d Check grammar is LL(1) or not?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q2c OR",
+                        "question": "Find First and Follow Set from following grammar S-> AaAb BbBa A->€ B-> € Check grammar is LL(1) or not?"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q4a OR",
+                        "question": "What is backtracking?"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q2a",
+                        "question": "Eliminate left recursion $E\\rightarrow E+T|T$"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3c",
+                        "question": "Explain recursive descent parsing algorithm with example."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3b OR",
+                        "question": "Construct LL(1) parsing table for following grammar. S -> iCtSeS | iCtS | a C -> b"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a",
+                        "question": "Explain handle pruning with respect to the bottom up parsing."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5b OR",
+                        "question": "Discuss the top down parsing without backtracking with example."
+                    }
+                ]
+            },
+            {
+                "topic": "Bottom-up Parsing",
+                "frequency": 5,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5c",
+                        "question": "Define Simple Phrase and Handle. Using Handle and Simple Phrase trace the bottom up parsing algorithm. Grammar is: $E\\rightarrow T+E|T-E|T$ $T\\rightarrow T^{*}V|T/V|V$ $V\\rightarrow a|b|c|d$ String is $:a-b^{*}c+d$"
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3a",
+                        "question": "Compare top-down and bottom-up parser."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4c OR",
+                        "question": "Define Operator precedence grammar. Convert following production rules of grammar into suitable Operator precedence grammar. E -> EAE | id A->-*"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q2a",
+                        "question": "Compare and contrast Top-Down and Bottom-Up Parsing techniques."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4a",
+                        "question": "Explain handle pruning with respect to the bottom up parsing."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Classification of Grammar",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5a OR",
+                        "question": "Define the following. 1. Finite state automaton 2. Regular expression 3. Operator grammar"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5a",
+                        "question": "Explain types of grammar."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5a",
+                        "question": "Explain types of grammar."
+                    }
+                ]
+            },
+            {
+                "topic": "LEX",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b",
+                        "question": "Explain basic structure of a LEX program."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b OR",
+                        "question": "Explain basic structure of a LEX program."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a OR",
+                        "question": "Explain the role of LEX and YACC utility."
+                    }
+                ]
+            },
+            {
+                "topic": "Language Processor Development Tools",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4b",
+                        "question": "Explain basic structure of a LEX program."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4b OR",
+                        "question": "Explain basic structure of a LEX program."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a OR",
+                        "question": "Explain the role of LEX and YACC utility."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [],
+        "Less Important": [
+            {
+                "topic": "YACC",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5a OR",
+                        "question": "Explain the role of LEX and YACC utility."
+                    }
+                ]
+            }
+        ]
+    },
+    "7": {
+        "unit_name": "Compilers",
+        "Most Important": [
+            {
+                "topic": "Code Optimization",
+                "frequency": 7,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5c",
+                        "question": "What is optimizing transformation? discuss various optimizing transformations."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a",
+                        "question": "Discuss dead code elimination method with suitable example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a",
+                        "question": "Explain DAG with example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5b",
+                        "question": "List out various Code Optimization techniques used in Compiler. Explain any two techniques with suitable example."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3c OR",
+                        "question": "What is code optimization? Discuss any five techniques for code optimization used in compilers."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c",
+                        "question": "Explain any three Code Optimization Techniques."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c OR",
+                        "question": "Discuss various optimizing transformation techniques commonly used in compilers."
+                    }
+                ]
+            },
+            {
+                "topic": "Data Structure used in Compiling",
+                "frequency": 11,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a OR",
+                        "question": "Discuss the limitations of stack based memory allocation."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b",
+                        "question": "Explain inherited and synthesized attributes in detail with example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a",
+                        "question": "Explain DAG with example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c",
+                        "question": "Generate Quadruple, Triple, Indirect Triple for following expression: ans $=a+b^{*}c/2.0$"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b",
+                        "question": "Write quadruple representation for the following expression: Result = -w * x + -y*z"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q3a OR",
+                        "question": "Define: Parse tree, Syntax tree, DAG"
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c OR",
+                        "question": "Write Quadruple, Triples and Indirect Triples for expression, $x= -a^{*}b+-a^{*}b$"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b OR",
+                        "question": "Given following expression: $x=-a^{*}b+-a^{*}b$ (1) Write three address codes for the expression. (2) Give triple implementation for the three-address code of the expression."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q3a",
+                        "question": "Define: Parse tree, Syntax tree, DAG"
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c",
+                        "question": "What is intermediate code? Explain types of intermediate code in compilers."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c",
+                        "question": "Demonstrate the use of triples and quadruples representation used in compiler with suitable example."
+                    }
+                ]
+            },
+            {
+                "topic": "Compilation of Expression",
+                "frequency": 9,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5c",
+                        "question": "Generate Quadruple, Triple, Indirect Triple for following expression: ans $=a+b^{*}c/2.0$"
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b",
+                        "question": "Write quadruple representation for the following expression: Result = -w * x + -y*z"
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Explain the phases of compilation, from source code to target code, with diagram."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "Explain phases of Compiler with suitable example."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q5c OR",
+                        "question": "Write Quadruple, Triples and Indirect Triples for expression, $x= -a^{*}b+-a^{*}b$"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b",
+                        "question": "Explain the front end of toy compiler with suitable example."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b OR",
+                        "question": "Given following expression: $x=-a^{*}b+-a^{*}b$ (1) Write three address codes for the expression. (2) Give triple implementation for the three-address code of the expression."
+                    },
+                    {
+                        "year": "W2024",
+                        "question_no": "Q4c",
+                        "question": "What is intermediate code? Explain types of intermediate code in compilers."
+                    },
+                    {
+                        "year": "W2025",
+                        "question_no": "Q5c",
+                        "question": "Demonstrate the use of triples and quadruples representation used in compiler with suitable example."
+                    }
+                ]
+            }
+        ],
+        "Important": [
+            {
+                "topic": "Causes of Large Semantic Gap",
+                "frequency": 4,
+                "questions": [
+                    {
+                        "year": "S2022",
+                        "question_no": "Q5b OR",
+                        "question": "Explain in brief about causes of large semantic gap."
+                    },
+                    {
+                        "year": "S2023",
+                        "question_no": "Q2a",
+                        "question": "Explain the causes of Large Semantic Gap."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1a",
+                        "question": "Differentiate Compiler and Interpreter."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q5b",
+                        "question": "Explain the front end of toy compiler with suitable example."
+                    }
+                ]
+            },
+            {
+                "topic": "Memory Allocation",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2023",
+                        "question_no": "Q5a OR",
+                        "question": "Discuss the limitations of stack based memory allocation."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a OR",
+                        "question": "Discuss parameters for Activation Records"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3a OR",
+                        "question": "Explain memory allocation in block structured language."
+                    }
+                ]
+            },
+            {
+                "topic": "Binding and Binding Times",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q3b",
+                        "question": "Explain inherited and synthesized attributes in detail with example."
+                    },
+                    {
+                        "year": "S2024",
+                        "question_no": "Q5a OR",
+                        "question": "Explain the terms Binding and Binding Times."
+                    },
+                    {
+                        "year": "S2025",
+                        "question_no": "Q5b OR",
+                        "question": "Describe static binding and dynamic binding."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [
+            {
+                "topic": "Scope Rules",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2024",
+                        "question_no": "Q4a OR",
+                        "question": "Discuss parameters for Activation Records"
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q3a OR",
+                        "question": "Explain memory allocation in block structured language."
+                    }
+                ]
+            },
+            {
+                "topic": "Compilation of Control Structure",
+                "frequency": 2,
+                "questions": [
+                    {
+                        "year": "S2026",
+                        "question_no": "Q4c",
+                        "question": "Explain the phases of compilation, from source code to target code, with diagram."
+                    },
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1c",
+                        "question": "Explain phases of Compiler with suitable example."
+                    }
+                ]
+            }
+        ],
+        "Less Important": [
+            {
+                "topic": "Overview of Interpretation",
+                "frequency": 1,
+                "questions": [
+                    {
+                        "year": "W2022",
+                        "question_no": "Q1a",
+                        "question": "Differentiate Compiler and Interpreter."
+                    }
+                ]
+            }
+        ]
+    },
+    "9": {
+        "unit_name": "Programming Languages",
+        "Most Important": [],
+        "Important": [
+            {
+                "topic": "Importance of High-Level Languages",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1b",
+                        "question": "Differentiate Problem Oriented Languages and Procedure Oriented Languages."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b OR",
+                        "question": "Difference between Procedure oriented language and Problem oriented language."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1b",
+                        "question": "Difference between Procedure oriented language and Problem oriented language."
+                    }
+                ]
+            },
+            {
+                "topic": "Features of a High-Level Language",
+                "frequency": 3,
+                "questions": [
+                    {
+                        "year": "S2025",
+                        "question_no": "Q1b",
+                        "question": "Differentiate Problem Oriented Languages and Procedure Oriented Languages."
+                    },
+                    {
+                        "year": "S2026",
+                        "question_no": "Q5b OR",
+                        "question": "Difference between Procedure oriented language and Problem oriented language."
+                    },
+                    {
+                        "year": "W2023",
+                        "question_no": "Q1b",
+                        "question": "Difference between Procedure oriented language and Problem oriented language."
+                    }
+                ]
+            }
+        ],
+        "Moderate": [],
+        "Less Important": []
+    }
+}

@@ -1,0 +1,1177 @@
+{
+    "2": {
+        "unit_name": "Basics of C Programming",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q1a",
+                "question": "Answer the following questions\n1. Define: Compiler\n2. Justify, 2 and '2' both are not same in C language.\n3. What is the role of sizeof operator in C language?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q1b",
+                "question": "Answer the following questions\n1. Ternary operator can be nested. (True/False)\n2. What do you mean by enumerated data type in C language?\n3. What is the difference between char *p and char p[]?\n4. What do you mean by function prototype?"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2a",
+                "question": "Write the outputs of the following expression:\ni) 50 % 2 / 3 + 2\nii) 21 / (int) 2.5 + 3\niii) (1 > 2 ) || ( 2 < 3) && 5 < 1"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q2c",
+                "question": "Explain the working of various bit-wise operators with the example."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3a",
+                "question": "Explain ternary (?:) operator in detail with the example."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4a",
+                "question": "Explain type casting with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1c",
+                "question": "Write a C program to compute Fahrenheit from centigrade (f=1.8*c +32)."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3b",
+                "question": "List out all operators and explain any two in details."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3a OR",
+                "question": "Explain Type casting in C with example."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2a",
+                "question": "List the rules to assign a name to an Identifier (Variable)"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2b",
+                "question": "Illustrate the basic structure of a C Programs and highlight usual sections of main function."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2c",
+                "question": "Construct a C program which receives number of days as input and converts them in to Year, Months and Days."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q2c OR",
+                "question": "Construct a C program to swap the values of two integers with use of only two variables."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1c",
+                "question": "List and explain different data types available in C."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2a",
+                "question": "Demonstrate the working of ternary operator and sizeof operator with an example."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3a",
+                "question": "Explain type casting with example"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1c",
+                "question": "Explain different type of operators used in c language with their precedence and associativity."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1c",
+                "question": "List and explain different data types available in C."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2a",
+                "question": "Demonstrate the working of bitwise shift and sizeof operator with an example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2a",
+                "question": "Give the output of following C code.\nint main(){\n printf(\"%d\", 15<2);\n printf(\"%d\", 15&&2);\n printf(\"%d\", 7%10);\n return 0;\n}"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2b",
+                "question": "Demonstrate the use of bitwise operators with an example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2c",
+                "question": "Explain C tokens in detail."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q2c OR",
+                "question": "Briefly explain different storage classes used in C with appropriate example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3a",
+                "question": "Demonstrate the use of ternary operator with an example."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2a",
+                "question": "Explain the basic structure of a C program with an example."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2b",
+                "question": "Evaluate given C programming Expressions :\n1. Ans = 10 + 4 * 3 / 2;\n2. Ans = while(1);\n3. Ans = 3 * 2 > 3 + 1;\n4. Ans = (2 + 4) > 3 && 2 < 4;"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3b",
+                "question": "What is type conversion? Explain two types of conversion with examples."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1c",
+                "question": "Explain different type of operators used in c language with their precedence and associativity."
+            }
+        ]
+    },
+    "1": {
+        "unit_name": "Introduction to Programming",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q1c",
+                "question": "Answer the following questions\n1. Define Algorithm.\n2. What do you mean by recursion?\n3. What do you mean by program and program control?\n4. What is a pointer?\n5. What is the role of getc( ) and getw() file functions?\n6. Programming needs logic building. Justify\n7. Define Interpreter."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3c",
+                "question": "Design a flowchart for checking whether a given number is palindrome or not."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3c OR",
+                "question": "Draw block diagram of computer system and explain the functions of each component in detail."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1a",
+                "question": "Design block diagram of computer and explain functionalities of various components of computer."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q1b",
+                "question": "Write an algorithm to find maximum number for three given number."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1a",
+                "question": "Draw neat Block Diagram illustrating the Anatomy of a Computer System."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1b",
+                "question": "Illustrate an Algorithm to check whether the given year is leap year or not."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q1c",
+                "question": "Define Flow chart, List the rules for designing a Flow chart and Rephrase the merits and demerits of flow chart."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1a",
+                "question": "Write an algorithm to find factorial of given number by user input."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q1b",
+                "question": "Draw a flowchart to check whether the entered number is prime or not."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1a",
+                "question": "Define following terms:\n1) Application Software 2) System Software\n3) Algorithm 4) Flowchart."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q1b",
+                "question": "Draw the flow chart to find the largest of the given three numbers – A, B and C"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3a OR",
+                "question": "Write an algorithm for finding odd and even number from given two numbers."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1a",
+                "question": "List out and briefly explain basic building blocks of Computer system."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q1b",
+                "question": "Describe various symbols used for preparing flow chart."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1a",
+                "question": "Write an algorithm to check whether the entered number is Even or Odd."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1b",
+                "question": "Draw the flowchart to find the factorial of a number given by user."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q1c",
+                "question": "Briefly explain different components of Computer system."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1a",
+                "question": "What is Software? List various types of Software."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1b",
+                "question": "Define following terms:\n1. Compiler\n2. Runtime Error\n3. Dynamic Memory Allocation\n4. Recursion"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q1c",
+                "question": "Write an algorithm and draw the flowchart to calculate sum of digits of a given number N."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1a",
+                "question": "Write an algorithm to check whether the entered number is Even or Odd."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q1b",
+                "question": "Define following terms:\n1) Application Software 2) System Software\n3) Algorithm 4) Flowchart"
+            }
+        ]
+    },
+    "3": {
+        "unit_name": "Control Structures",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q2b",
+                "question": "Write a program to print Fibonacci series. e.g. 0, 1, 1, 2, 3, 5, 8, 13."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3b",
+                "question": "Discuss the need of break and continue statements with example."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q3b OR",
+                "question": "Write a program to print the triangle shown below.\n A\n A B\n A B C\n A B C D"
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4b",
+                "question": "Compare and contrast goto statement and switch statement with example."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4b OR",
+                "question": "Explain while loop and do-while loop with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2a",
+                "question": "Differentiate: Exit controlled Loop and Entry controlled Loop"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2b",
+                "question": "Explain:\na) switch-case statement\nb) continue statement"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3a",
+                "question": "Explain else… if ladder with an example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3b OR",
+                "question": "Explain the structure of for loop with proper example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4a",
+                "question": "Explain following terms:\na) break statement\nb) getch() function\nc) getchar() function"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4b",
+                "question": "Write a C program to print following patterns :\n*\n**\n***\n****"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4b OR",
+                "question": "Write a program to print following patterns :\n1\n22\n333\n4444"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5c",
+                "question": "Write a C program to check whether a number is prime or not."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5c OR",
+                "question": "Write a C program to check whether a three digits number is palindrome or not."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3a",
+                "question": "Contrast the Entry Control loop and Exit Control loop."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3b",
+                "question": "Construct a C program to find the largest number amongst three integers entered."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3c",
+                "question": "Construct a C program to check if entered integer is a prime number or note."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3b OR",
+                "question": "Explain nested if-else statement with suitable example."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q3c OR",
+                "question": "Construct a C program to print following pattern\n1\n2 3\n4 5 6\n7 8 9 10\n11 12 13 14 15….."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2b",
+                "question": "Differentiate between while and do..while loop."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2c",
+                "question": "Write a C program to print following pattern:\nFor e.g. input = 5\n1\n2 2\n3 3 3\n4 4 4 4\n5 5 5 5 5"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q2c OR",
+                "question": "Write a C program to print following pattern:\nFor e.g. input = 5\n*\n**\n***\n****\n*****"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3b",
+                "question": "Differentiate between break and continue."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3a OR",
+                "question": "Explain else…if ladder with example."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4c",
+                "question": "Write a C program to check weather given integer number is palindrome or not?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2a",
+                "question": "Discuss use of break and continue statement in C with example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2b",
+                "question": "Compare and contrast while and do while loop with example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2c",
+                "question": "Write a C program to print following pattern.\n 1\n 2 2\n3 3 3"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q2c OR",
+                "question": "Write a C program to print following pattern.\n1\n2 3\n4 5 6"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3a",
+                "question": "Write a program to check whether entered character is vowel or not?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4b OR",
+                "question": "Explain nested if else ladder with suitable example."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2b",
+                "question": "Differentiate while and do..while loop."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2c",
+                "question": "Write a C program to check whether the entered character is alphabet, digit, space or any special character."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q2c OR",
+                "question": "Write a C program to print following pattern:\n1\n2 2\n3 3 3\n4 4 4 4"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3b",
+                "question": "Examine following code and give output of it.\nvoid main(){\n int a=0;\n while (a<10) {\n  a++;\n  if (a%3==1) {\n   continue;\n  }\n  printf (\" %d\", a);\n }}"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3c",
+                "question": "Write a C program to find factorial of a given number."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3b OR",
+                "question": "Examine following code and give output of it.\nvoid main(){\n int i=1;\n for (i=10; i>=1 ; --i) {\n  printf (\" %d\", i);\n  i--;\n }\n}"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3c OR",
+                "question": "Write a C program to make sum of digits of a given number. (if input is 145, output should be 10)"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4b OR",
+                "question": "Explain switch statement with an example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3b",
+                "question": "Give the output of following C codes.\n1. int main(){\n int i=10;\n while(i<10){\n  printf(\"%d\", i);\n  i++;\n }\n return 0;\n }\n2. int main(){\n int i=10;\n do{\n  printf(\"%d\", i);\n  i++;\n }while(i<10);\n return 0;\n }"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3c",
+                "question": "Write a C program to print following pattern using loop.\n5\n4 4\n3 3 3\n2 2 2 2\n1 1 1 1 1"
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3a OR",
+                "question": "Differentiate between break and continue."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3b OR",
+                "question": "Demonstrate the use of forward jump and backward jump with an example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q3c OR",
+                "question": "Explain else if ladder with an example."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2c",
+                "question": "Write a C program to print the following pattern as output:\nA\nB C\nD E F\nG H I J"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q2c OR",
+                "question": "Write a C program that takes three coefficients (a, b and c) of a quadratic equation ; (a.x2 + b.x + c) as input and compute all possible roots and print them with appropriate messages."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3a",
+                "question": "Differentiate while loop and do..while loop with example."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3c",
+                "question": "Write a C program which takes marks (between 0 to 100) of a student for N subjects. It should print grade of a student based on Percentage of Student's marks.\n\"A\" for >=85%,\n\"B\" between >=70% and <85%,\n\"C\" between >=50% and <70%,\n\"PASS\" between >=35% and <50%,\n\"FAIL\", if any one subject marks are <35."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2a",
+                "question": "Discuss the need of break and continue statements with example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2b",
+                "question": "Differentiate while and do..while loop"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2c",
+                "question": "Write a C program to check whether the entered character is alphabet, digit, space or any special character."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q2c OR",
+                "question": "Write a C program to print following pattern:\nInput : 4\nOutput:\n 1\n 2 2\n 3 3 3\n 4 4 4 4"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3a",
+                "question": "Explain switch statement with an example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3b",
+                "question": "Write a C program to find the largest number amongst three integers entered"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3c",
+                "question": "Write a C program to find factorial of a given number"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3a OR",
+                "question": "Explain nested if-else statement with suitable example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3c OR",
+                "question": "Write a C program to make sum of digits of a given number. (if input is 145, output should be 10)"
+            }
+        ]
+    },
+    "5": {
+        "unit_name": "Arrays and Strings",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q2c OR",
+                "question": "List out all various string functions and describe them with syntax and example."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4c OR",
+                "question": "Explain one dimensional array, two dimensional array and multi-dimensional array with their syntax and example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4c",
+                "question": "Write a C program to copy one string to other without using string handling function."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5a OR",
+                "question": "Explain following string handling functions: I. strcat() II. strcmp() III. strlen"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4a",
+                "question": "List the types of Array."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4b",
+                "question": "Summarize the methods for initialization of One-Dimensional array."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4c",
+                "question": "Construct a C program to multiply 3X3 matrix."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4b OR",
+                "question": "Summarize the method for Declaration, initialization and Printing on screen of a String."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3c",
+                "question": "Write a program to find out the maximum number from integer array of 5 elements."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4b",
+                "question": "Explain following string handling functions:\n1). strcat( )\n2). strlen ( )"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4c OR",
+                "question": "Write a C program to count total number of vowel in given string. ( for example input string =\"hello\" , output=2)"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3c OR",
+                "question": "Write a program to find out the largest of an array."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4b",
+                "question": "Explain following string manipulation function.\nstrcat( ), strcpy( ) , strcmp( ) and strlen( )"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4c",
+                "question": "Write a program in c for multiply two matrices A and B of dimensions pXq and qXr respectively and store the result in third matrix C."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4a OR",
+                "question": "Demonstrate declaration and initialization of two dimensional array with suitable example."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4c",
+                "question": "Write a C program to make sum of array elements."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4c OR",
+                "question": "Write a C program to sort an array in ascending order."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5c OR",
+                "question": "Explain any four string handling functions with an example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4c",
+                "question": "Write a C program to check whether two strings are same or not."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5c",
+                "question": "Write a C program to find maximum and minimum from an array of 10 elements."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5a OR",
+                "question": "Give the output of following C code.\nint main(){\n int arr[3][2]={1,2,3,4,5,6};\n printf(\"%d %d %d\", arr[0][1], arr[1][0], arr[2][1]);\n return 0;\n}"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4a",
+                "question": "What is string ? How to declare string in C?"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4b",
+                "question": "Explain significance of following string functions with example.\n1. strcat()\n2. strlen()\n3. strcpy()\n4. strcmp()"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4c",
+                "question": "Write a C program, that reads a statement from user and prints the frequency of each of the distinct character from a-z."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4c OR",
+                "question": "Write a C program which takes two NxN matrices and performs matrix multiplication."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4a",
+                "question": "List the types of Array"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4b",
+                "question": "Summarize the methods for initialization of One-Dimensional array."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4c",
+                "question": "Write a C program to sort an array in ascending order."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4a OR",
+                "question": "Demonstrate declaration and initialization of two dimensional array with suitable example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4c OR",
+                "question": "Write a program in c for multiply two matrices A and B of dimensions M x N and N x O respectively and store the result in third matrix C."
+            }
+        ]
+    },
+    "6": {
+        "unit_name": "Pointers",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q3a OR",
+                "question": "What is meant by array of pointers? Explain it with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5b OR",
+                "question": "What is Pointer in C and how it initializes? State its advantages."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5a",
+                "question": "Write True / False against following statements:\n1) Pointer is a variable which holds address of location where value of other variable is stored.\n2) Pointer holds the address in form of float or integer.\n3) The address of a variable can be stored in two or more pointers."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5a OR",
+                "question": "What are the arithmetic operators that are permitted on pointers?"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5a",
+                "question": "Demonstrate the use of void * with example"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5a OR",
+                "question": "Demonstrate the pointer arithmetic with example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5a OR",
+                "question": "What is pointer? Explain how pointers are declared and initialized."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4a OR",
+                "question": "Give the output of following C code.\nint main(){\n int val=20, *p;\n p = &val;\n printf(\"%d %d %d\", val, *p, sizeof(p));\n return 0;\n}"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5a",
+                "question": "What is a pointer? What are the advantages of using pointer?"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5c",
+                "question": "Write a C program to find the sum and mean of all elements in an array using pointer."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5b",
+                "question": "What is pointer? Explain how pointers are declared and initialized."
+            }
+        ]
+    },
+    "4": {
+        "unit_name": "Functions and Modular Programming",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q4c",
+                "question": "Write a recursive program to find factorial of a given number."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q4a OR",
+                "question": "Differentiate function and macro."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5a",
+                "question": "Differentiate call by value and call by reference."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2c",
+                "question": "Write a C program to find factorial of a number using recursion."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q2c OR",
+                "question": "Write a C program to generate first n number of Fibonacci series using recursion.( 0 1 1 2 3 5 8…)"
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3c",
+                "question": "Write a function in the C program to return 1 if number is prime otherwise return 0."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q3c OR",
+                "question": "What is function? Differentiate: Call by value and Call by reference."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4a OR",
+                "question": "List any three header file with its usage."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4a OR",
+                "question": "List the application of gets getchar and puts functions."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5b",
+                "question": "List the categories of User Defined Functions and Discuss any one of these."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5c",
+                "question": "Construct a C program which used a user define function that receives an integer and returns square and cube of it and prints in main function."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3b OR",
+                "question": "Explain getch(), putch(), gets(), puts()."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q3c OR",
+                "question": "What is function? Differentiate between call by value and call by reference with example."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3b",
+                "question": "Explain getch(), getchar(), gets(), puts()."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3c",
+                "question": "Develop a menu-based program to perform addition, multiplication, subtraction and division using user-defined function."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q3b OR",
+                "question": "Write a program to check whether entered number is prime or not with the help of user-defined function check-prime()."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5a",
+                "question": "What do you mean by recursive function? What care must be taken while writing a program with recursive function?"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5c",
+                "question": "Describe different categories of user-defined functions."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5c OR",
+                "question": "Develope a program in C to check the entered number is prime or not by creating a user-defined function named check_prime()."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4a",
+                "question": "Difference between call by value and call by reference."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4b",
+                "question": "Explain the concept of recursion with an example."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q4a OR",
+                "question": "Briefly explain storage class auto and extern."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5c",
+                "question": "Describe categories of User defined function."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4a",
+                "question": "Give the significance of puts(), getchar(), getch()."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4b",
+                "question": "Differentiate between call by value and call by reference."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4b OR",
+                "question": "Demonstrate the use of recursion with an example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q4c OR",
+                "question": "Write a C program to find sum of digits for a given number using the concept of User Defined Function (UDF). (Hint: For number 3278, sum of digits is 3+2+7+8 = 20)"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3a OR",
+                "question": "What is function? How Call by value and Call by reference passes the argument in function."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3b OR",
+                "question": "What are the steps in writing a recursive function in a program?"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q3c OR",
+                "question": "Write a program in C to calculate the power of any number using recursion."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q4b OR",
+                "question": "Demonstrate the use of recursion with an example"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5a OR",
+                "question": "Differentiate call by value and call by reference."
+            }
+        ]
+    },
+    "7": {
+        "unit_name": "Structures and Unions",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q5b",
+                "question": "Explain structure within structure with example."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5a OR",
+                "question": "Define Union in 'C' with example."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q4c OR",
+                "question": "Define a structure type struct personal that would contain person name, date of joining and salary using this structure to read this information of 5 people and print the same on screen."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5b",
+                "question": "What is structure? How it is different from union? Explain nested structure with example."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q4c OR",
+                "question": "Define a Structures which contains details of a Cricketer:\n• Name of Player:\n• Team name:\n• Total run scored:\n• Batting average:"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4a",
+                "question": "Explain nested structure with example"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4a OR",
+                "question": "State the use of Union in 'C' with example"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4a",
+                "question": "What is structure? Explain with example how to declare a structure and how to initialize it."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q4c OR",
+                "question": "Write a program in c using structure to enter rollno, marks of the three subject for 3 student and find total obtained by each student"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5b",
+                "question": "Compare structure and union."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5a",
+                "question": "Differentiate between structure and union."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4a OR",
+                "question": "Compare Array, Structure and Union."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q4b OR",
+                "question": "Define Union. Describe how to declare, initialize and access members of Union with a programming example."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5b OR",
+                "question": "Discuss Nested structure with example."
+            }
+        ]
+    },
+    "8": {
+        "unit_name": "File Handling",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q5c",
+                "question": "Explain error handling in file system with example."
+            },
+            {
+                "year": "S2022",
+                "question_no": "Q5c OR",
+                "question": "Explain the following File Handling functions: 1. fseek( ) 2. ftell( ) 3. fread( ) 4. fwrite( ) 5. fscanf( ) 6. fprintf( ) 7. rewind( )"
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5c OR",
+                "question": "List and discuss file handling functions used in C."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5b",
+                "question": "Demonstrate the use of fopen( ) and fprintf( ) function of file handling"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5c",
+                "question": "Write a c program to count total number of characters, words and line for any text file using file handling function"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5b OR",
+                "question": "show the use of fclose( ) and fscanf( ) function of file handling"
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q5c OR",
+                "question": "Write a c program to copy content of one text file to another text file"
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5b",
+                "question": "Explain fopen() and its mode with example."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5a",
+                "question": "Give the significance of getc(), getw(), fscanf()."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5b OR",
+                "question": "Write a C program to copy content of one file to other with the help of file handling functions."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5b",
+                "question": "Briefly explain any two file handling functions with an example."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5c OR",
+                "question": "Write a C program to copy one file to other."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5a OR",
+                "question": "What is File Pointer? What is significance of File Pointer?"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5b OR",
+                "question": "Explain signification of following functions in file operations.\n1. fseek()\n2. ftell()\n3. open()\n4. fread()"
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5c OR",
+                "question": "Write a C program to read ID and marks of n number of students from user and store them in a file."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5c",
+                "question": "Write a c program to copy content of one file into another file."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5c OR",
+                "question": "Write a c program to read a file and count total no of lines, total no. of words and total number of characters."
+            }
+        ]
+    },
+    "9": {
+        "unit_name": "Dynamic Memory Allocation",
+        "questions": [
+            {
+                "year": "S2022",
+                "question_no": "Q5b OR",
+                "question": "Define dynamic memory allocation. Explain malloc() and calloc()."
+            },
+            {
+                "year": "S2023",
+                "question_no": "Q5a",
+                "question": "What is dynamic memory allocation? Show the use of malloc() and calloc() function with their syntax."
+            },
+            {
+                "year": "S2024",
+                "question_no": "Q5b OR",
+                "question": "Show the use of Malloc, Calloc, Free and Realloc in context of Dynamic memory allocation."
+            },
+            {
+                "year": "S2025",
+                "question_no": "Q4b OR",
+                "question": "Briefly explain memory management functions."
+            },
+            {
+                "year": "W2021",
+                "question_no": "Q5b OR",
+                "question": "Compare malloc() and calloc() functions for dynamic memory allocation."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q5a OR",
+                "question": "List down and briefly explain methods for dynamic memory allocation."
+            },
+            {
+                "year": "W2023",
+                "question_no": "Q5b OR",
+                "question": "Briefly explain memory management functions."
+            },
+            {
+                "year": "W2024",
+                "question_no": "Q5b",
+                "question": "Explain need of Dynamic Memory allocation. Compare malloc(), calloc() and realloc() functions."
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q5a",
+                "question": "Define dynamic memory allocation. Explain malloc() and calloc() with example."
+            }
+        ]
+    },
+    "10": {
+        "unit_name": "Debugging and Testing",
+        "questions": [
+            {
+                "year": "S2024",
+                "question_no": "Q3a OR",
+                "question": "Debug the following codes and show the output for this:\nFor ( i=0 ; i<=50 ; i++ );\n{\n printf( \"\\n %d\" , i )\n}\n*consider header files and declaration of variable is done."
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3a",
+                "question": "Find out error(s), if any in the following code and correct it:\nint main() {\n if(10%2==0){\n  break;\n }\n}"
+            },
+            {
+                "year": "W2022",
+                "question_no": "Q3a OR",
+                "question": "Find out error(s), if any in the following code and correct it:\nint main() {\n printf(\"%f %d\", 7.0%5.0, 5 || -2);\n}"
+            },
+            {
+                "year": "W2025",
+                "question_no": "Q3b OR",
+                "question": "Find out error(s), if any in the following code and correct it:\nint main()\n{ if(25%2==0)\n{ break; }\n}"
+            }
+        ]
+    }
+}

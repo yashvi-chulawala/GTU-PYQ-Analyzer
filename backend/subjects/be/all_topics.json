@@ -1,0 +1,2742 @@
+[
+  {
+    "question_no": "Q1a",
+    "question": "What is a diode? Write its types and applications.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "PN Junction Diode",
+    "topics": [
+      "PN Junction Diode",
+      "Diode Specifications"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain the diode V-I characteristics of ideal and practical PN junction semiconductor diode.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Diode Characteristics and Parameters",
+    "topics": [
+      "Diode Characteristics and Parameters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Enumerate the different types of clipping circuits with their different names and input-output waveforms.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Series and Shunt Clipping Circuits",
+    "topics": [
+      "Series and Shunt Clipping Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Why are junction transistors called bipolar devices?",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "The metal lead of the p-side of a p-n diode is soldered to the metal lead of the p-side of another p-n junction diode. Will the structure form an n-p-n transistor? If not, why?",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Sketch the circuit of the common collector mode of BJT and its output characteristics. Derive the expression for the collector current and gain.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Draw the fixed-biased circuit by considering an n-p-n transistor in the CE mode. Derive the expressions for stability factors. What are the functions of the coupling capacitors?",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Comparison of Basic Bias Circuits",
+    "topics": [
+      "Comparison of Basic Bias Circuits",
+      "Base Bias"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Write a short note on the optocoupler device?",
+    "year": "S2022",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Special Purpose Diodes",
+    "topics": [
+      "Special Purpose Diodes"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain the sixteen segment display and its applications with the necessary circuit diagram.",
+    "year": "S2022",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Seven Segment Display",
+    "topics": [
+      "Seven Segment Display"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Draw the approximate hybrid model for any transistor configuration at low frequencies. Show that only hie and hoe are essential in the model. Is the approximation justified?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "Transistor Models and Parameters",
+    "topics": [
+      "Transistor Models and Parameters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain the varactor diode.",
+    "year": "S2022",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Varactor Diode",
+    "topics": [
+      "Varactor Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain the construction of the solar cell with its operational principle.",
+    "year": "S2022",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Solar Cell",
+    "topics": [
+      "Solar Cell"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "What is self-bias? Draw the circuit showing self-bias of an n-p-n transistor in the CE mode. Explain physically how the self-bias improves stability.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Base Bias",
+    "topics": [
+      "Base Bias"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is MOSFET device? Draw its construction diagram.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "MOSFETs",
+    "topics": [
+      "MOSFETs"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Write short notes on the following: (i) Advantages of JFET (ii) Difference between MOSFET and JFET",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "MOSFETs",
+    "topics": [
+      "MOSFETs",
+      "Junction Field Effect Transistors"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Compare the different characteristics of the following semiconductor devices: bipolar junction transistor, field-effect transistor.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "How will you determine the drain characteristics of JFET? What do they indicate?",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors",
+      "JFET Characteristics"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain the common drain configuration for a JFET.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain the JFET parameters and establish the relationship between them.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is the thermal runaway in transistors, and how can it be avoided?",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Bias Circuit Design",
+    "topics": [
+      "Bias Circuit Design"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What is an Early effect, and how can it account for the CB input characteristics?",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Voltages and Currents",
+    "topics": [
+      "BJT Voltages and Currents"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "What do you mean by the logic gate and its types? Explain the universal logic gates.",
+    "year": "S2022",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What is the ac load line in the transistor? Write its significance.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "AC Load Lines",
+    "topics": [
+      "AC Load Lines"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "The value of alpha increases with the increasing reverse-bias voltage of the collector junction. Why?",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Voltages and Currents",
+    "topics": [
+      "BJT Voltages and Currents"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain the logic families and their types. Describe the characteristics of the same.",
+    "year": "S2022",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain zener diode as a Voltage regulator.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Zener Diode Voltage Regulators",
+    "topics": [
+      "Zener Diode Voltage Regulators"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Compare Half wave rectifier and Full wave bridge rectifier for following parameters. (i) Average DC Voltage (ii) Ripple Factor (iii) PIV (iv) Rectifier Efficiency",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Half-wave and Full-wave Rectifiers",
+    "topics": [
+      "Half-wave and Full-wave Rectifiers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Illustrate the need of clipper circuit and explain Positive clipper and negative clipper with necessary diagram and waveforms.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Series and Shunt Clipping Circuits",
+    "topics": [
+      "Series and Shunt Clipping Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Describe the need of biasing the transistor.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Bias Circuit Design",
+    "topics": [
+      "Bias Circuit Design"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Draw the symbol of NPN & PNP transistor, write its different operating regions and also explain why it is called as “Bipolar Transistor”.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Discuss Common Collector(CC) configuration of transistor and explain its input and output characteristics.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "CC Characteristics",
+    "topics": [
+      "CC Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Discuss Common Base(CB) configuration of transistor and explain its input and output characteristics.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "CB Characteristics",
+    "topics": [
+      "CB Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Derive the relation between current gain α and β",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Voltages and Currents",
+    "topics": [
+      "BJT Voltages and Currents"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Describe the factors affecting the Stability of Q point.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Comparison of Basic Bias Circuits",
+    "topics": [
+      "Comparison of Basic Bias Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain the construction, working principle and application of phototransistor.",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Photo Diode",
+    "topics": [
+      "Photo Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Discuss about leakage current in transistor.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Voltages and Currents",
+    "topics": [
+      "BJT Voltages and Currents"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Write a short note on Thermal runaway.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Bias Circuit Design",
+    "topics": [
+      "Bias Circuit Design"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Describe the construction, the symbol, V-I characteristics and application of Tunnel diode.",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Tunnel Diode",
+    "topics": [
+      "Tunnel Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Discuss about transconductance curve of JFET.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors",
+      "JFET Characteristics",
+      "JFET Data Sheets and Parameters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain transistor as a switch.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Switching",
+    "topics": [
+      "BJT Switching"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain in detail different models used for AC analysis of BJT circuits.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write applications of JFET.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain the working of Emitter follower.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "CC Circuit Analysis",
+    "topics": [
+      "CC Circuit Analysis"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Draw h parameter equivalent model for CE amplifier and derive the equation for input impedance, output impedance, Voltage gain and current gain for CE amplifier.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "Transistor Models and Parameters",
+    "topics": [
+      "Transistor Models and Parameters",
+      "CE Circuit Analysis"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Draw symbol, truth table and Boolean equation for EX-OR and EX-NOR gate.",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Compare different logic families.",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain the construction and principle of operation of Enhancement type P-channel MOSFET.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "MOSFETs",
+    "topics": [
+      "MOSFETs"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Design AND, OR and NOT gate using NAND Gate.",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain Transistor Transistor Logic (TTL).",
+    "year": "S2023",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain the construction, working and drain characteristics of N-Channel JFET.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors",
+      "JFET Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain series positive clipper with diagram.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Series and Shunt Clipping Circuits",
+    "topics": [
+      "Series and Shunt Clipping Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Draw and explain V-I characteristic of P-N junction diode.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Diode Characteristics and Parameters",
+    "topics": [
+      "Diode Characteristics and Parameters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Draw and Explain bridge rectifier. Explain advantage and disadvantage of bridge rectifier over full wave rectifier.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Half-wave and Full-wave Rectifiers",
+    "topics": [
+      "Half-wave and Full-wave Rectifiers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Derive the relation between current gain α and β for CE configuration.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Voltages and Currents",
+    "topics": [
+      "BJT Voltages and Currents",
+      "CE Characteristics"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Draw the symbol of NPN & PNP transistor. Also state the advantage of transistor.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Draw and explain input and output characteristic of transistor in CE configuration.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "CE Characteristics",
+    "topics": [
+      "CE Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Compare CE, CB, and CC configuration with respect to different transistor characteristics.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "CC Characteristics",
+    "topics": [
+      "CC Characteristics",
+      "CB Characteristics",
+      "CE Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain V-I characteristics of tunnel diode.",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Tunnel Diode",
+    "topics": [
+      "Tunnel Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain Schottky diode in details.",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Schottky Diode",
+    "topics": [
+      "Schottky Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Comparison between P-N junction Diode and Zener Diode.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Zener Diodes",
+    "topics": [
+      "Zener Diodes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Advantage, disadvantage and application of LED.",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "LED",
+    "topics": [
+      "LED"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Compare PIN diode and Photo Diode.",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "PIN Diode",
+    "topics": [
+      "PIN Diode",
+      "Photo Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "State the applications of Rectifier, and Comparison of Halfwave, Full-wave center-tap and Full-wave Bridge rectifier.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Half-wave and Full-wave Rectifiers",
+    "topics": [
+      "Half-wave and Full-wave Rectifiers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "List out the salient feature of emitter follower.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "CC Circuit Analysis",
+    "topics": [
+      "CC Circuit Analysis"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Classification of Logic families in details.",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain application of Transistor as a switch.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Switching",
+    "topics": [
+      "BJT Switching"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain Negative Clamping circuit with diagram.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Clamping Circuits",
+    "topics": [
+      "Clamping Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain why NAND and NOR gate are called universal gate.",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Discuss MOSFET in details.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "MOSFETs",
+    "topics": [
+      "MOSFETs"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Define the use of Coupling capacitor.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "Coupling and Bypass Capacitors",
+    "topics": [
+      "Coupling and Bypass Capacitors"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Give Comparison of BJT and FET.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Field Effect Transistors",
+    "topics": [
+      "Field Effect Transistors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Draw symbol and explain all logic gates in details.",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain the properties and application of common base amplifier.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "CB Circuit Analysis",
+    "topics": [
+      "CB Circuit Analysis"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "State advantage, disadvantage and application of FET.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Give comparison between different types of digital logic families.",
+    "year": "S2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families",
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Draw and explain constructional details and symbols for BJT.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Draw and explain the V/I characteristics of a practical diode.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Diode Characteristics and Parameters",
+    "topics": [
+      "Diode Characteristics and Parameters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Draw Common Base configuration and discuss its input and output characteristics with ICBO, ri, ro, and current gain α.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Voltages and Currents",
+    "topics": [
+      "BJT Voltages and Currents",
+      "CB Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Define: clipper, Clamper, PIV of a Diode.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Series and Shunt Clipping Circuits",
+    "topics": [
+      "Series and Shunt Clipping Circuits"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Compare different rectifier circuits.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Half-wave and Full-wave Rectifiers",
+    "topics": [
+      "Half-wave and Full-wave Rectifiers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Discuss diode approximations.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Diode Approximations",
+    "topics": [
+      "Diode Approximations"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain full wave center-tape rectifier in detail with waveforms and derivation of average output voltage.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Half-wave and Full-wave Rectifiers",
+    "topics": [
+      "Half-wave and Full-wave Rectifiers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Draw circuit diagram of positive clamper and explain the operation.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Clamping Circuits",
+    "topics": [
+      "Clamping Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Draw and explain circuit of AND gate using diodes.",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain thermal stability of BJT with stability factors S, S’, S’’.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Comparison of Basic Bias Circuits",
+    "topics": [
+      "Comparison of Basic Bias Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Draw Hybrid equivalent model of transistor for CB, CE, CC configurations.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "CC Characteristics",
+    "topics": [
+      "CC Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Describe LED with its applications.",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "LED",
+    "topics": [
+      "LED"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Discuss operation and applications of PIN Photo diode and Solar cell.",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "PIN Diode",
+    "topics": [
+      "PIN Diode",
+      "Photo Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "State the difference between Avalanche breakdown and Zener breakdown.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Zener Diodes",
+    "topics": [
+      "Zener Diodes"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Discuss seven segment display with its types.",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Seven Segment Display",
+    "topics": [
+      "Seven Segment Display"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain biased positive and negative clipper circuits in detail.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Series and Shunt Clipping Circuits",
+    "topics": [
+      "Series and Shunt Clipping Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "For a BJT, αdc is 0.98 and base current is 50 μA, then find βdc, IC & IE.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Compare CB, CE, CC configurations.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "CC Characteristics",
+    "topics": [
+      "CC Characteristics",
+      "CB Characteristics",
+      "CE Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Draw Emitter follower circuit and discuss its input and output characteristics.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "CC Circuit Analysis",
+    "topics": [
+      "CC Circuit Analysis"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Compare BJT & FET.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Field Effect Transistors",
+    "topics": [
+      "Field Effect Transistors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain OR gate using diodes.",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Describe MOSFET operation and draw the structures for DD-DMOSFET & E-MOSFET.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "MOSFETs",
+    "topics": [
+      "MOSFETs"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Discuss FET as an amplifier.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "FET Amplification and Switching",
+    "topics": [
+      "FET Amplification and Switching"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Compare different logic families.",
+    "year": "S2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain Drain characteristics and Transfer characteristics of JFET in detail with all related terms as Transconductance, drain resistance and amplification factor.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors",
+      "JFET Characteristics",
+      "JFET Data Sheets and Parameters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Describe the characteristics of Zener diode.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Zener Diodes",
+    "topics": [
+      "Zener Diodes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Differentiate Avalanche breakdown and Zener breakdown.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Zener Diodes",
+    "topics": [
+      "Zener Diodes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Describe forward and reverse bias operation of a P-N junction diode.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "PN Junction Diode",
+    "topics": [
+      "PN Junction Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain Voltage Doubler circuit.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "DC Voltage Multipliers",
+    "topics": [
+      "DC Voltage Multipliers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain zener diode as a Voltage regulator.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Zener Diode Voltage Regulators",
+    "topics": [
+      "Zener Diode Voltage Regulators"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Describe operation of full-wave rectifier with necessary figures.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Half-wave and Full-wave Rectifiers",
+    "topics": [
+      "Half-wave and Full-wave Rectifiers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "A transformer having a secondary voltage of 100 V(rms) is used in a full-wave bridge rectifier. The diode has a resistance of 10 Ω and the load resistance is 90 Ω. Calculate (i) Im, (ii) Idc, (iii) Idc through each diode, (iv) Pdc, (v) γ, (vi) % regulation, and (vii) PIV of each diode.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Half-wave and Full-wave Rectifiers",
+    "topics": [
+      "Half-wave and Full-wave Rectifiers"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Draw the symbol of NPN & PNP transistor, write its different operating regions and explain why it is called “Bipolar Transistor”.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Show application of transistor as a switch.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Switching",
+    "topics": [
+      "BJT Switching"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Describe CE configuration with input and output characteristics in detail.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "CE Characteristics",
+    "topics": [
+      "CE Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "For a bipolar junction transistor, αdc is 0.98 and base current is 50 μA, then find βdc, IC & IE.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What do you understand by transistor biasing and why it is required?",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Bias Circuit Design",
+    "topics": [
+      "Bias Circuit Design"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Describe the operation of voltage divider bias circuit using an NPN transistor and write its voltage and current equation.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Voltage-Divider Bias",
+    "topics": [
+      "Voltage-Divider Bias"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define saturation current, pinch-off voltage and transconductance in JFET.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors",
+      "JFET Data Sheets and Parameters"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Give the comparison of FET and BJT.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Field Effect Transistors",
+    "topics": [
+      "Field Effect Transistors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Describe operation of N-Channel JFET with drain characteristics and transfer characteristics.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors",
+      "JFET Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is Self Bias in JFET? Draw the circuit.",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "FET Biasing",
+    "primary_topic": "Self Bias",
+    "topics": [
+      "Self Bias"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Draw DC load line and indicate the Q-point for a given JFET circuit.",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "FET Biasing",
+    "primary_topic": "DC Load Line and Bias Point",
+    "topics": [
+      "DC Load Line and Bias Point"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Describe the construction and operation of Enhancement type N-channel MOSFET.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "MOSFETs",
+    "topics": [
+      "MOSFETs"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Describe RC filter with its limitations.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "RC and LC Power Supply Filters",
+    "topics": [
+      "RC and LC Power Supply Filters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Describe LED with its applications.",
+    "year": "S2026",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "LED",
+    "topics": [
+      "LED"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Discuss the construction and working of a solar cell. Highlight its applications.",
+    "year": "S2026",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Solar Cell",
+    "topics": [
+      "Solar Cell"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain the working of Emitter follower.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "CC Circuit Analysis",
+    "topics": [
+      "CC Circuit Analysis"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Give the differences between CB, CE, and CC configurations in BJTs.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "CC Characteristics",
+    "topics": [
+      "CC Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain the construction and applications of a varactor diode.",
+    "year": "S2026",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Varactor Diode",
+    "topics": [
+      "Varactor Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define between insulator, conductor and semiconductor.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "PN Junction Diode",
+    "topics": [
+      "PN Junction Diode"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What is Zener breakdown? What is avalanche breakdown? Compare both the type of breakdown.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Zener Diodes",
+    "topics": [
+      "Zener Diodes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain full wave bridge rectifier with neat diagram.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Half-wave and Full-wave Rectifiers",
+    "topics": [
+      "Half-wave and Full-wave Rectifiers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Design and explain basic NAND gate using DTL logic.",
+    "year": "W2022",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families",
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Discuss different types of diodes. Describe process of testing diode with multi meter.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Diode Testing",
+    "topics": [
+      "Diode Testing"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write a short note: V-I characteristic of P-N junction diode.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Diode Characteristics and Parameters",
+    "topics": [
+      "Diode Characteristics and Parameters"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Why biasing is important in transistor? Explain voltage divider bias with diagram.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Voltage-Divider Bias",
+    "topics": [
+      "Voltage-Divider Bias",
+      "Bias Circuit Design"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain about DC load line of transistor.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "DC Load Line and Bias Point",
+    "topics": [
+      "DC Load Line and Bias Point"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain PIN photo diode.",
+    "year": "W2022",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "PIN Diode",
+    "topics": [
+      "PIN Diode",
+      "Photo Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Draw and explain input and output characteristic of transistor in common emitter configuration.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "CE Characteristics",
+    "topics": [
+      "CE Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is varactor diode? How capacitance of a diode varies with reverse voltage?",
+    "year": "W2022",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Varactor Diode",
+    "topics": [
+      "Varactor Diode"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain the selection of a Q point for a transistor bias circuit and discuss the limitations on the output voltage swing.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "DC Load Line and Bias Point",
+    "topics": [
+      "DC Load Line and Bias Point"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Compare CB and CC configuration with respect to different transistor characteristics.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "CC Characteristics",
+    "topics": [
+      "CC Characteristics",
+      "CB Characteristics",
+      "CE Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Draw voltage multiplier circuit.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "DC Voltage Multipliers",
+    "topics": [
+      "DC Voltage Multipliers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain (i) Unipolar device (ii) Transconductance.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "JFET Data Sheets and Parameters",
+    "topics": [
+      "JFET Data Sheets and Parameters",
+      "Junction Field Effect Transistors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain application of transistor as a switch.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Switching",
+    "topics": [
+      "BJT Switching"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain FET as an Amplifier.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "FET Amplification and Switching",
+    "topics": [
+      "FET Amplification and Switching"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain why NAND and NOR gate are called universal gate?",
+    "year": "W2022",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain the Depletion region and drain characteristics of n channel JFET.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors",
+      "JFET Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Among TTL and CMOS digital logic family which one is better and why?",
+    "year": "W2022",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families",
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Draw and explain the self-bias circuit of FET.",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "FET Biasing",
+    "primary_topic": "Self Bias",
+    "topics": [
+      "Self Bias"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Write a short note: E-Type MOSFET.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "MOSFETs",
+    "topics": [
+      "MOSFETs"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Derive the relation between current gain α and β.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Voltages and Currents",
+    "topics": [
+      "BJT Voltages and Currents"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What are the advantages of N-Channel MOSFET over P-Channel MOSFET?",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "MOSFETs",
+    "topics": [
+      "MOSFETs",
+      "Junction Field Effect Transistors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Draw symbol and explain truth table of all basic logic gates.",
+    "year": "W2022",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Draw symbol and truth table for AND, NOR, EX-OR logic gates.",
+    "year": "W2023",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Discuss forward and reverse bias operation of a P-N junction diode with depletion region.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "PN Junction Diode",
+    "topics": [
+      "PN Junction Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Draw CB configuration and discuss its input and output characteristics with ICBO, ri, ro, and current gain α.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Voltages and Currents",
+    "topics": [
+      "BJT Voltages and Currents",
+      "CB Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Describe Negative clamper circuit with necessary waveforms.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Clamping Circuits",
+    "topics": [
+      "Clamping Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Describe RC filter with its limitations.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "RC and LC Power Supply Filters",
+    "topics": [
+      "RC and LC Power Supply Filters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Draw circuit diagram of Center-taped full wave rectifier and explain its operation with necessary waveforms and derivation of Vdc.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Half-wave and Full-wave Rectifiers",
+    "topics": [
+      "Half-wave and Full-wave Rectifiers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Describe diode approximations in detail.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Diode Approximations",
+    "topics": [
+      "Diode Approximations"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Draw circuit for Voltage doubler and explain its operation.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "DC Voltage Multipliers",
+    "topics": [
+      "DC Voltage Multipliers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Briefly explain the effect of coupling capacitor and bypass capacitor on small signal transistor amplifier.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "Coupling and Bypass Capacitors",
+    "topics": [
+      "Coupling and Bypass Capacitors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Draw circuit for Emitter feedback bias and explain in detail with its advantages and disadvantages.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Comparison of Basic Bias Circuits",
+    "topics": [
+      "Comparison of Basic Bias Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "State the difference between Avalanche breakdown and Zener breakdown.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Zener Diodes",
+    "topics": [
+      "Zener Diodes"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Discuss Zener diode as voltage regulator.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Zener Diode Voltage Regulators",
+    "topics": [
+      "Zener Diode Voltage Regulators"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Discuss load line, Q point, DC & AC load lines for BJT.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "DC Load Line and Bias Point",
+    "topics": [
+      "DC Load Line and Bias Point"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Derive relation between α & β for BJT.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Compare different BJT configurations.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Describe working principle and applications of PIN Photo diode and Solar cell.",
+    "year": "W2023",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "PIN Diode",
+    "topics": [
+      "PIN Diode",
+      "Photo Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Briefly explain regions of operation for BJT.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Discuss seven segment displays with its types.",
+    "year": "W2023",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Seven Segment Display",
+    "topics": [
+      "Seven Segment Display"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Draw CE configuration and discuss its input and output characteristics with ICEO, ri, ro, and current gain β.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Voltages and Currents",
+    "topics": [
+      "BJT Voltages and Currents",
+      "CE Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Compare FET with BJT.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Field Effect Transistors",
+    "topics": [
+      "Field Effect Transistors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain FET as a switch.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "FET Amplification and Switching",
+    "topics": [
+      "FET Amplification and Switching"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "State different logic families and compare them in terms of fan in, fan out, propagation delay, noise margin, power dissipation.",
+    "year": "W2023",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Construct AND & OR gates with diodes.",
+    "year": "W2023",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain FET as an amplifier.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "FET Amplification and Switching",
+    "topics": [
+      "FET Amplification and Switching"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain Drain characteristics and Transfer characteristics of JFET in detail with all related terms as Transconductance gm, drain resistance rd, and amplification factor μ.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors",
+      "JFET Characteristics",
+      "JFET Data Sheets and Parameters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Sketch the characteristics of ideal diode and approximate characteristics of practical diodes. Briefly explain it.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Diode Characteristics and Parameters",
+    "topics": [
+      "Diode Characteristics and Parameters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Draw two-diode full-wave rectifier circuit and explain its operation.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Half-wave and Full-wave Rectifiers",
+    "topics": [
+      "Half-wave and Full-wave Rectifiers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain positive and negative voltage clamper circuit with waveforms.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Clamping Circuits",
+    "topics": [
+      "Clamping Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "What are three modes of transistor operation, explain it.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What do you understand by transistor biasing and why it is required.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Bias Circuit Design",
+    "topics": [
+      "Bias Circuit Design"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Compare CB, CE and CC configuration.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "CC Characteristics",
+    "topics": [
+      "CC Characteristics",
+      "CB Characteristics",
+      "CE Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain the operation of voltage divider bias circuit using an npn transistor and write its voltage and current equation.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Voltage-Divider Bias",
+    "topics": [
+      "Voltage-Divider Bias"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What is photo-diode and how it works?",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Photo Diode",
+    "topics": [
+      "Photo Diode"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "What is varactor diode, and explain how it works?",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Varactor Diode",
+    "topics": [
+      "Varactor Diode"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "In CE amplifier has hie = 2.1 kΩ, hfe = 75 and hoe = 1 μS, voltage divider resistance R1 = 68 kΩ and R2 = 56 kΩ, RC = 3.9 kΩ, RE = 4.7 kΩ and RL = 82 kΩ. Calculate input impedance, output impedance and voltage gain.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "CE Circuit Analysis",
+    "topics": [
+      "CE Circuit Analysis"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is tunnel diode, and explain how it works?",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Tunnel Diode",
+    "topics": [
+      "Tunnel Diode"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain how Zener diode maintains constant voltage across load with circuit.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Zener Diode Voltage Regulators",
+    "topics": [
+      "Zener Diode Voltage Regulators"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Draw single stage CE amplifier and analyze and explain how it works.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "CE Circuit Analysis",
+    "topics": [
+      "CE Circuit Analysis"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define saturation current, pinch off voltage and transconductance in JFET.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors",
+      "JFET Data Sheets and Parameters"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Do comparison between BJT and FET and write it.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Field Effect Transistors",
+    "topics": [
+      "Field Effect Transistors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Analyze and explain CB amplifier and find its input impedance, output impedance and voltage gain.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "CB Circuit Analysis",
+    "topics": [
+      "CB Circuit Analysis"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Define performance parameter of JFET a.c. drain resistance, transconductance and amplification factor.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors",
+      "JFET Data Sheets and Parameters"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "In n-channel JFET with VGS(off) = -6 V and IDSS = 3 mA. Solve ID value for VGS = -1, -3, and -5 V.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Junction Field Effect Transistors",
+    "topics": [
+      "Junction Field Effect Transistors",
+      "JFET Data Sheets and Parameters"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Consider a CB amplifier utilizing a BJT biased at IC = 1 mA with RC = 5 kΩ, RL = 5 kΩ. Determine Rin, Avo, Av, and Ro.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "CB Circuit Analysis",
+    "topics": [
+      "CB Circuit Analysis"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is logic gates and state the rule used for OR and AND gate.",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Why NAND and NOR gates are called universal gate and draw truth table of NAND gate.",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Write and explain application of FET as amplifier and as a switch.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "FET Amplification and Switching",
+    "topics": [
+      "FET Amplification and Switching"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Draw the logic circuit for the Boolean expression Y = ABC + D.",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain Transistor Transistor Logic (TTL).",
+    "year": "W2024",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Using common source circuit have RG = 5.6 MΩ, RD = 1 MΩ, RD = RS = 2.7 kΩ, rd = 100 kΩ and gm = 3000 μS calculate input impedance, output impedance and voltage gain.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "Transistor Models and Parameters",
+    "topics": [
+      "Transistor Models and Parameters"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Draw the V-I characteristics for ideal diode and real diode.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Diode Characteristics and Parameters",
+    "topics": [
+      "Diode Characteristics and Parameters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain the forward and reverse bias of PN junction.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "PN Junction Diode",
+    "topics": [
+      "PN Junction Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Discuss the operation of full bridge rectifier circuits with voltage and current waveforms.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Half-wave and Full-wave Rectifiers",
+    "topics": [
+      "Half-wave and Full-wave Rectifiers"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Draw the circuits for clipping the voltage waveforms.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Diode Applications",
+    "primary_topic": "Series and Shunt Clipping Circuits",
+    "topics": [
+      "Series and Shunt Clipping Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain the characteristics of Zener diode.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Semiconductor Diodes",
+    "primary_topic": "Zener Diodes",
+    "topics": [
+      "Zener Diodes"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write short note on bipolar junction transistor (BJT).",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "BJT Operation",
+    "topics": [
+      "BJT Operation"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain the operation of transistor as amplifier in Common Emitter(CE) configuration.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Bipolar Junction Transistors",
+    "primary_topic": "CE Characteristics",
+    "topics": [
+      "CE Characteristics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Write key factors to achieve faithful amplifications.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "Transistor Models and Parameters",
+    "topics": [
+      "Transistor Models and Parameters"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Discuss the importance of operating points in transistor.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "DC Load Line and Bias Point",
+    "topics": [
+      "DC Load Line and Bias Point"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Discuss the load line analysis of transistor.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Bias Circuit Design",
+    "topics": [
+      "Bias Circuit Design"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is a stability factor?",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Comparison of Basic Bias Circuits",
+    "topics": [
+      "Comparison of Basic Bias Circuits"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain the voltage divider biasing.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "BJT Biasing",
+    "primary_topic": "Voltage-Divider Bias",
+    "topics": [
+      "Voltage-Divider Bias"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Discuss the construction and operation of Schottky diode.",
+    "year": "W2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Schottky Diode",
+    "topics": [
+      "Schottky Diode"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What are the roles of coupling capacitor and bypass capacitor in amplifier circuits?",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "Coupling and Bypass Capacitors",
+    "topics": [
+      "Coupling and Bypass Capacitors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Discuss the operation of common collector circuits analysis.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "CC Circuit Analysis",
+    "topics": [
+      "CC Circuit Analysis"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Show parametric comparisons between CE, CB and CC.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "AC Analysis of BJT Circuits",
+    "primary_topic": "Comparison of CE, CB and CC Circuits",
+    "topics": [
+      "Comparison of CE, CB and CC Circuits"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Draw the circuits of seven segment LED display.",
+    "year": "W2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Seven Segment Display",
+    "topics": [
+      "Seven Segment Display"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What are the differences between FET and BJT?",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Field Effect Transistors",
+    "topics": [
+      "Field Effect Transistors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Write short note on MOSFET.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "MOSFETs",
+    "topics": [
+      "MOSFETs"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Prepare the truth table for three basic logic gates.",
+    "year": "W2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain the working principle of a field effect transistor (FET).",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Field Effect Transistors",
+    "primary_topic": "Field Effect Transistors",
+    "topics": [
+      "Field Effect Transistors"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Discuss the resistor transistor logic (RTL) circuits for basic gates.",
+    "year": "W2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Logic Families",
+    "topics": [
+      "Logic Families"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Draw the circuit diagram of OR gate with diodes.",
+    "year": "W2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Show the implementation of OR gate logic with use of NAND gate.",
+    "year": "W2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Discuss the applications of EX-OR and EX-NOR gate with truth tables.",
+    "year": "W2025",
+    "unit_number": 8,
+    "unit_name": "Special Purpose Diodes",
+    "primary_topic": "Digital Logic Gates",
+    "topics": [
+      "Digital Logic Gates"
+    ],
+    "difficulty": "Medium"
+  }
+]

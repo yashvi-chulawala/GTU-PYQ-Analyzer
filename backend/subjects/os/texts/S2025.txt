@@ -1,0 +1,129 @@
+Enrolment No./Seat No
+
+Subject Code: 3140702
+
+GUJARAT TECHNOLOGICAL UNIVERSITY
+BE - SEMESTER-IV EXAMINATION — SUMMER 2025
+
+Subject Name: Operating System
+
+Time: 10:30 AM TO 01:00 PM
+
+Instructions:
+
+1.
+
+2.
+3.
+4.
+
+Q.1
+
+Q.2
+
+Q.3
+Q.3
+
+Q.4
+
+Q4
+
+Q.5
+
+Attempt all questions.
+
+Make suitable assumptions wherever necessary.
+
+Figures to the right indicate full marks.
+
+Simple and non-programmable scientific calculators are allowed.
+
+(a) Explain in brief Program, Process and Thread.
+
+(b) What is Process State? Explain different states of a process with various
+queues generated at each stage.
+
+(c) Give the functions of Operating System and Explain following OS in detail.
+1. Time Sharing 2. Real Time 3. Batch Operating System.
+
+(a) Define following with respect to CPU Scheduling Algorithms:
+1. Turnaround Time 2.Waiting Time 3. Throughput
+
+(b) Compare Round Robin, FCFS and Shortest Job First Algorithms for CPU
+Scheduling.
+
+(c) What is Semaphore? Give the implementation of Readers-Writers Problem
+using Semaphore.
+
+OR
+
+(c) What is Monitor? Give the implementation of Bounded Buffer Producer-
+
+Consumer Problem using Monitor.
+
+(a) What is Shell and Kernel in Unix?
+
+(b) List the necessary conditions that lead to deadlock.
+
+(c) Explain Banker’s Algorithm for Deadlock Avoidance with illustration..
+OR
+
+(a) Give the difference between Deadlock and Starvation.
+
+(b) What is Process Control Block (PCB)?Explain various entries in PCB.
+
+(c) Draw the block diagram for DMA. Write steps for DMA data transfer.
+
+(a) Explain Internal and External Fragmentation in Memory Management.
+
+(b) Explain the Linux/Unix Commands: cat, rmdir, sort, chmod.
+
+(©) Explain FIFO, LRU and Optimal Page Replacement Algorithms with
+example.
+
+OR
+
+(a) Write a shell script to find a factorial of given number n.
+
+(b) Compare Paging and Segmentation with reference to Memory
+Managament.
+
+(c) Explain various Disk Arm Scheduling Algorithms for Disk Space
+Management.
+
+(a) Explain difference between Security and Protection?
+(b) What are the Allocation Methods of a Disk Space?
+(c) Explain in Detail File and Directory Management of Unix/Linux Operating
+System in detail.
+OR
+(a) What is Access Control List?
+
+Date:08-05-
+
+2025
+
+Total Marks:70
+
+Marks
+
+03
+04
+
+07
+
+03
+
+04
+
+07
+
+07
+
+03
+(b) Explain the concept of virtual machines and pure virtualization.
+(c) What is RAID? Explain various levels of RAID and it importance.
+
+ACE Cf fff a ek ok a
+
+04
+07

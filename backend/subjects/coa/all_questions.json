@@ -1,0 +1,1247 @@
+[
+{
+"question_no": "Q1a",
+"question": "What is binary and decimal equivalent of F8 hexadecimal value?",
+"year": "S2022"
+},
+{
+"question_no": "Q1b",
+"question": "Write Steps for two n digit numbers subtraction in base r.",
+"year": "S2022"
+},
+{
+"question_no": "Q1c",
+"question": "List and explain Memory reference instructions in detail.",
+"year": "S2022"
+},
+{
+"question_no": "Q2a",
+"question": "What is arithmetic micro operation?",
+"year": "S2022"
+},
+{
+"question_no": "Q2b",
+"question": "What is RAM and ROM?",
+"year": "S2022"
+},
+{
+"question_no": "Q2c",
+"question": "Draw and explain working of 4 bit binary adder.",
+"year": "S2022"
+},
+{
+"question_no": "Q2c OR",
+"question": "State and Explain any seven logic micro operation.",
+"year": "S2022"
+},
+{
+"question_no": "Q3a",
+"question": "List out Register for basic computer.",
+"year": "S2022"
+},
+{
+"question_no": "Q3b",
+"question": "Explain register reference instruction format.",
+"year": "S2022"
+},
+{
+"question_no": "Q3c",
+"question": "Explain register transfer using block diagram and timing diagram.",
+"year": "S2022"
+},
+{
+"question_no": "Q3a OR",
+"question": "Draw and explain control unit diagram for basic computer.",
+"year": "S2022"
+},
+{
+"question_no": "Q3b OR",
+"question": "State various phases of instruction cycle.",
+"year": "S2022"
+},
+{
+"question_no": "Q3c OR",
+"question": "Explain any four input output reference instruction.",
+"year": "S2022"
+},
+{
+"question_no": "Q4a",
+"question": "Draw flowchart of first pass assembler.",
+"year": "S2022"
+},
+{
+"question_no": "Q4b",
+"question": "Write assembly language program to add two numbers.",
+"year": "S2022"
+},
+{
+"question_no": "Q4c",
+"question": "Write assembly language program to multiply two numbers.",
+"year": "S2022"
+},
+{
+"question_no": "Q4a OR",
+"question": "What is address sequencing?",
+"year": "S2022"
+},
+{
+"question_no": "Q4b OR",
+"question": "Write assembly language program to subtract one number from other number.",
+"year": "S2022"
+},
+{
+"question_no": "Q4c OR",
+"question": "Explain booth's multiplication algorithm with example.",
+"year": "S2022"
+},
+{
+"question_no": "Q5a",
+"question": "Explain register stack.",
+"year": "S2022"
+},
+{
+"question_no": "Q5b",
+"question": "What is difference between two address and three address instructions?",
+"year": "S2022"
+},
+{
+"question_no": "Q5c",
+"question": "Write a note on asynchronous data transfer.",
+"year": "S2022"
+},
+{
+"question_no": "Q5a OR",
+"question": "What is difference between direct and indirect addressing mode?",
+"year": "S2022"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain arithmetic pipeline.",
+"year": "S2022"
+},
+{
+"question_no": "Q5c OR",
+"question": "Write a short note on virtual memory.",
+"year": "S2022"
+},
+{
+"question_no": "Q1a",
+"question": "Write the name of basic computer registers with their functionalities.",
+"year": "S2023"
+},
+{
+"question_no": "Q1b",
+"question": "Discuss 4-bit binary adder with neat diagram.",
+"year": "S2023"
+},
+{
+"question_no": "Q1c",
+"question": "Enlist various kinds of addressing modes. Explain any five of same and support your answer by taking small example.",
+"year": "S2023"
+},
+{
+"question_no": "Q2a",
+"question": "Write sequence of microoperations to execute the following instructions: AND STA",
+"year": "S2023"
+},
+{
+"question_no": "Q2b",
+"question": "Write assembly language program to subtract two numbers.",
+"year": "S2023"
+},
+{
+"question_no": "Q2c",
+"question": "Write two address, one address and zero address instructions program for the following arithmetic expression: $X=(A+B)*(C-D/E)+F*G$",
+"year": "S2023"
+},
+{
+"question_no": "Q2c OR",
+"question": "Assume $A=+6$ and $B=+7$, apply Booth algorithm for multiplying A and B. Make necessary assumptions if required.",
+"year": "S2023"
+},
+{
+"question_no": "Q3a",
+"question": "Explain Flynn's classification for computers in brief.",
+"year": "S2023"
+},
+{
+"question_no": "Q3b",
+"question": "Draw the flowchart for first pass of assembler and explain the same in brief.",
+"year": "S2023"
+},
+{
+"question_no": "Q3c",
+"question": "Elaborate CPU-IOP communication.",
+"year": "S2023"
+},
+{
+"question_no": "Q3a OR",
+"question": "Explain pipeline conflicts in brief.",
+"year": "S2023"
+},
+{
+"question_no": "Q3b OR",
+"question": "Discuss three state bus buffers with neat diagram.",
+"year": "S2023"
+},
+{
+"question_no": "Q3c OR",
+"question": "Write a detailed note on associative memory.",
+"year": "S2023"
+},
+{
+"question_no": "Q4a",
+"question": "Explain DMA in brief.",
+"year": "S2023"
+},
+{
+"question_no": "Q4b",
+"question": "Write a note on SIMD array processor.",
+"year": "S2023"
+},
+{
+"question_no": "Q4c",
+"question": "A computer uses a memory unit with 256K words of 32 bits each. A binary instruction code is stored in one word of memory. The instruction has four parts: an indirect bit, an operation code, a register code part to specify one of 64 registers, and an address part. 1. How many bits are there in operation code, the register code part and the address part? 2. Draw the instruction word format and indicate the number of bits in each part. 3. How many bits are there in the data and address inputs of the memory?",
+"year": "S2023"
+},
+{
+"question_no": "Q4a OR",
+"question": "Write a brief note on memory hierarchy.",
+"year": "S2023"
+},
+{
+"question_no": "Q4b OR",
+"question": "In certain scientific computations it is necessary to perform the arithmetic operation $(A_{i}+B_{i})*(C_{i}+D_{i})$ with a stream of numbers. Specify pipeline configuration to carry out this task. List the contents of all registers in the pipeline for $i=1$ through 4.",
+"year": "S2023"
+},
+{
+"question_no": "Q4c OR",
+"question": "Discuss microprogrammed control organization with neat diagram.",
+"year": "S2023"
+},
+{
+"question_no": "Q5a",
+"question": "Perform A B (subtract) operation for the following numbers using signed magnitude number format. (Write necessary assumptions if required) $A=+11$ and $B=-6$",
+"year": "S2023"
+},
+{
+"question_no": "Q5b",
+"question": "Explain status bit conditions with neat diagram.",
+"year": "S2023"
+},
+{
+"question_no": "Q5c",
+"question": "Discuss cache coherence problem in detail.",
+"year": "S2023"
+},
+{
+"question_no": "Q5a OR",
+"question": "Write the difference(s) between arithmetic shift left and logical shift left instruction. Support your answer with proper illustration.",
+"year": "S2023"
+},
+{
+"question_no": "Q5b OR",
+"question": "State the differences between RISC and CISC.",
+"year": "S2023"
+},
+{
+"question_no": "Q5c OR",
+"question": "Explain any two types of mapping procedures when considering the organization of cache memory.",
+"year": "S2023"
+},
+{
+"question_no": "Q1a",
+"question": "Define RTL. Give an example of register transfer of data through accumulator.",
+"year": "S2024"
+},
+{
+"question_no": "Q1b",
+"question": "Explain instruction formats with its types.",
+"year": "S2024"
+},
+{
+"question_no": "Q1c",
+"question": "Explain Instruction cycle with flowchart.",
+"year": "S2024"
+},
+{
+"question_no": "Q2a",
+"question": "Differentiate MRI and non-MRI.",
+"year": "S2024"
+},
+{
+"question_no": "Q2b",
+"question": "Explain Memory reference instructions.",
+"year": "S2024"
+},
+{
+"question_no": "Q2c",
+"question": "Explain micro programmed control organization in detail.",
+"year": "S2024"
+},
+{
+"question_no": "Q2c OR",
+"question": "What is register stack? Explain push and pop micro-operations.",
+"year": "S2024"
+},
+{
+"question_no": "Q3a",
+"question": "Explain subroutine call and return with micro-operation.",
+"year": "S2024"
+},
+{
+"question_no": "Q3b",
+"question": "State the differences between register stack and memory stack.",
+"year": "S2024"
+},
+{
+"question_no": "Q3c",
+"question": "What is addressing modes? List and explain any five addressing modes by taking proper example(s).",
+"year": "S2024"
+},
+{
+"question_no": "Q3a OR",
+"question": "Write a short note on memory interleaving.",
+"year": "S2024"
+},
+{
+"question_no": "Q3b OR",
+"question": "Explain Flynn's classification of computer.",
+"year": "S2024"
+},
+{
+"question_no": "Q3c OR",
+"question": "Explain pipelining technique. Draw the general structure of four segment pipeline.",
+"year": "S2024"
+},
+{
+"question_no": "Q4a",
+"question": "Explain the role of associative memory.",
+"year": "S2024"
+},
+{
+"question_no": "Q4b",
+"question": "Explain in brief about Cache memory and Virtual memory.",
+"year": "S2024"
+},
+{
+"question_no": "Q4c",
+"question": "Discuss associative mapping and direct mapping in organization of cache memory.",
+"year": "S2024"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain Content Addressable Memory.",
+"year": "S2024"
+},
+{
+"question_no": "Q4b OR",
+"question": "Compare SRAM and DRAM.",
+"year": "S2024"
+},
+{
+"question_no": "Q4c OR",
+"question": "Explain paging and address translation with example.",
+"year": "S2024"
+},
+{
+"question_no": "Q5a",
+"question": "Compare tightly coupled and loosely coupled systems.",
+"year": "S2024"
+},
+{
+"question_no": "Q5b",
+"question": "Write a note on crossbar switch interconnection structure with block diagram",
+"year": "S2024"
+},
+{
+"question_no": "Q5c",
+"question": "Describe cache coherence problem and its solutions in detail.",
+"year": "S2024"
+},
+{
+"question_no": "Q5a OR",
+"question": "Explain CLA, ISZ and CMA instruction.",
+"year": "S2024"
+},
+{
+"question_no": "Q5b OR",
+"question": "Draw and explain in brief flowchart for interrupt cycle.",
+"year": "S2024"
+},
+{
+"question_no": "Q5c OR",
+"question": "Explain first pass of an assembler with flowchart.",
+"year": "S2024"
+},
+{
+"question_no": "Q1a",
+"question": "Explain the Register Transfer Language with block diagram.",
+"year": "S2025"
+},
+{
+"question_no": "Q1b",
+"question": "Explain three state bus buffer.",
+"year": "S2025"
+},
+{
+"question_no": "Q1c",
+"question": "Explain shift micro operations and draw 4-bit combinational circuit shifter.",
+"year": "S2025"
+},
+{
+"question_no": "Q2a",
+"question": "List and explain any three register reference instruction.",
+"year": "S2025"
+},
+{
+"question_no": "Q2b",
+"question": "Explain instruction format with its types.",
+"year": "S2025"
+},
+{
+"question_no": "Q2c",
+"question": "Draw and explain Common Bus System for basic computer register.",
+"year": "S2025"
+},
+{
+"question_no": "Q2c OR",
+"question": "Explain the basic working principle of the Control Unit with timing diagram.",
+"year": "S2025"
+},
+{
+"question_no": "Q3a",
+"question": "List out any three register of basic computer.",
+"year": "S2025"
+},
+{
+"question_no": "Q3b",
+"question": "State various phases of instruction cycle.",
+"year": "S2025"
+},
+{
+"question_no": "Q3c",
+"question": "Write an assembly level program to find average of 10 numbers stored at consecutive location in memory.",
+"year": "S2025"
+},
+{
+"question_no": "Q3a OR",
+"question": "Convert following hexadecimal number into decimal, octal and binary. 1) 4A",
+"year": "S2025"
+},
+{
+"question_no": "Q3b OR",
+"question": "Explain any 4 addressing modes with example.",
+"year": "S2025"
+},
+{
+"question_no": "Q3c OR",
+"question": "What is an Interrupt Cycle? Draw and explain flow chart of it.",
+"year": "S2025"
+},
+{
+"question_no": "Q4a",
+"question": "Explain register stack.",
+"year": "S2025"
+},
+{
+"question_no": "Q4b",
+"question": "Write an assembly language program to Add two double precision numbers.",
+"year": "S2025"
+},
+{
+"question_no": "Q4c",
+"question": "Explain the working of Second Pass Assembler with its flowchart.",
+"year": "S2025"
+},
+{
+"question_no": "Q4a OR",
+"question": "What is address sequencing?",
+"year": "S2025"
+},
+{
+"question_no": "Q4b OR",
+"question": "Write short note on subroutine.",
+"year": "S2025"
+},
+{
+"question_no": "Q4c OR",
+"question": "Draw and explain flow chart for multiplication program.",
+"year": "S2025"
+},
+{
+"question_no": "Q5a",
+"question": "Explain various types of interrupts.",
+"year": "S2025"
+},
+{
+"question_no": "Q5b",
+"question": "What are status register bits? Draw and explain the block diagram showing all status registers.",
+"year": "S2025"
+},
+{
+"question_no": "Q5c",
+"question": "Write a note on asynchronous data transfer.",
+"year": "S2025"
+},
+{
+"question_no": "Q5a OR",
+"question": "What is Memory Interleaving?",
+"year": "S2025"
+},
+{
+"question_no": "Q5b OR",
+"question": "Differentiate RISC and CISC.",
+"year": "S2025"
+},
+{
+"question_no": "Q5c OR",
+"question": "Explain Flynn's classification for computers.",
+"year": "S2025"
+},
+{
+"question_no": "Q1a",
+"question": "Explain the Von Neumann architecture with diagram.",
+"year": "S2026"
+},
+{
+"question_no": "Q1b",
+"question": "Define the limitations of fixed-point representation. Explain the alternative technique used to solve it with suitable example.",
+"year": "S2026"
+},
+{
+"question_no": "Q2a",
+"question": "Explain the following terms: Three-State Bus Buffers, memory reference instruction ISZ, register reference instruction SPA.",
+"year": "S2026"
+},
+{
+"question_no": "Q2b",
+"question": "Explain input-output instructions for basic computer.",
+"year": "S2026"
+},
+{
+"question_no": "Q2c",
+"question": "Draw and explain flowchart of interrupt cycle.",
+"year": "S2026"
+},
+{
+"question_no": "Q2c OR",
+"question": "Draw and explain hardwire control unit for basic computer.",
+"year": "S2026"
+},
+{
+"question_no": "Q3a",
+"question": "Write an assembly language program to perform a logical OR operation using basic computer instructions.",
+"year": "S2026"
+},
+{
+"question_no": "Q3b",
+"question": "Explain three address and zero address instruction format.",
+"year": "S2026"
+},
+{
+"question_no": "Q3c",
+"question": "Define the address symbol table. Explain the second pass of assembler with the help of a flowchart.",
+"year": "S2026"
+},
+{
+"question_no": "Q3a OR",
+"question": "Explain the following terms: MRI instruction table, non-MRI instruction table and Pseudo Instruction table.",
+"year": "S2026"
+},
+{
+"question_no": "Q3b OR",
+"question": "Explain register stack and memory stack organizations.",
+"year": "S2026"
+},
+{
+"question_no": "Q3c OR",
+"question": "Write an assembly language program to perform multiplication of two 8-bit unsigned positive numbers.",
+"year": "S2026"
+},
+{
+"question_no": "Q4a",
+"question": "Draw and explain microinstruction format for microprogrammed control organization.",
+"year": "S2026"
+},
+{
+"question_no": "Q4b",
+"question": "Explain 5-stage instruction pipeline with example.",
+"year": "S2026"
+},
+{
+"question_no": "Q4c",
+"question": "Write a brief note on microprogram sequencer with diagram.",
+"year": "S2026"
+},
+{
+"question_no": "Q4a OR",
+"question": "Describe the major hazards in pipelined execution.",
+"year": "S2026"
+},
+{
+"question_no": "Q4b OR",
+"question": "List out the Flynn's classification. Explain any one in detail.",
+"year": "S2026"
+},
+{
+"question_no": "Q4c OR",
+"question": "Write a brief note on overlapped register windows.",
+"year": "S2026"
+},
+{
+"question_no": "Q5a",
+"question": "Draw and explain the flowchart of CPU-IOP communication.",
+"year": "S2026"
+},
+{
+"question_no": "Q5b",
+"question": "Discuss various dynamic arbitration algorithms for interprocessor arbitration.",
+"year": "S2026"
+},
+{
+"question_no": "Q5c",
+"question": "Discuss cache coherence problem and its solutions.",
+"year": "S2026"
+},
+{
+"question_no": "Q5a OR",
+"question": "Differentiate between Isolated I/O vs Memory-mapped I/O.",
+"year": "S2026"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain the flowchart of Booth's multiplication algorithm of signed-2's complement numbers.",
+"year": "S2026"
+},
+{
+"question_no": "Q5c OR",
+"question": "Explain any two types of mapping procedures for cache memory organization.",
+"year": "S2026"
+},
+{
+"question_no": "Q1a",
+"question": "Explain three state buffers.",
+"year": "W2021"
+},
+{
+"question_no": "Q1b",
+"question": "Describe BUN and BSA memory reference instructions in detail.",
+"year": "W2021"
+},
+{
+"question_no": "Q1c",
+"question": "What is interrupt? Describe interrupt cycle with neat diagram.",
+"year": "W2021"
+},
+{
+"question_no": "Q2a",
+"question": "Differentiate assembly language and machine language.",
+"year": "W2021"
+},
+{
+"question_no": "Q2b",
+"question": "What is the need of common bus? Draw common bus cycle.",
+"year": "W2021"
+},
+{
+"question_no": "Q2c",
+"question": "Write an assembly language program to find whether the given number is prime or not.",
+"year": "W2021"
+},
+{
+"question_no": "Q2c OR",
+"question": "Write an assembly language program to find factorial of the given number.",
+"year": "W2021"
+},
+{
+"question_no": "Q3a",
+"question": "Define followings: 1. Control Memory 2. Control Word 3. Control Address Register",
+"year": "W2021"
+},
+{
+"question_no": "Q3b",
+"question": "Draw the flowchart of first pass of the assembler and explain working of the same.",
+"year": "W2021"
+},
+{
+"question_no": "Q3c",
+"question": "What is the significance of pipelining in computer architecture? Write a note on instruction pipeline.",
+"year": "W2021"
+},
+{
+"question_no": "Q3a OR",
+"question": "What is address sequencing? Explain.",
+"year": "W2021"
+},
+{
+"question_no": "Q3b OR",
+"question": "Construct a 4-bit adder-subtractor circuit.",
+"year": "W2021"
+},
+{
+"question_no": "Q3c OR",
+"question": "What addressing mode means? Explain any three addressing modes in detail with example.",
+"year": "W2021"
+},
+{
+"question_no": "Q4a",
+"question": "Enlist the characteristics of RISC.",
+"year": "W2021"
+},
+{
+"question_no": "Q4b",
+"question": "Write a program to evaluate $X=(a*b)/c+d$ in two address and three address instruction formats.",
+"year": "W2021"
+},
+{
+"question_no": "Q4c",
+"question": "Draw neat and clean flowchart for divide operation. Explain with example.",
+"year": "W2021"
+},
+{
+"question_no": "Q4a OR",
+"question": "Differentiate isolated I/O and memory mapped I/O.",
+"year": "W2021"
+},
+{
+"question_no": "Q4b OR",
+"question": "Describe pipeline conflicts.",
+"year": "W2021"
+},
+{
+"question_no": "Q4c OR",
+"question": "What is cache memory address mapping? Compare and contrast direct address mapping and set-associative address mapping.",
+"year": "W2021"
+},
+{
+"question_no": "Q5a",
+"question": "What is the importance of virtual memory?",
+"year": "W2021"
+},
+{
+"question_no": "Q5b",
+"question": "Explain multiport memory and crossbar switch with reference to interconnection structures in multiprocessors.",
+"year": "W2021"
+},
+{
+"question_no": "Q5c",
+"question": "Assume a computer system uses 5 bit (1 sign + 4 Magnitude) registers and 2's complement representation. Perform multiplication of number 10 with the smallest number in this system using booth algorithm. Show step-by-step multiplication process.",
+"year": "W2021"
+},
+{
+"question_no": "Q5a OR",
+"question": "What is cache coherence? Describe.",
+"year": "W2021"
+},
+{
+"question_no": "Q5b OR",
+"question": "A 4-way set-associative cache memory unit with a capacity of 16 KB is built using a block size of 8 words. The word length is 32 bits. The size of the physical address space is 4 GB. How many bits for the will be required for TAG field?",
+"year": "W2021"
+},
+{
+"question_no": "Q5c OR",
+"question": "Which are the different ways to transfer data to and from peripheral devices? Explain any one of them in detail.",
+"year": "W2021"
+},
+{
+"question_no": "Q1a",
+"question": "Draw the block diagram of 4-bit combinational circuit shifter.",
+"year": "W2022"
+},
+{
+"question_no": "Q1b",
+"question": "Construct diagram of common bus system of four 4-bits registers with diagram.",
+"year": "W2022"
+},
+{
+"question_no": "Q1c",
+"question": "What is the role of sequence counter(SC) in control unit? Interpret its concept with the help of its three inputs using diagram.",
+"year": "W2022"
+},
+{
+"question_no": "Q2a",
+"question": "List out names of eight main registers of basic computer with their symbolic name and purpose.",
+"year": "W2022"
+},
+{
+"question_no": "Q2b",
+"question": "Summarize following addressing modes with example. 1) Implied mode 2) Register mode",
+"year": "W2022"
+},
+{
+"question_no": "Q2c",
+"question": "Which are the different phases of Instruction Cycle? Describe Register transfer for fetch phase with its diagram.",
+"year": "W2022"
+},
+{
+"question_no": "Q2c OR",
+"question": "Define: microinstruction; Identify different types of 16 bits instruction formats for basic computer using figure.",
+"year": "W2022"
+},
+{
+"question_no": "Q3a",
+"question": "Use BSA and BUN instruction with example and diagram.",
+"year": "W2022"
+},
+{
+"question_no": "Q3b",
+"question": "Criticize Three-Address Instructions and Zero address instruction with common example.",
+"year": "W2022"
+},
+{
+"question_no": "Q3c",
+"question": "Describe how control unit determine instruction type after the decoding using flowchart for instruction cycle.",
+"year": "W2022"
+},
+{
+"question_no": "Q3a OR",
+"question": "Prepare flowchart of CPU-IOP communication.",
+"year": "W2022"
+},
+{
+"question_no": "Q3b OR",
+"question": "Differentiate RISC and CISC architecture.",
+"year": "W2022"
+},
+{
+"question_no": "Q3c OR",
+"question": "What is cache memory? Interpret direct addressing mapping with diagram.",
+"year": "W2022"
+},
+{
+"question_no": "Q4a",
+"question": "Draw and criticize memory hierarchy in a computer system.",
+"year": "W2022"
+},
+{
+"question_no": "Q4b",
+"question": "Write an Assembly level program for addition of 50 numbers.",
+"year": "W2022"
+},
+{
+"question_no": "Q4c",
+"question": "Draw the flowchart of first pass of the assembler and explain working of the same.",
+"year": "W2022"
+},
+{
+"question_no": "Q4a OR",
+"question": "Interpret the following instructions: INP, ISZ and LDA",
+"year": "W2022"
+},
+{
+"question_no": "Q4b OR",
+"question": "Write an Assembly level program to move one block of data to another location.",
+"year": "W2022"
+},
+{
+"question_no": "Q4c OR",
+"question": "List out modes of transfer. Formulate direct memory access technique in detail.",
+"year": "W2022"
+},
+{
+"question_no": "Q5a",
+"question": "Summarize major hazards in pipelined execution.",
+"year": "W2022"
+},
+{
+"question_no": "Q5b",
+"question": "What is a data dependency conflict in instruction pipeline? Recommend solutions for data dependency conflicts.",
+"year": "W2022"
+},
+{
+"question_no": "Q5c",
+"question": "Demonstrate four-segment instruction pipeline in detail",
+"year": "W2022"
+},
+{
+"question_no": "Q5a OR",
+"question": "Sketch Microinstruction code format. Quote BR and CD field in brief.",
+"year": "W2022"
+},
+{
+"question_no": "Q5b OR",
+"question": "Compare following terms: 1. Write through-cache and Write back cache. 2. Spatial locality and Temporal locality",
+"year": "W2022"
+},
+{
+"question_no": "Q5c OR",
+"question": "Elaborate flynn's classification scheme with proper diagram.",
+"year": "W2022"
+},
+{
+"question_no": "Q1a",
+"question": "Draw the block diagram of a hypothetical basic computer.",
+"year": "W2023"
+},
+{
+"question_no": "Q1b",
+"question": "Show different ways to represent fixed-point positive integers including zero.",
+"year": "W2023"
+},
+{
+"question_no": "Q1c",
+"question": "Explain using flowchart the working of Booth's multiplication algorithm of signed-2's complement numbers.",
+"year": "W2023"
+},
+{
+"question_no": "Q2a",
+"question": "Which address sequencing capabilities are required in a control memory?",
+"year": "W2023"
+},
+{
+"question_no": "Q2b",
+"question": "Explain any four Arithmetic operations carried out by ALU.",
+"year": "W2023"
+},
+{
+"question_no": "Q2c",
+"question": "Discuss various memory hierarchies.",
+"year": "W2023"
+},
+{
+"question_no": "Q2c OR",
+"question": "Explain the concept of Address Translation and working of the Translation Look-Aside Buffer.",
+"year": "W2023"
+},
+{
+"question_no": "Q3a",
+"question": "Discuss the importance of 'control word' in a processor.",
+"year": "W2023"
+},
+{
+"question_no": "Q3b",
+"question": "Justify the use of STA instruction in assembly program with an example.",
+"year": "W2023"
+},
+{
+"question_no": "Q3c",
+"question": "Apply J K flip-flops to design a 3-bit synchronous binary counter.",
+"year": "W2023"
+},
+{
+"question_no": "Q3a OR",
+"question": "Analyze the 20-bits microinstruction code format with 7 bit used for address.",
+"year": "W2023"
+},
+{
+"question_no": "Q3b OR",
+"question": "Apply BUN instruction in assembly program that needs to use a looped sub-routine to check a flag.",
+"year": "W2023"
+},
+{
+"question_no": "Q3c OR",
+"question": "Apply the combinational circuits to design a 4-bit adder/subtracter circuit which performs subtraction using 2's complement.",
+"year": "W2023"
+},
+{
+"question_no": "Q4a",
+"question": "Calculate and show the number of clock cycles required to execute BSA instruction.",
+"year": "W2023"
+},
+{
+"question_no": "Q4b",
+"question": "Write assembly program for the arithmetic shift-left operation on a number stored in register B. Stop the program in case of overflow.",
+"year": "W2023"
+},
+{
+"question_no": "Q4c",
+"question": "What is the fundamental difference between a subroutine call and an interrupt request? Analyze the possibility of common memory stack for both.",
+"year": "W2023"
+},
+{
+"question_no": "Q4a OR",
+"question": "Show the working of LDA instruction using RTL.",
+"year": "W2023"
+},
+{
+"question_no": "Q4b OR",
+"question": "Write a program in assembly language to multiply two numbers in registers B and C in case the processor has only ADD instruction.",
+"year": "W2023"
+},
+{
+"question_no": "Q4c OR",
+"question": "A subroutine return address can be stored in an index register instead of a stack. Analyze the advantages and disadvantages of both configurations.",
+"year": "W2023"
+},
+{
+"question_no": "Q5a",
+"question": "A RAM operates with 8-bit data bus, 2 chip select lines and 7-bit address lines. Calculate the number of such RAM chips required to have 512 bytes of main memory.",
+"year": "W2023"
+},
+{
+"question_no": "Q5b",
+"question": "An address space is specified by 24 bits and the corresponding memory space by 16 bits. How many words are there in the address space and in the memory space?",
+"year": "W2023"
+},
+{
+"question_no": "Q5c",
+"question": "Discuss various Dynamic Arbitration Algorithms for Interprocessor Arbitration.",
+"year": "W2023"
+},
+{
+"question_no": "Q5a OR",
+"question": "Calculate the size of a ROM chip which operates using 8-bit data bus, two chip select lines and 9-bit address bus.",
+"year": "W2023"
+},
+{
+"question_no": "Q5b OR",
+"question": "How many $128\times8$ RAM chips are needed to provide a memory capacity of 4096 bytes?",
+"year": "W2023"
+},
+{
+"question_no": "Q5c OR",
+"question": "Discuss in brief the interconnection structures of a multiprocessor system.",
+"year": "W2023"
+},
+{
+"question_no": "Q1a",
+"question": "Explain signed representation of integer in computer. Write (-12)10 in binary with 8 bits using following representations (i) Signed magnitude (ii) Signed 1's complement (iii) Signed 2's complement",
+"year": "W2024"
+},
+{
+"question_no": "Q1b",
+"question": "List all registers used in 'Basic Computer' including their symbolic name, size and functionality.",
+"year": "W2024"
+},
+{
+"question_no": "Q1c",
+"question": "Explain memory reference instructions of 'Basic Computer'.",
+"year": "W2024"
+},
+{
+"question_no": "Q2a",
+"question": "Draw block diagram for 4-bit adder - subtractor.",
+"year": "W2024"
+},
+{
+"question_no": "Q2b",
+"question": "Write an assembly language program to add 50 numbers using a loop.",
+"year": "W2024"
+},
+{
+"question_no": "Q2c",
+"question": "Explain register stack and memory stack organizations.",
+"year": "W2024"
+},
+{
+"question_no": "Q2c OR",
+"question": "Write three address and two address instructions program for the following arithmetic expression. Discuss advantages and limitations of both types of programs. $X=(A*B/C)+(D/E)$",
+"year": "W2024"
+},
+{
+"question_no": "Q3a",
+"question": "List and explain conflicts that occur in an instruction pipeline.",
+"year": "W2024"
+},
+{
+"question_no": "Q3b",
+"question": "Briefly explain address sequencing in microprogrammed control unit.",
+"year": "W2024"
+},
+{
+"question_no": "Q3c",
+"question": "Differentiate RISC and CISC.",
+"year": "W2024"
+},
+{
+"question_no": "Q3a OR",
+"question": "Write a short note on SIMD array processor.",
+"year": "W2024"
+},
+{
+"question_no": "Q3b OR",
+"question": "Explain Fetch subroutine of microprogrammed control.",
+"year": "W2024"
+},
+{
+"question_no": "Q3c OR",
+"question": "Explain addition and subtraction with signed magnitude data. Also list hardware required for the same.",
+"year": "W2024"
+},
+{
+"question_no": "Q4a",
+"question": "Explain any three addressing modes with suitable example.",
+"year": "W2024"
+},
+{
+"question_no": "Q4b",
+"question": "Differentiate isolated I/O and memory mapped I/O",
+"year": "W2024"
+},
+{
+"question_no": "Q4c",
+"question": "Explain associative, set-associative and direct mapping of cache memory.",
+"year": "W2024"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain functionality of flags used in 'Basic Computer'.",
+"year": "W2024"
+},
+{
+"question_no": "Q4b OR",
+"question": "What is handshaking? Explain source initiated data transfer using handshaking with neat diagram.",
+"year": "W2024"
+},
+{
+"question_no": "Q4c OR",
+"question": "Write a short note on virtual memory.",
+"year": "W2024"
+},
+{
+"question_no": "Q5a",
+"question": "Differentiate static RAM and Dynamic RAM.",
+"year": "W2024"
+},
+{
+"question_no": "Q5b",
+"question": "Write a short note on daisy chain priority interrupt.",
+"year": "W2024"
+},
+{
+"question_no": "Q5c",
+"question": "Explain any three multiprocessor interconnection structures.",
+"year": "W2024"
+},
+{
+"question_no": "Q5a OR",
+"question": "Differentiate tightly coupled and loosely coupled multiprocessor systems.",
+"year": "W2024"
+},
+{
+"question_no": "Q5b OR",
+"question": "Write a short note on content addressable memory.",
+"year": "W2024"
+},
+{
+"question_no": "Q5c OR",
+"question": "Discuss cache coherence problem and its solutions.",
+"year": "W2024"
+},
+{
+"question_no": "Q1a",
+"question": "Explain following terms in brief. 1. Effective address 2. BSA instruction 3. Micro-operation",
+"year": "W2025"
+},
+{
+"question_no": "Q1b",
+"question": "Explain any two shift micro-operations with examples.",
+"year": "W2025"
+},
+{
+"question_no": "Q1c",
+"question": "What is an assembler? Explain basic computer's assembler with flow charts.",
+"year": "W2025"
+},
+{
+"question_no": "Q2a",
+"question": "Differentiate RISC and CISC architecture.",
+"year": "W2025"
+},
+{
+"question_no": "Q2b",
+"question": "Explain 5-stage instruction pipeline with example.",
+"year": "W2025"
+},
+{
+"question_no": "Q2c",
+"question": "Describe the control unit of the basic computer with block diagram.",
+"year": "W2025"
+},
+{
+"question_no": "Q2c OR",
+"question": "What is an interrupt? Explain interrupt cycle with flowchart.",
+"year": "W2025"
+},
+{
+"question_no": "Q3a",
+"question": "Write the Flynn's classification of parallel processing and briefly explain any one class.",
+"year": "W2025"
+},
+{
+"question_no": "Q3b",
+"question": "Draw a 4-bit incrementer circuit using full adder.",
+"year": "W2025"
+},
+{
+"question_no": "Q3c",
+"question": "Explain any seven addressing modes with appropriate example.",
+"year": "W2025"
+},
+{
+"question_no": "Q3a OR",
+"question": "List all the major difficulties in pipeline and briefly explain any one",
+"year": "W2025"
+},
+{
+"question_no": "Q3b OR",
+"question": "Explain address sequencing in the micro programmed control unit",
+"year": "W2025"
+},
+{
+"question_no": "Q3c OR",
+"question": "Write the importance of the overlapped register window? Compute window size and total number of register for following window organization. Number of window $=4$, Global register $=5$, local register in each window= 5 and common register to two window $=3$.",
+"year": "W2025"
+},
+{
+"question_no": "Q4a",
+"question": "Briefly explain the Daisy-Chaining priority.",
+"year": "W2025"
+},
+{
+"question_no": "Q4b",
+"question": "Write short note on the DMA.",
+"year": "W2025"
+},
+{
+"question_no": "Q4c",
+"question": "Explain the booth's algorithm with an appropriate example.",
+"year": "W2025"
+},
+{
+"question_no": "Q4a OR",
+"question": "Explain source-initiated asynchronous data transfer using handshaking.",
+"year": "W2025"
+},
+{
+"question_no": "Q4b OR",
+"question": "Write short note on the input-output processor.",
+"year": "W2025"
+},
+{
+"question_no": "Q4c OR",
+"question": "Draw and explain flow chart for the floating point multiplication.",
+"year": "W2025"
+},
+{
+"question_no": "Q5a",
+"question": "What is the cache coherence? What is the solution to cache coherence problem?",
+"year": "W2025"
+},
+{
+"question_no": "Q5b",
+"question": "Compare tightly coupled and loosely coupled multiprocessors.",
+"year": "W2025"
+},
+{
+"question_no": "Q5c",
+"question": "List various cache mappings. Explain any one in detail.",
+"year": "W2025"
+},
+{
+"question_no": "Q5a OR",
+"question": "What are the characteristics of multiprocessors?",
+"year": "W2025"
+},
+{
+"question_no": "Q5b OR",
+"question": "Explain the 8 * 8 omega switching network with diagram.",
+"year": "W2025"
+},
+{
+"question_no": "Q5c OR",
+"question": "Why is the virtual memory? Explain the address mapping in detail.",
+"year": "W2025"
+}
+]

@@ -1,0 +1,138 @@
+Seat No.: Enrolment No.
+
+GUJARAT TECHNOLOGICAL UNIVERSITY
+BE - SEMESTER-IV (NEW) EXAMINATION — WINTER 2021
+
+Subject Code:3140702 Date:31/12/2021
+Subject Name:Operating System
+
+Time:10:30 AM TO 01:00 PM Total Marks: 70
+Instructions:
+
+1. Attempt all questions.
+
+2. Make suitable assumptions wherever necessary.
+
+3. Figures to the right indicate full marks.
+
+4. Simple and non-programmable scientific calculators are allowed.
+
+Q.1 (a) Define the followings:
+(1) System bus
+(2) Auxiliary memory
+(b) What do you mean by cache memory? Explain the cache read operation.
+
+(c) What is process? Explain the process creation and termination.
+
+Q.2 (a) _ Define the term critical section.
+
+(b) Difference between user level and kernel level thread.
+(c) Consider following processes with length of CPU burst time in milliseconds
+Process Burst time
+Pl 5
+P2 10
+P3 2
+P4 1
+
+All process arrived in order p1, p2, p3, p4 all time zero.
+(1) Draw gantt charts illustrating execution of these processes for SJF and round
+robin (quantum=1)
+(2) Calculate waiting time for each process for each scheduling algorithm
+(3) Calculate average waiting time for each scheduling algorithm
+OR
+(c) What are various criteria for a good process scheduling algorithm? Explain any
+two preemptive scheduling algorithms in brief.
+Q.3. (a) What is meant priority inversion?
+(b) What is the criterion used to select the time quantum in case of round-robin
+scheduling algorithm? Explain it with a suitable example.
+(c) What is Semaphore? Give the implementation of Bounded Buffer Producer
+Consumer Problem using Semaphore.
+OR
+Q.3 (a) What is Deadlock? List the conditions that lead to deadlock.
+(b) List criterions used to evaluate the performance of CPU scheduling algorithms.
+(c) What is advantage of using Monitor? Give the implementation of Bounded Buffer
+Producer Consumer Problem using Monitor.
+Q.4 (a) What is resource allocation graph?
+(b) Explain paging technique.
+(c) Explain the following allocation algorithms:
+
+03
+
+04
+07
+
+03
+04
+07
+
+07
+
+03
+04
+
+07
+
+03
+04
+07
+
+03
+04
+07
+Q4 (a)
+(b)
+
+Q5 (a)
+(b)
+
+(c)
+
+Q5 (a)
+(b)
+©)
+
+(1) First-fit
+
+(2) Best-fit
+
+(3) Worst-fit
+
+OR
+
+When is a system in a safe state?
+Explain segmentation.
+What is fragmentation? Explain the difference between internal and external
+fragmentation.
+Explain RAID. How it is helpful to increase CPU performance?
+Explain the following Linux commands:
+
+(1) mkdir
+
+(2) touch
+
+(3) cat
+
+(4) rm
+What do you mean by security? Discuss in brief access control list.
+
+OR
+
+Explain i/o buffering.
+What is virtualization? Explain the benefits of virtualization.
+Why is segmented paging important (as compared to a paging system)? What are
+the different pieces of the virtual address in a segmented paging?
+
+RRR KE
+
+03
+04
+07
+
+03
+04
+
+07
+
+03
+04
+07

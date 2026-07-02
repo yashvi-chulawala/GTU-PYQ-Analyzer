@@ -1,0 +1,133 @@
+Q1
+
+Q.2
+
+Q.3
+
+Q.3
+
+Q.4
+
+Q4
+
+Q.5
+
+Enrolment No./Seat No
+
+Subject Code:3140702
+
+GUJARAT TECHNOLOGICAL UNIVERSITY
+BE- SEMESTER-IV (NEW) EXAMINATION — WINTER 2024
+
+Subject Name: Operating System
+
+Time:02:30 PM TO 05:00 PM
+
+Instructions:
+
+(a)
+(b)
+(©)
+
+(a)
+(b)
+(©)
+
+(©)
+
+(a)
+(b)
+(©)
+
+(a)
+(b)
+(c)
+
+(a)
+(b)
+(©)
+
+(a)
+(b)
+
+(©)
+
+(a)
+(b)
+(©)
+
+1. Attempt all questions.
+
+2. Make suitable assumptions wherever necessary.
+
+3. Figures to the right indicate full marks.
+
+4. Simple and non-programmable scientific calculators are allowed.
+
+What is Operating System? Explain basic functions of OS.
+Explain Virtual Machine architecture of OS.
+Differentiate Multiprogramming, Multitasking, Multiprocessing OS.
+
+Explain Advantages of using threads in Process.
+
+Explain how System call is handled in OS with example.
+
+Differentiate process and thread. Explain process state diagram.
+OR
+
+Explain Peterson’s Solution to achieve mutual exclusion.
+
+Differentiate Pre-emptive and Non-Preemptive process scheduling.
+
+Explain the difference between internal and external fragmentation.
+
+What is semaphore? Solve the producer consumer problem with Semaphore.
+OR
+
+What is deadlock? List the conditions that lead to deadlock.
+
+Explain Monitor construct to achieve mutual exclusion.
+
+Solve the Dining philosopher problem with semaphore.
+
+Explain the difference between logical and physical addresses.
+What is TLB(Translation Lookaside Buffer), and what is use of it?
+Explain following process scheduling algorithms.
+i) First Come First Serve
+ii) Non-preemptive Shortest Job First
+iii) Shortest Remaining Time Next
+iv) Round Robin
+OR
+What is virtualization? Explain the benefits of virtualization.
+Define Virtual Memory. Explain the process of converting virtual addresses to
+physical addresses with a neat diagram.
+Consider a Swapping system in which memory consists of the following hole
+sizes(in MB) in memory order: 10, 4,20,18,7,9,12,15.
+Which hole is taken for successive segment request of 12 MB and 10 MB for
+First fit, Best fit, Worst fit and Next fit.
+
+What is Inode? Explain it’s usage.
+List Advantages of LINUX/UNIX operating system over Windows.
+Explain various Page Replacement Algorithms.
+
+Date:19-11-2024
+
+Total Marks:70
+
+03
+04
+
+07
+
+03
+
+07
+OR
+
+Q.5 (a) Explain I/O buffering in brief. 03
+(b) Explain Disk arm scheduling algorithms. 04
+(c) Explain the Banker’s algorithm for deadlock avoidance with an 07
+
+example.
+
+FEA GK
