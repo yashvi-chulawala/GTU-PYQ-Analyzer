@@ -1,0 +1,3030 @@
+[
+  {
+    "question_no": "Q1a",
+    "question": "What is Big data Analytics? List applications of it.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain 4 V's of Big data.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Big Data characteristics",
+    "topics": [
+      "Big Data characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "What is Hadoop? Briefly explain the core components of it.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Components of Hadoop",
+    "topics": [
+      "Components of Hadoop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "How is Big data and Hadoop related?",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Components of Hadoop",
+    "topics": [
+      "Components of Hadoop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "How HDFS is different from traditional NFS?",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Draw and Explain HDFS architecture. How can you restart NameNode and all the daemons in Hadoop?",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "What is MapReduce? Explain working of various phases of MapReduce with appropriate example and diagram.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "How Map Reduce Works",
+    "topics": [
+      "How Map Reduce Works"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What do you mean by job scheduling in Hadoop? List different schedulers in Hadoop.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Job Scheduling",
+    "topics": [
+      "Job Scheduling"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "What are WAL, MemStore, Hfile and Hlog in HBase?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain the architecture of HBase.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is Zookeeper?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Differentiate between HIVE and HBASE.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Hive services",
+    "topics": [
+      "Hive services"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "What is NoSQL database? List the differences between NoSQL and relational databases. Explain in brief various types of NoSQL databases in practice.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "What is NoSQL?",
+    "topics": [
+      "What is NoSQL?",
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is Pig?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Data processing operators in Pig",
+    "topics": [
+      "Data processing operators in Pig"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What are the features of MongoDB?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Applications on Big Data Using Pig and Hive",
+    "topics": [
+      "Applications on Big Data Using Pig and Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain the concept of regions in HBase and storing Big data with HBase.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "How MongoDB is better than SQL database?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Applications on Big Data Using Pig and Hive",
+    "topics": [
+      "Applications on Big Data Using Pig and Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain the Data Model of HBase.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain Pig data Model in detail and Discuss how it will help for effective data flow.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Data processing operators in Pig",
+    "topics": [
+      "Data processing operators in Pig"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Write a short note on Spark.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write difference between MongoDB and Hadoop.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Applications on Big Data Using Pig and Hive",
+    "topics": [
+      "Applications on Big Data Using Pig and Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain CRUD operations in MongoDB.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Applications on Big Data Using Pig and Hive",
+    "topics": [
+      "Applications on Big Data Using Pig and Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What are the features of MongoDB?",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Applications on Big Data Using Pig and Hive",
+    "topics": [
+      "Applications on Big Data Using Pig and Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain Replication and scaling feature of MongoDB.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Applications on Big Data Using Pig and Hive",
+    "topics": [
+      "Applications on Big Data Using Pig and Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What is RDD? State and Explain RDD operations.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Spark Basics",
+    "topics": [
+      "Spark Basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "List various application of big data.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain the difference between structure and unstructured data.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Define Big Data and also Explain Characteristicis of Big Data.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Big Data characteristics",
+    "topics": [
+      "Big Data characteristics",
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "List various configuration files used in Hadoop Installation. What is use of mapred.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Configuration",
+    "topics": [
+      "Hadoop Configuration"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain the difference between structure and unstructured data.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Discuss Big Data in Healthcare,Trasportation & Medicine.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Case Study of Big Data Solutions",
+    "topics": [
+      "Case Study of Big Data Solutions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Discuss Hadoop YARN in detail with failures in classic MapReduce.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Failures",
+    "topics": [
+      "Failures",
+      "How Map Reduce Works"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain advantages and disadvantages of big data analytics.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Discuss role of Data node and Name node in HDFS.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain working of Hive with proper steps and diagram.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Querying Data in Hive",
+    "topics": [
+      "Querying Data in Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Compare Raw oriented and Column Oriented database structures.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "NoSQL data architecture patterns",
+    "topics": [
+      "NoSQL data architecture patterns"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Differentiate: Apache pig Vs Map Reduce.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Applications on Big Data Using Pig and Hive",
+    "topics": [
+      "Applications on Big Data Using Pig and Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Define join and explain types of join.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Data processing operators in Pig",
+    "topics": [
+      "Data processing operators in Pig"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Difference between master-slave versus peer-to-peer distribution models.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Choosing distribution models",
+    "topics": [
+      "Choosing distribution models"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What is Stream Computing and Sampling Data in a Stream.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Stream Computing",
+    "topics": [
+      "Stream Computing",
+      "Sampling Data in a Stream"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "What is Apache Spark? What are the advantages of using Apache Spark over Hadoop? Explain in brief four major libraries of Apache Spark.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write a short note on Decaying Window",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Decaying Window",
+    "topics": [
+      "Decaying Window"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write a short note on RTAP.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Real time Analytics Platform (RTAP) applications",
+    "topics": [
+      "Real time Analytics Platform (RTAP) applications"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain the HiveQL-Select-Order By with suitable example.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "HiveQL",
+    "topics": [
+      "HiveQL"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Write application of writing Spark.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Writing Spark Applications",
+    "topics": [
+      "Writing Spark Applications"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write difference between MangoDB and Hadoop.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Define NoSQL and where is it used? (b) i) Document Oriented Database ii) Graph based Database.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "What is NoSQL?",
+    "topics": [
+      "What is NoSQL?",
+      "NoSQL data architecture patterns"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Describe data processing operators in Pig.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Data processing operators in Pig",
+    "topics": [
+      "Data processing operators in Pig"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write differences between NoSQL and SQL.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Using NoSQL to manage big data",
+    "topics": [
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What is Zookeeper? List the benefits of it.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Give difference between traditional data and big data.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Traditional vs. Big Data business approach",
+    "topics": [
+      "Traditional vs. Big Data business approach"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What is Big data Analytics? Explain any one case study of it.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Case Study of Big Data Solutions",
+    "topics": [
+      "Case Study of Big Data Solutions",
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain 4 V's of Big data.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Big Data characteristics",
+    "topics": [
+      "Big Data characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "List various configuration files used in Hadoop Installation",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Configuration",
+    "topics": [
+      "Hadoop Configuration"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "How HDFS is different from traditional NFS?",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "What is Hadoop? Briefly explain the core components of it.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Components of Hadoop",
+    "topics": [
+      "Components of Hadoop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "What is MapReduce? Explain working of various phases of MapReduce with appropriate example and diagram.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "How Map Reduce Works",
+    "topics": [
+      "How Map Reduce Works"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Discuss role of Data node and Name node in HDFS.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain features and advantages of NoSQL.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Using NoSQL to manage big data",
+    "topics": [
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "What is data stream mining? Explain stream data model and its architecture in detail.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Introduction to Streams Concepts",
+    "topics": [
+      "Introduction to Streams Concepts",
+      "Stream Data Model and Architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What do you mean by job scheduling in Hadoop? List different schedulers in Hadoop.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Job Scheduling",
+    "topics": [
+      "Job Scheduling"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What is NoSQL database? List the differences between NoSQL and relational databases.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "What is NoSQL?",
+    "topics": [
+      "What is NoSQL?",
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain Counting oneness in a Window and Decaying Window of mining data stream in detail.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Counting oneness in a Window",
+    "topics": [
+      "Counting oneness in a Window",
+      "Decaying Window"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Explain the Data Model of HBase.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "How HBase uses Zookeeper to Build Applications? Explain in detail.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain Pig data Model in detail and Discuss how it will help for effective data flow.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Data processing operators in Pig",
+    "topics": [
+      "Data processing operators in Pig"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain the HiveQL-Select-Order By with suitable example.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "HiveQL",
+    "topics": [
+      "HiveQL"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Compare Hive and Pig query language.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Hive services",
+    "topics": [
+      "Hive services"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain briefly on Hbase architecture with neat diagram.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Justify spark is faster than mapReduce.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Define various Actions in Spark.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Spark Basics",
+    "topics": [
+      "Spark Basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Generalize how is data analysis used in a) Stock market predictions. b) Weather forecasting predictions.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Stock Market Predictions",
+    "topics": [
+      "Stock Market Predictions",
+      "Real time Analytics Platform (RTAP) applications"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What are the components of spark? Also state the features of spark.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What does a Spark Engine do? What is GraphX?",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Spark Basics",
+    "topics": [
+      "Spark Basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What is RDD? State and Explain RDD operations.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Spark Basics",
+    "topics": [
+      "Spark Basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "What is Big Data? Explain the five V's of Big Data.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Big Data characteristics",
+    "topics": [
+      "Big Data characteristics",
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Discuss the key differences between structured, unstructured, and semi-structured data with examples.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Types of Big Data",
+    "topics": [
+      "Types of Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain Hadoop's architecture in detail with a diagram. How does the NameNode and DataNode work together in Hadoop?",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "What is a MapReduce function? Explain the purpose of the Map and Reduce phases.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "How Map Reduce Works",
+    "topics": [
+      "How Map Reduce Works"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Discuss the concept of Data Locality in Hadoop. Why is it significant?",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write a detailed note on HDFS (Hadoop Distributed File System) and explain its significance in Big Data processing.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Discuss how MapReduce handles failures during the execution of jobs.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Failures",
+    "topics": [
+      "Failures"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Define NoSQL databases and explain how they differ from relational databases.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "What is NoSQL?",
+    "topics": [
+      "What is NoSQL?",
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain the Document store model in NoSQL databases",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "NoSQL data architecture patterns",
+    "topics": [
+      "NoSQL data architecture patterns"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Compare and contrast different types of NoSQL databases: KeyValue, Document, Column-family, and Graph databases.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "NoSQL data architecture patterns",
+    "topics": [
+      "NoSQL data architecture patterns"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Describe how NoSQL databases handle scalability and high availability.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Using NoSQL to manage big data",
+    "topics": [
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What is Sharding in NoSQL databases? How does it help in handling Big Data?",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Using NoSQL to manage big data",
+    "topics": [
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Describe the architecture of MongoDB. Discuss its data model and how it handles queries and indexing.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Applications on Big Data Using Pig and Hive",
+    "topics": [
+      "Applications on Big Data Using Pig and Hive"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Explain the role of Apache Spark in Big Data Analytics. How is it different from Hadoop MapReduce?",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Discuss Spark's RDD (Resilient Distributed Dataset) and its features.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Spark Basics",
+    "topics": [
+      "Spark Basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Write and explain a simple Spark application for word count using PySpark",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Interactive Spark with PySpark",
+    "topics": [
+      "Interactive Spark with PySpark",
+      "Writing Spark Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is in-memory processing? Why is it beneficial in Big Data analytics?",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "In-Memory Computing with Spark",
+    "topics": [
+      "In-Memory Computing with Spark"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain Spark's transformation and action operations with examples.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Spark Basics",
+    "topics": [
+      "Spark Basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "How is Spark used to perform Machine Learning tasks? Discuss Spark MLlib with an example of a classification algorithm.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is Mahout? Explain its use in scalable machine learning with Big Data.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain the concept of data streaming. How does Spark Streaming process real-time data?",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Interactive Spark with PySpark",
+    "topics": [
+      "Interactive Spark with PySpark"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain how data mining techniques are applied in Big Data Analytics. Mention some of the challenges faced when mining large datasets.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Describe the use of Big Data in retail industries. How can companies benefit from Big Data Analytics in decision-making?",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Case Study of Big Data Solutions",
+    "topics": [
+      "Case Study of Big Data Solutions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What are the security challenges associated with Big Data?",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain data warehousing in the context of Big Data. How does Hive enable querying large datasets?",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Querying Data in Hive",
+    "topics": [
+      "Querying Data in Hive"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "What is Big data? Explain sources of big data.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Describe Traditional vs. Big Data business approach.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Traditional vs. Big Data business approach",
+    "topics": [
+      "Traditional vs. Big Data business approach"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Write a short note on Hadoop Architecture.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Components of Hadoop",
+    "topics": [
+      "Components of Hadoop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain basic Components of Analyzing the Data with Hadoop.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Analyzing the Data with Hadoop",
+    "topics": [
+      "Analyzing the Data with Hadoop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain 4 V's of Big data",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Big Data characteristics",
+    "topics": [
+      "Big Data characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write a short note on HDFS (Hadoop Distributed File System).",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Discuss Hadoop YARN in detail with failures in classic MapReduce.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Failures",
+    "topics": [
+      "Failures",
+      "How Map Reduce Works"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Give difference between master-slave model and peer-to-peer model.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Choosing distribution models",
+    "topics": [
+      "Choosing distribution models"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Elaborate Key-value stores, Graph stores, Column family stores & Document stores.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "NoSQL data architecture patterns",
+    "topics": [
+      "NoSQL data architecture patterns"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain the architecture of HBase",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is Zookeeper?",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Differentiate between HIVE and HBASE.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Hive services",
+    "topics": [
+      "Hive services"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Which Four ways that NoSQL systems handle big data problems.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Four ways that NoSQL systems handle big data problems",
+    "topics": [
+      "Four ways that NoSQL systems handle big data problems"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is Pig?",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Data processing operators in Pig",
+    "topics": [
+      "Data processing operators in Pig"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What is Stream Computing and Sampling Data in a Stream?",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Stream Computing",
+    "topics": [
+      "Stream Computing",
+      "Sampling Data in a Stream"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Discuss about How E-Commerce is Using Big Data to Improve Business in detail.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Case Study of Big Data Solutions",
+    "topics": [
+      "Case Study of Big Data Solutions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "How MongoDB is better than SQL database?",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Applications on Big Data Using Pig and Hive",
+    "topics": [
+      "Applications on Big Data Using Pig and Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write a short note on Decaying Window.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Decaying Window",
+    "topics": [
+      "Decaying Window"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain the HiveQL-Select-Order By with suitable example.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "HiveQL",
+    "topics": [
+      "HiveQL"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Write a short note on Spark.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain HIVE data types in brief.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "HiveQL",
+    "topics": [
+      "HiveQL"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain CRUD operations in MongoDB.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Applications on Big Data Using Pig and Hive",
+    "topics": [
+      "Applications on Big Data Using Pig and Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Describe data processing operators in Pig.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Data processing operators in Pig",
+    "topics": [
+      "Data processing operators in Pig"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain Replication and scaling feature of MongoDB.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Applications on Big Data Using Pig and Hive",
+    "topics": [
+      "Applications on Big Data Using Pig and Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain Spark Architecture.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain types of Big Data",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Types of Big Data",
+    "topics": [
+      "Types of Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Describe Traditional vs. Big Data business approach.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Traditional vs. Big Data business approach",
+    "topics": [
+      "Traditional vs. Big Data business approach"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "What is Big Data? Explain Challenges of Conventional System.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Challenges of Conventional System",
+    "topics": [
+      "Challenges of Conventional System",
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain basic Components of Analyzing the Data with Hadoop.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Analyzing the Data with Hadoop",
+    "topics": [
+      "Analyzing the Data with Hadoop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "What is Map Reduce and explain How Map Reduce Works?",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "How Map Reduce Works",
+    "topics": [
+      "How Map Reduce Works"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Brief Anatomy of a Map Reduce Job run and Failures.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Anatomy of a Map Reduce Job run",
+    "topics": [
+      "Anatomy of a Map Reduce Job run",
+      "Failures"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Describe Map Reduce Types and Formats.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Map Reduce Types and Formats",
+    "topics": [
+      "Map Reduce Types and Formats"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain NoSQL data architecture.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Elaborate Key-value stores, Graph stores, Column family stores & Document stores.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "NoSQL data architecture patterns",
+    "topics": [
+      "NoSQL data architecture patterns"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Describe analyzing big data with a shared-nothing architecture.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Analyzing big data with a shared-nothing architecture",
+    "topics": [
+      "Analyzing big data with a shared-nothing architecture"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Difference between master-slave versus peer-to-peer distribution models.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Choosing distribution models",
+    "topics": [
+      "Choosing distribution models"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What is a big data NoSQL? Explain in details.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Using NoSQL to manage big data",
+    "topics": [
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Which Four ways that NoSQL systems handle big data problems.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Four ways that NoSQL systems handle big data problems",
+    "topics": [
+      "Four ways that NoSQL systems handle big data problems"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is Stream Computing and Sampling Data in a Stream.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Stream Computing",
+    "topics": [
+      "Stream Computing",
+      "Sampling Data in a Stream"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Write the application of RTAP.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Real time Analytics Platform (RTAP) applications",
+    "topics": [
+      "Real time Analytics Platform (RTAP) applications"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain Stream Data Model and Architecture.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Stream Data Model and Architecture",
+    "topics": [
+      "Stream Data Model and Architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "How Graph Analytics used in Big Data.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Using Graph Analytics for Big Data",
+    "topics": [
+      "Using Graph Analytics for Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write a short note on Decaying Window.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Decaying Window",
+    "topics": [
+      "Decaying Window"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain with example: How to perform Real Time Sentiment Analysis of any product.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Real Time Sentiment Analysis",
+    "topics": [
+      "Real Time Sentiment Analysis"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is the use of Pig and Hive in Big Data?",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Applications on Big Data Using Pig and Hive",
+    "topics": [
+      "Applications on Big Data Using Pig and Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Describe data processing operators in Pig.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Data processing operators in Pig",
+    "topics": [
+      "Data processing operators in Pig"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Describe HBase and ZooKeeper in details.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain HIVE services.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Hive services",
+    "topics": [
+      "Hive services"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Write application of writing Spark.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Writing Spark Applications",
+    "topics": [
+      "Writing Spark Applications"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Describe any application that you know related to enhance particular business using big data and explain how it is important as a business prospective.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Case Study of Big Data Solutions",
+    "topics": [
+      "Case Study of Big Data Solutions"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "What is Big data? Explain sources of big data.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain types of Big data.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Types of Big Data",
+    "topics": [
+      "Types of Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Write a short note on Hadoop Architecture.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Components of Hadoop",
+    "topics": [
+      "Components of Hadoop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain usage of Map reduce.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "How Map Reduce Works",
+    "topics": [
+      "How Map Reduce Works"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain methods of Map reduce of Mapper class.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Map Reduce Features",
+    "topics": [
+      "Map Reduce Features"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write a short note on HDFS (Hadoop Distributed File System).",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Define Social networks and Social Network Mining.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Using Graph Analytics for Big Data",
+    "topics": [
+      "Using Graph Analytics for Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Give difference between SQL and NoSQL.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Using NoSQL to manage big data",
+    "topics": [
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain features and advantages of NoSQL.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Using NoSQL to manage big data",
+    "topics": [
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain different types of NoSQL.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "NoSQL data architecture patterns",
+    "topics": [
+      "NoSQL data architecture patterns"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Give difference between master-slave model and peer-to-peer model.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Choosing distribution models",
+    "topics": [
+      "Choosing distribution models"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Give difference between DBMS and DSMS (Data Science Management System).",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Stream Computing",
+    "topics": [
+      "Stream Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain filtering a stream in detail.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Filtering Streams",
+    "topics": [
+      "Filtering Streams"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is Stock Market Prediction?",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Stock Market Predictions",
+    "topics": [
+      "Stock Market Predictions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What is Hbase and Hive?",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Hive services",
+    "topics": [
+      "Hive services",
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Discuss about How E-Commerce is Using Big Data to Improve Business in detail.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Case Study of Big Data Solutions",
+    "topics": [
+      "Case Study of Big Data Solutions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain 5V's of Big Data.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Big Data characteristics",
+    "topics": [
+      "Big Data characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Give list of HBase Commands.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "What is a Zookeeper? What are the benefits of using a zookeeper?",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Why is big data analytics important?",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain HIVE data types in brief.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "HiveQL",
+    "topics": [
+      "HiveQL"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain modules of Hadoop.",
+    "year": "W2022",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Components of Hadoop",
+    "topics": [
+      "Components of Hadoop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain advantages of Big Data Processing.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain different challenges of Big Data.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain Spark Architecture.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain various challenges of conventional system.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Challenges of Conventional System",
+    "topics": [
+      "Challenges of Conventional System"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What is big data? Explain four V's of big data.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Big Data characteristics",
+    "topics": [
+      "Big Data characteristics",
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Discuss structured, unstructured and semi-structured big data types. Give proper examples.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Types of Big Data",
+    "topics": [
+      "Types of Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain name node, data node and secondary node.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain NoSQL business drivers.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "NoSQL business drivers",
+    "topics": [
+      "NoSQL business drivers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Write a short note on Hadoop ecosystem.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Components of Hadoop",
+    "topics": [
+      "Components of Hadoop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain working of following phases of Map Reduce with one common example. (i) Map Phase (ii) Combiner Phase (iii) Shuffle and Sort Phase (iv) Reducer Phase",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Shuffle and Sort",
+    "topics": [
+      "Shuffle and Sort"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain following commands of HDFS with syntax and at least one example of each. (i) copyFromLocal (ii) mv (iii) cat",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Java interfaces to HDFS Basics",
+    "topics": [
+      "Java interfaces to HDFS Basics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Write basic wordcount program using PySPARK.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Interactive Spark with PySpark",
+    "topics": [
+      "Interactive Spark with PySpark",
+      "Writing Spark Applications"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "What is transformation and actions in Apache Spark? Discuss various commands available for this activity in Apache Spark?",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Spark Basics",
+    "topics": [
+      "Spark Basics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Discuss various benefits of stream processing.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Stream Computing",
+    "topics": [
+      "Stream Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What is RDD? Explain role of RDD in Spark.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Spark Basics",
+    "topics": [
+      "Spark Basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Describe different types of NoSQL databases with the help of example.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "NoSQL data architecture patterns",
+    "topics": [
+      "NoSQL data architecture patterns"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Write differences between NoSQL and SQL.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Using NoSQL to manage big data",
+    "topics": [
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Define Hadoop. List and explain advantages of Hadoop.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Components of Hadoop",
+    "topics": [
+      "Components of Hadoop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain Bloom's Filter with the help of example.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Counting Distinct Elements in a Stream",
+    "topics": [
+      "Counting Distinct Elements in a Stream"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain NoSQL base property.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Using NoSQL to manage big data",
+    "topics": [
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Differentiate between Pig vs Hive.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Hive services",
+    "topics": [
+      "Hive services"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Discuss Flajolet-Martin Algorithm to count Distinct elements in a stream with proper example.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Counting Distinct Elements in a Stream",
+    "topics": [
+      "Counting Distinct Elements in a Stream"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Describe important features of Apache Spark.",
+    "year": "W2023",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write a short note: Stock Market Predictions",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Stock Market Predictions",
+    "topics": [
+      "Stock Market Predictions"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain working of Hive with proper steps and diagram.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Querying Data in Hive",
+    "topics": [
+      "Querying Data in Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain any three HiveQL DDL command with its syntax and example.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "HiveQL",
+    "topics": [
+      "HiveQL"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "How samples are collected from data stream?",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Sampling Data in a Stream",
+    "topics": [
+      "Sampling Data in a Stream"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Discuss four ways that NoSQL system handles big data problems.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Four ways that NoSQL systems handle big data problems",
+    "topics": [
+      "Four ways that NoSQL systems handle big data problems"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define Big Data. List out characteristics of Big Data.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Big Data characteristics",
+    "topics": [
+      "Big Data characteristics",
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Distinguish Traditional Vs Big data business approaches.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Traditional vs. Big Data business approach",
+    "topics": [
+      "Traditional vs. Big Data business approach"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Define HDFS. Explain HDFS Architecture with diagram.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain the historical development of Hadoop and its significance in the field of big data processing.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "History of Hadoop",
+    "topics": [
+      "History of Hadoop"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain following commands of HDFS with syntax and at least one example of each. (i) copyFromLocal (ii) mv (iii) cat",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Java interfaces to HDFS Basics",
+    "topics": [
+      "Java interfaces to HDFS Basics"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Discuss the key components of Hadoop Architecture.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Components of Hadoop",
+    "topics": [
+      "Components of Hadoop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Walk through the process of developing a MapReduce application and explain how MapReduce works in the context of data processing.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Developing a Map Reduce Application",
+    "topics": [
+      "Developing a Map Reduce Application",
+      "How Map Reduce Works"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Define NoSQL and explain its significance in modern database management systems.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "What is NoSQL?",
+    "topics": [
+      "What is NoSQL?"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Describe the key-value stores data architecture pattern in NoSQL databases and discuss its characteristics.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Big Data characteristics",
+    "topics": [
+      "Big Data characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain the significance of Spark in modern data analysis, emphasizing its in-memory computing capabilities and its role in enabling interactive data exploration and application development.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "In-Memory Computing with Spark",
+    "topics": [
+      "In-Memory Computing with Spark"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain features and advantages of NoSQL.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "Using NoSQL to manage big data",
+    "topics": [
+      "Using NoSQL to manage big data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain NoSQL data architecture patterns family document stores in detail.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "NoSQL data architecture patterns",
+    "topics": [
+      "NoSQL data architecture patterns"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Discuss the fundamental concepts of Spark, such as RDDs, transformations, and actions, and how they contribute to efficient data processing.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define the concept of data streams and discuss their significance in the context of big data analytics.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain the concept of graph analytics in the context of big data and discuss its applications and significance.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Using Graph Analytics for Big Data",
+    "topics": [
+      "Using Graph Analytics for Big Data"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain Stream Data Model and Architecture in detail.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Stream Data Model and Architecture",
+    "topics": [
+      "Stream Data Model and Architecture"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Describe techniques for sampling data in a stream and discuss methods for filtering streams based on specific criteria.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Sampling Data in a Stream",
+    "topics": [
+      "Sampling Data in a Stream",
+      "Filtering Streams"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain Decaying Window Algorithm",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Decaying Window",
+    "topics": [
+      "Decaying Window"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Describe application of real-time analytics platform (RTAP) and discuss case studies such as stock market predictions.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Case Study of Big Data Solutions",
+    "topics": [
+      "Case Study of Big Data Solutions"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Describe important features of Apache Spark.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Differentiate between Pig vs Hive.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Hive services",
+    "topics": [
+      "Hive services"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain working of Hive with proper steps and diagram.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Querying Data in Hive",
+    "topics": [
+      "Querying Data in Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain data processing operators in Pig.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Data processing operators in Pig",
+    "topics": [
+      "Data processing operators in Pig"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain basic fundamentals of HBase.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Define Zookeeper. List the benefits of it. Explain its working in detail.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "How is Semi-structured data different from Unstructured and Structured Data?",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Types of Big Data",
+    "topics": [
+      "Types of Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What is big data? Discuss it in terms of volume and velocity, veracity.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Big Data characteristics",
+    "topics": [
+      "Big Data characteristics",
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain Hadoop architecture and its component with proper diagram.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Components of Hadoop",
+    "topics": [
+      "Components of Hadoop"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain any three commands of HDFS with syntax along with example of each.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Java interfaces to HDFS Basics",
+    "topics": [
+      "Java interfaces to HDFS Basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain advantages and disadvantages of big data analytics.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "What is Map Reduce? Explain working of various phases of Map Reduce with appropriate example and diagram.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "How Map Reduce Works",
+    "topics": [
+      "How Map Reduce Works"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "How does HDFS ensure data Integrity in a Hadoop Cluster?",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain NoSQL business drivers.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "NoSQL business drivers",
+    "topics": [
+      "NoSQL business drivers"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Discuss various benefits of stream processing.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Stream Computing",
+    "topics": [
+      "Stream Computing"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "What is NoSQL database? Discuss key characteristics and advantages of NoSQL database.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Big Data characteristics",
+    "topics": [
+      "Big Data characteristics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Discuss Four ways of how NoSQL systems handle Big Data problems?",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Introduction to Big Data",
+    "primary_topic": "Introduction to Big Data",
+    "topics": [
+      "Introduction to Big Data"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What are Stream Computing and Sampling Data in a Stream?",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Stream Computing",
+    "topics": [
+      "Stream Computing",
+      "Sampling Data in a Stream"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Differentiate SQL and NoSQL databases. What are the applications of NoSQL database?",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "NoSQL",
+    "primary_topic": "What is NoSQL?",
+    "topics": [
+      "What is NoSQL?",
+      "Using NoSQL to manage big data",
+      "NoSQL case studies"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Write a short note on Decaying Window",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Decaying Window",
+    "topics": [
+      "Decaying Window"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Differentiate between Pig vs. Hive.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Hive services",
+    "topics": [
+      "Hive services"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain working of Hive with proper steps and diagram.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "Querying Data in Hive",
+    "topics": [
+      "Querying Data in Hive"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Write a short note on RTAP.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Real time Analytics Platform (RTAP) applications",
+    "topics": [
+      "Real time Analytics Platform (RTAP) applications"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What is Zookeeper? List the benefits of it.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "What is HiveQL? Explain various statements in HiveQL with example.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "HiveQL",
+    "topics": [
+      "HiveQL"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is RDD? Explain role of RDD in Spark.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Spark Basics",
+    "topics": [
+      "Spark Basics"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain: How samples are collected from data stream?",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Mining Data Stream",
+    "primary_topic": "Sampling Data in a Stream",
+    "topics": [
+      "Sampling Data in a Stream"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain Spark components in detail. Also list the features of Spark.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain Storage mechanism in HBase",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Frameworks",
+    "primary_topic": "fundamentals of HBase and ZooKeeper",
+    "topics": [
+      "fundamentals of HBase and ZooKeeper"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Discuss role of Data node and Name node in HDFS.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Hadoop",
+    "primary_topic": "Hadoop Distributed File System",
+    "topics": [
+      "Hadoop Distributed File System"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What is Apache Spark? What are the advantages of using Apache Spark over Hadoop? Explain in brief four major libraries of Apache Spark",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Spark",
+    "primary_topic": "Introduction to Data Analysis with Spark",
+    "topics": [
+      "Introduction to Data Analysis with Spark"
+    ],
+    "difficulty": "Hard"
+  }
+]

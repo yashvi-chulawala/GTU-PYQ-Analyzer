@@ -1,0 +1,3023 @@
+[
+  {
+    "question_no": "Q1a",
+    "question": "Define metadata and recycle bin operation.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Metadata",
+    "topics": [
+      "Metadata",
+      "Recycle Bin Operation"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain Memory organization in brief.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain the use of digital forensic in social networking sites.",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Social Networking Sites",
+    "topics": [
+      "Social Networking Sites"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain forensic science.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Forensic Science",
+    "topics": [
+      "Forensic Science"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain Quality assurance in detail.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Quality Assurance",
+    "topics": [
+      "Quality Assurance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain Locard's Exchange Principle with suitable scenario.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Locard's Exchange Principle",
+    "topics": [
+      "Locard's Exchange Principle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain The digital forensic process in brief.",
+    "year": "S2022",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic Process",
+    "topics": [
+      "Digital Forensic Process"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Define Hardware and Software tools for digital forensics.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Hardware and Software Tools",
+    "topics": [
+      "Hardware and Software Tools"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Give the advantages of live collection.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Discuss legal aspects and their impact on digital forensics.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Discuss forensic cloning of evidence.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Forensic Cloning of Evidence",
+    "topics": [
+      "Forensic Cloning of Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Write a note on Electronics discovery.",
+    "year": "S2022",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Electronic Discovery",
+    "topics": [
+      "Electronic Discovery"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Discuss e-mail header forensic in brief.",
+    "year": "S2022",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Email Header Forensic",
+    "topics": [
+      "Email Header Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Which are the computer-related crime?",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain tool validation in context of quality assurance.",
+    "year": "S2022",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Tool Validation",
+    "topics": [
+      "Tool Validation",
+      "Quality Assurance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain Hashing concepts to maintain the integrity of evidence.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Hashing Concepts",
+    "topics": [
+      "Hashing Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What are the main challenges of investigating computer-related crime?",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain Report drafting.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Report Drafting",
+    "topics": [
+      "Report Drafting"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Define and differentiate Live and dead system forensic.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain Digital evidence.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Discuss techniques of Finding deleted data.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Finding Deleted Data",
+    "topics": [
+      "Finding Deleted Data"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "What is cache memory? Explain direct mapping of cache memory with example.",
+    "year": "S2022",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain electronic evidence.",
+    "year": "S2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Discuss techniques of hibernating files.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Hibernating Files",
+    "topics": [
+      "Hibernating Files"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Describe techniques to remove metadata.",
+    "year": "S2022",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Metadata",
+    "topics": [
+      "Metadata"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "What is Digital Forensic?",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "List any four types of web attacks. How are these attacks investigated?",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Internet Resources",
+    "topics": [
+      "Internet Resources"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain Digital Forensic Process in brief.",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic Process",
+    "topics": [
+      "Digital Forensic Process"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Draw and explain control unit of basic computer.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Basic Computer Organization",
+    "topics": [
+      "Basic Computer Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain Flynn's Classification of computer.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Basic Computer Organization",
+    "topics": [
+      "Basic Computer Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "What is Locard's exchange principle and how does it apply to digital forensics?",
+    "year": "S2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Locard's Exchange Principle",
+    "topics": [
+      "Locard's Exchange Principle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain order of volatility.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What is main memory explain with example.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "What are the main challenges of investigating computer related crime?",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Discuss e-mail header forensic in brief.",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Email Header Forensic",
+    "topics": [
+      "Email Header Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is cache memory explain with example.",
+    "year": "S2023",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Give the advantages of live collection.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Discuss legal aspects and their impacts on digital forensic.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is chain of custody in context of digital forensic?",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Chain of Custody",
+    "topics": [
+      "Chain of Custody"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain Quality assurance in detail.",
+    "year": "S2023",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Quality Assurance",
+    "topics": [
+      "Quality Assurance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Describe technique to remove metadata.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Metadata",
+    "topics": [
+      "Metadata"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What is forensic cloning of evidence.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Forensic Cloning of Evidence",
+    "topics": [
+      "Forensic Cloning of Evidence"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Write a short note on Report writing.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Report Drafting",
+    "topics": [
+      "Report Drafting"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain Hashing concepts to maintain integrity.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Hashing Concepts",
+    "topics": [
+      "Hashing Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain Digital evidence.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write a brief note on eDiscovery.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Electronic Discovery",
+    "topics": [
+      "Electronic Discovery"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain the use of digital forensic in social networking sites.",
+    "year": "S2023",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Social Networking Sites",
+    "topics": [
+      "Social Networking Sites"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain electronic evidence.",
+    "year": "S2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain recycle bin operation.",
+    "year": "S2023",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Recycle Bin Operation",
+    "topics": [
+      "Recycle Bin Operation"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Write a Short note on the electronic communication privacy.",
+    "year": "S2023",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "What is Digital Forensics? List out uses of Digital Forensics.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What are the 4 steps of the forensic process? Describe it.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic Process",
+    "topics": [
+      "Digital Forensic Process"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain Locard's Exchange Principle with suitable example.",
+    "year": "S2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Locard's Exchange Principle",
+    "topics": [
+      "Locard's Exchange Principle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Draw and explain Control Unit of basic computer.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Basic Computer Organization",
+    "topics": [
+      "Basic Computer Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain Bits, Bytes and Numbering scheme.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Basic Computer Organization",
+    "topics": [
+      "Basic Computer Organization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "What are the requirements to set up a workstation for digital forensics?",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Hardware and Software Tools",
+    "topics": [
+      "Hardware and Software Tools"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain role of the forensic examiner in judicial system.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain three different types of storage in digital world?",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Data Storage Concepts",
+    "topics": [
+      "Data Storage Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Differentiate Volatile vs. Non-volatile Memory.",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain importance of photography and notes for documenting the scene.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What tools do digital forensic scientists use?",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Hardware and Software Tools",
+    "topics": [
+      "Hardware and Software Tools"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain forensic cloning of evidence.",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Forensic Cloning of Evidence",
+    "topics": [
+      "Forensic Cloning of Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain hashing algorithms can be used to verify forensic integrity?",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Hashing Concepts",
+    "topics": [
+      "Hashing Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Describe forensic recovery of deleted data?",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Finding Deleted Data",
+    "topics": [
+      "Finding Deleted Data"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What is the difference between a restore point and a shadow copy?",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Restore Points and Shadow Copies",
+    "topics": [
+      "Restore Points and Shadow Copies"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "What is the knowledge of legal issues and how they affect digital forensics?",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "How do you write a digital forensic investigation report?",
+    "year": "S2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Report Drafting",
+    "topics": [
+      "Report Drafting"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "How is quality assurance crucial to the investigation of digital forensic evidence?",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Quality Assurance",
+    "topics": [
+      "Quality Assurance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Explain the following: (a) IaaS (b) PaaS (c) SaaS",
+    "year": "S2024",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Data Storage Concepts",
+    "topics": [
+      "Data Storage Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "What is Recycle Bin and its operation?",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Recycle Bin Operation",
+    "topics": [
+      "Recycle Bin Operation"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Electronic data discovery: What is it? How it functions.",
+    "year": "S2024",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Electronic Discovery",
+    "topics": [
+      "Electronic Discovery"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "What three categories of tools do digital forensic investigators use? Explain it.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Hardware and Software Tools",
+    "topics": [
+      "Hardware and Software Tools"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Define sleep, Hibernation and Hybrid sleep.",
+    "year": "S2024",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Hibernating Files",
+    "topics": [
+      "Hibernating Files"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Differentiate Accreditation vs Certification.",
+    "year": "S2024",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Quality Assurance",
+    "topics": [
+      "Quality Assurance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Name four different forms of web attacks. How are these web-based attacks examined?",
+    "year": "S2024",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Internet Resources",
+    "topics": [
+      "Internet Resources"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain Challenges of Digital Forensics.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Explain the role of a cyber forensic investigator.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain Main Memory and Auxiliary Memory with example.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain Flynn's Classification of computer.",
+    "year": "S2025",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Basic Computer Organization",
+    "topics": [
+      "Basic Computer Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Differentiate Live and Dead system forensic",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain Locard's Exchange Principle with suitable scenario.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Locard's Exchange Principle",
+    "topics": [
+      "Locard's Exchange Principle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain Digital Forensic Process.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic Process",
+    "topics": [
+      "Digital Forensic Process"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Explain the term \"chain of custody\" in the context of digital forensics.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Chain of Custody",
+    "topics": [
+      "Chain of Custody"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain forensic cloning of evidence.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Forensic Cloning of Evidence",
+    "topics": [
+      "Forensic Cloning of Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain Hashing concepts to maintain integrity of evidence.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Hashing Concepts",
+    "topics": [
+      "Hashing Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain Digital evidence.",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What is the difference between digital evidence, electronic evidence, and computer evidence?",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain, how hashing concepts to be used for maintaining the integrity of evidence?",
+    "year": "S2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Hashing Concepts",
+    "topics": [
+      "Hashing Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define sleep, Hibernation and Hybrid sleep.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Hibernating Files",
+    "topics": [
+      "Hibernating Files"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain the relevance of metadata with reference to collected evidence.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Metadata",
+    "topics": [
+      "Metadata"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain most important legal features about digital evidence.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Differentiate a restore point and a shadow copy.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Restore Points and Shadow Copies",
+    "topics": [
+      "Restore Points and Shadow Copies"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Discuss techniques of finding deleted data.",
+    "year": "S2025",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Finding Deleted Data",
+    "topics": [
+      "Finding Deleted Data"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Discuss legal aspects and their impact on digital forensics.",
+    "year": "S2025",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Define Hardware and Software tools for digital forensics.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Hardware and Software Tools",
+    "topics": [
+      "Hardware and Software Tools"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain tool validation in context of quality assurance.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Tool Validation",
+    "topics": [
+      "Tool Validation",
+      "Quality Assurance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Discuss e-mail header forensic in brief.",
+    "year": "S2025",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Email Header Forensic",
+    "topics": [
+      "Email Header Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Explain branches of digital forensics.",
+    "year": "S2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain various tool selection methods in context of digital forensic.",
+    "year": "S2025",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Tool Selection",
+    "topics": [
+      "Tool Selection"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain the use of digital forensic in social networking sites.",
+    "year": "S2025",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Social Networking Sites",
+    "topics": [
+      "Social Networking Sites"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Discuss the importance of Imaging step in digital forensic process.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Forensic Cloning of Evidence",
+    "topics": [
+      "Forensic Cloning of Evidence",
+      "Digital Forensic Process"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "Discuss with example: Crime with digital evidence.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene",
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "What is the Modus Operandi in cyber crime? List any four different types of modus operandi adopted by cyber criminals? Explain any one in details.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Define Data types: 1. Active data 2. Latent data 3. Archival Data.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Data Storage Concepts",
+    "topics": [
+      "Data Storage Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "State the importance of File system in Computer. Give any two differences between FAT and NTFS file system.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "File System",
+    "topics": [
+      "File System"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Discuss Direct Mapping memory management scheme with example.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Discuss Set -Associative Mapping memory management scheme with example.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Define: 1. Cyber Crime 2. Cyber Crime Scene 3. Cyber Crime Motivation.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Discuss Email header forensic.",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Email Header Forensic",
+    "topics": [
+      "Email Header Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Define Live & Dead system forensic. Discuss each one with example.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "List the challenges in digital forensic process.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic Process",
+    "topics": [
+      "Digital Forensic Process"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Discuss Metadata with example.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Metadata",
+    "topics": [
+      "Metadata"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Discuss SIMD & MISD computer architecture.",
+    "year": "S2026",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Basic Computer Organization",
+    "topics": [
+      "Basic Computer Organization"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "State the importance of maintaining the chain of custody in forensic process.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Chain of Custody",
+    "topics": [
+      "Chain of Custody"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "List the various methods to recover deleted data in computer system.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Finding Deleted Data",
+    "topics": [
+      "Finding Deleted Data"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Write a short note on shadow copy & restore points.",
+    "year": "S2026",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Restore Points and Shadow Copies",
+    "topics": [
+      "Restore Points and Shadow Copies"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Discuss the importance of Quality assurance.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Quality Assurance",
+    "topics": [
+      "Quality Assurance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain Legal aspects in digital forensics.",
+    "year": "S2026",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Define Network forensic & explain it in detail.",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Internet Resources",
+    "topics": [
+      "Internet Resources"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "How browser history can play important role in cyber crime investigation?",
+    "year": "S2026",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Web Browser",
+    "topics": [
+      "Web Browser"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "List various motivations behind cyber crimes.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain evidence collection & preservation steps in digital forensic process.",
+    "year": "S2026",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Discuss Anti- Digital Forensic process with example.",
+    "year": "S2026",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic Process",
+    "topics": [
+      "Digital Forensic Process"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Why tool validation is an important part in forensic process? Explain with example.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Tool Validation",
+    "topics": [
+      "Tool Validation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain Tool selection methods.",
+    "year": "S2026",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Tool Selection",
+    "topics": [
+      "Tool Selection"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "What is Digital forensics?",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "List any four types of web attacks. How are these web attacks investigated?",
+    "year": "W2021",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Internet Resources",
+    "topics": [
+      "Internet Resources"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain Locard's Exchange Principle with suitable scenario.",
+    "year": "W2021",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Locard's Exchange Principle",
+    "topics": [
+      "Locard's Exchange Principle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Draw and explain Control Unit of basic computer.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Basic Computer Organization",
+    "topics": [
+      "Basic Computer Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain Flynn's classification of computers.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Basic Computer Organization",
+    "topics": [
+      "Basic Computer Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "What is cache memory? Explain direct mapping of cache memory with example.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain Main Memory and Auxiliary Memory with example.",
+    "year": "W2021",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What are the main challenges of investigating computer-related crime?",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Give the advantages of live collection.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain forensic cloning process of evidence with appropriate example.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Forensic Cloning of Evidence",
+    "topics": [
+      "Forensic Cloning of Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain order of volatility in brief.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "What is the difference between digital evidence, electronic evidence, and computer evidence?",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain Hashing concepts to maintain the integrity of evidence.",
+    "year": "W2021",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Hashing Concepts",
+    "topics": [
+      "Hashing Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "Define sleep, Hibernation and Hybrid sleep.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Hibernating Files",
+    "topics": [
+      "Hibernating Files"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain recycle bin operation.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Recycle Bin Operation",
+    "topics": [
+      "Recycle Bin Operation"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Describe techniques to remove metadata.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Metadata",
+    "topics": [
+      "Metadata"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Define restore points and shadow copies.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Restore Points and Shadow Copies",
+    "topics": [
+      "Restore Points and Shadow Copies"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Explain registry structure in brief.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Examining Windows Registry",
+    "topics": [
+      "Examining Windows Registry"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Describe techniques to find deleted data.",
+    "year": "W2021",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Finding Deleted Data",
+    "topics": [
+      "Finding Deleted Data"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Write a brief note on eDiscovery.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Electronic Discovery",
+    "topics": [
+      "Electronic Discovery"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Explain tool validation in context of quality assurance.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Tool Validation",
+    "topics": [
+      "Tool Validation",
+      "Quality Assurance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain the use of digital forensic in social networking sites.",
+    "year": "W2021",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Social Networking Sites",
+    "topics": [
+      "Social Networking Sites"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Write a short note on The Electronic Communications Privacy Act.",
+    "year": "W2021",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain various tool selection methods in context of digital forensic.",
+    "year": "W2021",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Tool Selection",
+    "topics": [
+      "Tool Selection"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain e-mail header forensic in detail.",
+    "year": "W2021",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Email Header Forensic",
+    "topics": [
+      "Email Header Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "What is your understanding of the term \"chain of custody\" in the context of digital forensics?",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Chain of Custody",
+    "topics": [
+      "Chain of Custody"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What is digital forensics explain the process of digital forensics?",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic Process",
+    "topics": [
+      "Digital Forensic Process"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Define: hibernating files, examining window registry, recycle bin operation Operation.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Hibernating Files",
+    "topics": [
+      "Hibernating Files",
+      "Examining Windows Registry",
+      "Recycle Bin Operation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain forensic science.",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Forensic Science",
+    "topics": [
+      "Forensic Science"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Describe forensic cloning of evidence.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Forensic Cloning of Evidence",
+    "topics": [
+      "Forensic Cloning of Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "What is locard's exchange principle and how does it apply to digital forensics?",
+    "year": "W2022",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Locard's Exchange Principle",
+    "topics": [
+      "Locard's Exchange Principle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain order of volatility in brief.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "What types of tools can be selected for use in mobile device investigations?",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Tool Selection",
+    "topics": [
+      "Tool Selection"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Why it is important in the forensic investigation to work on duplicate image?",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Forensic Cloning of Evidence",
+    "topics": [
+      "Forensic Cloning of Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Describe techniques to remove metadata.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Metadata",
+    "topics": [
+      "Metadata"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "What is hashing explain hashing concepts to maintain the integrity of evidence?",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Hashing Concepts",
+    "topics": [
+      "Hashing Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Write a note on Electronics discovery.",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Electronic Discovery",
+    "topics": [
+      "Electronic Discovery"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Discuss e-mail header forensic in brief.",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Email Header Forensic",
+    "topics": [
+      "Email Header Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What are the legal provisions against cyber crime?",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Explain tool validation in context of quality assurance.",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Tool Validation",
+    "topics": [
+      "Tool Validation",
+      "Quality Assurance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain Hashing concepts to maintain the integrity of evidence.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Hashing Concepts",
+    "topics": [
+      "Hashing Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What are three types of tools used by digital forensic examiners?",
+    "year": "W2022",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Hardware and Software Tools",
+    "topics": [
+      "Hardware and Software Tools"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What relevance does metadata have to the evidence collected?",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Metadata",
+    "topics": [
+      "Metadata"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Define and differentiate Live and dead system forensic.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "How to restore your deleted or modified folders or files from Shadow Copies.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Restore Points and Shadow Copies",
+    "topics": [
+      "Restore Points and Shadow Copies"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "What is the most important legal features about digital evidence?",
+    "year": "W2022",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "What is an example of a network forensic technique?",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Internet Resources",
+    "topics": [
+      "Internet Resources"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What information analyst could get from email header?",
+    "year": "W2022",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Email Header Forensic",
+    "topics": [
+      "Email Header Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Discuss techniques of hibernating files.",
+    "year": "W2022",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Hibernating Files",
+    "topics": [
+      "Hibernating Files"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Documenting the scene and evidence, maintaining the chain of custody.",
+    "year": "W2022",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence",
+      "Chain of Custody"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain forensic science.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Forensic Science",
+    "topics": [
+      "Forensic Science"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "What is digital forensics explain the process of digital forensics?",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic Process",
+    "topics": [
+      "Digital Forensic Process"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Explain Locard's Exchange Principle with suitable scenario.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Locard's Exchange Principle",
+    "topics": [
+      "Locard's Exchange Principle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Explain functional model of IoT",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Internet Resources",
+    "topics": [
+      "Internet Resources"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Describe forensic cloning of evidence.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Forensic Cloning of Evidence",
+    "topics": [
+      "Forensic Cloning of Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Draw and explain Control Unit of basic computer.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Basic Computer Organization",
+    "topics": [
+      "Basic Computer Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Explain order of volatility in brief.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Describe techniques to remove metadata.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Metadata",
+    "topics": [
+      "Metadata"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Give the advantages of live collection",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Explain Main Memory and Auxiliary Memory with example.",
+    "year": "W2023",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Explain branches of digital forensics.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Explain Challenges of Digital Forensics.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Write a note on Electronics discovery.",
+    "year": "W2023",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Electronic Discovery",
+    "topics": [
+      "Electronic Discovery"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What is data preservation in cyber forensics?",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Define and differentiate Live and dead system forensic.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain Hashing concepts to maintain the integrity of evidence.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Hashing Concepts",
+    "topics": [
+      "Hashing Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Discuss e-mail header forensic in brief",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Email Header Forensic",
+    "topics": [
+      "Email Header Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "How to restore your deleted or modified folders or files from Shadow Copies.",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Restore Points and Shadow Copies",
+    "topics": [
+      "Restore Points and Shadow Copies"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Discuss techniques of hibernating files",
+    "year": "W2023",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Hibernating Files",
+    "topics": [
+      "Hibernating Files"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Explain Digital forensic elements.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write Case study of social networking sites.",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Social Networking Sites",
+    "topics": [
+      "Social Networking Sites"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Documenting the scene and evidence, maintaining the chain of custody.",
+    "year": "W2023",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence",
+      "Chain of Custody"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "What is the main purpose of digital forensics?",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "Explain the role of a cyber forensic investigator.",
+    "year": "W2023",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "What is an example of a network forensic technique?",
+    "year": "W2023",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Internet Resources",
+    "topics": [
+      "Internet Resources"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Explain the use of forensic science with an appropriate example.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Forensic Science",
+    "topics": [
+      "Forensic Science"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "List and Explain in brief about applications of digital forensics.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "What is Locard's Exchange Principle? How can that principle be used in digital forensics? Explain it with a suitable example.",
+    "year": "W2024",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Locard's Exchange Principle",
+    "topics": [
+      "Locard's Exchange Principle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Define Active Data, Latent Data and Archival Data.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Data Storage Concepts",
+    "topics": [
+      "Data Storage Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Explain Cloud Computing with it different types of services.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Data Storage Concepts",
+    "topics": [
+      "Data Storage Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Explain forensic cloning process of evidence with an appropriate example.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Forensic Cloning of Evidence",
+    "topics": [
+      "Forensic Cloning of Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "What is cache memory? Explain direct mapping of cache memory with an example.",
+    "year": "W2024",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "How should a Cell phone obtained from crime scene be handled by a digital forensic scientist?",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain Quality assurance in detail.",
+    "year": "W2024",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Quality Assurance",
+    "topics": [
+      "Quality Assurance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Provide the appropriate steps of maintaining chain of custody of any digital evidence obtained from crime scene.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Chain of Custody",
+    "topics": [
+      "Chain of Custody"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "How should a live PC obtained from crime scene be handled by a digital forensic scientist?",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic",
+      "Cybercrime Scene"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "How will you document the crime scene?",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "Explain order of volatility.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "What are the steps to restore deleted data?",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Finding Deleted Data",
+    "topics": [
+      "Finding Deleted Data"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "What is Metadata? How can we remove metadata?",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Metadata",
+    "topics": [
+      "Metadata"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Explain Hashing concepts to maintain the integrity of evidence.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Hashing Concepts",
+    "topics": [
+      "Hashing Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "What are the legal provisions against cybercrime?",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "What relevance does metadata have to the evidence collected?",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Metadata",
+    "topics": [
+      "Metadata"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Define and differentiate Live and dead system forensic.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Live and Dead System Forensic",
+    "topics": [
+      "Live and Dead System Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Define sleep, Hibernation and Hybrid sleep.",
+    "year": "W2024",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Hibernating Files",
+    "topics": [
+      "Hibernating Files"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Write a note on report writing in digital forensics.",
+    "year": "W2024",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Report Drafting",
+    "topics": [
+      "Report Drafting"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Explain network forensic techniques with examples.",
+    "year": "W2024",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Internet Resources",
+    "topics": [
+      "Internet Resources"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Write a brief note on Electronics discovery.",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Electronic Discovery",
+    "topics": [
+      "Electronic Discovery"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "What are the most important legal features about digital evidence?",
+    "year": "W2024",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Explain the use of digital forensic in social networking sites.",
+    "year": "W2024",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Social Networking Sites",
+    "topics": [
+      "Social Networking Sites"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1a",
+    "question": "Define given terms. 1. Forensic Science 2. Digital Forensic. 3. Locard's exchange principle.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Forensic Science",
+    "topics": [
+      "Forensic Science",
+      "Digital Forensic",
+      "Locard's Exchange Principle"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q1b",
+    "question": "List various modus operandi used by Cyber Criminals.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q1c",
+    "question": "Discuss with example: crime with digital evidence.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene",
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2a",
+    "question": "Draw and explain central processing unit of basic computer.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Basic Computer Organization",
+    "topics": [
+      "Basic Computer Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2b",
+    "question": "Discuss slack space in HDD with example.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Data Storage Concepts",
+    "topics": [
+      "Data Storage Concepts"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c",
+    "question": "Discuss FAT and NTFS file system.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "File System",
+    "topics": [
+      "File System"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q2c OR",
+    "question": "Draw and Explain digital forensic process model.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Chain of Custody",
+    "topics": [
+      "Cybercrime Scene",
+      "Documenting the Scene and Evidence",
+      "Chain of Custody",
+      "Forensic Cloning of Evidence",
+      "Live and Dead System Forensic",
+      "Hashing Concepts",
+      "Report Drafting"
+    ],
+    "difficulty": "Hard"
+  },
+  {
+    "question_no": "Q3a",
+    "question": "Discuss forensic cloning of evidence.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Forensic Cloning of Evidence",
+    "topics": [
+      "Forensic Cloning of Evidence"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b",
+    "question": "Explain File signature and Anti forensic in brief.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Metadata",
+    "topics": [
+      "Metadata"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3c",
+    "question": "Discuss direct memory mapping scheme with example.",
+    "year": "W2025",
+    "unit_number": 2,
+    "unit_name": "Understanding of the Technical Concepts",
+    "primary_topic": "Memory Organization",
+    "topics": [
+      "Memory Organization"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3a OR",
+    "question": "Discuss the importance of report drafting.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Report Drafting",
+    "topics": [
+      "Report Drafting"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q3b OR",
+    "question": "Define shadow copy. Discuss restore point in computer system.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Restore Points and Shadow Copies",
+    "topics": [
+      "Restore Points and Shadow Copies"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q3c OR",
+    "question": "List various challenges in investigating computer related crimes.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a",
+    "question": "List various methods to recovers deleted files.",
+    "year": "W2025",
+    "unit_number": 4,
+    "unit_name": "Computer Operating System Artifacts",
+    "primary_topic": "Finding Deleted Data",
+    "topics": [
+      "Finding Deleted Data"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b",
+    "question": "Discuss Mobile forensic.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Hardware and Software Tools",
+    "topics": [
+      "Hardware and Software Tools"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c",
+    "question": "Discuss the legal aspects in digital forensic.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Legal Aspects",
+    "topics": [
+      "Legal Aspects"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4a OR",
+    "question": "Explain Electronics discovery.",
+    "year": "W2025",
+    "unit_number": 5,
+    "unit_name": "Legal Aspects of Digital Forensics",
+    "primary_topic": "Electronic Discovery",
+    "topics": [
+      "Electronic Discovery"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4b OR",
+    "question": "Discuss the importance of tool validation process.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Tool Validation",
+    "topics": [
+      "Tool Validation"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q4c OR",
+    "question": "Discuss the application of digital forensic in social networking site.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Social Networking Sites",
+    "topics": [
+      "Social Networking Sites"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5a",
+    "question": "Discuss web browser forensic.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Web Browser",
+    "topics": [
+      "Web Browser"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b",
+    "question": "Discuss quality assurance in digital forensic process.",
+    "year": "W2025",
+    "unit_number": 6,
+    "unit_name": "Understanding of Digital Forensic Tools",
+    "primary_topic": "Quality Assurance",
+    "topics": [
+      "Quality Assurance"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5c",
+    "question": "Discuss the role of forensic examiner.",
+    "year": "W2025",
+    "unit_number": 1,
+    "unit_name": "Introduction",
+    "primary_topic": "Digital Forensic",
+    "topics": [
+      "Digital Forensic"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5a OR",
+    "question": "Discuss Email header forensic.",
+    "year": "W2025",
+    "unit_number": 7,
+    "unit_name": "Case Study",
+    "primary_topic": "Email Header Forensic",
+    "topics": [
+      "Email Header Forensic"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "question_no": "Q5b OR",
+    "question": "List various motivations behind cyber crimes.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Cybercrime Scene",
+    "topics": [
+      "Cybercrime Scene"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "question_no": "Q5c OR",
+    "question": "Discuss physical acquisition and safekeeping of digital evidence.",
+    "year": "W2025",
+    "unit_number": 3,
+    "unit_name": "Digital Forensics Process Model",
+    "primary_topic": "Documenting the Scene and Evidence",
+    "topics": [
+      "Documenting the Scene and Evidence"
+    ],
+    "difficulty": "Medium"
+  }
+]
