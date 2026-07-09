@@ -1,6 +1,16 @@
 import { useState } from "react";
 import { supabase } from "../lib/supabase";
 import { Link, useLocation } from "react-router-dom";
+import {
+  X,
+  Lightbulb,
+  Bug,
+  BookPlus,
+  MessageCircle,
+  PartyPopper,
+  MessageSquareText,
+  FileText,
+} from "lucide-react";
 
 /* ── Feedback Modal ── */
 function FeedbackModal({ onClose }) {
@@ -40,13 +50,20 @@ function FeedbackModal({ onClose }) {
   setType("suggestion");
 };
 
+  const TYPE_OPTIONS = [
+    { id: "suggestion", label: "Suggestion", Icon: Lightbulb },
+    { id: "bug", label: "Bug report", Icon: Bug },
+    { id: "subject", label: "Add subject", Icon: BookPlus },
+    { id: "other", label: "Other", Icon: MessageCircle },
+  ];
+
   return (
     <div
       onClick={onClose}
       style={{
         position: "fixed", inset: 0, zIndex: 200,
-        background: "rgba(0,0,0,0.6)",
-        backdropFilter: "blur(6px)",
+        background: "rgba(6,6,10,0.72)",
+        backdropFilter: "blur(8px)",
         display: "flex", alignItems: "center", justifyContent: "center",
         padding: "20px",
         animation: "fadeIn 0.18s ease both",
@@ -56,66 +73,113 @@ function FeedbackModal({ onClose }) {
         onClick={e => e.stopPropagation()}
         style={{
           width: "100%", maxWidth: "440px",
-          borderRadius: "16px",
+          borderRadius: "18px",
           border: "1px solid var(--color-border)",
-          background: "var(--color-panel)",
-          padding: "28px",
-          boxShadow: "0 24px 60px rgba(0,0,0,0.6)",
+          background:
+            "linear-gradient(180deg, color-mix(in srgb, var(--color-panel) 100%, white 3%) 0%, var(--color-panel) 60%)",
+          padding: "30px",
+          boxShadow:
+            "0 30px 70px rgba(0,0,0,0.55), 0 1px 0 rgba(255,255,255,0.05) inset, 0 0 0 1px rgba(255,255,255,0.02) inset",
           animation: "rise 0.22s cubic-bezier(0.16,1,0.3,1) both",
           position: "relative",
+          overflow: "hidden",
         }}
       >
+        {/* subtle top glow accent */}
+        <div
+          style={{
+            position: "absolute", top: "-120px", left: "50%",
+            transform: "translateX(-50%)",
+            width: "320px", height: "200px",
+            background:
+              "radial-gradient(closest-side, rgba(124,92,252,0.18), transparent 75%)",
+            pointerEvents: "none",
+          }}
+        />
+
         {/* close */}
         <button
           onClick={onClose}
+          aria-label="Close"
           style={{
             position: "absolute", top: "16px", right: "16px",
-            background: "none", border: "none", cursor: "pointer",
-            color: "var(--color-ink-faint)", padding: "4px",
-            lineHeight: 1, fontSize: "18px",
-            transition: "color 0.15s",
+            background: "var(--color-void)",
+            border: "1px solid var(--color-border)",
+            borderRadius: "8px",
+            width: "30px", height: "30px",
+            display: "flex", alignItems: "center", justifyContent: "center",
+            cursor: "pointer",
+            color: "var(--color-ink-faint)",
+            transition: "color 0.15s, border-color 0.15s",
           }}
-          onMouseOver={e => e.currentTarget.style.color = "var(--color-ink)"}
-          onMouseOut={e => e.currentTarget.style.color = "var(--color-ink-faint)"}
-        >✕</button>
+          onMouseOver={e => {
+            e.currentTarget.style.color = "var(--color-ink)";
+            e.currentTarget.style.borderColor = "var(--color-signal-violet)";
+          }}
+          onMouseOut={e => {
+            e.currentTarget.style.color = "var(--color-ink-faint)";
+            e.currentTarget.style.borderColor = "var(--color-border)";
+          }}
+        >
+          <X size={14} strokeWidth={2.25} />
+        </button>
 
         {sent ? (
-          <div style={{ textAlign: "center", padding: "20px 0" }}>
-            <div style={{ fontSize: "2.4rem", marginBottom: "14px" }}>🎉</div>
+          <div style={{ textAlign: "center", padding: "26px 0 10px" }}>
+            <div
+              style={{
+                width: "52px", height: "52px", borderRadius: "14px",
+                margin: "0 auto 16px",
+                display: "flex", alignItems: "center", justifyContent: "center",
+                background: "rgba(124,92,252,0.12)",
+                border: "1px solid rgba(124,92,252,0.25)",
+              }}
+            >
+              <PartyPopper size={24} strokeWidth={2} color="var(--color-signal-violet-soft)" />
+            </div>
             <h3 style={{
-              fontFamily: "var(--font-display)", fontSize: "1.1rem",
+              fontFamily: "var(--font-display)", fontSize: "1.15rem",
               fontWeight: 700, color: "var(--color-ink)", marginBottom: "8px",
+              letterSpacing: "-0.01em",
             }}>Thanks for the feedback!</h3>
             <p style={{
               fontSize: "13px", color: "var(--color-ink-muted)", lineHeight: 1.7,
+              maxWidth: "320px", margin: "0 auto",
             }}>We read every submission and use it to shape what gets built next.</p>
             <button
               onClick={onClose}
               style={{
-                marginTop: "20px", padding: "9px 22px", borderRadius: "8px",
-                background: "var(--color-signal-violet)", color: "#fff",
+                marginTop: "22px", padding: "10px 24px", borderRadius: "9px",
+                background:
+                  "linear-gradient(180deg, color-mix(in srgb, var(--color-signal-violet) 100%, white 8%), var(--color-signal-violet))",
+                color: "#fff",
                 fontFamily: "var(--font-display)", fontSize: "13px", fontWeight: 600,
                 border: "none", cursor: "pointer",
+                boxShadow: "0 8px 20px rgba(124,92,252,0.35)",
               }}
             >Close</button>
           </div>
         ) : (
           <>
             {/* header */}
-            <div style={{ marginBottom: "22px" }}>
+            <div style={{ marginBottom: "24px", position: "relative" }}>
               <span style={{
+                display: "inline-flex", alignItems: "center", gap: "6px",
                 fontFamily: "var(--font-mono)", fontSize: "10px",
                 letterSpacing: "0.14em", textTransform: "uppercase",
                 color: "var(--color-signal-teal)",
-              }}>Share your thoughts</span>
+              }}>
+                <MessageSquareText size={12} strokeWidth={2.25} />
+                Share your thoughts
+              </span>
               <h2 style={{
-                marginTop: "6px",
-                fontFamily: "var(--font-display)", fontSize: "1.25rem",
-                fontWeight: 700, color: "var(--color-ink)", letterSpacing: "-0.015em",
+                marginTop: "8px",
+                fontFamily: "var(--font-display)", fontSize: "1.3rem",
+                fontWeight: 700, color: "var(--color-ink)", letterSpacing: "-0.02em",
               }}>Got an idea or a bug?</h2>
               <p style={{
-                marginTop: "6px", fontSize: "13px",
-                color: "var(--color-ink-muted)", lineHeight: 1.6,
+                marginTop: "7px", fontSize: "13px",
+                color: "var(--color-ink-muted)", lineHeight: 1.65,
               }}>
                 Tell us what you think — a missing subject, a broken feature,
                 or anything that would make exam prep easier.
@@ -123,49 +187,62 @@ function FeedbackModal({ onClose }) {
             </div>
 
             {/* type selector */}
-            <div style={{ marginBottom: "14px" }}>
+            <div style={{ marginBottom: "16px" }}>
               <label style={labelStyle}>Type</label>
               <div style={{
-                display: "flex", gap: "6px", flexWrap: "wrap", marginTop: "6px",
+                display: "grid", gridTemplateColumns: "repeat(2, 1fr)",
+                gap: "8px", marginTop: "8px",
               }}>
-                {[
-                  { id: "suggestion", label: "💡 Suggestion" },
-                  { id: "bug", label: "🐛 Bug report" },
-                  { id: "subject", label: "📚 Add subject" },
-                  { id: "other", label: "💬 Other" },
-                ].map(opt => (
-                  <button
-                    key={opt.id}
-                    onClick={() => setType(opt.id)}
-                    style={{
-                      padding: "5px 12px", borderRadius: "6px", cursor: "pointer",
-                      fontFamily: "var(--font-mono)", fontSize: "11px",
-                      border: `1px solid ${type === opt.id ? "var(--color-signal-violet)" : "var(--color-border)"}`,
-                      background: type === opt.id ? "rgba(124,92,252,0.12)" : "var(--color-void)",
-                      color: type === opt.id ? "var(--color-signal-violet-soft)" : "var(--color-ink-faint)",
-                      transition: "all 0.15s",
-                    }}
-                  >{opt.label}</button>
-                ))}
+                {TYPE_OPTIONS.map(opt => {
+                  const active = type === opt.id;
+                  return (
+                    <button
+                      key={opt.id}
+                      onClick={() => setType(opt.id)}
+                      style={{
+                        display: "flex", alignItems: "center", gap: "8px",
+                        padding: "10px 12px", borderRadius: "9px", cursor: "pointer",
+                        fontFamily: "var(--font-mono)", fontSize: "12px", fontWeight: 500,
+                        border: `1px solid ${active ? "var(--color-signal-violet)" : "var(--color-border)"}`,
+                        background: active
+                          ? "linear-gradient(180deg, rgba(124,92,252,0.16), rgba(124,92,252,0.06))"
+                          : "var(--color-void)",
+                        color: active ? "var(--color-signal-violet-soft)" : "var(--color-ink-faint)",
+                        boxShadow: active ? "0 0 0 1px rgba(124,92,252,0.15) inset" : "none",
+                        transition: "all 0.15s",
+                        textAlign: "left",
+                      }}
+                    >
+                      <opt.Icon size={14} strokeWidth={2.25} style={{ flexShrink: 0 }} />
+                      {opt.label}
+                    </button>
+                  );
+                })}
               </div>
             </div>
 
             {/* name */}
             <div style={{ marginBottom: "14px" }}>
-              <label style={labelStyle}>Name <span style={{ color: "var(--color-ink-faint)" }}>(optional)</span></label>
+              <label style={labelStyle}>Name <span style={{ color: "var(--color-ink-faint)", textTransform: "none", letterSpacing: 0 }}>(optional)</span></label>
               <input
                 type="text"
                 placeholder="Your name"
                 value={name}
                 onChange={e => setName(e.target.value)}
                 style={inputStyle}
-                onFocus={e => e.target.style.borderColor = "var(--color-signal-violet)"}
-                onBlur={e => e.target.style.borderColor = "var(--color-border)"}
+                onFocus={e => {
+                  e.target.style.borderColor = "var(--color-signal-violet)";
+                  e.target.style.boxShadow = "0 0 0 3px rgba(124,92,252,0.14)";
+                }}
+                onBlur={e => {
+                  e.target.style.borderColor = "var(--color-border)";
+                  e.target.style.boxShadow = "none";
+                }}
               />
             </div>
 
             {/* message */}
-            <div style={{ marginBottom: "20px" }}>
+            <div style={{ marginBottom: "22px" }}>
               <label style={labelStyle}>Message <span style={{ color: "var(--color-signal-violet-soft)" }}>*</span></label>
               <textarea
                 placeholder={
@@ -181,8 +258,14 @@ function FeedbackModal({ onClose }) {
                   resize: "vertical", minHeight: "100px",
                   fontFamily: "inherit", lineHeight: 1.6,
                 }}
-                onFocus={e => e.target.style.borderColor = "var(--color-signal-violet)"}
-                onBlur={e => e.target.style.borderColor = "var(--color-border)"}
+                onFocus={e => {
+                  e.target.style.borderColor = "var(--color-signal-violet)";
+                  e.target.style.boxShadow = "0 0 0 3px rgba(124,92,252,0.14)";
+                }}
+                onBlur={e => {
+                  e.target.style.borderColor = "var(--color-border)";
+                  e.target.style.boxShadow = "none";
+                }}
               />
             </div>
 
@@ -190,13 +273,17 @@ function FeedbackModal({ onClose }) {
               onClick={submit}
               disabled={!message.trim() || sending}
               style={{
-                width: "100%", padding: "11px 16px", borderRadius: "8px",
-                background: message.trim() ? "var(--color-signal-violet)" : "var(--color-panel-raised)",
+                width: "100%", padding: "12px 16px", borderRadius: "10px",
+                background: message.trim()
+                  ? "linear-gradient(180deg, color-mix(in srgb, var(--color-signal-violet) 100%, white 10%), var(--color-signal-violet))"
+                  : "var(--color-panel-raised)",
                 color: message.trim() ? "#fff" : "var(--color-ink-faint)",
                 fontFamily: "var(--font-display)", fontSize: "14px", fontWeight: 600,
                 border: "none", cursor: message.trim() ? "pointer" : "not-allowed",
                 transition: "all 0.15s",
                 opacity: sending ? 0.7 : 1,
+                boxShadow: message.trim() ? "0 10px 24px rgba(124,92,252,0.3)" : "none",
+                letterSpacing: "-0.005em",
               }}
             >
               {sending ? "Sending…" : "Send feedback"}
@@ -224,12 +311,12 @@ const labelStyle = {
 
 const inputStyle = {
   width: "100%", boxSizing: "border-box",
-  padding: "10px 14px", borderRadius: "8px",
+  padding: "10px 14px", borderRadius: "9px",
   border: "1px solid var(--color-border)",
   background: "var(--color-void)",
   color: "var(--color-ink)",
   fontFamily: "var(--font-mono)", fontSize: "13px",
-  outline: "none", transition: "border-color 0.2s",
+  outline: "none", transition: "border-color 0.2s, box-shadow 0.2s",
 };
 
 /* ── Navbar ── */
@@ -276,9 +363,7 @@ export default function Navbar() {
               onClick={() => setFeedbackOpen(true)}
               className="flex items-center gap-1.5 rounded-md border border-border px-3.5 py-2 text-sm font-medium text-ink-muted transition-colors hover:border-signal-violet/40 hover:text-ink"
             >
-              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
-              </svg>
+              <MessageSquareText size={13} strokeWidth={2} />
               Feedback
             </button>
 
@@ -288,10 +373,7 @@ export default function Navbar() {
               rel="noreferrer"
               className="hidden items-center gap-1.5 rounded-md border border-border px-3.5 py-2 text-sm font-medium text-ink-muted transition-colors hover:border-signal-violet/40 hover:text-ink sm:flex"
             >
-              <svg className="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
-                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2Z" />
-              </svg>
+              <FileText size={13} strokeWidth={2} />
               API Docs
             </a>
           </nav>

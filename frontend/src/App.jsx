@@ -21,9 +21,9 @@ function Footer() {
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-void">
+    <div className="min-h-screen flex flex-col bg-void">
       <Navbar />
-      <main>
+      <main className="flex-1">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/subject/:subjectCode" element={<Subject />} />

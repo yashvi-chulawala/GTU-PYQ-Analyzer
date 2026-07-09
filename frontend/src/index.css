@@ -28,6 +28,72 @@
   --animate-pulse-slow: pulse-slow 3s ease-in-out infinite;
   --animate-scan: scan 2.4s linear infinite;
   --animate-rise: rise 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+
+  /* ── Homepage theme ("home-*") ──
+     Scoped tokens for the Home page only. Other pages (Navbar, Subject,
+     etc.) are unaffected and keep the tokens above.
+     Palette: premium, warm, paper-inspired — terracotta accent on a
+     warm-paper light theme, with distinct per-section warm tones
+     (hero / stats / features / how-it-works / cta / footer) instead
+     of one flat background, and with the cold blue "cool section"
+     tones removed in favor of a subtle warm-beige progression. */
+
+  /* base + section backgrounds — warm paper, never white/blue */
+  --color-home-bg: #F8F5EE;              /* Hero (Main) */
+  --color-home-stats: #F2EEE6;           /* Stats (Alternate) */
+  --color-home-paper-raised: #F2EEE6;    /* reused for raised paper surfaces (trust strip, tabs, cta) */
+  --color-home-features: #F8F5EE;        /* Features (Main) */
+  --color-home-slate: #F2EEE6;           /* How It Works / Timeline section (Alternate) */
+  --color-home-slate-raised: #F2EEE6;
+  --color-home-cta: #ECE8DE;             /* CTA (Second alternate, slightly darker) */
+  --color-home-footer: #0E1015;          /* Footer */
+
+  /* surfaces / cards / inputs */
+  --color-home-card: #FFFCF8;
+  --color-home-card-cool: #FFFCF8;
+  --color-home-surface: #F2EEE6;
+  --color-home-surface-raised: #ECE8DE;
+  --color-home-input: #F2EEE6;
+
+  /* borders */
+  --color-home-border: #DDD6C9;
+  --color-home-border-strong: #D9C2B6;
+  --color-home-border-cool: #DDD6C9;
+  --color-home-spine: #DDD6C9;
+
+  /* text */
+  --color-home-text: #171717;
+  --color-home-text-secondary: #52525B;
+  --color-home-text-tertiary: #7A7A7A;
+
+  /* accent — richer terracotta red. NEVER indigo (logo-only: #6366F1). */
+  --color-home-accent: #C4573D;
+  --color-home-accent-soft: #F7E5E0;
+  --color-home-accent-hover: #B24D35;
+  --color-home-accent-active: #9C422D;
+  --color-home-accent-bar-track: #ECE8DE;
+  --color-home-accent-bar: #C4573D;
+
+  /* status */
+  --color-home-success: #6C8B6F;
+  --color-home-success-soft: #6C8B6F14;
+  --color-home-stamp-green: #6C8B6F;
+  --color-home-warning: #b8791a;
+  --color-home-error: #C0392B;
+  --color-home-info: #8A6A52;
+  --color-home-info-soft: #8A6A5214;
+
+  /* shadows — soft, paper-lifted, never heavy */
+  --shadow-home-sm: 0 1px 2px rgba(0,0,0,0.05);
+  --shadow-home-md: 0 8px 20px rgba(0,0,0,0.05);
+  --shadow-home-lg: 0 8px 30px rgba(0,0,0,0.05);
+
+  --animate-home-rise: home-rise 0.32s ease-out both;
+}
+
+@keyframes home-rise {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 @keyframes pulse-slow {
