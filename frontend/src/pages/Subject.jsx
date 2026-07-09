@@ -299,9 +299,6 @@ function StatCard({ Icon, value, label, sub, onClick }) {
         >
           <Icon size={16} strokeWidth={2} style={{ color: ICON_ACCENT }} />
         </div>
-        <span className="font-mono text-[10px] tracking-widest text-[#9CA3AF] opacity-0 transition-opacity group-hover:opacity-100">
-          VIEW
-        </span>
       </div>
       <div>
         <p className="font-display text-3xl font-extrabold leading-none tracking-tight text-[#111827]">{value}</p>
