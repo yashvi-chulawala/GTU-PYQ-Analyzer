@@ -74,15 +74,6 @@ function getSubjectDisplayName(s) {
   return s.fullName || s.full_name || SUBJECT_FULL_NAMES[s.code?.toUpperCase()] || s.name;
 }
 
-/* ── hero product-preview data — illustrative example, static.
-   Modeled on a real PYQ topic-importance output: percentage weight
-   plus the exam years the topic actually appeared in. ── */
-const PREVIEW_TOPICS = [
-  { name: "CPU Scheduling", pct: 94, years: ["2022", "2023", "2025"] },
-  { name: "Deadlocks", pct: 86, years: ["2021", "2023", "2024"] },
-  { name: "Memory Management", pct: 79, years: ["2022", "2024", "2025"] },
-];
-
 /* ── main ── */
 export default function Home() {
   const [code, setCode] = useState("");
@@ -166,8 +157,8 @@ export default function Home() {
             display: "flex",
             flexDirection: "column",
             justifyContent: "center",
-            minHeight: isMobile ? "auto" : "620px",
-            padding: isMobile ? "64px 0 28px" : "clamp(64px, 8vw, 100px) 0",
+            minHeight: isMobile ? "auto" : "520px",
+            padding: isMobile ? "56px 0 28px" : "clamp(52px, 6.5vw, 84px) 0",
           }}>
 
             {/* eyebrow — stamp treatment, the signature element */}
@@ -195,7 +186,7 @@ export default function Home() {
               fontWeight: 800,
               lineHeight: 1.06,
               letterSpacing: "-0.03em",
-              margin: "0 0 22px",
+              margin: "0 0 28px",
               color: "var(--color-home-text)",
             }}>
               Know exactly what<br />
@@ -215,7 +206,7 @@ export default function Home() {
               fontSize: "14.5px",
               lineHeight: 1.75,
               color: "var(--color-home-text-secondary)",
-              marginBottom: "28px",
+              marginBottom: "36px",
               maxWidth: isMobile ? "100%" : "420px",
             }}>
               We tore through a decade of GTU papers and ranked every topic by
@@ -237,14 +228,14 @@ export default function Home() {
             </div>
           </div>
 
-          {/* ── RHS: search card stacked above product preview ── */}
+          {/* ── RHS: search card, vertically centered against the headline ── */}
           <div style={{
             flex: isMobile ? "none" : "0 0 clamp(300px, 38%, 400px)",
             display: "flex",
             flexDirection: "column",
-            gap: "16px",
             justifyContent: "center",
-            padding: isMobile ? "0 0 56px" : "clamp(64px, 8vw, 100px) 0",
+            minHeight: isMobile ? "auto" : "520px",
+            padding: isMobile ? "0 0 56px" : "clamp(52px, 6.5vw, 84px) 0",
           }}>
 
             {/* search / input card — unchanged functionality */}
@@ -370,81 +361,6 @@ export default function Home() {
                 >
                   Analyze Subject →
                 </button>
-              </div>
-            </div>
-
-            {/* product preview — the signature proof-of-value element */}
-            <div style={{
-              width: "100%",
-              borderRadius: "14px",
-              border: "1px solid var(--color-home-border-strong)",
-              background: "var(--color-home-card)",
-              boxShadow: "var(--shadow-home-md)",
-              overflow: "hidden",
-            }}>
-              <div style={{
-                padding: "12px 16px",
-                borderBottom: "1px solid var(--color-home-border)",
-                display: "flex", alignItems: "center", justifyContent: "space-between",
-                background: "var(--color-home-paper-raised)",
-              }}>
-                <div style={{
-                  fontFamily: "var(--font-mono)", fontSize: "9.5px",
-                  letterSpacing: "0.1em", textTransform: "uppercase",
-                  color: "var(--color-home-text-tertiary)",
-                }}>Topic Importance — <span style={{ color: "var(--color-home-text-secondary)", fontWeight: 700 }}>OS</span></div>
-                <div style={{
-                  fontFamily: "var(--font-mono)", fontSize: "9.5px", fontWeight: 700,
-                  color: "var(--color-home-accent)",
-                  border: "1px solid var(--color-home-accent)",
-                  borderRadius: "3px", padding: "2px 6px",
-                  transform: "rotate(-1.5deg)",
-                }}>UNIT 3</div>
-              </div>
-
-              <div style={{ padding: "12px 16px 14px" }}>
-                {PREVIEW_TOPICS.map((t, i) => (
-                  <div key={t.name} style={{
-                    padding: i === 0 ? "0 0 11px" : "11px 0",
-                    borderTop: i === 0 ? "none" : "1px solid var(--color-home-border)",
-                  }}>
-                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", marginBottom: "5px", gap: "10px" }}>
-                      <span style={{
-                        fontSize: "11.5px", fontWeight: 600, color: "var(--color-home-text)",
-                        lineHeight: 1.3,
-                      }}>{t.name}</span>
-                      <span style={{
-                        fontFamily: "var(--font-mono)", fontSize: "10.5px", fontWeight: 700,
-                        color: "var(--color-home-accent)", flexShrink: 0,
-                      }}>{t.pct}%</span>
-                    </div>
-                    <div style={{
-                      width: "100%", height: "5px", borderRadius: "3px",
-                      background: "var(--color-home-accent-bar-track)",
-                      overflow: "hidden",
-                    }}>
-                      <div style={{
-                        height: "100%", borderRadius: "3px",
-                        width: `${t.pct}%`,
-                        background: "var(--color-home-accent-bar)",
-                      }} />
-                    </div>
-                    <div style={{
-                      marginTop: "6px",
-                      display: "flex", alignItems: "center", gap: "5px",
-                      fontFamily: "var(--font-mono)", fontSize: "9.5px",
-                      color: "var(--color-home-text-tertiary)",
-                    }}>
-                      <span style={{ textTransform: "uppercase", letterSpacing: "0.06em" }}>Appeared</span>
-                      {t.years.map(y => (
-                        <span key={y} style={{
-                          color: "var(--color-home-text-secondary)",
-                          fontWeight: 600,
-                        }}>{y}✓</span>
-                      ))}
-                    </div>
-                  </div>
-                ))}
               </div>
             </div>
           </div>

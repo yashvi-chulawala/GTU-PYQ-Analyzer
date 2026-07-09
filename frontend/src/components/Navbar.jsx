@@ -92,7 +92,7 @@ function FeedbackModal({ onClose }) {
             transform: "translateX(-50%)",
             width: "320px", height: "200px",
             background:
-              "radial-gradient(closest-side, rgba(124,92,252,0.18), transparent 75%)",
+              "radial-gradient(closest-side, color-mix(in srgb, var(--color-home-accent) 18%, transparent), transparent 75%)",
             pointerEvents: "none",
           }}
         />
@@ -114,7 +114,7 @@ function FeedbackModal({ onClose }) {
           }}
           onMouseOver={e => {
             e.currentTarget.style.color = "var(--color-ink)";
-            e.currentTarget.style.borderColor = "var(--color-signal-violet)";
+            e.currentTarget.style.borderColor = "var(--color-home-accent)";
           }}
           onMouseOut={e => {
             e.currentTarget.style.color = "var(--color-ink-faint)";
@@ -131,11 +131,11 @@ function FeedbackModal({ onClose }) {
                 width: "52px", height: "52px", borderRadius: "14px",
                 margin: "0 auto 16px",
                 display: "flex", alignItems: "center", justifyContent: "center",
-                background: "rgba(124,92,252,0.12)",
-                border: "1px solid rgba(124,92,252,0.25)",
+                background: "color-mix(in srgb, var(--color-home-accent) 12%, transparent)",
+                border: "1px solid color-mix(in srgb, var(--color-home-accent) 25%, transparent)",
               }}
             >
-              <PartyPopper size={24} strokeWidth={2} color="var(--color-signal-violet-soft)" />
+              <PartyPopper size={24} strokeWidth={2} color="var(--color-home-accent)" />
             </div>
             <h3 style={{
               fontFamily: "var(--font-display)", fontSize: "1.15rem",
@@ -151,11 +151,11 @@ function FeedbackModal({ onClose }) {
               style={{
                 marginTop: "22px", padding: "10px 24px", borderRadius: "9px",
                 background:
-                  "linear-gradient(180deg, color-mix(in srgb, var(--color-signal-violet) 100%, white 8%), var(--color-signal-violet))",
+                  "linear-gradient(180deg, var(--color-home-accent-hover), var(--color-home-accent))",
                 color: "#fff",
                 fontFamily: "var(--font-display)", fontSize: "13px", fontWeight: 600,
                 border: "none", cursor: "pointer",
-                boxShadow: "0 8px 20px rgba(124,92,252,0.35)",
+                boxShadow: "0 8px 20px color-mix(in srgb, var(--color-home-accent) 35%, transparent)",
               }}
             >Close</button>
           </div>
@@ -167,7 +167,7 @@ function FeedbackModal({ onClose }) {
                 display: "inline-flex", alignItems: "center", gap: "6px",
                 fontFamily: "var(--font-mono)", fontSize: "10px",
                 letterSpacing: "0.14em", textTransform: "uppercase",
-                color: "var(--color-signal-teal)",
+                color: "var(--color-home-accent)",
               }}>
                 <MessageSquareText size={12} strokeWidth={2.25} />
                 Share your thoughts
@@ -203,12 +203,12 @@ function FeedbackModal({ onClose }) {
                         display: "flex", alignItems: "center", gap: "8px",
                         padding: "10px 12px", borderRadius: "9px", cursor: "pointer",
                         fontFamily: "var(--font-mono)", fontSize: "12px", fontWeight: 500,
-                        border: `1px solid ${active ? "var(--color-signal-violet)" : "var(--color-border)"}`,
+                        border: `1px solid ${active ? "var(--color-home-accent)" : "var(--color-border)"}`,
                         background: active
-                          ? "linear-gradient(180deg, rgba(124,92,252,0.16), rgba(124,92,252,0.06))"
+                          ? "linear-gradient(180deg, color-mix(in srgb, var(--color-home-accent) 16%, transparent), color-mix(in srgb, var(--color-home-accent) 6%, transparent))"
                           : "var(--color-void)",
-                        color: active ? "var(--color-signal-violet-soft)" : "var(--color-ink-faint)",
-                        boxShadow: active ? "0 0 0 1px rgba(124,92,252,0.15) inset" : "none",
+                        color: active ? "var(--color-home-accent)" : "var(--color-ink-faint)",
+                        boxShadow: active ? "0 0 0 1px color-mix(in srgb, var(--color-home-accent) 15%, transparent) inset" : "none",
                         transition: "all 0.15s",
                         textAlign: "left",
                       }}
@@ -231,8 +231,8 @@ function FeedbackModal({ onClose }) {
                 onChange={e => setName(e.target.value)}
                 style={inputStyle}
                 onFocus={e => {
-                  e.target.style.borderColor = "var(--color-signal-violet)";
-                  e.target.style.boxShadow = "0 0 0 3px rgba(124,92,252,0.14)";
+                  e.target.style.borderColor = "var(--color-home-accent)";
+                  e.target.style.boxShadow = "0 0 0 3px color-mix(in srgb, var(--color-home-accent) 14%, transparent)";
                 }}
                 onBlur={e => {
                   e.target.style.borderColor = "var(--color-border)";
@@ -243,7 +243,7 @@ function FeedbackModal({ onClose }) {
 
             {/* message */}
             <div style={{ marginBottom: "22px" }}>
-              <label style={labelStyle}>Message <span style={{ color: "var(--color-signal-violet-soft)" }}>*</span></label>
+              <label style={labelStyle}>Message <span style={{ color: "var(--color-home-accent)" }}>*</span></label>
               <textarea
                 placeholder={
                   type === "bug" ? "Describe what happened and how to reproduce it…" :
@@ -259,8 +259,8 @@ function FeedbackModal({ onClose }) {
                   fontFamily: "inherit", lineHeight: 1.6,
                 }}
                 onFocus={e => {
-                  e.target.style.borderColor = "var(--color-signal-violet)";
-                  e.target.style.boxShadow = "0 0 0 3px rgba(124,92,252,0.14)";
+                  e.target.style.borderColor = "var(--color-home-accent)";
+                  e.target.style.boxShadow = "0 0 0 3px color-mix(in srgb, var(--color-home-accent) 14%, transparent)";
                 }}
                 onBlur={e => {
                   e.target.style.borderColor = "var(--color-border)";
@@ -275,14 +275,14 @@ function FeedbackModal({ onClose }) {
               style={{
                 width: "100%", padding: "12px 16px", borderRadius: "10px",
                 background: message.trim()
-                  ? "linear-gradient(180deg, color-mix(in srgb, var(--color-signal-violet) 100%, white 10%), var(--color-signal-violet))"
+                  ? "linear-gradient(180deg, var(--color-home-accent-hover), var(--color-home-accent))"
                   : "var(--color-panel-raised)",
                 color: message.trim() ? "#fff" : "var(--color-ink-faint)",
                 fontFamily: "var(--font-display)", fontSize: "14px", fontWeight: 600,
                 border: "none", cursor: message.trim() ? "pointer" : "not-allowed",
                 transition: "all 0.15s",
                 opacity: sending ? 0.7 : 1,
-                boxShadow: message.trim() ? "0 10px 24px rgba(124,92,252,0.3)" : "none",
+                boxShadow: message.trim() ? "0 10px 24px color-mix(in srgb, var(--color-home-accent) 30%, transparent)" : "none",
                 letterSpacing: "-0.005em",
               }}
             >
@@ -330,21 +330,31 @@ export default function Navbar() {
       <header className="sticky top-0 z-50 border-b border-border/80 bg-void/70 backdrop-blur-xl">
         <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-5 sm:px-8">
           <Link to="/" className="group flex items-center gap-2.5">
-            <span className="relative flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-signal-violet to-signal-teal">
-              <span className="absolute inset-0 rounded-lg bg-gradient-to-br from-signal-violet to-signal-teal opacity-60 blur-md transition-opacity group-hover:opacity-90" />
+            <span
+              className="flex h-8 w-8 items-center justify-center rounded-lg transition-transform duration-200 ease-out group-hover:-translate-y-0.5"
+              style={{
+                background: "var(--color-home-card, #FFFCF8)",
+                border: "1px solid var(--color-home-border, #DDD6C9)",
+              }}
+            >
               <svg
-                className="relative h-4 w-4 text-void"
+                className="h-[18px] w-[18px]"
                 viewBox="0 0 24 24"
                 fill="none"
-                stroke="currentColor"
-                strokeWidth="2.5"
-                strokeLinecap="round"
+                xmlns="http://www.w3.org/2000/svg"
               >
-                <path d="M2 12h4l2 7 4-14 2 7h4l2-4" strokeLinejoin="round" />
+                {/* Stacked exam papers — minimal, geometric */}
+                <rect x="6" y="4" width="13" height="16" rx="1.5" fill="var(--color-home-text, #171717)" opacity="0.12" />
+                <rect x="5" y="3.5" width="13" height="16" rx="1.5" stroke="var(--color-home-text, #171717)" strokeWidth="1.5" fill="none" />
+                <path d="M8.5 8h7" stroke="var(--color-home-text, #171717)" strokeWidth="1.5" strokeLinecap="round" />
+                <path d="M8.5 11.25h7" stroke="var(--color-home-text, #171717)" strokeWidth="1.5" strokeLinecap="round" />
+                <path d="M8.5 14.5h4" stroke="var(--color-home-accent, #C4573D)" strokeWidth="1.5" strokeLinecap="round" />
+                <circle cx="16.5" cy="16.5" r="1" fill="var(--color-home-accent, #C4573D)" />
               </svg>
             </span>
-            <span className="font-display text-[15px] font-semibold tracking-tight text-ink">
-              GTU PYQ <span className="text-signal-violet-soft">Analyzer</span>
+            <span className="font-display text-[15px] tracking-tight">
+              <span className="font-semibold text-ink">GTU PYQ</span>{" "}
+              <span className="font-normal text-ink-muted">Analyzer</span>
             </span>
           </Link>
 
