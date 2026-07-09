@@ -34,13 +34,6 @@ export default function App() {
     initialize();
   }, []);
 
-  if (!ready) {
-    return (
-      <div className="flex h-screen items-center justify-center">
-        <h2>Connecting to server...</h2>
-      </div>
-    );
-  }
   return (
     <div className="min-h-screen flex flex-col bg-void">
       <Navbar />

@@ -1,19 +1,20 @@
 const API_URL = import.meta.env.VITE_API_URL;
 
 export async function wakeBackend() {
-  while (true) {
+  for (let i = 0; i < 15; i++) {
     try {
-      const response = await fetch(`${API_URL}/health`);
+      const res = await fetch(`${API_URL}/health`);
 
-      if (response.ok) {
-        console.log("✅ Backend is awake!");
-        return;
+      if (res.ok) {
+        console.log("Backend awake");
+        return true;
       }
-    } catch (error) {
-      console.log("⏳ Waiting for backend...");
+    } catch (e) {
+      console.log("Retrying...");
     }
 
-    // Wait 2 seconds before trying again
     await new Promise(resolve => setTimeout(resolve, 2000));
   }
+
+  return false;
 }
