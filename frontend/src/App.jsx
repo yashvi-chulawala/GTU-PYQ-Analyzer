@@ -6,7 +6,23 @@ import NotFound from "./pages/NotFound";
 import { useEffect, useState } from "react";
 import { wakeBackend } from "./utils/wakeBackend";
 
-function App() {
+function Footer() {
+  return (
+    <footer className="border-t border-border-soft">
+      <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-3 px-5 py-8 text-center sm:flex-row sm:px-8 sm:text-left">
+        <p className="font-mono text-xs text-ink-faint">
+          GTU PYQ Analyzer — built for students, by students.
+        </p>
+        <p className="text-xs text-ink-faint">
+          Not affiliated with Gujarat Technological University.
+        </p>
+      </div>
+    </footer>
+  );
+}
+
+export default function App() {
+
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
@@ -25,32 +41,6 @@ function App() {
       </div>
     );
   }
-
-  return (
-    <>
-      {/* Your actual app */}
-    </>
-  );
-}
-
-export default App;
-
-function Footer() {
-  return (
-    <footer className="border-t border-border-soft">
-      <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-3 px-5 py-8 text-center sm:flex-row sm:px-8 sm:text-left">
-        <p className="font-mono text-xs text-ink-faint">
-          GTU PYQ Analyzer — built for students, by students.
-        </p>
-        <p className="text-xs text-ink-faint">
-          Not affiliated with Gujarat Technological University.
-        </p>
-      </div>
-    </footer>
-  );
-}
-
-export default function App() {
   return (
     <div className="min-h-screen flex flex-col bg-void">
       <Navbar />
