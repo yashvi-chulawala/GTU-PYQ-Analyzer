@@ -3,6 +3,37 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Subject from "./pages/Subject";
 import NotFound from "./pages/NotFound";
+import { useEffect, useState } from "react";
+import { wakeBackend } from "./utils/wakeBackend";
+
+function App() {
+  const [ready, setReady] = useState(false);
+
+  useEffect(() => {
+    async function initialize() {
+      await wakeBackend();
+      setReady(true);
+    }
+
+    initialize();
+  }, []);
+
+  if (!ready) {
+    return (
+      <div className="flex h-screen items-center justify-center">
+        <h2>Connecting to server...</h2>
+      </div>
+    );
+  }
+
+  return (
+    <>
+      {/* Your actual app */}
+    </>
+  );
+}
+
+export default App;
 
 function Footer() {
   return (

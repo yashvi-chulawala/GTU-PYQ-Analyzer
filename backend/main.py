@@ -12,6 +12,10 @@ META_FILE = BASE_DIR / "subjects_meta.json"
 
 app = FastAPI(title="GTU PYQ API", version="1.0.0")
 
+@app.get("/health")
+def health():
+    return {"status": "ok"}
+
 # Comma-separated list of extra allowed origins, set via env var on your host
 # e.g. FRONTEND_ORIGIN=https://gtu-ranker.vercel.app,https://gtu-ranker-git-main.vercel.app
 _extra_origins = [o.strip() for o in os.getenv("FRONTEND_ORIGIN", "").split(",") if o.strip()]
