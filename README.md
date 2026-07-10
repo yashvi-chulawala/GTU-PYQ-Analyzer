@@ -13,6 +13,8 @@ A full-stack web app that analyzes Gujarat Technological University (GTU) previo
 <br />
 
 ![GTU PYQ Analyzer — homepage](docs/screenshots/home.png)
+<img width="1857" height="983" alt="image" src="https://github.com/user-attachments/assets/2f649be3-b534-4a28-8c17-4c4cd5d5a785" />
+
 
 <br />
 
