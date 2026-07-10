@@ -157,7 +157,7 @@ export default function Home() {
             display: "flex",
             flexDirection: "column",
             justifyContent: "center",
-            minHeight: isMobile ? "auto" : "520px",
+            minHeight: isMobile ? "auto" : "calc(100vh - 72px)",
             padding: isMobile ? "56px 0 28px" : "clamp(52px, 6.5vw, 84px) 0",
           }}>
 
@@ -234,7 +234,7 @@ export default function Home() {
             display: "flex",
             flexDirection: "column",
             justifyContent: "center",
-            minHeight: isMobile ? "auto" : "520px",
+            minHeight: isMobile ? "auto" : "calc(100vh - 72px)",
             padding: isMobile ? "0 0 56px" : "clamp(52px, 6.5vw, 84px) 0",
           }}>
 

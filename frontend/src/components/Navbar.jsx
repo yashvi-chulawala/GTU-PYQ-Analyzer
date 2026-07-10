@@ -333,28 +333,25 @@ export default function Navbar() {
             <span
               className="flex h-8 w-8 items-center justify-center rounded-lg transition-transform duration-200 ease-out group-hover:-translate-y-0.5"
               style={{
-                background: "var(--color-home-card, #FFFCF8)",
+                background: "#111111",
                 border: "1px solid var(--color-home-border, #DDD6C9)",
               }}
             >
               <svg
                 className="h-[18px] w-[18px]"
-                viewBox="0 0 24 24"
+                viewBox="0 0 120 120"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
-                {/* Stacked exam papers — minimal, geometric */}
-                <rect x="6" y="4" width="13" height="16" rx="1.5" fill="var(--color-home-text, #171717)" opacity="0.12" />
-                <rect x="5" y="3.5" width="13" height="16" rx="1.5" stroke="var(--color-home-text, #171717)" strokeWidth="1.5" fill="none" />
-                <path d="M8.5 8h7" stroke="var(--color-home-text, #171717)" strokeWidth="1.5" strokeLinecap="round" />
-                <path d="M8.5 11.25h7" stroke="var(--color-home-text, #171717)" strokeWidth="1.5" strokeLinecap="round" />
-                <path d="M8.5 14.5h4" stroke="var(--color-home-accent, #C4573D)" strokeWidth="1.5" strokeLinecap="round" />
-                <circle cx="16.5" cy="16.5" r="1" fill="var(--color-home-accent, #C4573D)" />
+                {/* Ascending bars mark */}
+                <rect x="18" y="70" width="20" height="38" rx="4" fill="#F7F4EE" />
+                <rect x="50" y="46" width="20" height="62" rx="4" fill="#F7F4EE" />
+                <rect x="82" y="14" width="20" height="94" rx="4" fill="var(--color-home-accent, #C85A3D)" />
               </svg>
             </span>
             <span className="font-display text-[15px] tracking-tight">
               <span className="font-semibold text-ink">GTU PYQ</span>{" "}
-              <span className="font-normal text-ink-muted">Analyzer</span>
+              <span className="font-normal" style={{ color: "var(--color-ink)", opacity: 0.72 }}>Analyzer</span>
             </span>
           </Link>
 
@@ -362,7 +359,7 @@ export default function Navbar() {
             <Link
               to="/"
               className={`rounded-md px-3.5 py-2 text-sm font-medium transition-colors ${
-                isHome ? "text-ink" : "text-ink-muted hover:text-ink"
+                isHome ? "text-ink" : "text-ink-muted hover:text-[#C85A3D]"
               }`}
             >
               Subjects
@@ -371,7 +368,7 @@ export default function Navbar() {
             {/* Feedback button */}
             <button
               onClick={() => setFeedbackOpen(true)}
-              className="flex items-center gap-1.5 rounded-md border border-border px-3.5 py-2 text-sm font-medium text-ink-muted transition-colors hover:border-signal-violet/40 hover:text-ink"
+              className="flex items-center gap-1.5 rounded-md border border-border px-3.5 py-2 text-sm font-medium text-ink-muted transition-colors hover:border-[#C85A3D]/40 hover:text-[#C85A3D]"
             >
               <MessageSquareText size={13} strokeWidth={2} />
               Feedback
@@ -381,7 +378,7 @@ export default function Navbar() {
               href="https://gtu-ranker-backend.onrender.com/docs"
               target="_blank"
               rel="noreferrer"
-              className="hidden items-center gap-1.5 rounded-md border border-border px-3.5 py-2 text-sm font-medium text-ink-muted transition-colors hover:border-signal-violet/40 hover:text-ink sm:flex"
+              className="hidden items-center gap-1.5 rounded-md border border-border px-3.5 py-2 text-sm font-medium text-ink-muted transition-colors hover:border-[#C85A3D]/40 hover:text-[#C85A3D] sm:flex"
             >
               <FileText size={13} strokeWidth={2} />
               API Docs
