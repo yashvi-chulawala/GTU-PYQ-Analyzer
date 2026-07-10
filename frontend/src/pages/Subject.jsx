@@ -558,9 +558,9 @@ export default function Subject() {
                 onClick={() => {
   if (action.id === "syllabus") {
     window.open(
-      `http://127.0.0.1:8000/subject/${subjectCode}/syllabus`,
-      "_blank"
-    );
+  `${import.meta.env.VITE_API_URL}/subject/${subjectCode}/syllabus`,
+  "_blank"
+);
     return;
   }
 
