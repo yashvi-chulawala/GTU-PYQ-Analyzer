@@ -191,21 +191,6 @@ VITE_API_BASE_URL=http://localhost:8000
 
 New subjects can be added by dropping paper PDFs into `backend/subjects/<code>/papers/` and running the extraction pipeline — no frontend changes needed, since `/subjects` returns the full subject list dynamically.
 
-<br />
-
-## Regenerating Topic Data
-
-The `backend/` scripts form the offline analysis pipeline. Run these after adding new paper PDFs to refresh a subject's data:
-
-1. **`que_extracter.py`** — pulls raw questions out of each paper PDF
-2. **`group_topics.py` / `topics.py` / `topic_wise.py` / `unit_wise_topic.py`** — cluster and rank questions into topics, unit by unit
-3. **`rebuild.py`** — regenerates everything for a subject in one go
-4. **`show_report.py`** — inspects the resulting topic rankings from the CLI
-
-This refreshes `all_questions.json`, `all_topics.json`, `topic_cards.json`, and `website_data.json` for the subject.
-
-<br />
-
 ## Contributing
 
 Contributions are welcome — whether that's adding a new subject's papers, improving the extraction/clustering pipeline, or polishing the frontend. Feel free to open an issue or submit a pull request.
