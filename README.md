@@ -12,8 +12,8 @@ A full-stack web app that analyzes Gujarat Technological University (GTU) previo
 
 <br />
 
-![GTU PYQ Analyzer — homepage](docs/screenshots/home.png)
-<img width="1857" height="983" alt="image" src="https://github.com/user-attachments/assets/2f649be3-b534-4a28-8c17-4c4cd5d5a785" />
+<img width="1847" height="972" alt="image" src="https://github.com/user-attachments/assets/e43d105e-a7a5-4157-844d-d10913b7986e" />
+
 
 
 <br />
@@ -40,13 +40,15 @@ Question extraction and topic clustering happen **offline**, via a Python pipeli
 <td width="50%">
 
 **Home — search by subject**
-![Home page](docs/screenshots/home.png)
+<img width="1857" height="983" alt="image" src="https://github.com/user-attachments/assets/d36517c0-d158-42fb-9830-a94c47b9a917" />
+
 
 </td>
 <td width="50%">
 
 **Subject page — ranked topics**
-![Subject topic rankings](docs/screenshots/subject-topics.png)
+<img width="1847" height="982" alt="image" src="https://github.com/user-attachments/assets/0ccc4dca-8f7c-4568-a10a-3d07e403495f" />
+
 
 </td>
 </tr>
@@ -54,13 +56,15 @@ Question extraction and topic clustering happen **offline**, via a Python pipeli
 <td width="50%">
 
 **Unit-wise question breakdown**
-![Unit-wise breakdown](docs/screenshots/unit-wise.png)
+<img width="1853" height="987" alt="image" src="https://github.com/user-attachments/assets/c57d089f-09ed-4437-af3b-6627a4c02498" />
+
 
 </td>
 <td width="50%">
 
 **Past papers & syllabus**
-![Past papers list](docs/screenshots/papers.png)
+<img width="1847" height="983" alt="image" src="https://github.com/user-attachments/assets/10bc69ca-140e-4058-8cfd-93e11402707c" />
+
 
 </td>
 </tr>
